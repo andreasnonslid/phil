@@ -920,22 +920,19 @@ $("#randBtn").addEventListener("click", () => {
   if (!candidates.length) return;
 
   const noRepeats = $("#randNoRepeats").checked;
+  const seen = randLoad();
   let pool = candidates;
 
   if (noRepeats) {
-    const seen = randLoad();
     pool = candidates.filter(r => !seen.has(r.name));
     if (!pool.length) { $("#randExhausted").hidden = false; return; }
   }
 
   const pick = pool[Math.floor(Math.random() * pool.length)];
 
-  if (noRepeats) {
-    const seen = randLoad();
-    seen.add(pick.name);
-    randSave(seen);
-    randUpdateUI();
-  }
+  seen.add(pick.name);
+  randSave(seen);
+  randUpdateUI();
 
   state.q = pick.name.toLowerCase();
   $("#q").value = pick.name;
