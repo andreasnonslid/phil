@@ -1,0 +1,4629 @@
+[
+  {
+    "name": "Abelard, Peter",
+    "dates": "1079–1142",
+    "desc": "Scholastic logician; nominalism, ethics of intention.",
+    "fields": [
+      "Logic",
+      "Ethics",
+      "Metaphysics"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/Peter_Abelard",
+    "y": 1079,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/abelard/"
+  },
+  {
+    "name": "Adorno, Theodor",
+    "dates": "1903–1969",
+    "desc": "Frankfurt School; negative dialectics, culture-industry critique.",
+    "fields": [
+      "Social/Critical theory",
+      "Aesthetics"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Theodor_W._Adorno",
+    "y": 1903,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/adorno/"
+  },
+  {
+    "name": "Al-Farabi",
+    "dates": "c. 872–950",
+    "desc": "“Second Teacher”; political philosophy, Aristotelian logic in Islam.",
+    "fields": [
+      "Political philosophy",
+      "Logic",
+      "Metaphysics"
+    ],
+    "trad": "Islamic (Falsafa)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Al-Farabi",
+    "y": 872,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/al-farabi/"
+  },
+  {
+    "name": "Al-Ghazali",
+    "dates": "1058–1111",
+    "desc": "Critiqued the philosophers; revived Sufism within orthodoxy.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Islamic (Kalam)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Al-Ghazali",
+    "y": 1058,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/al-ghazali/"
+  },
+  {
+    "name": "Al-Kindi",
+    "dates": "c. 801–873",
+    "desc": "First Arab Peripatetic; introduced Greek philosophy to Islam.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of science"
+    ],
+    "trad": "Islamic (Falsafa)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Al-Kindi",
+    "y": 801,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/al-kindi/"
+  },
+  {
+    "name": "Albert the Great",
+    "dates": "c. 1200–1280",
+    "desc": "Scholastic; integrated Aristotle, teacher of Aquinas.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of science"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/Albertus_Magnus",
+    "y": 1200,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/albert-great/"
+  },
+  {
+    "name": "Althusser, Louis",
+    "dates": "1918–1990",
+    "desc": "Structural Marxism; ideological state apparatuses.",
+    "fields": [
+      "Social/Critical theory",
+      "Political philosophy"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Louis_Althusser",
+    "y": 1918,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/althusser/"
+  },
+  {
+    "name": "Ambedkar, B. R.",
+    "dates": "1891–1956",
+    "desc": "Social philosopher of caste and equality; Navayana Buddhism.",
+    "fields": [
+      "Political philosophy",
+      "Social/Critical theory"
+    ],
+    "trad": "Classical Indian (modern)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/B._R._Ambedkar",
+    "y": 1891,
+    "era": "19th century"
+  },
+  {
+    "name": "Amo, Anton Wilhelm",
+    "dates": "c. 1703–1759",
+    "desc": "Argued the body, not the mind, bears sensation.",
+    "fields": [
+      "Philosophy of mind",
+      "Metaphysics"
+    ],
+    "trad": "African/Africana",
+    "tgroup": "African/Africana",
+    "url": "https://en.wikipedia.org/wiki/Anton_Wilhelm_Amo",
+    "y": 1703,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Anaxagoras",
+    "dates": "c. 500–428 BC",
+    "desc": "Cosmic nous (mind) orders all matter.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of science"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Anaxagoras",
+    "y": -500,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/anaxagoras/"
+  },
+  {
+    "name": "Anaximander",
+    "dates": "c. 610–546 BC",
+    "desc": "Apeiron (boundless) as first principle.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of science"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Anaximander",
+    "y": -610,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Anaximenes",
+    "dates": "c. 586–526 BC",
+    "desc": "Air as the fundamental substance.",
+    "fields": [
+      "Metaphysics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Anaximenes_of_Miletus",
+    "y": -586,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Anscombe, G. E. M.",
+    "dates": "1919–2001",
+    "desc": "Intention, action theory; revived virtue ethics.",
+    "fields": [
+      "Ethics",
+      "Philosophy of mind",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/G._E._M._Anscombe",
+    "y": 1919,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/anscombe/"
+  },
+  {
+    "name": "Anselm of Canterbury",
+    "dates": "1033–1109",
+    "desc": "Ontological argument for God's existence.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury",
+    "y": 1033,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/anselm/"
+  },
+  {
+    "name": "Appiah, Kwame Anthony",
+    "dates": "1954–",
+    "desc": "Cosmopolitanism, race, identity, ethics of culture.",
+    "fields": [
+      "Ethics",
+      "Political philosophy",
+      "Philosophy of language"
+    ],
+    "trad": "African/Africana",
+    "tgroup": "African/Africana",
+    "url": "https://en.wikipedia.org/wiki/Kwame_Anthony_Appiah",
+    "y": 1954,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Aquinas, Thomas",
+    "dates": "1225–1274",
+    "desc": "Synthesis of Aristotle and Christianity; natural law.",
+    "fields": [
+      "Metaphysics",
+      "Ethics",
+      "Philosophy of religion"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+    "y": 1225,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/aquinas/"
+  },
+  {
+    "name": "Arendt, Hannah",
+    "dates": "1906–1975",
+    "desc": "Political theory; totalitarianism, action, banality of evil.",
+    "fields": [
+      "Political philosophy",
+      "Phenomenology/Existentialism"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Hannah_Arendt",
+    "y": 1906,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/arendt/"
+  },
+  {
+    "name": "Aristotle",
+    "dates": "384–322 BC",
+    "desc": "Logic, metaphysics, ethics, biology; vast systematic influence.",
+    "fields": [
+      "Logic",
+      "Metaphysics",
+      "Ethics",
+      "Philosophy of science"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Aristotle",
+    "y": -384,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/aristotle/"
+  },
+  {
+    "name": "Armstrong, David",
+    "dates": "1926–2014",
+    "desc": "Materialist theory of mind; universals, states of affairs.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/David_Malet_Armstrong",
+    "y": 1926,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Aryadeva",
+    "dates": "c. 3rd century",
+    "desc": "Disciple of Nagarjuna; Madhyamaka, Catuhsataka.",
+    "fields": [
+      "Metaphysics",
+      "Logic"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Aryadeva",
+    "y": 250,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Asanga",
+    "dates": "c. 4th century",
+    "desc": "Co-founder of Yogacara Buddhism.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of mind"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Asanga",
+    "y": 350,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Astell, Mary",
+    "dates": "1666–1731",
+    "desc": "“First English feminist”; women's education, reason.",
+    "fields": [
+      "Political philosophy",
+      "Epistemology"
+    ],
+    "trad": "Feminist",
+    "tgroup": "Feminist",
+    "url": "https://en.wikipedia.org/wiki/Mary_Astell",
+    "y": 1666,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/astell/"
+  },
+  {
+    "name": "Atisha",
+    "dates": "c. 982–1054",
+    "desc": "Indian master who revived Buddhism in Tibet.",
+    "fields": [
+      "Philosophy of religion",
+      "Ethics"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Atisa",
+    "y": 982,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Augustine of Hippo",
+    "dates": "354–430",
+    "desc": "Christian Platonism; will, time, original sin.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics",
+      "Philosophy of mind"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+    "y": 354,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/augustine/"
+  },
+  {
+    "name": "Aurelius, Marcus",
+    "dates": "121–180",
+    "desc": "Stoic emperor; Meditations on virtue and duty.",
+    "fields": [
+      "Ethics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "y": 121,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/marcus-aurelius/"
+  },
+  {
+    "name": "Aurobindo, Sri",
+    "dates": "1872–1950",
+    "desc": "Integral Yoga; spiritual evolution of consciousness.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (modern)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Sri_Aurobindo",
+    "y": 1872,
+    "era": "19th century"
+  },
+  {
+    "name": "Averroes (Ibn Rushd)",
+    "dates": "1126–1198",
+    "desc": "Great commentator on Aristotle; reason and faith.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion",
+      "Logic"
+    ],
+    "trad": "Islamic (Falsafa)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Averroes",
+    "y": 1126,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/ibn-rushd/"
+  },
+  {
+    "name": "Avicenna (Ibn Sina)",
+    "dates": "c. 980–1037",
+    "desc": "Essence/existence distinction; influential metaphysics.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of mind",
+      "Logic"
+    ],
+    "trad": "Islamic (Falsafa)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Avicenna",
+    "y": 980,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/ibn-sina/"
+  },
+  {
+    "name": "Ayer, A. J.",
+    "dates": "1910–1989",
+    "desc": "Logical positivism; verification principle.",
+    "fields": [
+      "Epistemology",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/A._J._Ayer",
+    "y": 1910,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/ayer/"
+  },
+  {
+    "name": "Bacon, Francis",
+    "dates": "1561–1626",
+    "desc": "Inductive scientific method, empiricism.",
+    "fields": [
+      "Philosophy of science",
+      "Epistemology"
+    ],
+    "trad": "Modern European (Empiricism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Francis_Bacon",
+    "y": 1561,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/francis-bacon/"
+  },
+  {
+    "name": "Badiou, Alain",
+    "dates": "1937–",
+    "desc": "Set-theoretic ontology; event, truth, subject.",
+    "fields": [
+      "Metaphysics",
+      "Political philosophy"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Alain_Badiou",
+    "y": 1937,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Beauvoir, Simone de",
+    "dates": "1908–1986",
+    "desc": "Existentialist feminism; The Second Sex.",
+    "fields": [
+      "Phenomenology/Existentialism",
+      "Ethics",
+      "Feminist"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir",
+    "y": 1908,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/beauvoir/"
+  },
+  {
+    "name": "Benjamin, Walter",
+    "dates": "1892–1940",
+    "desc": "Critical theory; art, history, aura.",
+    "fields": [
+      "Aesthetics",
+      "Social/Critical theory"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Walter_Benjamin",
+    "y": 1892,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/benjamin/"
+  },
+  {
+    "name": "Bentham, Jeremy",
+    "dates": "1748–1832",
+    "desc": "Founder of utilitarianism.",
+    "fields": [
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Jeremy_Bentham",
+    "y": 1748,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/bentham/"
+  },
+  {
+    "name": "Bergson, Henri",
+    "dates": "1859–1941",
+    "desc": "Duration, élan vital, intuition.",
+    "fields": [
+      "Metaphysics",
+      "Phenomenology/Existentialism"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Henri_Bergson",
+    "y": 1859,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/bergson/"
+  },
+  {
+    "name": "Berkeley, George",
+    "dates": "1685–1753",
+    "desc": "Subjective idealism; “to be is to be perceived.”",
+    "fields": [
+      "Metaphysics",
+      "Epistemology"
+    ],
+    "trad": "Modern European (Empiricism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/George_Berkeley",
+    "y": 1685,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/berkeley/"
+  },
+  {
+    "name": "Bhartrhari",
+    "dates": "c. 450–510",
+    "desc": "Philosophy of language; sphota, sabda-advaita.",
+    "fields": [
+      "Philosophy of language",
+      "Metaphysics"
+    ],
+    "trad": "Classical Indian",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Bhart%E1%B9%9Bhari",
+    "y": 450,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Bhaviveka",
+    "dates": "c. 500–578",
+    "desc": "Madhyamaka; founder of Svatantrika.",
+    "fields": [
+      "Metaphysics",
+      "Logic"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Bh%C4%81viveka",
+    "y": 500,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Block, Ned",
+    "dates": "1942–",
+    "desc": "Philosophy of mind; access vs. phenomenal consciousness.",
+    "fields": [
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Ned_Block",
+    "y": 1942,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Boethius",
+    "dates": "c. 477–524",
+    "desc": "Consolation of Philosophy; transmitted logic to medievals.",
+    "fields": [
+      "Logic",
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Boethius",
+    "y": 477,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/boethius/"
+  },
+  {
+    "name": "Bonaventure",
+    "dates": "1221–1274",
+    "desc": "Franciscan; Augustinian-Platonist scholasticism.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/Bonaventure",
+    "y": 1221,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/bonaventure/"
+  },
+  {
+    "name": "Brandom, Robert",
+    "dates": "1950–",
+    "desc": "Inferentialism; analytic pragmatism, semantics.",
+    "fields": [
+      "Philosophy of language",
+      "Pragmatist"
+    ],
+    "trad": "Pragmatist",
+    "tgroup": "Pragmatist",
+    "url": "https://en.wikipedia.org/wiki/Robert_Brandom",
+    "y": 1950,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Brentano, Franz",
+    "dates": "1838–1917",
+    "desc": "Intentionality; revived for philosophy of mind.",
+    "fields": [
+      "Philosophy of mind",
+      "Metaphysics"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Franz_Brentano",
+    "y": 1838,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/brentano/"
+  },
+  {
+    "name": "Buddha (Siddhartha Gautama)",
+    "dates": "c. 563–483 BC",
+    "desc": "Founder of Buddhism; Four Noble Truths, anatta.",
+    "fields": [
+      "Ethics",
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+    "y": -563,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Buddhaghosa",
+    "dates": "fl. 5th century",
+    "desc": "Theravada commentator; Visuddhimagga.",
+    "fields": [
+      "Philosophy of religion",
+      "Ethics"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Buddhaghosa",
+    "y": 450,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Burge, Tyler",
+    "dates": "1946–",
+    "desc": "Anti-individualism; content externalism, perception.",
+    "fields": [
+      "Philosophy of mind",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Tyler_Burge",
+    "y": 1946,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Butler, Joseph",
+    "dates": "1692–1752",
+    "desc": "Conscience, moral psychology; critique of egoism.",
+    "fields": [
+      "Ethics",
+      "Philosophy of religion"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Joseph_Butler",
+    "y": 1692,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Butler, Judith",
+    "dates": "1956–",
+    "desc": "Gender performativity; queer theory.",
+    "fields": [
+      "Social/Critical theory",
+      "Feminist"
+    ],
+    "trad": "Feminist",
+    "tgroup": "Feminist",
+    "url": "https://en.wikipedia.org/wiki/Judith_Butler",
+    "y": 1956,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Camus, Albert",
+    "dates": "1913–1960",
+    "desc": "The absurd; revolt, ethics of life.",
+    "fields": [
+      "Phenomenology/Existentialism",
+      "Ethics"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Albert_Camus",
+    "y": 1913,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/camus/"
+  },
+  {
+    "name": "Carnap, Rudolf",
+    "dates": "1891–1970",
+    "desc": "Logical positivism; logical syntax, semantics.",
+    "fields": [
+      "Logic",
+      "Philosophy of science",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Rudolf_Carnap",
+    "y": 1891,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/carnap/"
+  },
+  {
+    "name": "Carneades",
+    "dates": "c. 214–129 BC",
+    "desc": "Academic Skeptic; probabilism, critique of dogmatism.",
+    "fields": [
+      "Epistemology"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Carneades",
+    "y": -214,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/carneades/"
+  },
+  {
+    "name": "Cavell, Stanley",
+    "dates": "1926–2018",
+    "desc": "Ordinary language, skepticism, film, Emerson.",
+    "fields": [
+      "Aesthetics",
+      "Epistemology"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Stanley_Cavell",
+    "y": 1926,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Cavendish, Margaret",
+    "dates": "1623–1673",
+    "desc": "Materialist natural philosophy; vitalism.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of science"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Margaret_Cavendish",
+    "y": 1623,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Chaitanya Mahaprabhu",
+    "dates": "1486–1534",
+    "desc": "Gaudiya Vaishnavism; Achintya Bheda Abheda.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Classical Indian (Vedanta)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu",
+    "y": 1486,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Chalmers, David",
+    "dates": "1966–",
+    "desc": "Framed the “hard problem” of consciousness; property dualism.",
+    "fields": [
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/David_Chalmers",
+    "y": 1966,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Chandrakirti",
+    "dates": "c. 600–650",
+    "desc": "Madhyamaka; foremost Prasangika exponent.",
+    "fields": [
+      "Metaphysics",
+      "Logic"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Chandrakirti",
+    "y": 600,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Cheng Hao",
+    "dates": "1032–1085",
+    "desc": "Neo-Confucian; School of Mind precursor.",
+    "fields": [
+      "Metaphysics",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Neo-Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Cheng_Hao",
+    "y": 1032,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Cheng Yi",
+    "dates": "1033–1107",
+    "desc": "Neo-Confucian; li (principle), School of Principle.",
+    "fields": [
+      "Metaphysics",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Neo-Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Cheng_Yi_(philosopher)",
+    "y": 1033,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Chomsky, Noam",
+    "dates": "1928–",
+    "desc": "Generative linguistics; innate language faculty.",
+    "fields": [
+      "Philosophy of language",
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Noam_Chomsky",
+    "y": 1928,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Chrysippus",
+    "dates": "c. 279–206 BC",
+    "desc": "Second founder of Stoicism; propositional logic.",
+    "fields": [
+      "Logic",
+      "Ethics",
+      "Metaphysics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Chrysippus",
+    "y": -279,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Churchland, Patricia",
+    "dates": "1943–",
+    "desc": "Neurophilosophy; eliminative materialism.",
+    "fields": [
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Patricia_Churchland",
+    "y": 1943,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Churchland, Paul",
+    "dates": "1942–",
+    "desc": "Eliminative materialism about the mind.",
+    "fields": [
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Paul_Churchland",
+    "y": 1942,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Cicero",
+    "dates": "106–43 BC",
+    "desc": "Roman eclectic; transmitted Greek philosophy, natural law.",
+    "fields": [
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "y": -106,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/cicero/"
+  },
+  {
+    "name": "Cixous, Hélène",
+    "dates": "1937–",
+    "desc": "Écriture féminine; feminist literary philosophy.",
+    "fields": [
+      "Feminist",
+      "Social/Critical theory"
+    ],
+    "trad": "Feminist",
+    "tgroup": "Feminist",
+    "url": "https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Cixous",
+    "y": 1937,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Comte, Auguste",
+    "dates": "1798–1857",
+    "desc": "Founder of positivism and sociology.",
+    "fields": [
+      "Philosophy of science",
+      "Social/Critical theory"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Auguste_Comte",
+    "y": 1798,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/comte/"
+  },
+  {
+    "name": "Confucius",
+    "dates": "551–479 BC",
+    "desc": "Founder of Confucian ethical-political tradition.",
+    "fields": [
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Classical Chinese (Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Confucius",
+    "y": -551,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/confucius/"
+  },
+  {
+    "name": "Conway, Anne",
+    "dates": "1631–1679",
+    "desc": "Monist vitalism; influenced Leibniz.",
+    "fields": [
+      "Metaphysics"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Anne_Conway_(philosopher)",
+    "y": 1631,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/conway/"
+  },
+  {
+    "name": "Crescas, Hasdai",
+    "dates": "c. 1340–1410",
+    "desc": "Critique of Aristotelian physics; divine infinity.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Jewish",
+    "tgroup": "Jewish",
+    "url": "https://en.wikipedia.org/wiki/Hasdai_Crescas",
+    "y": 1340,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/crescas/"
+  },
+  {
+    "name": "Dai Zhen",
+    "dates": "1724–1777",
+    "desc": "Qing evidential scholar; critiqued Neo-Confucian metaphysics.",
+    "fields": [
+      "Ethics",
+      "Epistemology"
+    ],
+    "trad": "Classical Chinese (Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Dai_Zhen",
+    "y": 1724,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Davidson, Donald",
+    "dates": "1917–2003",
+    "desc": "Anomalous monism; truth-conditional semantics.",
+    "fields": [
+      "Philosophy of mind",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Donald_Davidson_(philosopher)",
+    "y": 1917,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/davidson/"
+  },
+  {
+    "name": "Daya Krishna",
+    "dates": "1924–2007",
+    "desc": "Critical, dialogic Indian philosophy.",
+    "fields": [
+      "Epistemology",
+      "Metaphysics"
+    ],
+    "trad": "Classical Indian (modern)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Daya_Krishna",
+    "y": 1924,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Deleuze, Gilles",
+    "dates": "1925–1995",
+    "desc": "Difference, multiplicity, immanence.",
+    "fields": [
+      "Metaphysics",
+      "Social/Critical theory"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Gilles_Deleuze",
+    "y": 1925,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/deleuze/"
+  },
+  {
+    "name": "Democritus",
+    "dates": "c. 460–370 BC",
+    "desc": "Atomism; reality is atoms and void.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of science"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Democritus",
+    "y": -460,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/democritus/"
+  },
+  {
+    "name": "Dennett, Daniel",
+    "dates": "1942–2024",
+    "desc": "Intentional stance; consciousness, naturalism.",
+    "fields": [
+      "Philosophy of mind",
+      "Philosophy of science"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Daniel_Dennett",
+    "y": 1942,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Derrida, Jacques",
+    "dates": "1930–2004",
+    "desc": "Deconstruction; différance, critique of presence.",
+    "fields": [
+      "Philosophy of language",
+      "Social/Critical theory"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Jacques_Derrida",
+    "y": 1930,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/derrida/"
+  },
+  {
+    "name": "Descartes, René",
+    "dates": "1596–1650",
+    "desc": "“Cogito”; mind-body dualism, rationalist method.",
+    "fields": [
+      "Epistemology",
+      "Metaphysics",
+      "Philosophy of mind"
+    ],
+    "trad": "Modern European (Rationalism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+    "y": 1596,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/descartes/"
+  },
+  {
+    "name": "Dewey, John",
+    "dates": "1859–1952",
+    "desc": "Pragmatism; inquiry, democracy, education.",
+    "fields": [
+      "Pragmatist",
+      "Epistemology",
+      "Political philosophy"
+    ],
+    "trad": "Pragmatist",
+    "tgroup": "Pragmatist",
+    "url": "https://en.wikipedia.org/wiki/John_Dewey",
+    "y": 1859,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/dewey/"
+  },
+  {
+    "name": "Dharmakirti",
+    "dates": "c. 6th–7th century",
+    "desc": "Buddhist logic and epistemology; nominalism.",
+    "fields": [
+      "Epistemology",
+      "Logic",
+      "Philosophy of mind"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Dharmak%C4%ABrti",
+    "y": 650,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Diderot, Denis",
+    "dates": "1713–1784",
+    "desc": "Encyclopédie editor; materialism, Enlightenment.",
+    "fields": [
+      "Philosophy of science",
+      "Aesthetics"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Denis_Diderot",
+    "y": 1713,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/diderot/"
+  },
+  {
+    "name": "Dignaga",
+    "dates": "c. 480–540",
+    "desc": "Founder of Buddhist logic; apoha theory of meaning.",
+    "fields": [
+      "Logic",
+      "Epistemology",
+      "Philosophy of language"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Dign%C4%81ga",
+    "y": 480,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Diogenes of Sinope",
+    "dates": "c. 412–323 BC",
+    "desc": "Founder figure of Cynicism; ascetic provocation.",
+    "fields": [
+      "Ethics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Diogenes",
+    "y": -412,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Dogen",
+    "dates": "1200–1253",
+    "desc": "Founder of Soto Zen; Shobogenzo.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/D%C5%8Dgen",
+    "y": 1200,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Dong Zhongshu",
+    "dates": "c. 179–104 BC",
+    "desc": "Han Confucian; correlative cosmology.",
+    "fields": [
+      "Metaphysics",
+      "Political philosophy"
+    ],
+    "trad": "Classical Chinese (Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Dong_Zhongshu",
+    "y": -179,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Du Bois, W. E. B.",
+    "dates": "1868–1963",
+    "desc": "Double consciousness; race, sociology, pragmatism.",
+    "fields": [
+      "Social/Critical theory",
+      "Political philosophy"
+    ],
+    "trad": "African/Africana",
+    "tgroup": "African/Africana",
+    "url": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois",
+    "y": 1868,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/dubois/"
+  },
+  {
+    "name": "Du Châtelet, Émilie",
+    "dates": "1706–1749",
+    "desc": "Translated Newton's Principia; metaphysics of force.",
+    "fields": [
+      "Philosophy of science",
+      "Metaphysics"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet",
+    "y": 1706,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/emilie-du-chatelet/"
+  },
+  {
+    "name": "Dummett, Michael",
+    "dates": "1925–2011",
+    "desc": "Anti-realism; meaning and logic.",
+    "fields": [
+      "Philosophy of language",
+      "Logic"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Michael_Dummett",
+    "y": 1925,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Duns Scotus, John",
+    "dates": "c. 1266–1308",
+    "desc": "“Subtle Doctor”; univocity of being, haecceity.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/Duns_Scotus",
+    "y": 1266,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/duns-scotus/"
+  },
+  {
+    "name": "Dussel, Enrique",
+    "dates": "1934–2023",
+    "desc": "Philosophy of liberation; decolonial ethics.",
+    "fields": [
+      "Ethics",
+      "Political philosophy",
+      "Social/Critical theory"
+    ],
+    "trad": "Latin American",
+    "tgroup": "Latin American",
+    "url": "https://en.wikipedia.org/wiki/Enrique_Dussel",
+    "y": 1934,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Dworkin, Ronald",
+    "dates": "1931–2013",
+    "desc": "Law as integrity; rights, political morality.",
+    "fields": [
+      "Political philosophy",
+      "Ethics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Ronald_Dworkin",
+    "y": 1931,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Eckhart, Meister",
+    "dates": "c. 1260–1328",
+    "desc": "Christian mysticism; ground of the soul.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/Meister_Eckhart",
+    "y": 1260,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/meister-eckhart/"
+  },
+  {
+    "name": "Elisabeth of Bohemia",
+    "dates": "1618–1680",
+    "desc": "Challenged Descartes on mind-body interaction.",
+    "fields": [
+      "Philosophy of mind",
+      "Metaphysics"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Elisabeth_of_the_Palatinate",
+    "y": 1618,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/elisabeth-bohemia/"
+  },
+  {
+    "name": "Empedocles",
+    "dates": "c. 494–434 BC",
+    "desc": "Four roots (elements); Love and Strife.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of science"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Empedocles",
+    "y": -494,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/empedocles/"
+  },
+  {
+    "name": "Epictetus",
+    "dates": "c. 50–135",
+    "desc": "Stoic; dichotomy of control, ethics of self-mastery.",
+    "fields": [
+      "Ethics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Epictetus",
+    "y": 50,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/epictetus/"
+  },
+  {
+    "name": "Epicurus",
+    "dates": "341–270 BC",
+    "desc": "Founder of Epicureanism; atomism, hedonism.",
+    "fields": [
+      "Ethics",
+      "Metaphysics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Epicurus",
+    "y": -341,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/epicurus/"
+  },
+  {
+    "name": "Eriugena, John Scotus",
+    "dates": "c. 815–877",
+    "desc": "Carolingian Neoplatonist; Periphyseon.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/Johannes_Scotus_Eriugena",
+    "y": 815,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Fanon, Frantz",
+    "dates": "1925–1961",
+    "desc": "Anticolonial philosophy; race, violence, liberation.",
+    "fields": [
+      "Political philosophy",
+      "Social/Critical theory"
+    ],
+    "trad": "African/Africana",
+    "tgroup": "African/Africana",
+    "url": "https://en.wikipedia.org/wiki/Frantz_Fanon",
+    "y": 1925,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/frantz-fanon/"
+  },
+  {
+    "name": "Feyerabend, Paul",
+    "dates": "1924–1994",
+    "desc": "Epistemological anarchism; “against method.”",
+    "fields": [
+      "Philosophy of science"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Paul_Feyerabend",
+    "y": 1924,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/feyerabend/"
+  },
+  {
+    "name": "Fichte, Johann Gottlieb",
+    "dates": "1762–1814",
+    "desc": "German idealism; the absolute I.",
+    "fields": [
+      "Metaphysics",
+      "Epistemology"
+    ],
+    "trad": "Modern European (Idealism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte",
+    "y": 1762,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/johann-fichte/"
+  },
+  {
+    "name": "Fine, Kit",
+    "dates": "1946–",
+    "desc": "Metaphysics; essence, grounding, ontology.",
+    "fields": [
+      "Metaphysics",
+      "Logic"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Kit_Fine",
+    "y": 1946,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Fodor, Jerry",
+    "dates": "1935–2017",
+    "desc": "Language of thought; modularity of mind.",
+    "fields": [
+      "Philosophy of mind",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Jerry_Fodor",
+    "y": 1935,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Foot, Philippa",
+    "dates": "1920–2010",
+    "desc": "Virtue ethics; trolley problem, natural goodness.",
+    "fields": [
+      "Ethics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Philippa_Foot",
+    "y": 1920,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/philippa-foot/"
+  },
+  {
+    "name": "Foucault, Michel",
+    "dates": "1926–1984",
+    "desc": "Power/knowledge; genealogy, discipline.",
+    "fields": [
+      "Social/Critical theory",
+      "Political philosophy"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Michel_Foucault",
+    "y": 1926,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/foucault/"
+  },
+  {
+    "name": "Frege, Gottlob",
+    "dates": "1848–1925",
+    "desc": "Founder of modern logic; sense and reference.",
+    "fields": [
+      "Logic",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Gottlob_Frege",
+    "y": 1848,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/frege/"
+  },
+  {
+    "name": "Fricker, Miranda",
+    "dates": "1966–",
+    "desc": "Epistemic injustice; testimonial and hermeneutical injustice.",
+    "fields": [
+      "Epistemology",
+      "Social/Critical theory",
+      "Feminist"
+    ],
+    "trad": "Feminist",
+    "tgroup": "Feminist",
+    "url": "https://en.wikipedia.org/wiki/Miranda_Fricker",
+    "y": 1966,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Gadamer, Hans-Georg",
+    "dates": "1900–2002",
+    "desc": "Philosophical hermeneutics; Truth and Method.",
+    "fields": [
+      "Philosophy of language",
+      "Epistemology"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Hans-Georg_Gadamer",
+    "y": 1900,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/gadamer/"
+  },
+  {
+    "name": "Gandhi, Mohandas",
+    "dates": "1869–1948",
+    "desc": "Satyagraha; nonviolent resistance, ethics.",
+    "fields": [
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Classical Indian (modern)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+    "y": 1869,
+    "era": "19th century"
+  },
+  {
+    "name": "Gangesa Upadhyaya",
+    "dates": "fl. 14th century",
+    "desc": "Founder of Navya-Nyaya; Tattvacintamani.",
+    "fields": [
+      "Logic",
+      "Epistemology"
+    ],
+    "trad": "Classical Indian (Nyaya)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Gangesha_Upadhyaya",
+    "y": 1350,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Gaudapada",
+    "dates": "c. 6th–7th century",
+    "desc": "Early Advaita; Mandukya Karika.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (Vedanta)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Gaudapada",
+    "y": 650,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Gautama, Aksapada",
+    "dates": "c. 2nd century BC",
+    "desc": "Reputed founder of Nyaya logic; Nyaya Sutras.",
+    "fields": [
+      "Logic",
+      "Epistemology"
+    ],
+    "trad": "Classical Indian (Nyaya)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Aksapada_Gautama",
+    "y": -150,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Gersonides",
+    "dates": "1288–1344",
+    "desc": "Jewish Aristotelian; divine foreknowledge and free will.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Jewish",
+    "tgroup": "Jewish",
+    "url": "https://en.wikipedia.org/wiki/Gersonides",
+    "y": 1288,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/gersonides/"
+  },
+  {
+    "name": "Gettier, Edmund",
+    "dates": "1927–2021",
+    "desc": "Gettier problem; challenged justified-true-belief.",
+    "fields": [
+      "Epistemology"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Edmund_Gettier",
+    "y": 1927,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Gorgias",
+    "dates": "c. 483–375 BC",
+    "desc": "Sophist; rhetoric, nihilistic argument.",
+    "fields": [
+      "Philosophy of language",
+      "Epistemology"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Gorgias",
+    "y": -483,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Gramsci, Antonio",
+    "dates": "1891–1937",
+    "desc": "Cultural hegemony; Marxist political theory.",
+    "fields": [
+      "Political philosophy",
+      "Social/Critical theory"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Antonio_Gramsci",
+    "y": 1891,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/gramsci/"
+  },
+  {
+    "name": "Grosseteste, Robert",
+    "dates": "c. 1168–1253",
+    "desc": "Early scientific method; light metaphysics.",
+    "fields": [
+      "Philosophy of science",
+      "Metaphysics"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/Robert_Grosseteste",
+    "y": 1168,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/grosseteste/"
+  },
+  {
+    "name": "Guo Xiang",
+    "dates": "c. 252–312",
+    "desc": "Xuanxue; principal Zhuangzi commentator.",
+    "fields": [
+      "Metaphysics"
+    ],
+    "trad": "Classical Chinese (Daoist)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Guo_Xiang",
+    "y": 252,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Gyekye, Kwame",
+    "dates": "1939–2019",
+    "desc": "Akan philosophy; African personhood, communitarianism.",
+    "fields": [
+      "Ethics",
+      "Metaphysics"
+    ],
+    "trad": "African/Africana",
+    "tgroup": "African/Africana",
+    "url": "https://en.wikipedia.org/wiki/Kwame_Gyekye",
+    "y": 1939,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Gödel, Kurt",
+    "dates": "1906–1978",
+    "desc": "Incompleteness theorems; philosophy of mathematics.",
+    "fields": [
+      "Logic"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Kurt_G%C3%B6del",
+    "y": 1906,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/goedel/"
+  },
+  {
+    "name": "Haack, Susan",
+    "dates": "1945–",
+    "desc": "Foundherentism in epistemology; pragmatism, logic.",
+    "fields": [
+      "Epistemology",
+      "Logic",
+      "Philosophy of science"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Susan_Haack",
+    "y": 1945,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Habermas, Jürgen",
+    "dates": "1929–",
+    "desc": "Communicative action; discourse ethics, public sphere.",
+    "fields": [
+      "Social/Critical theory",
+      "Political philosophy"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas",
+    "y": 1929,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/habermas/"
+  },
+  {
+    "name": "Han Fei",
+    "dates": "c. 280–233 BC",
+    "desc": "Leading Legalist theorist of statecraft and law.",
+    "fields": [
+      "Political philosophy"
+    ],
+    "trad": "Classical Chinese (Legalist)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Han_Fei",
+    "y": -280,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Hare, R. M.",
+    "dates": "1919–2002",
+    "desc": "Universal prescriptivism in metaethics.",
+    "fields": [
+      "Ethics",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/R._M._Hare",
+    "y": 1919,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/hare/"
+  },
+  {
+    "name": "Haribhadra",
+    "dates": "c. 8th century",
+    "desc": "Jain philosopher; anekantavada, comparative doxography.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (Jain)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Haribhadra",
+    "y": 750,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Harman, Gilbert",
+    "dates": "1938–2021",
+    "desc": "Inference to best explanation; moral relativism.",
+    "fields": [
+      "Epistemology",
+      "Ethics",
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Gilbert_Harman",
+    "y": 1938,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Haslanger, Sally",
+    "dates": "1955–",
+    "desc": "Social construction of gender and race; ameliorative analysis.",
+    "fields": [
+      "Social/Critical theory",
+      "Metaphysics",
+      "Feminist"
+    ],
+    "trad": "Feminist",
+    "tgroup": "Feminist",
+    "url": "https://en.wikipedia.org/wiki/Sally_Haslanger",
+    "y": 1955,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Hayashi Razan",
+    "dates": "1583–1657",
+    "desc": "Tokugawa Zhu Xi Neo-Confucian; adviser to the shogunate.",
+    "fields": [
+      "Political philosophy",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Neo-Confucian, Japanese)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Hayashi_Razan",
+    "y": 1583,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Hegel, G. W. F.",
+    "dates": "1770–1831",
+    "desc": "Absolute idealism; dialectic, phenomenology of spirit.",
+    "fields": [
+      "Metaphysics",
+      "Political philosophy",
+      "Social/Critical theory"
+    ],
+    "trad": "Modern European (Idealism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+    "y": 1770,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/hegel/"
+  },
+  {
+    "name": "Heidegger, Martin",
+    "dates": "1889–1976",
+    "desc": "Being and Time; fundamental ontology, Dasein.",
+    "fields": [
+      "Phenomenology/Existentialism",
+      "Metaphysics"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Martin_Heidegger",
+    "y": 1889,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/heidegger/"
+  },
+  {
+    "name": "Hemachandra",
+    "dates": "c. 1088–1173",
+    "desc": "Jain polymath; grammar, Yogashastra.",
+    "fields": [
+      "Ethics",
+      "Logic"
+    ],
+    "trad": "Classical Indian (Jain)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Hemachandra",
+    "y": 1088,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Heraclitus",
+    "dates": "c. 535–475 BC",
+    "desc": "Flux; logos, unity of opposites.",
+    "fields": [
+      "Metaphysics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Heraclitus",
+    "y": -535,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/heraclitus/"
+  },
+  {
+    "name": "Herder, Johann Gottfried",
+    "dates": "1744–1803",
+    "desc": "Philosophy of language, history, culture.",
+    "fields": [
+      "Philosophy of language",
+      "Aesthetics"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Johann_Gottfried_Herder",
+    "y": 1744,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/herder/"
+  },
+  {
+    "name": "Hildegard of Bingen",
+    "dates": "1098–1179",
+    "desc": "Visionary cosmology; medieval natural philosophy.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/Hildegard_of_Bingen",
+    "y": 1098,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Hobbes, Thomas",
+    "dates": "1588–1679",
+    "desc": "Social contract; Leviathan, materialist politics.",
+    "fields": [
+      "Political philosophy",
+      "Metaphysics"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Thomas_Hobbes",
+    "y": 1588,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/hobbes/"
+  },
+  {
+    "name": "Horkheimer, Max",
+    "dates": "1895–1973",
+    "desc": "Frankfurt School; critical theory, instrumental reason.",
+    "fields": [
+      "Social/Critical theory"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Max_Horkheimer",
+    "y": 1895,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/horkheimer/"
+  },
+  {
+    "name": "Hountondji, Paulin",
+    "dates": "1942–2024",
+    "desc": "Critique of ethnophilosophy; African scientific thought.",
+    "fields": [
+      "Social/Critical theory",
+      "Epistemology"
+    ],
+    "trad": "African/Africana",
+    "tgroup": "African/Africana",
+    "url": "https://en.wikipedia.org/wiki/Paulin_Hountondji",
+    "y": 1942,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Hume, David",
+    "dates": "1711–1776",
+    "desc": "Empiricism; causation, induction, sentiment ethics.",
+    "fields": [
+      "Epistemology",
+      "Metaphysics",
+      "Ethics"
+    ],
+    "trad": "Modern European (Empiricism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/David_Hume",
+    "y": 1711,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/hume/"
+  },
+  {
+    "name": "Husserl, Edmund",
+    "dates": "1859–1938",
+    "desc": "Founder of phenomenology; intentionality, epoché.",
+    "fields": [
+      "Phenomenology/Existentialism",
+      "Epistemology"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Edmund_Husserl",
+    "y": 1859,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/husserl/"
+  },
+  {
+    "name": "Hypatia",
+    "dates": "c. 350–415",
+    "desc": "Neoplatonist; mathematician and philosopher of Alexandria.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of science"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Hypatia",
+    "y": 350,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Iamblichus",
+    "dates": "c. 245–325",
+    "desc": "Late Neoplatonist; theurgy.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Iamblichus",
+    "y": 245,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/iamblichus/"
+  },
+  {
+    "name": "Ibn Arabi",
+    "dates": "1165–1240",
+    "desc": "Sufi metaphysics; unity of being (wahdat al-wujud).",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Islamic (Falsafa)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Ibn_Arabi",
+    "y": 1165,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/ibn-arabi/"
+  },
+  {
+    "name": "Ibn Khaldun",
+    "dates": "1332–1406",
+    "desc": "Founder of historiography and sociology; asabiyya.",
+    "fields": [
+      "Social/Critical theory",
+      "Political philosophy"
+    ],
+    "trad": "Islamic (Kalam)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Ibn_Khaldun",
+    "y": 1332,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Ibn Tufayl",
+    "dates": "c. 1105–1185",
+    "desc": "Philosophical novel Hayy ibn Yaqzan; autodidactic reason.",
+    "fields": [
+      "Metaphysics",
+      "Epistemology"
+    ],
+    "trad": "Islamic (Falsafa)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Ibn_Tufayl",
+    "y": 1105,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Iqbal, Muhammad",
+    "dates": "1877–1938",
+    "desc": "Reconstruction of religious thought; selfhood (khudi).",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Islamic (modern)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal",
+    "y": 1877,
+    "era": "19th century"
+  },
+  {
+    "name": "Irigaray, Luce",
+    "dates": "1930–",
+    "desc": "Sexual difference; feminist psychoanalytic philosophy.",
+    "fields": [
+      "Feminist",
+      "Social/Critical theory"
+    ],
+    "trad": "Feminist",
+    "tgroup": "Feminist",
+    "url": "https://en.wikipedia.org/wiki/Luce_Irigaray",
+    "y": 1930,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Ishvarakrishna",
+    "dates": "c. 4th–5th century",
+    "desc": "Author of Samkhyakarika, earliest systematic Samkhya.",
+    "fields": [
+      "Metaphysics"
+    ],
+    "trad": "Classical Indian (Samkhya)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Ishvarakrishna",
+    "y": 450,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Jackson, Frank",
+    "dates": "1943–",
+    "desc": "Knowledge argument (“Mary's room”); qualia.",
+    "fields": [
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Frank_Cameron_Jackson",
+    "y": 1943,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "James, William",
+    "dates": "1842–1910",
+    "desc": "Pragmatism; truth, will to believe, psychology.",
+    "fields": [
+      "Pragmatist",
+      "Philosophy of religion",
+      "Philosophy of mind"
+    ],
+    "trad": "Pragmatist",
+    "tgroup": "Pragmatist",
+    "url": "https://en.wikipedia.org/wiki/William_James",
+    "y": 1842,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/james/"
+  },
+  {
+    "name": "Jaspers, Karl",
+    "dates": "1883–1969",
+    "desc": "Existenz philosophy; limit situations.",
+    "fields": [
+      "Phenomenology/Existentialism"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Karl_Jaspers",
+    "y": 1883,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/jaspers/"
+  },
+  {
+    "name": "Jayanta Bhatta",
+    "dates": "fl. 9th century",
+    "desc": "Kashmiri Naiyayika; Nyayamanjari.",
+    "fields": [
+      "Logic",
+      "Epistemology"
+    ],
+    "trad": "Classical Indian (Nyaya)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Jayanta_Bhatta",
+    "y": 850,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Jinul",
+    "dates": "1158–1210",
+    "desc": "Founder of Korean Jogye Seon; sudden enlightenment.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Jinul",
+    "y": 1158,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Judah Halevi",
+    "dates": "c. 1075–1141",
+    "desc": "Kuzari; critique of philosophy, defense of revelation.",
+    "fields": [
+      "Philosophy of religion"
+    ],
+    "trad": "Jewish",
+    "tgroup": "Jewish",
+    "url": "https://en.wikipedia.org/wiki/Judah_Halevi",
+    "y": 1075,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/halevi/"
+  },
+  {
+    "name": "Kamalashila",
+    "dates": "c. 740–795",
+    "desc": "Yogacara-Madhyamaka; Samye debate, Bhavanakrama.",
+    "fields": [
+      "Metaphysics",
+      "Epistemology"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Kamala%C5%9B%C4%ABla",
+    "y": 740,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Kanada",
+    "dates": "c. 6th–2nd century BC",
+    "desc": "Founder of Vaisheshika; atomism.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of science"
+    ],
+    "trad": "Classical Indian (Vaisheshika)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Kanada_(philosopher)",
+    "y": -150,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Kant, Immanuel",
+    "dates": "1724–1804",
+    "desc": "Transcendental idealism; categorical imperative.",
+    "fields": [
+      "Metaphysics",
+      "Epistemology",
+      "Ethics",
+      "Aesthetics"
+    ],
+    "trad": "Modern European (Idealism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+    "y": 1724,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/kant/"
+  },
+  {
+    "name": "Kierkegaard, Søren",
+    "dates": "1813–1855",
+    "desc": "Father of existentialism; faith, subjectivity, anxiety.",
+    "fields": [
+      "Phenomenology/Existentialism",
+      "Philosophy of religion"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard",
+    "y": 1813,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/kierkegaard/"
+  },
+  {
+    "name": "Korsgaard, Christine",
+    "dates": "1952–",
+    "desc": "Kantian constructivism; sources of normativity.",
+    "fields": [
+      "Ethics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Christine_Korsgaard",
+    "y": 1952,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Kripke, Saul",
+    "dates": "1940–2022",
+    "desc": "Naming and Necessity; rigid designation, modal logic.",
+    "fields": [
+      "Philosophy of language",
+      "Logic",
+      "Metaphysics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Saul_Kripke",
+    "y": 1940,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Krishnamurti, Jiddu",
+    "dates": "1895–1986",
+    "desc": "Freedom, thought, the nature of mind.",
+    "fields": [
+      "Philosophy of mind",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (modern)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti",
+    "y": 1895,
+    "era": "19th century"
+  },
+  {
+    "name": "Kristeva, Julia",
+    "dates": "1941–",
+    "desc": "Semiotics, abjection; feminist psychoanalysis.",
+    "fields": [
+      "Social/Critical theory",
+      "Philosophy of language",
+      "Feminist"
+    ],
+    "trad": "Feminist",
+    "tgroup": "Feminist",
+    "url": "https://en.wikipedia.org/wiki/Julia_Kristeva",
+    "y": 1941,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Kuhn, Thomas",
+    "dates": "1922–1996",
+    "desc": "Paradigm shifts; structure of scientific revolutions.",
+    "fields": [
+      "Philosophy of science"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Thomas_Kuhn",
+    "y": 1922,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/thomas-kuhn/"
+  },
+  {
+    "name": "Kukai",
+    "dates": "774–835",
+    "desc": "Founder of Japanese Shingon esoteric Buddhism.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/K%C5%ABkai",
+    "y": 774,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/kukai/"
+  },
+  {
+    "name": "Kumarila Bhatta",
+    "dates": "fl. 7th century",
+    "desc": "Mimamsa; defense of Vedic authority.",
+    "fields": [
+      "Epistemology",
+      "Philosophy of religion",
+      "Philosophy of language"
+    ],
+    "trad": "Classical Indian (Mimamsa)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Kum%C4%81rila_Bha%E1%B9%AD%E1%B9%ADa",
+    "y": 650,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/kumaarila/"
+  },
+  {
+    "name": "Kundakunda",
+    "dates": "c. 2nd–3rd century",
+    "desc": "Digambara Jain; two-truths metaphysics, Samayasara.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (Jain)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Kundakunda",
+    "y": 250,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Lacan, Jacques",
+    "dates": "1901–1981",
+    "desc": "Psychoanalysis; the unconscious structured like language.",
+    "fields": [
+      "Social/Critical theory",
+      "Philosophy of mind"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Jacques_Lacan",
+    "y": 1901,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/lacan/"
+  },
+  {
+    "name": "Langer, Susanne",
+    "dates": "1895–1985",
+    "desc": "Philosophy of art; symbol, feeling, form.",
+    "fields": [
+      "Aesthetics",
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Susanne_Langer",
+    "y": 1895,
+    "era": "19th century"
+  },
+  {
+    "name": "Laozi",
+    "dates": "fl. 6th–4th century BC",
+    "desc": "Traditional founder of Daoism; Daodejing.",
+    "fields": [
+      "Metaphysics",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Daoist)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Laozi",
+    "y": -350,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/laozi/"
+  },
+  {
+    "name": "Leibniz, Gottfried Wilhelm",
+    "dates": "1646–1716",
+    "desc": "Monads; pre-established harmony, logic, calculus.",
+    "fields": [
+      "Metaphysics",
+      "Logic",
+      "Epistemology"
+    ],
+    "trad": "Modern European (Rationalism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+    "y": 1646,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/leibniz/"
+  },
+  {
+    "name": "Levinas, Emmanuel",
+    "dates": "1906–1995",
+    "desc": "Ethics of the Other; face-to-face responsibility.",
+    "fields": [
+      "Ethics",
+      "Phenomenology/Existentialism"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Emmanuel_Levinas",
+    "y": 1906,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/levinas/"
+  },
+  {
+    "name": "Lewis, David",
+    "dates": "1941–2001",
+    "desc": "Modal realism; counterfactuals, analytic metaphysics.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of language",
+      "Logic"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/David_Lewis_(philosopher)",
+    "y": 1941,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/david-lewis/"
+  },
+  {
+    "name": "Locke, John",
+    "dates": "1632–1704",
+    "desc": "Empiricism; tabula rasa, social contract, toleration.",
+    "fields": [
+      "Epistemology",
+      "Political philosophy"
+    ],
+    "trad": "Modern European (Empiricism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/John_Locke",
+    "y": 1632,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/locke/"
+  },
+  {
+    "name": "Lu Xiangshan",
+    "dates": "1139–1193",
+    "desc": "Neo-Confucian; founder of School of Mind.",
+    "fields": [
+      "Metaphysics",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Neo-Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Lu_Jiuyuan",
+    "y": 1139,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Lucretius",
+    "dates": "c. 99–55 BC",
+    "desc": "Epicurean poet; De Rerum Natura, atomism.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of science"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Lucretius",
+    "y": -99,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/lucretius/"
+  },
+  {
+    "name": "Lukács, György",
+    "dates": "1885–1971",
+    "desc": "Marxist; reification, class consciousness.",
+    "fields": [
+      "Social/Critical theory",
+      "Aesthetics"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Luk%C3%A1cs",
+    "y": 1885,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/lukacs/"
+  },
+  {
+    "name": "Lyotard, Jean-François",
+    "dates": "1924–1998",
+    "desc": "Postmodern condition; incredulity toward metanarratives.",
+    "fields": [
+      "Social/Critical theory",
+      "Aesthetics"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard",
+    "y": 1924,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/lyotard/"
+  },
+  {
+    "name": "Macaulay, Catharine",
+    "dates": "1731–1791",
+    "desc": "Republican political theory; history, women's education.",
+    "fields": [
+      "Political philosophy",
+      "Ethics"
+    ],
+    "trad": "Feminist",
+    "tgroup": "Feminist",
+    "url": "https://en.wikipedia.org/wiki/Catharine_Macaulay",
+    "y": 1731,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/catharine-macaulay/"
+  },
+  {
+    "name": "MacIntyre, Alasdair",
+    "dates": "1929–",
+    "desc": "After Virtue; communitarian virtue ethics.",
+    "fields": [
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Alasdair_MacIntyre",
+    "y": 1929,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Mackie, J. L.",
+    "dates": "1917–1981",
+    "desc": "Moral error theory; argument from queerness.",
+    "fields": [
+      "Ethics",
+      "Philosophy of religion"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/J._L._Mackie",
+    "y": 1917,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Madhva",
+    "dates": "1238–1317",
+    "desc": "Founder of Dvaita (dualist) Vedanta.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (Vedanta)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Madhvacharya",
+    "y": 1238,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Maimonides",
+    "dates": "1138–1204",
+    "desc": "Guide for the Perplexed; reconciled Aristotle and Judaism.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Jewish",
+    "tgroup": "Jewish",
+    "url": "https://en.wikipedia.org/wiki/Maimonides",
+    "y": 1138,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/maimonides/"
+  },
+  {
+    "name": "Malebranche, Nicolas",
+    "dates": "1638–1715",
+    "desc": "Occasionalism; vision in God.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of mind"
+    ],
+    "trad": "Modern European (Rationalism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Nicolas_Malebranche",
+    "y": 1638,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/malebranche/"
+  },
+  {
+    "name": "Mandana Misra",
+    "dates": "c. 8th century",
+    "desc": "Mimamsa-Advaita; Brahmasiddhi, sphota theory.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of language"
+    ],
+    "trad": "Classical Indian (Vedanta)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Ma%E1%B9%87%E1%B8%8Dana_Mi%C5%9Bra",
+    "y": 750,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Marcuse, Herbert",
+    "dates": "1898–1979",
+    "desc": "Frankfurt School; One-Dimensional Man, liberation.",
+    "fields": [
+      "Social/Critical theory",
+      "Political philosophy"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Herbert_Marcuse",
+    "y": 1898,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/marcuse/"
+  },
+  {
+    "name": "Mariátegui, José Carlos",
+    "dates": "1894–1930",
+    "desc": "Marxist analysis of Peruvian and indigenous reality.",
+    "fields": [
+      "Political philosophy",
+      "Social/Critical theory"
+    ],
+    "trad": "Latin American",
+    "tgroup": "Latin American",
+    "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Carlos_Mari%C3%A1tegui",
+    "y": 1894,
+    "era": "19th century"
+  },
+  {
+    "name": "Marx, Karl",
+    "dates": "1818–1883",
+    "desc": "Historical materialism; critique of capitalism.",
+    "fields": [
+      "Political philosophy",
+      "Social/Critical theory",
+      "Metaphysics"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Karl_Marx",
+    "y": 1818,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/marx/"
+  },
+  {
+    "name": "Masham, Damaris Cudworth",
+    "dates": "1659–1708",
+    "desc": "Argued against occasionalism; women's education.",
+    "fields": [
+      "Epistemology",
+      "Philosophy of religion"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Damaris_Cudworth_Masham",
+    "y": 1659,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/lady-masham/"
+  },
+  {
+    "name": "Matilal, Bimal Krishna",
+    "dates": "1935–1991",
+    "desc": "Analytic interpreter of Nyaya logic and epistemology.",
+    "fields": [
+      "Logic",
+      "Epistemology"
+    ],
+    "trad": "Classical Indian (modern)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Bimal_Krishna_Matilal",
+    "y": 1935,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Mbembe, Achille",
+    "dates": "1957–",
+    "desc": "Postcolony, necropolitics; critique of black reason.",
+    "fields": [
+      "Social/Critical theory",
+      "Political philosophy"
+    ],
+    "trad": "African/Africana",
+    "tgroup": "African/Africana",
+    "url": "https://en.wikipedia.org/wiki/Achille_Mbembe",
+    "y": 1957,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "McDowell, John",
+    "dates": "1942–",
+    "desc": "Mind and World; conceptualism, disjunctivism.",
+    "fields": [
+      "Philosophy of mind",
+      "Epistemology"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/John_McDowell",
+    "y": 1942,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Mead, George Herbert",
+    "dates": "1863–1931",
+    "desc": "Symbolic interactionism; social self.",
+    "fields": [
+      "Social/Critical theory",
+      "Philosophy of mind",
+      "Pragmatist"
+    ],
+    "trad": "Pragmatist",
+    "tgroup": "Pragmatist",
+    "url": "https://en.wikipedia.org/wiki/George_Herbert_Mead",
+    "y": 1863,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/mead/"
+  },
+  {
+    "name": "Mencius",
+    "dates": "c. 372–289 BC",
+    "desc": "Confucian; innate goodness of human nature.",
+    "fields": [
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Classical Chinese (Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Mencius",
+    "y": -372,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/mencius/"
+  },
+  {
+    "name": "Merleau-Ponty, Maurice",
+    "dates": "1908–1961",
+    "desc": "Phenomenology of perception; embodiment.",
+    "fields": [
+      "Phenomenology/Existentialism",
+      "Philosophy of mind"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty",
+    "y": 1908,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/merleau-ponty/"
+  },
+  {
+    "name": "Midgley, Mary",
+    "dates": "1919–2018",
+    "desc": "Moral philosophy; critique of scientism, human nature.",
+    "fields": [
+      "Ethics",
+      "Philosophy of science"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Mary_Midgley",
+    "y": 1919,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Mill, Harriet Taylor",
+    "dates": "1807–1858",
+    "desc": "Women's rights and liberty; collaborator with J.S. Mill.",
+    "fields": [
+      "Political philosophy",
+      "Ethics",
+      "Feminist"
+    ],
+    "trad": "Feminist",
+    "tgroup": "Feminist",
+    "url": "https://en.wikipedia.org/wiki/Harriet_Taylor_Mill",
+    "y": 1807,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/harriet-mill/"
+  },
+  {
+    "name": "Mill, John Stuart",
+    "dates": "1806–1873",
+    "desc": "Utilitarianism, liberty, empiricism, logic.",
+    "fields": [
+      "Ethics",
+      "Political philosophy",
+      "Logic",
+      "Epistemology"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/John_Stuart_Mill",
+    "y": 1806,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/mill/"
+  },
+  {
+    "name": "Mohanty, J. N.",
+    "dates": "1928–2023",
+    "desc": "Phenomenology bridging Husserl and Indian philosophy.",
+    "fields": [
+      "Phenomenology/Existentialism",
+      "Epistemology"
+    ],
+    "trad": "Classical Indian (modern)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Jitendra_Nath_Mohanty",
+    "y": 1928,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Montaigne, Michel de",
+    "dates": "1533–1592",
+    "desc": "Essays; skepticism, self-examination.",
+    "fields": [
+      "Epistemology",
+      "Ethics"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Michel_de_Montaigne",
+    "y": 1533,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/montaigne/"
+  },
+  {
+    "name": "Montesquieu",
+    "dates": "1689–1755",
+    "desc": "Separation of powers; spirit of the laws.",
+    "fields": [
+      "Political philosophy",
+      "Social/Critical theory"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Montesquieu",
+    "y": 1689,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/montesquieu/"
+  },
+  {
+    "name": "Moore, G. E.",
+    "dates": "1873–1958",
+    "desc": "Common sense, open question argument; founder of analytic.",
+    "fields": [
+      "Ethics",
+      "Epistemology"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/G._E._Moore",
+    "y": 1873,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/moore/"
+  },
+  {
+    "name": "Mozi",
+    "dates": "c. 470–391 BC",
+    "desc": "Founder of Mohism; impartial care, consequentialism.",
+    "fields": [
+      "Ethics",
+      "Political philosophy",
+      "Logic"
+    ],
+    "trad": "Classical Chinese (Mohist)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Mozi",
+    "y": -470,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Mudimbe, V. Y.",
+    "dates": "1941–",
+    "desc": "The Invention of Africa; coloniality of knowledge.",
+    "fields": [
+      "Social/Critical theory",
+      "Epistemology"
+    ],
+    "trad": "African/Africana",
+    "tgroup": "African/Africana",
+    "url": "https://en.wikipedia.org/wiki/V._Y._Mudimbe",
+    "y": 1941,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Mulla Sadra",
+    "dates": "c. 1571–1636",
+    "desc": "Transcendent theosophy; primacy of existence.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Islamic (Persian)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Mulla_Sadra",
+    "y": 1571,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/mulla-sadra/"
+  },
+  {
+    "name": "Murdoch, Iris",
+    "dates": "1919–1999",
+    "desc": "Moral vision; the good, attention, Platonism.",
+    "fields": [
+      "Ethics",
+      "Aesthetics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Iris_Murdoch",
+    "y": 1919,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/murdoch/"
+  },
+  {
+    "name": "Nagarjuna",
+    "dates": "c. 150–250",
+    "desc": "Founder of Madhyamaka; emptiness (sunyata).",
+    "fields": [
+      "Metaphysics",
+      "Logic",
+      "Philosophy of religion"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Nagarjuna",
+    "y": 150,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/nagarjuna/"
+  },
+  {
+    "name": "Nagel, Thomas",
+    "dates": "1937–",
+    "desc": "“What is it like to be a bat?”; subjectivity, ethics.",
+    "fields": [
+      "Philosophy of mind",
+      "Ethics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Thomas_Nagel",
+    "y": 1937,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Nicholas of Cusa",
+    "dates": "1401–1464",
+    "desc": "Learned ignorance; coincidence of opposites.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/Nicholas_of_Cusa",
+    "y": 1401,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/cusanus/"
+  },
+  {
+    "name": "Nietzsche, Friedrich",
+    "dates": "1844–1900",
+    "desc": "Will to power, genealogy of morals, eternal recurrence.",
+    "fields": [
+      "Ethics",
+      "Metaphysics",
+      "Aesthetics"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+    "y": 1844,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/nietzsche/"
+  },
+  {
+    "name": "Nimbarka",
+    "dates": "c. 1130–1200",
+    "desc": "Dvaitadvaita (dualistic non-dualism) Vedanta.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (Vedanta)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Nimbarka",
+    "y": 1130,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Nishida Kitaro",
+    "dates": "1870–1945",
+    "desc": "Founder of Kyoto School; pure experience, nothingness.",
+    "fields": [
+      "Metaphysics",
+      "Phenomenology/Existentialism"
+    ],
+    "trad": "Continental (Japanese)",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Kitar%C5%8D_Nishida",
+    "y": 1870,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/nishida-kitaro/"
+  },
+  {
+    "name": "Nozick, Robert",
+    "dates": "1938–2002",
+    "desc": "Libertarianism; Anarchy, State, and Utopia.",
+    "fields": [
+      "Political philosophy",
+      "Epistemology"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Robert_Nozick",
+    "y": 1938,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/nozick-political/"
+  },
+  {
+    "name": "Nussbaum, Martha",
+    "dates": "1947–",
+    "desc": "Capabilities approach; emotions, ethics.",
+    "fields": [
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Martha_Nussbaum",
+    "y": 1947,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "O'Neill, Onora",
+    "dates": "1941–",
+    "desc": "Kantian ethics; trust, bioethics, justice.",
+    "fields": [
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Onora_O%27Neill",
+    "y": 1941,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Ockham, William of",
+    "dates": "c. 1287–1347",
+    "desc": "Ockham's razor; nominalism.",
+    "fields": [
+      "Logic",
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Medieval European",
+    "tgroup": "Medieval European",
+    "url": "https://en.wikipedia.org/wiki/William_of_Ockham",
+    "y": 1287,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/ockham/"
+  },
+  {
+    "name": "Ogyu Sorai",
+    "dates": "1666–1728",
+    "desc": "Ancient Learning Confucian; Way of the sage-kings.",
+    "fields": [
+      "Political philosophy",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Confucian, Japanese)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Ogy%C5%AB_Sorai",
+    "y": 1666,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Oruka, Henry Odera",
+    "dates": "1944–1995",
+    "desc": "Sage philosophy; African philosophic sagacity.",
+    "fields": [
+      "Social/Critical theory",
+      "Epistemology"
+    ],
+    "trad": "African/Africana",
+    "tgroup": "African/Africana",
+    "url": "https://en.wikipedia.org/wiki/Henry_Odera_Oruka",
+    "y": 1944,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Parfit, Derek",
+    "dates": "1942–2017",
+    "desc": "Personal identity, reasons; Reasons and Persons.",
+    "fields": [
+      "Ethics",
+      "Metaphysics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Derek_Parfit",
+    "y": 1942,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Parmenides",
+    "dates": "c. 515–450 BC",
+    "desc": "Being is one and unchanging; founder of metaphysics.",
+    "fields": [
+      "Metaphysics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Parmenides",
+    "y": -515,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/parmenides/"
+  },
+  {
+    "name": "Pascal, Blaise",
+    "dates": "1623–1662",
+    "desc": "Pascal's wager; reason and faith.",
+    "fields": [
+      "Philosophy of religion",
+      "Epistemology"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+    "y": 1623,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/pascal/"
+  },
+  {
+    "name": "Patanjali",
+    "dates": "c. 2nd century BC",
+    "desc": "Compiler of the Yoga Sutras.",
+    "fields": [
+      "Philosophy of mind",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (Yoga)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Patanjali",
+    "y": -150,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Peirce, Charles Sanders",
+    "dates": "1839–1914",
+    "desc": "Founder of pragmatism and semiotics.",
+    "fields": [
+      "Pragmatist",
+      "Logic",
+      "Philosophy of science"
+    ],
+    "trad": "Pragmatist",
+    "tgroup": "Pragmatist",
+    "url": "https://en.wikipedia.org/wiki/Charles_Sanders_Peirce",
+    "y": 1839,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/peirce/"
+  },
+  {
+    "name": "Pettit, Philip",
+    "dates": "1945–",
+    "desc": "Republican political theory; freedom as non-domination.",
+    "fields": [
+      "Political philosophy",
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Philip_Pettit",
+    "y": 1945,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Plantinga, Alvin",
+    "dates": "1932–",
+    "desc": "Reformed epistemology; modal ontological argument.",
+    "fields": [
+      "Philosophy of religion",
+      "Epistemology",
+      "Metaphysics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Alvin_Plantinga",
+    "y": 1932,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Plato",
+    "dates": "c. 428–348 BC",
+    "desc": "Theory of Forms; foundational to Western philosophy.",
+    "fields": [
+      "Metaphysics",
+      "Epistemology",
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Plato",
+    "y": -428,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/plato/"
+  },
+  {
+    "name": "Plotinus",
+    "dates": "c. 204–270",
+    "desc": "Founder of Neoplatonism; the One, emanation.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Plotinus",
+    "y": 204,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/plotinus/"
+  },
+  {
+    "name": "Popper, Karl",
+    "dates": "1902–1994",
+    "desc": "Falsifiability; critical rationalism, open society.",
+    "fields": [
+      "Philosophy of science",
+      "Political philosophy"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Karl_Popper",
+    "y": 1902,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/popper/"
+  },
+  {
+    "name": "Porphyry",
+    "dates": "c. 234–305",
+    "desc": "Neoplatonist; logic (Isagoge), editor of Plotinus.",
+    "fields": [
+      "Logic",
+      "Metaphysics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Porphyry_(philosopher)",
+    "y": 234,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Prabhakara",
+    "dates": "fl. 7th century",
+    "desc": "Mimamsa; founder of the Prabhakara sub-school.",
+    "fields": [
+      "Epistemology",
+      "Philosophy of language"
+    ],
+    "trad": "Classical Indian (Mimamsa)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Prabhakara",
+    "y": 650,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Proclus",
+    "dates": "412–485",
+    "desc": "Systematic Neoplatonist; Elements of Theology.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Proclus",
+    "y": 412,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/proclus/"
+  },
+  {
+    "name": "Protagoras",
+    "dates": "c. 490–420 BC",
+    "desc": "Sophist; “man is the measure of all things.”",
+    "fields": [
+      "Epistemology",
+      "Philosophy of language"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Protagoras",
+    "y": -490,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/protagoras/"
+  },
+  {
+    "name": "Putnam, Hilary",
+    "dates": "1926–2016",
+    "desc": "Twin Earth, functionalism, internal realism.",
+    "fields": [
+      "Philosophy of mind",
+      "Philosophy of language",
+      "Philosophy of science"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Hilary_Putnam",
+    "y": 1926,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Pyrrho",
+    "dates": "c. 360–270 BC",
+    "desc": "Founder of Skepticism; suspension of judgment.",
+    "fields": [
+      "Epistemology"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Pyrrho",
+    "y": -360,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/pyrrho/"
+  },
+  {
+    "name": "Pythagoras",
+    "dates": "c. 570–495 BC",
+    "desc": "Number as reality; transmigration of souls.",
+    "fields": [
+      "Metaphysics",
+      "Logic"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Pythagoras",
+    "y": -570,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/pythagoras/"
+  },
+  {
+    "name": "Quine, W. V. O.",
+    "dates": "1908–2000",
+    "desc": "Two dogmas of empiricism; ontological relativity.",
+    "fields": [
+      "Philosophy of language",
+      "Logic",
+      "Epistemology"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine",
+    "y": 1908,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/quine/"
+  },
+  {
+    "name": "Radhakrishnan, Sarvepalli",
+    "dates": "1888–1975",
+    "desc": "Comparative Advaita Vedanta; Indian statesman.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Classical Indian (modern)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan",
+    "y": 1888,
+    "era": "19th century"
+  },
+  {
+    "name": "Raghunatha Siromani",
+    "dates": "c. 1477–1547",
+    "desc": "Leading Navya-Nyaya logician of Navadvipa.",
+    "fields": [
+      "Logic",
+      "Epistemology"
+    ],
+    "trad": "Classical Indian (Nyaya)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Raghunatha_Shiromani",
+    "y": 1477,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Ramanuja",
+    "dates": "1017–1137",
+    "desc": "Founder of Vishishtadvaita (qualified non-dualism).",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (Vedanta)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Ramanuja",
+    "y": 1017,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Ramsey, Frank",
+    "dates": "1903–1930",
+    "desc": "Truth, probability, logic; pragmatism.",
+    "fields": [
+      "Logic",
+      "Epistemology"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Frank_Ramsey_(mathematician)",
+    "y": 1903,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Rand, Ayn",
+    "dates": "1905–1982",
+    "desc": "Objectivism; rational egoism, laissez-faire.",
+    "fields": [
+      "Ethics",
+      "Political philosophy",
+      "Metaphysics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Ayn_Rand",
+    "y": 1905,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/ayn-rand/"
+  },
+  {
+    "name": "Rawls, John",
+    "dates": "1921–2002",
+    "desc": "A Theory of Justice; justice as fairness.",
+    "fields": [
+      "Political philosophy",
+      "Ethics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/John_Rawls",
+    "y": 1921,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/rawls/"
+  },
+  {
+    "name": "Raz, Joseph",
+    "dates": "1939–2022",
+    "desc": "Legal philosophy; authority, practical reason.",
+    "fields": [
+      "Political philosophy",
+      "Ethics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Joseph_Raz",
+    "y": 1939,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Ricoeur, Paul",
+    "dates": "1913–2005",
+    "desc": "Hermeneutics; narrative, the self, interpretation.",
+    "fields": [
+      "Philosophy of language",
+      "Phenomenology/Existentialism"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Paul_Ric%C5%93ur",
+    "y": 1913,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/ricoeur/"
+  },
+  {
+    "name": "Rorty, Richard",
+    "dates": "1931–2007",
+    "desc": "Neopragmatism; anti-representationalism.",
+    "fields": [
+      "Pragmatist",
+      "Epistemology",
+      "Philosophy of language"
+    ],
+    "trad": "Pragmatist",
+    "tgroup": "Pragmatist",
+    "url": "https://en.wikipedia.org/wiki/Richard_Rorty",
+    "y": 1931,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/rorty/"
+  },
+  {
+    "name": "Rousseau, Jean-Jacques",
+    "dates": "1712–1778",
+    "desc": "Social contract; general will, natural goodness.",
+    "fields": [
+      "Political philosophy",
+      "Ethics"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau",
+    "y": 1712,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/rousseau/"
+  },
+  {
+    "name": "Russell, Bertrand",
+    "dates": "1872–1970",
+    "desc": "Logicism, theory of descriptions; Principia Mathematica.",
+    "fields": [
+      "Logic",
+      "Philosophy of language",
+      "Epistemology"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Bertrand_Russell",
+    "y": 1872,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/russell/"
+  },
+  {
+    "name": "Ryle, Gilbert",
+    "dates": "1900–1976",
+    "desc": "“Ghost in the machine”; logical behaviorism.",
+    "fields": [
+      "Philosophy of mind",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Gilbert_Ryle",
+    "y": 1900,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/ryle/"
+  },
+  {
+    "name": "Saadia Gaon",
+    "dates": "882–942",
+    "desc": "First systematic Jewish philosopher; Jewish Kalam.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Jewish",
+    "tgroup": "Jewish",
+    "url": "https://en.wikipedia.org/wiki/Saadia_Gaon",
+    "y": 882,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/saadya/"
+  },
+  {
+    "name": "Sandel, Michael",
+    "dates": "1953–",
+    "desc": "Communitarian critique of liberalism; justice.",
+    "fields": [
+      "Political philosophy",
+      "Ethics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Michael_Sandel",
+    "y": 1953,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Sartre, Jean-Paul",
+    "dates": "1905–1980",
+    "desc": "Existentialism; radical freedom, bad faith.",
+    "fields": [
+      "Phenomenology/Existentialism",
+      "Ethics",
+      "Metaphysics"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
+    "y": 1905,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/sartre/"
+  },
+  {
+    "name": "Scanlon, T. M.",
+    "dates": "1940–",
+    "desc": "Contractualism; What We Owe to Each Other.",
+    "fields": [
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/T._M._Scanlon",
+    "y": 1940,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Schelling, F. W. J.",
+    "dates": "1775–1854",
+    "desc": "German idealism; philosophy of nature, identity.",
+    "fields": [
+      "Metaphysics",
+      "Aesthetics"
+    ],
+    "trad": "Modern European (Idealism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling",
+    "y": 1775,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/schelling/"
+  },
+  {
+    "name": "Schopenhauer, Arthur",
+    "dates": "1788–1860",
+    "desc": "World as will and representation; pessimism.",
+    "fields": [
+      "Metaphysics",
+      "Aesthetics",
+      "Ethics"
+    ],
+    "trad": "Modern European (Idealism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer",
+    "y": 1788,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/schopenhauer/"
+  },
+  {
+    "name": "Searle, John",
+    "dates": "1932–",
+    "desc": "Speech acts; Chinese Room, social ontology.",
+    "fields": [
+      "Philosophy of mind",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/John_Searle",
+    "y": 1932,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Sellars, Wilfrid",
+    "dates": "1912–1989",
+    "desc": "Myth of the given; scientific image of man.",
+    "fields": [
+      "Epistemology",
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Wilfrid_Sellars",
+    "y": 1912,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/sellars/"
+  },
+  {
+    "name": "Sen, Amartya",
+    "dates": "1933–",
+    "desc": "Capability approach; welfare economics, justice.",
+    "fields": [
+      "Political philosophy",
+      "Ethics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Amartya_Sen",
+    "y": 1933,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Seneca",
+    "dates": "c. 4 BC–65 AD",
+    "desc": "Roman Stoic; ethics, letters on living.",
+    "fields": [
+      "Ethics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+    "y": -4,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/seneca/"
+  },
+  {
+    "name": "Sextus Empiricus",
+    "dates": "c. 160–210",
+    "desc": "Pyrrhonist skeptic; chief source on ancient skepticism.",
+    "fields": [
+      "Epistemology"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Sextus_Empiricus",
+    "y": 160,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/sextus-empiricus/"
+  },
+  {
+    "name": "Shankara",
+    "dates": "c. 700–750",
+    "desc": "Foremost exponent of Advaita (non-dual) Vedanta.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion",
+      "Epistemology"
+    ],
+    "trad": "Classical Indian (Vedanta)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Adi_Shankara",
+    "y": 700,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/shankara/"
+  },
+  {
+    "name": "Shantarakshita",
+    "dates": "c. 725–788",
+    "desc": "Yogacara-Madhyamaka synthesis; brought Buddhism to Tibet.",
+    "fields": [
+      "Metaphysics",
+      "Epistemology"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/%C5%9A%C4%81ntarak%E1%B9%A3ita",
+    "y": 725,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/saantarak-sita/"
+  },
+  {
+    "name": "Shantideva",
+    "dates": "fl. 8th century",
+    "desc": "Bodhicaryavatara; Madhyamaka ethics of compassion.",
+    "fields": [
+      "Ethics",
+      "Philosophy of religion"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Shantideva",
+    "y": 750,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/shantideva/"
+  },
+  {
+    "name": "Shepherd, Mary",
+    "dates": "1777–1847",
+    "desc": "Causation, perception; critique of Hume and Berkeley.",
+    "fields": [
+      "Metaphysics",
+      "Epistemology"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Mary_Shepherd",
+    "y": 1777,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Singer, Peter",
+    "dates": "1946–",
+    "desc": "Practical ethics; animal liberation, effective altruism.",
+    "fields": [
+      "Ethics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Peter_Singer",
+    "y": 1946,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Smith, Adam",
+    "dates": "1723–1790",
+    "desc": "Moral sentiments; wealth of nations, sympathy.",
+    "fields": [
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Adam_Smith",
+    "y": 1723,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Sober, Elliott",
+    "dates": "1948–",
+    "desc": "Philosophy of biology; parsimony, evolution.",
+    "fields": [
+      "Philosophy of science"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Elliott_Sober",
+    "y": 1948,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Socrates",
+    "dates": "c. 470–399 BC",
+    "desc": "Socratic method; ethics, foundational gadfly.",
+    "fields": [
+      "Ethics",
+      "Epistemology"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Socrates",
+    "y": -470,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/socrates/"
+  },
+  {
+    "name": "Sor Juana Inés de la Cruz",
+    "dates": "1651–1695",
+    "desc": "Colonial Mexican proto-feminist; knowledge and reason.",
+    "fields": [
+      "Epistemology",
+      "Feminist"
+    ],
+    "trad": "Latin American",
+    "tgroup": "Latin American",
+    "url": "https://en.wikipedia.org/wiki/Juana_In%C3%A9s_de_la_Cruz",
+    "y": 1651,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Sosa, Ernest",
+    "dates": "1940–",
+    "desc": "Virtue epistemology; reflective knowledge.",
+    "fields": [
+      "Epistemology"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Ernest_Sosa",
+    "y": 1940,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Spinoza, Baruch",
+    "dates": "1632–1677",
+    "desc": "Substance monism; God-or-Nature, ethics geometrically.",
+    "fields": [
+      "Metaphysics",
+      "Ethics",
+      "Epistemology"
+    ],
+    "trad": "Modern European (Rationalism)",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Baruch_Spinoza",
+    "y": 1632,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/spinoza/"
+  },
+  {
+    "name": "Stalnaker, Robert",
+    "dates": "1940–",
+    "desc": "Possible worlds semantics; conditionals, content.",
+    "fields": [
+      "Philosophy of language",
+      "Metaphysics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Robert_Stalnaker",
+    "y": 1940,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Stein, Edith",
+    "dates": "1891–1942",
+    "desc": "Phenomenology of empathy; Christian philosophy.",
+    "fields": [
+      "Phenomenology/Existentialism",
+      "Philosophy of religion"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Edith_Stein",
+    "y": 1891,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/stein/"
+  },
+  {
+    "name": "Strawson, P. F.",
+    "dates": "1919–2006",
+    "desc": "Descriptive metaphysics; persons, free will.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/P._F._Strawson",
+    "y": 1919,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/strawson/"
+  },
+  {
+    "name": "Suhrawardi",
+    "dates": "1154–1191",
+    "desc": "Founder of Illuminationist (Ishraqi) philosophy.",
+    "fields": [
+      "Metaphysics",
+      "Epistemology"
+    ],
+    "trad": "Islamic (Persian)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Shahab_al-Din_Suhrawardi",
+    "y": 1154,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Swinburne, Richard",
+    "dates": "1934–",
+    "desc": "Natural theology; probabilistic arguments for God.",
+    "fields": [
+      "Philosophy of religion"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Richard_Swinburne",
+    "y": 1934,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Tagore, Rabindranath",
+    "dates": "1861–1941",
+    "desc": "Poet-philosopher; humanism, universalism, aesthetics.",
+    "fields": [
+      "Aesthetics",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (modern)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+    "y": 1861,
+    "era": "19th century"
+  },
+  {
+    "name": "Tarski, Alfred",
+    "dates": "1901–1983",
+    "desc": "Semantic theory of truth; model theory.",
+    "fields": [
+      "Logic",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Alfred_Tarski",
+    "y": 1901,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/tarski/"
+  },
+  {
+    "name": "Taylor, Charles",
+    "dates": "1931–",
+    "desc": "Communitarianism; sources of the self, secularity.",
+    "fields": [
+      "Political philosophy",
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Charles_Taylor_(philosopher)",
+    "y": 1931,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Thales",
+    "dates": "c. 624–546 BC",
+    "desc": "First philosopher; water as first principle.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of science"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Thales_of_Miletus",
+    "y": -624,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Thomson, Judith Jarvis",
+    "dates": "1929–2020",
+    "desc": "Trolley problem; rights, the ethics of abortion.",
+    "fields": [
+      "Ethics",
+      "Metaphysics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Judith_Jarvis_Thomson",
+    "y": 1929,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Tsongkhapa",
+    "dates": "1357–1419",
+    "desc": "Founder of Gelug school of Tibetan Buddhism.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Je_Tsongkhapa",
+    "y": 1357,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/tsongkhapa/"
+  },
+  {
+    "name": "Tusi, Nasir al-Din",
+    "dates": "1201–1274",
+    "desc": "Polymath; ethics, logic, astronomy, Avicennan revival.",
+    "fields": [
+      "Ethics",
+      "Logic",
+      "Philosophy of science"
+    ],
+    "trad": "Islamic (Persian)",
+    "tgroup": "Islamic",
+    "url": "https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi",
+    "y": 1201,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Udayana",
+    "dates": "fl. 10th century",
+    "desc": "Nyaya-Vaisheshika; arguments for God's existence.",
+    "fields": [
+      "Logic",
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Classical Indian (Nyaya)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Udayana",
+    "y": 950,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Uddyotakara",
+    "dates": "fl. 6th–7th century",
+    "desc": "Naiyayika; defended Nyaya against Buddhist logic.",
+    "fields": [
+      "Logic",
+      "Epistemology"
+    ],
+    "trad": "Classical Indian (Nyaya)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Uddyotakara",
+    "y": 650,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Umasvati",
+    "dates": "c. 2nd–5th century",
+    "desc": "Jain; Tattvartha Sutra, authoritative across sects.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (Jain)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Umaswati",
+    "y": 450,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Unamuno, Miguel de",
+    "dates": "1864–1936",
+    "desc": "Tragic sense of life; faith, existential reason.",
+    "fields": [
+      "Phenomenology/Existentialism",
+      "Philosophy of religion"
+    ],
+    "trad": "Latin American (Hispanic)",
+    "tgroup": "Latin American",
+    "url": "https://en.wikipedia.org/wiki/Miguel_de_Unamuno",
+    "y": 1864,
+    "era": "19th century"
+  },
+  {
+    "name": "Vacaspati Misra",
+    "dates": "fl. 9th–10th century",
+    "desc": "Commentator on all six orthodox systems; Bhamati Advaita.",
+    "fields": [
+      "Metaphysics",
+      "Epistemology"
+    ],
+    "trad": "Classical Indian",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Vacaspati_Misra",
+    "y": 950,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Vallabha",
+    "dates": "1479–1531",
+    "desc": "Founder of Shuddhadvaita (pure non-dualism) Vedanta.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Classical Indian (Vedanta)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Vallabha",
+    "y": 1479,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "van Fraassen, Bas",
+    "dates": "1941–",
+    "desc": "Constructive empiricism; philosophy of science.",
+    "fields": [
+      "Philosophy of science",
+      "Epistemology"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Bas_van_Fraassen",
+    "y": 1941,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "van Inwagen, Peter",
+    "dates": "1942–",
+    "desc": "Free will (consequence argument); material beings.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of religion"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Peter_van_Inwagen",
+    "y": 1942,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Vasconcelos, José",
+    "dates": "1882–1959",
+    "desc": "The Cosmic Race; Mexican philosophy of identity.",
+    "fields": [
+      "Social/Critical theory",
+      "Aesthetics"
+    ],
+    "trad": "Latin American",
+    "tgroup": "Latin American",
+    "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Vasconcelos",
+    "y": 1882,
+    "era": "19th century"
+  },
+  {
+    "name": "Vasubandhu",
+    "dates": "fl. 4th–5th century",
+    "desc": "Co-founder of Yogacara; Abhidharmakosa.",
+    "fields": [
+      "Metaphysics",
+      "Philosophy of mind"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Vasubandhu",
+    "y": 450,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/vasubandhu/"
+  },
+  {
+    "name": "Vatsyayana",
+    "dates": "fl. 5th century",
+    "desc": "Author of Nyaya Bhasya, foundational Nyaya commentary.",
+    "fields": [
+      "Logic",
+      "Epistemology"
+    ],
+    "trad": "Classical Indian (Nyaya)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Vatsyayana",
+    "y": 450,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Vivekananda, Swami",
+    "dates": "1863–1902",
+    "desc": "Neo-Vedanta; introduced Hindu philosophy to the West.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Classical Indian (modern)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Swami_Vivekananda",
+    "y": 1863,
+    "era": "19th century"
+  },
+  {
+    "name": "Voltaire",
+    "dates": "1694–1778",
+    "desc": "Enlightenment; tolerance, critique of religion.",
+    "fields": [
+      "Political philosophy",
+      "Philosophy of religion"
+    ],
+    "trad": "Modern European",
+    "tgroup": "Modern European",
+    "url": "https://en.wikipedia.org/wiki/Voltaire",
+    "y": 1694,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/voltaire/"
+  },
+  {
+    "name": "Wang Bi",
+    "dates": "226–249",
+    "desc": "Xuanxue; commentator on Daodejing and Yijing.",
+    "fields": [
+      "Metaphysics"
+    ],
+    "trad": "Classical Chinese (Daoist)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Wang_Bi",
+    "y": 226,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Wang Fuzhi",
+    "dates": "1619–1692",
+    "desc": "Late Ming materialist; priority of qi, historical change.",
+    "fields": [
+      "Metaphysics",
+      "Political philosophy"
+    ],
+    "trad": "Classical Chinese (Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Wang_Fuzhi",
+    "y": 1619,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Wang Yangming",
+    "dates": "1472–1529",
+    "desc": "School of Mind; unity of knowledge and action.",
+    "fields": [
+      "Metaphysics",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Neo-Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Wang_Yangming",
+    "y": 1472,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/wang-yangming/"
+  },
+  {
+    "name": "Warnock, Mary",
+    "dates": "1924–2019",
+    "desc": "Applied ethics, philosophy of education, bioethics.",
+    "fields": [
+      "Ethics",
+      "Aesthetics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Mary_Warnock",
+    "y": 1924,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Watsuji Tetsuro",
+    "dates": "1889–1960",
+    "desc": "Ethics as betweenness; climate and culture.",
+    "fields": [
+      "Ethics",
+      "Phenomenology/Existentialism"
+    ],
+    "trad": "Continental (Japanese)",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Tetsuro_Watsuji",
+    "y": 1889,
+    "era": "19th century"
+  },
+  {
+    "name": "Weil, Simone",
+    "dates": "1909–1943",
+    "desc": "Affliction, attention, mysticism, justice.",
+    "fields": [
+      "Philosophy of religion",
+      "Ethics",
+      "Political philosophy"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Simone_Weil",
+    "y": 1909,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/simone-weil/"
+  },
+  {
+    "name": "West, Cornel",
+    "dates": "1953–",
+    "desc": "Prophetic pragmatism; race, democracy, religion.",
+    "fields": [
+      "Social/Critical theory",
+      "Pragmatist"
+    ],
+    "trad": "African/Africana",
+    "tgroup": "African/Africana",
+    "url": "https://en.wikipedia.org/wiki/Cornel_West",
+    "y": 1953,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Whitehead, Alfred North",
+    "dates": "1861–1947",
+    "desc": "Process philosophy; Principia Mathematica.",
+    "fields": [
+      "Metaphysics",
+      "Logic"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Alfred_North_Whitehead",
+    "y": 1861,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/whitehead/"
+  },
+  {
+    "name": "Williams, Bernard",
+    "dates": "1929–2003",
+    "desc": "Critique of utilitarianism; moral luck, integrity.",
+    "fields": [
+      "Ethics"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Bernard_Williams",
+    "y": 1929,
+    "era": "Modern & contemporary",
+    "sep_url": "https://plato.stanford.edu/entries/williams-bernard/"
+  },
+  {
+    "name": "Williamson, Timothy",
+    "dates": "1955–",
+    "desc": "Knowledge-first epistemology; vagueness, modal logic.",
+    "fields": [
+      "Epistemology",
+      "Logic",
+      "Philosophy of language"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Timothy_Williamson",
+    "y": 1955,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Wiredu, Kwasi",
+    "dates": "1931–2022",
+    "desc": "Conceptual decolonization; consensual democracy.",
+    "fields": [
+      "Social/Critical theory",
+      "Epistemology"
+    ],
+    "trad": "African/Africana",
+    "tgroup": "African/Africana",
+    "url": "https://en.wikipedia.org/wiki/Kwasi_Wiredu",
+    "y": 1931,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Wittgenstein, Ludwig",
+    "dates": "1889–1951",
+    "desc": "Tractatus and Investigations; language games.",
+    "fields": [
+      "Philosophy of language",
+      "Logic",
+      "Philosophy of mind"
+    ],
+    "trad": "Analytic",
+    "tgroup": "Analytic",
+    "url": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+    "y": 1889,
+    "era": "19th century",
+    "sep_url": "https://plato.stanford.edu/entries/wittgenstein/"
+  },
+  {
+    "name": "Wollstonecraft, Mary",
+    "dates": "1759–1797",
+    "desc": "Vindication of the Rights of Woman; early feminism.",
+    "fields": [
+      "Political philosophy",
+      "Ethics",
+      "Feminist"
+    ],
+    "trad": "Feminist",
+    "tgroup": "Feminist",
+    "url": "https://en.wikipedia.org/wiki/Mary_Wollstonecraft",
+    "y": 1759,
+    "era": "Early modern (1500–1800)",
+    "sep_url": "https://plato.stanford.edu/entries/wollstonecraft/"
+  },
+  {
+    "name": "Wonhyo",
+    "dates": "617–686",
+    "desc": "Major Korean Buddhist; harmonized Mahayana doctrines.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Buddhist",
+    "tgroup": "Buddhist",
+    "url": "https://en.wikipedia.org/wiki/Wonhyo",
+    "y": 617,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Xenophanes",
+    "dates": "c. 570–478 BC",
+    "desc": "Critique of anthropomorphic gods; early monotheism.",
+    "fields": [
+      "Philosophy of religion",
+      "Metaphysics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Xenophanes",
+    "y": -570,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/xenophanes/"
+  },
+  {
+    "name": "Xunzi",
+    "dates": "c. 310–237 BC",
+    "desc": "Confucian; human nature needs correction, ritual.",
+    "fields": [
+      "Ethics",
+      "Political philosophy",
+      "Logic"
+    ],
+    "trad": "Classical Chinese (Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Xunzi",
+    "y": -310,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Yashovijaya",
+    "dates": "1624–1688",
+    "desc": "Jain monk; applied Navya-Nyaya logic to Jain philosophy.",
+    "fields": [
+      "Logic",
+      "Metaphysics"
+    ],
+    "trad": "Classical Indian (Jain)",
+    "tgroup": "Classical Indian",
+    "url": "https://en.wikipedia.org/wiki/Yashovijaya",
+    "y": 1624,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Yi Hwang (Toegye)",
+    "dates": "1501–1570",
+    "desc": "Korean Neo-Confucian; li-qi dualism, Four-Seven debate.",
+    "fields": [
+      "Metaphysics",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Neo-Confucian, Korean)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Yi_Hwang",
+    "y": 1501,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Yi I (Yulgok)",
+    "dates": "1536–1584",
+    "desc": "Korean Neo-Confucian; emphasized qi, counterpart to Toegye.",
+    "fields": [
+      "Metaphysics",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Neo-Confucian, Korean)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Yi_I",
+    "y": 1536,
+    "era": "Early modern (1500–1800)"
+  },
+  {
+    "name": "Zea, Leopoldo",
+    "dates": "1912–2004",
+    "desc": "Philosophy of Latin American identity and history.",
+    "fields": [
+      "Social/Critical theory",
+      "Political philosophy"
+    ],
+    "trad": "Latin American",
+    "tgroup": "Latin American",
+    "url": "https://en.wikipedia.org/wiki/Leopoldo_Zea_Aguilar",
+    "y": 1912,
+    "era": "Modern & contemporary"
+  },
+  {
+    "name": "Zeno of Citium",
+    "dates": "c. 334–262 BC",
+    "desc": "Founder of Stoicism.",
+    "fields": [
+      "Ethics",
+      "Logic",
+      "Metaphysics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Zeno_of_Citium",
+    "y": -334,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Zeno of Elea",
+    "dates": "c. 490–430 BC",
+    "desc": "Paradoxes of motion and plurality.",
+    "fields": [
+      "Logic",
+      "Metaphysics"
+    ],
+    "trad": "Ancient Greek/Roman",
+    "tgroup": "Ancient Greek/Roman",
+    "url": "https://en.wikipedia.org/wiki/Zeno_of_Elea",
+    "y": -490,
+    "era": "Ancient (to 500 CE)",
+    "sep_url": "https://plato.stanford.edu/entries/zeno-elea/"
+  },
+  {
+    "name": "Zhang Zai",
+    "dates": "1020–1077",
+    "desc": "Neo-Confucian; philosophy of qi, Western Inscription.",
+    "fields": [
+      "Metaphysics",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Neo-Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Zhang_Zai",
+    "y": 1020,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Zhou Dunyi",
+    "dates": "1017–1073",
+    "desc": "Pioneer of Neo-Confucianism; Supreme Ultimate.",
+    "fields": [
+      "Metaphysics",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Neo-Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Zhou_Dunyi",
+    "y": 1017,
+    "era": "Medieval (500–1500)"
+  },
+  {
+    "name": "Zhu Xi",
+    "dates": "1130–1200",
+    "desc": "Synthesizer of Neo-Confucian School of Principle.",
+    "fields": [
+      "Metaphysics",
+      "Ethics",
+      "Epistemology"
+    ],
+    "trad": "Classical Chinese (Neo-Confucian)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Zhu_Xi",
+    "y": 1130,
+    "era": "Medieval (500–1500)",
+    "sep_url": "https://plato.stanford.edu/entries/zhu-xi/"
+  },
+  {
+    "name": "Zhuangzi",
+    "dates": "c. 369–286 BC",
+    "desc": "Daoist; skepticism, spontaneity, relativism.",
+    "fields": [
+      "Metaphysics",
+      "Ethics"
+    ],
+    "trad": "Classical Chinese (Daoist)",
+    "tgroup": "Classical Chinese",
+    "url": "https://en.wikipedia.org/wiki/Zhuangzi",
+    "y": -369,
+    "era": "Ancient (to 500 CE)"
+  },
+  {
+    "name": "Žižek, Slavoj",
+    "dates": "1949–",
+    "desc": "Lacanian-Hegelian critique of ideology.",
+    "fields": [
+      "Social/Critical theory",
+      "Philosophy of mind"
+    ],
+    "trad": "Continental",
+    "tgroup": "Continental",
+    "url": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek",
+    "y": 1949,
+    "era": "Modern & contemporary"
+  }
+]
