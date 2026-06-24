@@ -49,6 +49,7 @@ header{border-bottom:1px solid var(--line);background:var(--paper);}
   width:17px;height:17px;stroke:var(--ink-soft);fill:none;stroke-width:2}
 
 .dd{position:relative}
+.dd.open{z-index:50}
 .dd-btn{font-family:inherit;font-size:14px;color:var(--ink);background:var(--card);
   border:1px solid var(--line);border-radius:10px;padding:11px 14px;cursor:pointer;
   display:flex;align-items:center;gap:8px;white-space:nowrap}
@@ -63,6 +64,7 @@ header{border-bottom:1px solid var(--line);background:var(--paper);}
   overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:12px;
   box-shadow:0 12px 32px var(--shadow);padding:6px;display:none}
 .dd.open .panel{display:block}
+.panel.align-right{left:auto;right:0}
 .opt{display:flex;align-items:center;gap:10px;padding:9px 10px;border-radius:8px;cursor:pointer;font-size:14px}
 .opt:hover{background:var(--paper-2)}
 .opt input{accent-color:var(--accent);width:15px;height:15px}
@@ -91,7 +93,7 @@ header{border-bottom:1px solid var(--line);background:var(--paper);}
 
 .row{display:grid;grid-template-columns:minmax(0,2.1fr) minmax(0,3fr);gap:24px;
   padding:18px 0;border-bottom:1px solid var(--line-soft);align-items:start}
-.row:hover{background:var(--card)}
+.row{transition:background .12s}
 .row .ident{min-width:0}
 .row .nm{font-family:'Fraunces',serif;font-size:21px;font-weight:500;line-height:1.15;letter-spacing:-.005em}
 .row .nm a{text-decoration:none}
@@ -124,7 +126,8 @@ footer a{color:var(--accent)}
   .row{grid-template-columns:1fr;gap:8px;padding:16px 0}
   .masthead{padding:28px 0 20px}
 }
-mark{background:var(--accent-soft);color:var(--accent);padding:0 2px;border-radius:3px}
+mark{background:#fde68a;color:#3a2e00;padding:0 2px;border-radius:3px}
+:root[data-theme="dark"] mark{background:#7a5c12;color:#fff4d6}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 .tldr-btn{font-family:inherit;font-size:12px;color:var(--accent);background:transparent;
   border:1px solid var(--line);border-radius:6px;padding:3px 10px;cursor:pointer;margin-top:10px;
@@ -170,6 +173,14 @@ mark{background:var(--accent-soft);color:var(--accent);padding:0 2px;border-radi
 .fav-filter-btn{color:var(--gold)}
 .fav-filter-btn.active{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
 .fav-filter-btn:hover{border-color:var(--gold)}
+.controls-right{margin-left:auto;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.copy-link-btn{display:inline-flex;align-items:center;gap:6px}
+.copy-link-btn svg{width:13px;height:13px;stroke:currentColor;fill:none;stroke-width:2}
+.view-btn{display:inline-flex;align-items:center;gap:6px}
+.view-btn svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:2}
+.view-btn.active svg{stroke:var(--accent)}
+.alpha-head{padding:18px 0 8px}
+@media (max-width:680px){.controls-right{margin-left:0;width:100%}}
 
 .gloss-bar{border-bottom:1px solid var(--line)}
 .gloss-toggle{width:100%;display:flex;align-items:center;justify-content:space-between;
@@ -312,18 +323,23 @@ mark{background:var(--accent-soft);color:var(--accent);padding:0 2px;border-radi
         <svg class="chev" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button>
       <div class="panel" role="menu"></div>
     </div>
-    <div class="dd" id="ddSort">
-      <button class="dd-btn" aria-haspopup="true"><span id="sortLabel">Alphabetical</span>
-        <svg class="chev" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button>
-      <div class="panel" role="menu"></div>
+    <div class="controls-right">
+      <div class="dd" id="ddSort">
+        <button class="dd-btn" aria-haspopup="true"><span id="sortLabel">Alphabetical</span>
+          <svg class="chev" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button>
+        <div class="panel" role="menu"></div>
+      </div>
+      <button class="fav-filter-btn" id="favFilterBtn">★ Favourites</button>
+      <div class="view-toggle" role="group" aria-label="View">
+        <button class="view-btn active" data-view="list" aria-pressed="true">
+          <svg viewBox="0 0 24 24"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>List</button>
+        <button class="view-btn" data-view="timeline" aria-pressed="false">
+          <svg viewBox="0 0 24 24"><line x1="3" y1="12" x2="21" y2="12"/><circle cx="7" cy="12" r="2"/><circle cx="14" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>Timeline</button>
+      </div>
+      <button class="clear-filters-btn" id="clearFiltersBtn" disabled>Clear filters</button>
+      <button class="copy-link-btn" id="copyLinkBtn" title="Copy shareable link">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg><span>Share</span></button>
     </div>
-    <button class="fav-filter-btn" id="favFilterBtn">★ Favourites</button>
-    <div class="view-toggle" role="group" aria-label="View">
-      <button class="view-btn active" data-view="list" aria-pressed="true">List</button>
-      <button class="view-btn" data-view="timeline" aria-pressed="false">Timeline</button>
-    </div>
-    <button class="clear-filters-btn" id="clearFiltersBtn" disabled>Clear filters</button>
-    <button class="copy-link-btn" id="copyLinkBtn" title="Copy link">↗</button>
   </div>
 </div>
 
@@ -352,13 +368,14 @@ mark{background:var(--accent-soft);color:var(--accent);padding:0 2px;border-radi
 
 <footer><div class="wrap" style="padding:0">
   Each entry links to its Wikipedia article. Popularity is average English Wikipedia views per day over a rolling 10-year window, normalized only for display. Field tags are inclusive &mdash; a thinker tagged in several fields appears under each. Dates for ancient and pre-modern figures are scholarly estimates (“c.” = circa, “fl.” = flourished). Built as a browsable reference; corrections welcome.
+  <span style="display:block;margin-top:14px"><a href="https://github.com/andreasnonslid/phil" target="_blank" rel="noopener">Source on GitHub &rarr;</a></span>
 </div></footer>
 
 <script>
 let DATA=[];
-const FIELDS=["Aesthetics", "Epistemology", "Ethics", "Feminist", "Logic", "Metaphysics", "Phenomenology/Existentialism", "Philosophy of language", "Philosophy of mind", "Philosophy of religion", "Philosophy of science", "Political philosophy", "Pragmatist", "Social/Critical theory"], TGROUPS=["African/Africana", "Analytic", "Ancient Greek/Roman", "Buddhist", "Classical Chinese", "Classical Indian", "Continental", "Feminist", "Islamic", "Jewish", "Latin American", "Medieval European", "Modern European", "Pragmatist"], ERAS=["Ancient (to 500 CE)", "Medieval (500–1500)", "Early modern (1500–1800)", "19th century", "Modern & contemporary"];
+const FIELDS=["Aesthetics", "Epistemology", "Ethics", "Feminist", "Logic", "Metaphysics", "Phenomenology/Existentialism", "Philosophy of language", "Philosophy of mind", "Philosophy of religion", "Philosophy of science", "Political philosophy", "Pragmatism", "Social/Critical theory"], TGROUPS=["African/Africana", "Analytic", "Ancient Greek/Roman", "Buddhist", "Classical Chinese", "Classical Indian", "Continental", "Feminist", "Islamic", "Jewish", "Latin American", "Medieval European", "Modern European", "Pragmatist"], ERAS=["Ancient (to 500 CE)", "Medieval (500–1500)", "Early modern (1500–1800)", "19th century", "Modern & contemporary"];
 const state={q:"",fields:new Set(),trads:new Set(),eras:new Set(),sort:"az",showFavs:false,view:"list"};
-const SORTS=[["old","Chronological"],["new","Reverse chronological"],["az","Alphabetical"],["popularity","Popularity"],["random","Random"]];
+const SORTS=[["old","Chronological"],["new","Reverse chronological"],["az","Alphabetical"],["popularity","Popularity"]];
 const formatViews=n=>Number(n||0).toLocaleString(undefined,{maximumFractionDigits:0});
 
 async function loadData(){
@@ -409,6 +426,11 @@ document.querySelectorAll(".dd-btn").forEach(btn=>{
     const dd=btn.parentElement;
     document.querySelectorAll(".dd").forEach(d=>{if(d!==dd)d.classList.remove("open")});
     dd.classList.toggle("open");
+    if(dd.classList.contains("open")){
+      const panel=dd.querySelector(".panel");
+      panel.classList.remove("align-right");
+      if(panel.getBoundingClientRect().right>window.innerWidth-8)panel.classList.add("align-right");
+    }
   });
 });
 document.addEventListener("click",e=>{
@@ -511,8 +533,9 @@ const TLDR={"Abelard, Peter": "Medieval France's sharpest logician and one of it
 function row(r){
   const q=state.q;
   const fieldTags=r.fields.map(f=>`<button class="tag field" data-field="${esc(f)}">${esc(f)}</button>`).join("");
-  const popClass=r.popularity>=80?"pop-high":r.popularity>=45?"pop-mid":"pop-low";
-  const popTag=r.popularity===null?"":`<span class="tag popularity ${popClass}" title="${formatViews(r.avg_views_per_day)} average Wikipedia views per day over the last 10 years">Popularity: ${r.popularity}/100</span>`;
+  const popClass=r.popularity>=75?"pop-high":r.popularity>=50?"pop-mid":"pop-low";
+  const popLabel=r.popularity>=75?"Widely read":r.popularity>=50?"Often read":"Lesser-read";
+  const popTag=r.popularity===null?"":`<span class="tag popularity ${popClass}" title="Score ${r.popularity}/100 \u00b7 ${formatViews(r.avg_views_per_day)} avg. Wikipedia views/day (10-year window)">${popLabel}</span>`;
   const ext=`<svg class="ext" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M9 7h8v8"/></svg>`;
   return `<div class="row">
     <div class="ident">
@@ -565,6 +588,7 @@ function timelineItemClass(r,recs){
 }
 
 function renderTimeline(recs){
+  const prevScroll=document.getElementById("timelineScroller")?.scrollLeft||0;
   const sorted=[...recs].sort((a,b)=>a.y-b.y||(a.name<b.name?-1:1));
   const years=sorted.map(r=>r.y).filter(y=>Number.isFinite(y));
   if(!years.length){
@@ -623,6 +647,9 @@ function renderTimeline(recs){
   </div>`;
   wireTimeline();
   wireTimelineResizer();
+  if(prevScroll){
+    requestAnimationFrame(()=>{const s=document.getElementById("timelineScroller");if(s)s.scrollLeft=prevScroll;});
+  }
 }
 
 function moveTimelineTip(e){
@@ -781,6 +808,13 @@ function render(){
       h+=`<div class="era-head">${esc(era)}<span class="n">${grp.length}</span></div>`;
       h+=grp.map(row).join("");
     });
+  }else if(state.sort==="az"){
+    let lastLetter="";
+    recs.forEach(r=>{
+      const letter=(r.name[0]||"").toUpperCase();
+      if(letter!==lastLetter){lastLetter=letter;h+=`<div class="era-head alpha-head">${esc(letter)}</div>`;}
+      h+=row(r);
+    });
   }else{
     h=recs.map(row).join("");
   }
@@ -835,6 +869,7 @@ const FIELD_GLOSSARY = {
   "Philosophy of science": "Investigates what science is, how it produces knowledge, what explanation and causation mean, and whether scientific theories describe reality or merely predict it.",
   "Phenomenology/Existentialism": "Phenomenology describes structures of conscious experience; existentialism asks what it means to exist as a free being in a world without given meaning. Often intertwined.",
   "Political philosophy": "Studies legitimacy, justice, authority, and rights. Asks what makes a government just, what citizens owe each other, and how power should be distributed.",
+  "Pragmatism": "Holds that the meaning and truth of an idea lie in its practical consequences. Treats inquiry as problem-solving and is skeptical of fixed foundations, favoring what works in experience.",
   "Social/Critical theory": "Analyzes how social structures, ideology, and power reproduce inequality. Draws on Marx, Freud, and sociology to critique culture, institutions, and knowledge itself.",
 };
 
@@ -907,8 +942,7 @@ function randSave(s){ try{ localStorage.setItem(RAND_KEY, JSON.stringify([...s])
 function randUpdateUI(){
   const seen = randLoad();
   const clr  = $("#randClear");
-  clr.style.opacity       = seen.size === 0 ? "0.4" : "1";
-  clr.style.pointerEvents = seen.size === 0 ? "none" : "auto";
+  clr.hidden = seen.size === 0;
   $("#randSeenCount").textContent = seen.size;
   $("#randExhausted").hidden = true;
 }
@@ -1061,6 +1095,8 @@ $("#copyLinkBtn").addEventListener("click", () => {
 async function initApp(){
   try{
     await loadData();
+    const kicker=document.querySelector(".kicker");
+    if(kicker)kicker.textContent=`A global reference \u00b7 ${DATA.length} thinkers`;
     decodeHash();
     if(!location.hash)render();
   }catch(err){
