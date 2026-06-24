@@ -94,7 +94,7 @@ button.opt{width:100%;font-family:inherit;background:none;border:0;text-align:le
 
 .row{display:grid;grid-template-columns:minmax(0,2.1fr) minmax(0,3fr);gap:24px;
   padding:18px 0;border-bottom:1px solid var(--line-soft);align-items:start}
-.row{transition:background .12s}
+
 .row .ident{min-width:0}
 .row .nm{font-family:'Fraunces',serif;font-size:21px;font-weight:500;line-height:1.15;letter-spacing:-.005em}
 .row .nm a{text-decoration:none}
@@ -246,7 +246,7 @@ mark{background:#fde68a;color:#3a2e00;padding:0 2px;border-radius:3px}
 .tip-tags{display:flex;gap:5px;flex-wrap:wrap;margin-top:9px}
 .tip-tag{font-size:11px;color:var(--accent);background:var(--accent-soft);border-radius:999px;padding:2px 7px}
 
-.timeline-name{margin-left:5px;font-size:11px;color:var(--ink);white-space:nowrap}
+
 @media (max-width:680px){
   .view-toggle{order:5}
   .timeline-head{align-items:flex-start}
@@ -254,7 +254,7 @@ mark{background:#fde68a;color:#3a2e00;padding:0 2px;border-radius:3px}
   .timeline-axis{left:126px}
   .lane-label{width:110px;font-size:11px}
   .lane-track{left:126px}
-  .timeline-name{display:none}
+
 }
 
 </style>
@@ -320,23 +320,23 @@ mark{background:#fde68a;color:#3a2e00;padding:0 2px;border-radius:3px}
     <div class="dd" id="ddField">
       <button class="dd-btn" aria-haspopup="true"><span>Field</span><span class="badge" hidden>0</span>
         <svg class="chev" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button>
-      <div class="panel" role="menu"></div>
+      <div class="panel" role="group"></div>
     </div>
     <div class="dd" id="ddTrad">
       <button class="dd-btn" aria-haspopup="true"><span>Tradition</span><span class="badge" hidden>0</span>
         <svg class="chev" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button>
-      <div class="panel" role="menu"></div>
+      <div class="panel" role="group"></div>
     </div>
     <div class="dd" id="ddEra">
       <button class="dd-btn" aria-haspopup="true"><span>Era</span><span class="badge" hidden>0</span>
         <svg class="chev" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button>
-      <div class="panel" role="menu"></div>
+      <div class="panel" role="group"></div>
     </div>
     <div class="controls-right">
       <div class="dd" id="ddSort">
         <button class="dd-btn" aria-haspopup="true"><span id="sortLabel">Alphabetical</span>
           <svg class="chev" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button>
-        <div class="panel" role="menu"></div>
+        <div class="panel" role="group"></div>
       </div>
       <button class="fav-filter-btn" id="favFilterBtn">★ Favourites</button>
       <div class="view-toggle" role="group" aria-label="View">
@@ -431,10 +431,12 @@ buildPanel("#ddEra",ERAS,state.eras,true);
 buildPanel("#ddSort",SORTS,null,false);
 
 document.querySelectorAll(".dd-btn").forEach(btn=>{
+  btn.setAttribute("aria-expanded","false");
   btn.addEventListener("click",e=>{
     const dd=btn.parentElement;
-    document.querySelectorAll(".dd").forEach(d=>{if(d!==dd)d.classList.remove("open")});
+    document.querySelectorAll(".dd").forEach(d=>{if(d!==dd){d.classList.remove("open");const ob=d.querySelector(".dd-btn");if(ob)ob.setAttribute("aria-expanded","false");}});
     dd.classList.toggle("open");
+    btn.setAttribute("aria-expanded",String(dd.classList.contains("open")));
     if(dd.classList.contains("open")){
       const panel=dd.querySelector(".panel");
       panel.classList.remove("align-right");
@@ -443,7 +445,7 @@ document.querySelectorAll(".dd-btn").forEach(btn=>{
   });
 });
 document.addEventListener("click",e=>{
-  if(!e.target.closest(".dd"))document.querySelectorAll(".dd").forEach(d=>d.classList.remove("open"));
+  if(!e.target.closest(".dd"))document.querySelectorAll(".dd").forEach(d=>{d.classList.remove("open");const ob=d.querySelector(".dd-btn");if(ob)ob.setAttribute("aria-expanded","false");});
 });
 
 function wireMulti(id,setRef){
@@ -546,7 +548,7 @@ function row(r){
   const q=state.q;
   const fieldTags=r.fields.map(f=>`<button class="tag field" data-field="${esc(f)}">${esc(f)}</button>`).join("");
   const popClass=r.popularity>=75?"pop-high":r.popularity>=50?"pop-mid":"pop-low";
-  const popLabel=r.popularity>=75?"Widely read":r.popularity>=50?"Often read":"Lesser-read";
+  const popLabel=r.popularity>=75?"Widely read":r.popularity>=50?"Often read":"Less read";
   const popTag=r.popularity===null?"":`<span class="tag popularity ${popClass}" title="Score ${r.popularity}/100 \u00b7 ${formatViews(r.avg_views_per_day)} avg. Wikipedia views/day (10-year window)">${popLabel}</span>`;
   const ext=`<svg class="ext" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M9 7h8v8"/></svg>`;
   return `<div class="row">
@@ -594,8 +596,8 @@ function timelineTicks(min,max){
 }
 
 function timelineItemClass(r,recs){
-  if((r.popularity||0)>=78)return "popular";
-  if((r.popularity||0)>=45)return "mid";
+  if((r.popularity||0)>=75)return "popular";
+  if((r.popularity||0)>=50)return "mid";
   return recs.length>90?"dot-only":"";
 }
 
@@ -621,11 +623,9 @@ function renderTimeline(recs){
     const points=items.map(r=>{
       const x=((r.y-start)/span)*100;
       const cls=timelineItemClass(r,recs);
-      const label = (cls==="popular"||cls==="mid")
-        ? `<span class="timeline-name">${esc(r.name.split(",")[0])}</span>` : "";
       return `<a class="timeline-item ${cls}" href="${r.url}" target="_blank" rel="noopener"
         data-name="${esc(r.name)}" style="left:${x}%;top:50%;--c:${color}">
-        <span class="timeline-dot"></span>${label}
+        <span class="timeline-dot"></span>
       </a>`;
     }).join("");
     return `<div class="timeline-lane">
