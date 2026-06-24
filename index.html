@@ -67,6 +67,7 @@ header{border-bottom:1px solid var(--line);background:var(--paper);}
 .panel.align-right{left:auto;right:0}
 .opt{display:flex;align-items:center;gap:10px;padding:9px 10px;border-radius:8px;cursor:pointer;font-size:14px}
 .opt:hover{background:var(--paper-2)}
+button.opt{width:100%;font-family:inherit;background:none;border:0;text-align:left}
 .opt input{accent-color:var(--accent);width:15px;height:15px}
 .opt.radio{justify-content:space-between}
 .opt .tick{width:15px;height:15px;stroke:var(--accent);fill:none;stroke-width:2.5;opacity:0}
@@ -245,6 +246,7 @@ mark{background:#fde68a;color:#3a2e00;padding:0 2px;border-radius:3px}
 .tip-tags{display:flex;gap:5px;flex-wrap:wrap;margin-top:9px}
 .tip-tag{font-size:11px;color:var(--accent);background:var(--accent-soft);border-radius:999px;padding:2px 7px}
 
+.timeline-name{margin-left:5px;font-size:11px;color:var(--ink);white-space:nowrap}
 @media (max-width:680px){
   .view-toggle{order:5}
   .timeline-head{align-items:flex-start}
@@ -256,6 +258,13 @@ mark{background:#fde68a;color:#3a2e00;padding:0 2px;border-radius:3px}
 }
 
 </style>
+<script>
+(function(){
+  var t = localStorage.getItem("phil_theme");
+  if(!t) t = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  if(t==="dark") document.documentElement.setAttribute("data-theme","dark");
+})();
+</script>
 </head>
 <body>
 <header>
@@ -408,9 +417,9 @@ function buildPanel(id,items,setRef,multi){
     if(multi){
       h+=`<label class="opt"><input type="checkbox" value="${esc(it)}"><span>${esc(it)}</span></label>`;
     }else{
-      h+=`<div class="opt radio" data-val="${esc(it[0]||it)}">
+      h+=`<button type="button" class="opt radio" data-val="${esc(it[0]||it)}">
         <span>${esc(it[1]||it)}</span>
-        <svg class="tick" viewBox="0 0 24 24"><polyline points="5 12 10 17 19 7"/></svg></div>`;
+        <svg class="tick" viewBox="0 0 24 24"><polyline points="5 12 10 17 19 7"/></svg></button>`;
     }
   });
   panel.innerHTML=h;
@@ -475,10 +484,13 @@ function updBadge(dd,n){
 $("#q").addEventListener("input",e=>{state.q=e.target.value.trim().toLowerCase();render();});
 
 const themeBtn=$("#themeBtn");
+themeBtn.textContent=document.documentElement.getAttribute("data-theme")==="dark"?"Light mode":"Dark mode";
 themeBtn.addEventListener("click",()=>{
   const dark=document.documentElement.getAttribute("data-theme")==="dark";
-  document.documentElement.setAttribute("data-theme",dark?"light":"dark");
+  const next=dark?"light":"dark";
+  document.documentElement.setAttribute("data-theme",next);
   themeBtn.textContent=dark?"Dark mode":"Light mode";
+  localStorage.setItem("phil_theme",next);
 });
 
 function highlight(text,q){
@@ -609,9 +621,11 @@ function renderTimeline(recs){
     const points=items.map(r=>{
       const x=((r.y-start)/span)*100;
       const cls=timelineItemClass(r,recs);
+      const label = (cls==="popular"||cls==="mid")
+        ? `<span class="timeline-name">${esc(r.name.split(",")[0])}</span>` : "";
       return `<a class="timeline-item ${cls}" href="${r.url}" target="_blank" rel="noopener"
         data-name="${esc(r.name)}" style="left:${x}%;top:50%;--c:${color}">
-        <span class="timeline-dot"></span>
+        <span class="timeline-dot"></span>${label}
       </a>`;
     }).join("");
     return `<div class="timeline-lane">
@@ -619,7 +633,7 @@ function renderTimeline(recs){
       <div class="lane-track">${points}</div>
     </div>`;
   }).join("");
-  const showingLabels=recs.length<=90?"Labels show for all points.":"Popular points are labelled; hover any point for details.";
+  const showingLabels="Hover any point for details.";
   $("#results").innerHTML=`<div class="timeline-wrap">
     <div class="timeline-head">
       <div>
@@ -711,24 +725,13 @@ function wireTimeline(){
 
   const scroller=document.getElementById("timelineScroller");
   if(scroller){
-    let dragging=false,startX=0,startScroll=0,moved=false;
     scroller.addEventListener("mousedown",e=>{
       if(e.target.closest(".timeline-item"))return;
+      activeScroller=scroller;
       dragging=true; moved=false;
       startX=e.clientX; startScroll=scroller.scrollLeft;
       scroller.style.cursor="grabbing";
       e.preventDefault();
-    });
-    document.addEventListener("mousemove",e=>{
-      if(!dragging)return;
-      const dx=e.clientX-startX;
-      if(Math.abs(dx)>3)moved=true;
-      if(moved)scroller.scrollLeft=startScroll-dx;
-    });
-    document.addEventListener("mouseup",()=>{
-      if(!dragging)return;
-      dragging=false;
-      scroller.style.cursor="";
     });
     scroller.addEventListener("click",e=>{
       if(moved)e.stopPropagation();
@@ -756,6 +759,20 @@ function wireTimeline(){
     },{passive:false});
   }
 }
+
+let dragging=false,startX=0,startScroll=0,moved=false,activeScroller=null;
+document.addEventListener("mousemove",e=>{
+  if(!dragging||!activeScroller)return;
+  const dx=e.clientX-startX;
+  if(Math.abs(dx)>3)moved=true;
+  if(moved)activeScroller.scrollLeft=startScroll-dx;
+});
+document.addEventListener("mouseup",()=>{
+  if(!dragging||!activeScroller)return;
+  dragging=false;
+  activeScroller.style.cursor="";
+  activeScroller=null;
+});
 
 let tlZoomLevel=3;
 const TL_BASE=800;
@@ -1085,9 +1102,10 @@ $("#copyLinkBtn").addEventListener("click", () => {
   encodeHash();
   navigator.clipboard.writeText(location.href).then(() => {
     const btn = $("#copyLinkBtn");
-    const orig = btn.textContent;
-    btn.textContent = "Copied!";
-    setTimeout(() => { btn.textContent = orig; }, 1500);
+    const span = btn.querySelector("span");
+    const orig = span.textContent;
+    span.textContent = "Copied!";
+    setTimeout(() => { span.textContent = orig; }, 1500);
   });
 });
 // ---- end share / deeplink ----
