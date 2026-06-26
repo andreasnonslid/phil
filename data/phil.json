@@ -12,6 +12,17 @@
       "trad"
     ],
     "timelineLaneFilterId": "trads",
+    "cardTags": [
+      {
+        "id": "fields",
+        "cls": "field"
+      },
+      {
+        "id": "trads",
+        "cls": "trad",
+        "labelKey": "trad"
+      }
+    ],
     "filters": [
       {
         "id": "fields",

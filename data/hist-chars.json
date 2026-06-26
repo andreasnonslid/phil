@@ -6,6 +6,10 @@
     "itemNoun": "figures",
     "itemNounSingular": "figure",
     "searchKeys": ["name", "desc", "roles"],
+    "cardTags": [
+      { "id": "roles" },
+      { "id": "era" }
+    ],
     "filters": [
       {
         "id": "roles",
@@ -61,7 +65,134 @@
     "yearKey": "y",
     "timeline": false,
     "popularity": false,
-    "footer": "A placeholder topic — figure entries will be added here."
+    "footer": "A placeholder topic seeded with sample figures. Dates are scholarly estimates where exact dates are unknown."
   },
-  "entries": []
+  "entries": [
+    {
+      "name": "Confucius",
+      "dates": "551–479 BCE",
+      "y": -551,
+      "roles": ["Writer", "Reformer"],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Chinese teacher and philosopher whose ideas on ethics and governance shaped East Asian thought.",
+      "url": "https://en.wikipedia.org/wiki/Confucius"
+    },
+    {
+      "name": "Julius Caesar",
+      "dates": "100–44 BCE",
+      "y": -100,
+      "roles": ["Ruler", "Military"],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Roman general and statesman whose rise ended the Republic and led to the Empire.",
+      "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+    },
+    {
+      "name": "Cleopatra VII",
+      "dates": "69–30 BCE",
+      "y": -69,
+      "roles": ["Ruler"],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Last active ruler of Ptolemaic Egypt, allied with Julius Caesar and Mark Antony.",
+      "url": "https://en.wikipedia.org/wiki/Cleopatra"
+    },
+    {
+      "name": "Charlemagne",
+      "dates": "c. 748–814",
+      "y": 748,
+      "roles": ["Ruler", "Military"],
+      "era": "Medieval (500–1500)",
+      "desc": "King of the Franks who united much of western Europe and was crowned Emperor in 800.",
+      "url": "https://en.wikipedia.org/wiki/Charlemagne"
+    },
+    {
+      "name": "Saladin",
+      "dates": "1137–1193",
+      "y": 1137,
+      "roles": ["Ruler", "Military"],
+      "era": "Medieval (500–1500)",
+      "desc": "First sultan of Egypt and Syria who led Muslim forces during the Crusades.",
+      "url": "https://en.wikipedia.org/wiki/Saladin"
+    },
+    {
+      "name": "Joan of Arc",
+      "dates": "c. 1412–1431",
+      "y": 1412,
+      "roles": ["Military", "Religious"],
+      "era": "Medieval (500–1500)",
+      "desc": "French peasant who led armies during the Hundred Years' War and was later canonised.",
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Arc"
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "dates": "1452–1519",
+      "y": 1452,
+      "roles": ["Artist", "Scientist"],
+      "era": "Early modern (1500–1800)",
+      "desc": "Italian polymath of the Renaissance, painter of the Mona Lisa and prolific inventor.",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "name": "Ferdinand Magellan",
+      "dates": "1480–1521",
+      "y": 1480,
+      "roles": ["Explorer"],
+      "era": "Early modern (1500–1800)",
+      "desc": "Portuguese explorer who organised the first expedition to circumnavigate the globe.",
+      "url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan"
+    },
+    {
+      "name": "Martin Luther",
+      "dates": "1483–1546",
+      "y": 1483,
+      "roles": ["Religious", "Reformer"],
+      "era": "Early modern (1500–1800)",
+      "desc": "German theologian whose Ninety-five Theses sparked the Protestant Reformation.",
+      "url": "https://en.wikipedia.org/wiki/Martin_Luther"
+    },
+    {
+      "name": "Isaac Newton",
+      "dates": "1643–1727",
+      "y": 1643,
+      "roles": ["Scientist"],
+      "era": "Early modern (1500–1800)",
+      "desc": "English physicist and mathematician who formulated the laws of motion and gravitation.",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+      "name": "Charles Darwin",
+      "dates": "1809–1882",
+      "y": 1809,
+      "roles": ["Scientist", "Writer"],
+      "era": "19th century",
+      "desc": "English naturalist whose theory of evolution by natural selection transformed biology.",
+      "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "name": "Florence Nightingale",
+      "dates": "1820–1910",
+      "y": 1820,
+      "roles": ["Reformer"],
+      "era": "19th century",
+      "desc": "Founder of modern nursing and a pioneer of statistics in public health.",
+      "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
+    },
+    {
+      "name": "Marie Curie",
+      "dates": "1867–1934",
+      "y": 1867,
+      "roles": ["Scientist"],
+      "era": "20th century onward",
+      "desc": "Physicist and chemist, pioneer of radioactivity and the first person to win two Nobel Prizes.",
+      "url": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "dates": "1869–1948",
+      "y": 1869,
+      "roles": ["Reformer"],
+      "era": "20th century onward",
+      "desc": "Leader of India's nonviolent independence movement against British rule.",
+      "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+    }
+  ]
 }

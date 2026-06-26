@@ -7,6 +7,10 @@
     "itemNounSingular": "event",
     "searchKeys": ["name", "desc", "region"],
     "timelineLaneFilterId": "region",
+    "cardTags": [
+      { "id": "region" },
+      { "id": "period" }
+    ],
     "filters": [
       {
         "id": "region",
@@ -58,7 +62,134 @@
     "yearKey": "y",
     "timeline": true,
     "popularity": false,
-    "footer": "A placeholder topic — event entries will be added here. Dates are scholarly estimates where exact dates are unknown."
+    "footer": "A placeholder topic seeded with sample events. Dates are scholarly estimates where exact dates are unknown."
   },
-  "entries": []
+  "entries": [
+    {
+      "name": "Founding of Rome",
+      "dates": "753 BCE",
+      "y": -753,
+      "region": "Europe",
+      "period": "Ancient (to 500 CE)",
+      "desc": "Traditional date for the founding of the city of Rome, later the centre of the Roman Republic and Empire.",
+      "url": "https://en.wikipedia.org/wiki/Founding_of_Rome"
+    },
+    {
+      "name": "Battle of Marathon",
+      "dates": "490 BCE",
+      "y": -490,
+      "region": "Europe",
+      "period": "Ancient (to 500 CE)",
+      "desc": "Athenian-led victory over the first Persian invasion of Greece, a defining moment for the Greek city-states.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Marathon"
+    },
+    {
+      "name": "Unification of China under Qin",
+      "dates": "221 BCE",
+      "y": -221,
+      "region": "East Asia",
+      "period": "Ancient (to 500 CE)",
+      "desc": "Qin Shi Huang united the warring states into the first centralised Chinese empire.",
+      "url": "https://en.wikipedia.org/wiki/Qin_dynasty"
+    },
+    {
+      "name": "Fall of the Western Roman Empire",
+      "dates": "476 CE",
+      "y": 476,
+      "region": "Europe",
+      "period": "Ancient (to 500 CE)",
+      "desc": "Deposition of Romulus Augustulus, conventionally marking the end of the western Roman Empire.",
+      "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+    },
+    {
+      "name": "The Hijra",
+      "dates": "622 CE",
+      "y": 622,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Muhammad's migration from Mecca to Medina, the starting point of the Islamic calendar.",
+      "url": "https://en.wikipedia.org/wiki/Hijrah"
+    },
+    {
+      "name": "Norman Conquest of England",
+      "dates": "1066",
+      "y": 1066,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "William of Normandy's victory at Hastings reshaped English language, law, and aristocracy.",
+      "url": "https://en.wikipedia.org/wiki/Norman_Conquest"
+    },
+    {
+      "name": "Fall of Constantinople",
+      "dates": "1453",
+      "y": 1453,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Ottoman capture of the Byzantine capital, often taken to mark the end of the Middle Ages.",
+      "url": "https://en.wikipedia.org/wiki/Fall_of_Constantinople"
+    },
+    {
+      "name": "Columbus Reaches the Americas",
+      "dates": "1492",
+      "y": 1492,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "First of Columbus's voyages, opening sustained European contact with the Americas.",
+      "url": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus"
+    },
+    {
+      "name": "Arrival of the First Fleet",
+      "dates": "1788",
+      "y": 1788,
+      "region": "Oceania",
+      "period": "Early modern (1500–1800)",
+      "desc": "British ships established the first European colony in Australia at Sydney Cove.",
+      "url": "https://en.wikipedia.org/wiki/First_Fleet"
+    },
+    {
+      "name": "French Revolution Begins",
+      "dates": "1789",
+      "y": 1789,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Storming of the Bastille opened a decade of upheaval that toppled the French monarchy.",
+      "url": "https://en.wikipedia.org/wiki/French_Revolution"
+    },
+    {
+      "name": "Meiji Restoration",
+      "dates": "1868",
+      "y": 1868,
+      "region": "East Asia",
+      "period": "19th century",
+      "desc": "Restoration of imperial rule in Japan and the start of rapid modernisation.",
+      "url": "https://en.wikipedia.org/wiki/Meiji_Restoration"
+    },
+    {
+      "name": "Berlin Conference",
+      "dates": "1884–1885",
+      "y": 1884,
+      "region": "Africa",
+      "period": "19th century",
+      "desc": "European powers formalised the partition and colonisation of Africa.",
+      "url": "https://en.wikipedia.org/wiki/Berlin_Conference"
+    },
+    {
+      "name": "Partition of India",
+      "dates": "1947",
+      "y": 1947,
+      "region": "South Asia",
+      "period": "20th century onward",
+      "desc": "Independence and division of British India into India and Pakistan.",
+      "url": "https://en.wikipedia.org/wiki/Partition_of_India"
+    },
+    {
+      "name": "Apollo 11 Moon Landing",
+      "dates": "1969",
+      "y": 1969,
+      "region": "Americas",
+      "period": "20th century onward",
+      "desc": "First crewed landing on the Moon, by the United States' Apollo programme.",
+      "url": "https://en.wikipedia.org/wiki/Apollo_11"
+    }
+  ]
 }

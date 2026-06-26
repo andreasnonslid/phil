@@ -574,7 +574,17 @@ function renderActiveTags(){
 
 function row(r){
   const q=state.q;
-  const fieldTags=r.fields.map(f=>`<button class="tag field" data-filter="fields" data-val="${esc(f)}">${esc(f)}</button>`).join("");
+  const cardTags=(CFG.cardTags||[]).map(ct=>{
+    const f=filterById(ct.id);
+    if(!f)return "";
+    const v=r[f.key];
+    if(v==null||v==="")return "";
+    const vals=Array.isArray(v)?v:[v];
+    return vals.map(x=>{
+      const label=ct.labelKey?(r[ct.labelKey]||x):x;
+      return `<button class="tag${ct.cls?" "+ct.cls:""}" data-filter="${esc(f.id)}" data-val="${esc(x)}">${esc(label)}</button>`;
+    }).join("");
+  }).join("");
   const popClass=r.popularity>=75?"pop-high":r.popularity>=50?"pop-mid":"pop-low";
   const popLabel=r.popularity>=75?"Widely read":r.popularity>=50?"Often read":"Less read";
   const popTag=r.popularity===null?"":`<span class="tag popularity ${popClass}" title="Score ${r.popularity}/100 \u00b7 ${formatViews(r.avg_views_per_day)} avg. Wikipedia views/day (10-year window)">${popLabel}</span>`;
@@ -585,11 +595,11 @@ function row(r){
         <a href="${r.url}" target="_blank" rel="noopener" style="flex:1">${highlight(r.name,q)}</a>
         <button class="fav-btn${FAVS.has(r.name)?' active':''}" data-fav="${esc(r.name)}" title="Favourite" aria-label="Toggle favourite">★</button>
       </div>
-      <div class="dt">${esc(r.dates)}<a href="${r.url}" target="_blank" rel="noopener" aria-label="Wikipedia">${ext}</a>${r.sep_url?`<a class="sep-link" href="${r.sep_url}" target="_blank" rel="noopener" aria-label="Stanford Encyclopedia of Philosophy">SEP</a>`:""}</div>
+      <div class="dt">${esc(r.dates||"")}<a href="${r.url}" target="_blank" rel="noopener" aria-label="Wikipedia">${ext}</a>${r.sep_url?`<a class="sep-link" href="${r.sep_url}" target="_blank" rel="noopener" aria-label="Stanford Encyclopedia of Philosophy">SEP</a>`:""}</div>
     </div>
     <div class="body">
       <p class="desc">${highlight(r.desc,q)}</p>
-      <div class="tags">${fieldTags}<button class="tag trad" data-filter="trads" data-val="${esc(r.tgroup)}">${esc(r.trad)}</button>${popTag}</div>
+      <div class="tags">${cardTags}${popTag}</div>
       ${r.tldr?`<button class="tldr-btn" aria-expanded="false"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg>TL;DR</button><div class="tldr-body">${esc(r.tldr)}</div>`:""}
     </div>
   </div>`;
