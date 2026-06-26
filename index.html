@@ -54,6 +54,10 @@ footer a{color:var(--accent);text-decoration:none}
 </style>
 <script>
 (function(){
+  // Redirect legacy share-links (e.g. index.html#q=kant, index.html#fields=Ethics)
+  if(location.hash && location.hash.length > 1){
+    location.replace("viewer.html?d=phil" + location.hash);
+  }
   var t = localStorage.getItem("phil_theme");
   if(!t) t = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
   if(t==="dark") document.documentElement.setAttribute("data-theme","dark");
