@@ -13,7 +13,7 @@ import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PHILOSOPHERS_PATH = ROOT / "data" / "philosophers.json"
+PHILOSOPHERS_PATH = ROOT / "data" / "phil.json"
 USER_AGENT = "PhilSEPLinkUpdater/1.0 (https://github.com/andreas/phil; manual script)"
 SLEEP_SECONDS = 0.2
 
@@ -46,7 +46,8 @@ def fetch_sep_id(title: str) -> str | None:
 
 
 def main() -> None:
-    philosophers = json.loads(PHILOSOPHERS_PATH.read_text(encoding="utf-8"))
+    topic = json.loads(PHILOSOPHERS_PATH.read_text(encoding="utf-8"))
+    philosophers = topic["entries"]
     sep_ids: dict[str, str] = {}
 
     for idx, philosopher in enumerate(philosophers, start=1):
@@ -67,7 +68,7 @@ def main() -> None:
         else:
             philosopher.pop("sep_url", None)
 
-    PHILOSOPHERS_PATH.write_text(json.dumps(philosophers, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    PHILOSOPHERS_PATH.write_text(json.dumps(topic, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"Wrote {linked}/{len(philosophers)} SEP links to {PHILOSOPHERS_PATH.relative_to(ROOT)}.")
 
 

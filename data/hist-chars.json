@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Historical Figures",
+    "subtitle": "People who shaped the historical record — searchable.",
+    "kicker": "A who's-who reference · {n} figures",
+    "itemNoun": "figures",
+    "itemNounSingular": "figure",
+    "searchKeys": ["name", "desc", "roles"],
+    "filters": [
+      {
+        "id": "roles",
+        "label": "Role",
+        "key": "roles",
+        "multiValue": true,
+        "options": [
+          "Ruler",
+          "Military",
+          "Scientist",
+          "Artist",
+          "Writer",
+          "Explorer",
+          "Religious",
+          "Reformer"
+        ],
+        "glossary": {
+          "heading": "Roles — what each figure is chiefly known for",
+          "placeholder": "Choose a role…",
+          "terms": {
+            "Ruler": "Monarchs, presidents, and heads of state.",
+            "Military": "Generals, admirals, and war leaders.",
+            "Scientist": "Natural philosophers, mathematicians, and inventors.",
+            "Artist": "Painters, sculptors, architects, and composers.",
+            "Writer": "Poets, novelists, playwrights, and essayists.",
+            "Explorer": "Navigators and pioneers of unknown territory.",
+            "Religious": "Founders, reformers, and leaders of faith.",
+            "Reformer": "Activists and figures who drove social change."
+          }
+        }
+      },
+      {
+        "id": "era",
+        "label": "Era",
+        "key": "era",
+        "multiValue": false,
+        "grouping": true,
+        "options": [
+          "Ancient (to 500 CE)",
+          "Medieval (500–1500)",
+          "Early modern (1500–1800)",
+          "19th century",
+          "20th century onward"
+        ]
+      }
+    ],
+    "sorts": [
+      ["az", "Alphabetical"],
+      ["old", "Chronological"],
+      ["new", "Reverse chronological"]
+    ],
+    "defaultSort": "az",
+    "yearKey": "y",
+    "timeline": false,
+    "popularity": false,
+    "footer": "A placeholder topic — figure entries will be added here."
+  },
+  "entries": []
+}

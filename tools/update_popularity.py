@@ -16,7 +16,7 @@ from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PHILOSOPHERS_PATH = ROOT / "data" / "philosophers.json"
+PHILOSOPHERS_PATH = ROOT / "data" / "phil.json"
 POPULARITY_PATH = ROOT / "data" / "popularity.json"
 YEARS = 10
 SLEEP_SECONDS = 0.25
@@ -396,7 +396,7 @@ def normalized_scores(averages: dict[str, int]) -> dict[str, int]:
 
 
 def main() -> None:
-    philosophers = json.loads(PHILOSOPHERS_PATH.read_text(encoding="utf-8"))
+    philosophers = json.loads(PHILOSOPHERS_PATH.read_text(encoding="utf-8"))["entries"]
     today = date.today()
     start = subtract_years(today, YEARS)
     days = max((today - start).days, 1)

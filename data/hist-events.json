@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "Historical Events",
+    "subtitle": "Turning points across world history — searchable.",
+    "kicker": "A timeline reference · {n} events",
+    "itemNoun": "events",
+    "itemNounSingular": "event",
+    "searchKeys": ["name", "desc", "region"],
+    "timelineLaneFilterId": "region",
+    "filters": [
+      {
+        "id": "region",
+        "label": "Region",
+        "key": "region",
+        "multiValue": false,
+        "options": [
+          "Africa",
+          "Americas",
+          "East Asia",
+          "Europe",
+          "Middle East",
+          "South Asia",
+          "Oceania"
+        ]
+      },
+      {
+        "id": "period",
+        "label": "Period",
+        "key": "period",
+        "multiValue": false,
+        "grouping": true,
+        "options": [
+          "Ancient (to 500 CE)",
+          "Medieval (500–1500)",
+          "Early modern (1500–1800)",
+          "19th century",
+          "20th century onward"
+        ],
+        "glossary": {
+          "heading": "Periods — how the historical eras are bounded",
+          "placeholder": "Choose a period…",
+          "terms": {
+            "Ancient (to 500 CE)": "From the earliest records through the fall of the western Roman empire.",
+            "Medieval (500–1500)": "The middle ages across Europe, the Islamic world, and Asia.",
+            "Early modern (1500–1800)": "The age of exploration, reformation, and revolutions.",
+            "19th century": "Industrialisation, nationalism, and empire.",
+            "20th century onward": "World wars, decolonisation, and the digital age."
+          }
+        }
+      }
+    ],
+    "sorts": [
+      ["old", "Chronological"],
+      ["new", "Reverse chronological"],
+      ["az", "Alphabetical"]
+    ],
+    "defaultSort": "old",
+    "yearKey": "y",
+    "timeline": true,
+    "popularity": false,
+    "footer": "A placeholder topic — event entries will be added here. Dates are scholarly estimates where exact dates are unknown."
+  },
+  "entries": []
+}
