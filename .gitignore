@@ -1,3 +1,5 @@
 node_modules/
 .DS_Store
 *.jsonl
+!tools/.events_checkpoint.jsonl
+!tools/.figures_checkpoint.jsonl
