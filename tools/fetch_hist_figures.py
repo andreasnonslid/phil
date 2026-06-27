@@ -1,167 +1,135 @@
 #!/usr/bin/env python3
-"""Fetch historical figures from Wikidata + Wikipedia and emit JSON entries.
+"""Fetch historical figures from Wikidata (via QLever) + Wikipedia.
 
-Strategy:
-  1. SPARQL query pulls notable historical figures (died before 1950, with
-     Wikipedia articles, birth dates, and country/occupation data).
-  2. Wikipedia Summary API provides desc and tldr text.
-  3. Wikidata heuristics map country → region and birth year → era.
-  4. Claude (claude-haiku-4-5) classifies roles and fixes edge cases.
+Writes incrementally to a .jsonl checkpoint file so re-runs resume where they
+left off. Final output (stdout) is a JSON array ready to merge into hist-chars.json.
 
-Output: prints JSON array of entries ready to merge into hist-chars.json.
-Run: python tools/fetch_hist_figures.py > /tmp/figures_raw.json
-Then review, prune, and merge manually.
+Run:
+  python tools/fetch_hist_figures.py > figures_raw.json
+  # Re-run safely — already-fetched entries are skipped via checkpoint.
 """
 from __future__ import annotations
 
 import json
 import re
+import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-USER_AGENT = "PhilHistFigures/1.0 (https://github.com/andreasnonslid/phil; manual script)"
+CHECKPOINT = Path(__file__).resolve().parent / ".figures_checkpoint.jsonl"
+ENDPOINT = "https://qlever.dev/api/wikidata"
+USER_AGENT = "PhilHistFigures/1.0 (andy.reinkarnert@gmail.com; manual script)"
 SLEEP = 0.3
 
 VALID_ROLES = ["Ruler", "Military", "Scientist", "Artist", "Writer", "Explorer", "Religious", "Reformer"]
 VALID_ERAS = ["Ancient (to 500 CE)", "Medieval (500–1500)", "Early modern (1500–1800)", "19th century", "20th century onward"]
 
-# Wikidata occupation QIDs → roles (first match wins)
 OCCUPATION_ROLE_MAP: dict[str, str] = {
-    "Q82955": "Ruler",      # politician
-    "Q116": "Ruler",        # monarch
-    "Q12097": "Ruler",      # regent
-    "Q1968812": "Ruler",    # emperor
-    "Q372436": "Military",  # military officer
-    "Q47064": "Military",   # military personnel
-    "Q189290": "Military",  # military commander
-    "Q901": "Scientist",    # scientist
-    "Q170790": "Scientist", # mathematician
-    "Q169470": "Scientist", # physicist
-    "Q593644": "Scientist", # chemist
-    "Q2374149": "Scientist",# natural philosopher
-    "Q214917": "Explorer",  # explorer
-    "Q33231": "Explorer",   # photographer (skip — handled below)
-    "Q1028181": "Artist",   # painter
-    "Q4610556": "Artist",   # sculptor
-    "Q36834": "Artist",     # composer
-    "Q177220": "Artist",    # singer
-    "Q36180": "Writer",     # writer
-    "Q4853732": "Writer",   # novelist
-    "Q6625963": "Writer",   # playwright
-    "Q4964182": "Writer",   # philosopher (secondary; philosopher dataset handles these)
-    "Q1234713": "Reformer", # activist
-    "Q131512": "Reformer",  # reformer
-    "Q42603": "Religious",  # religious leader
-    "Q43115": "Religious",  # saint
-    "Q202444": "Religious", # prophet
+    "Q82955": "Ruler",
+    "Q116": "Ruler",
+    "Q12097": "Ruler",
+    "Q1968812": "Ruler",
+    "Q372436": "Military",
+    "Q47064": "Military",
+    "Q189290": "Military",
+    "Q901": "Scientist",
+    "Q170790": "Scientist",
+    "Q169470": "Scientist",
+    "Q593644": "Scientist",
+    "Q2374149": "Scientist",
+    "Q214917": "Explorer",
+    "Q1028181": "Artist",
+    "Q4610556": "Artist",
+    "Q36834": "Artist",
+    "Q177220": "Artist",
+    "Q36180": "Writer",
+    "Q4853732": "Writer",
+    "Q6625963": "Writer",
+    "Q4964182": "Writer",
+    "Q1234713": "Reformer",
+    "Q131512": "Reformer",
+    "Q42603": "Religious",
+    "Q43115": "Religious",
+    "Q202444": "Religious",
 }
 
-# Wikidata country QIDs → region
 COUNTRY_REGION_MAP: dict[str, str] = {
-    # Europe
-    "Q142": "Europe",   # France
-    "Q183": "Europe",   # Germany
-    "Q145": "Europe",   # UK
-    "Q38": "Europe",    # Italy
-    "Q29": "Europe",    # Spain
-    "Q28": "Europe",    # Hungary
-    "Q31": "Europe",    # Belgium
-    "Q55": "Europe",    # Netherlands
-    "Q35": "Europe",    # Denmark
-    "Q34": "Europe",    # Sweden
-    "Q33": "Europe",    # Finland
-    "Q20": "Europe",    # Norway
-    "Q37": "Europe",    # Lithuania
-    "Q36": "Europe",    # Poland
-    "Q218": "Europe",   # Romania
-    "Q214": "Europe",   # Slovakia
-    "Q213": "Europe",   # Czech Republic
-    "Q40": "Europe",    # Austria
-    "Q39": "Europe",    # Switzerland
-    "Q236": "Europe",   # Montenegro
-    "Q403": "Europe",   # Serbia
-    "Q232": "Europe",   # Latvia
-    "Q191": "Europe",   # Estonia
-    "Q211": "Europe",   # Latvia (dup guard)
-    "Q45": "Europe",    # Portugal
-    "Q189": "Europe",   # Iceland
-    "Q184": "Europe",   # Belarus
-    "Q212": "Europe",   # Ukraine
-    "Q159": "Europe",   # Russia
-    "Q41": "Europe",    # Greece
-    "Q223": "Europe",   # Greenland
-    "Q801": "Middle East",   # Israel
-    "Q803": "Middle East",   # Kuwait
-    "Q805": "Middle East",   # Yemen
-    "Q810": "Middle East",   # Jordan
-    "Q819": "Middle East",   # Oman? (no - Laos)
-    "Q822": "Middle East",   # Lebanon
-    "Q836": "Middle East",   # Myanmar? skip
-    "Q858": "Middle East",   # Syria
-    "Q869": "Middle East",   # Thailand? skip
-    "Q878": "Middle East",   # UAE
-    "Q902": "South Asia",    # Bangladesh
-    "Q928": "South Asia",    # Philippines? skip
-    "Q928": "East Asia",
-    "Q148": "East Asia",    # China
-    "Q17": "East Asia",     # Japan
-    "Q884": "East Asia",    # South Korea
-    "Q423": "East Asia",    # North Korea
-    "Q865": "East Asia",    # Taiwan
-    "Q252": "East Asia",    # Indonesia? skip
-    "Q672": "East Asia",    # Kiribati? skip
-    "Q817": "Middle East",  # Iraq
-    "Q794": "Middle East",  # Iran
-    "Q796": "Middle East",  # Iraq (dup)
-    "Q833": "South Asia",   # Malaysia? skip
-    "Q837": "South Asia",   # Nepal
-    "Q843": "South Asia",   # Pakistan
-    "Q668": "South Asia",   # India
-    "Q854": "South Asia",   # Sri Lanka
-    "Q889": "South Asia",   # Afghanistan
-    "Q258": "Africa",       # South Africa
-    "Q114": "Africa",       # Kenya
-    "Q115": "Africa",       # Ethiopia
-    "Q117": "Africa",       # Ghana
-    "Q142": "Europe",
-    "Q916": "Africa",       # Angola
-    "Q945": "Africa",       # Togo
-    "Q965": "Africa",       # Burkina Faso
-    "Q1044": "Africa",      # Sierra Leone
-    "Q1045": "Africa",      # Uganda
-    "Q1050": "Africa",      # Mozambique
-    "Q928": "East Asia",    # Philippines
-    "Q30": "Americas",      # USA
-    "Q96": "Americas",      # Mexico
-    "Q155": "Americas",     # Brazil
-    "Q414": "Americas",     # Argentina
-    "Q241": "Americas",     # Cuba
-    "Q717": "Americas",     # Venezuela
-    "Q736": "Americas",     # Ecuador
-    "Q750": "Americas",     # Bolivia
-    "Q298": "Americas",     # Chile
-    "Q244": "Americas",     # Bahamas? skip
-    "Q16": "Americas",      # Canada
-    "Q419": "Americas",     # Peru
-    "Q166": "Americas",     # Jamaica? skip
-    "Q800": "Americas",     # Costa Rica
-    "Q691": "Oceania",      # Papua New Guinea
-    "Q664": "Oceania",      # New Zealand
-    "Q408": "Oceania",      # Australia
+    "Q142": "Europe", "Q183": "Europe", "Q145": "Europe", "Q38": "Europe",
+    "Q29": "Europe", "Q28": "Europe", "Q31": "Europe", "Q55": "Europe",
+    "Q35": "Europe", "Q34": "Europe", "Q33": "Europe", "Q20": "Europe",
+    "Q37": "Europe", "Q36": "Europe", "Q218": "Europe", "Q214": "Europe",
+    "Q213": "Europe", "Q40": "Europe", "Q39": "Europe", "Q236": "Europe",
+    "Q403": "Europe", "Q232": "Europe", "Q191": "Europe", "Q211": "Europe",
+    "Q45": "Europe", "Q189": "Europe", "Q184": "Europe", "Q212": "Europe",
+    "Q159": "Europe", "Q41": "Europe", "Q223": "Europe",
+    "Q801": "Middle East", "Q803": "Middle East", "Q805": "Middle East",
+    "Q810": "Middle East", "Q822": "Middle East", "Q858": "Middle East",
+    "Q878": "Middle East", "Q817": "Middle East", "Q794": "Middle East",
+    "Q796": "Middle East",
+    "Q148": "East Asia", "Q17": "East Asia", "Q884": "East Asia",
+    "Q423": "East Asia", "Q865": "East Asia", "Q928": "East Asia",
+    "Q668": "South Asia", "Q843": "South Asia", "Q837": "South Asia",
+    "Q854": "South Asia", "Q889": "South Asia", "Q902": "South Asia",
+    "Q258": "Africa", "Q114": "Africa", "Q115": "Africa", "Q117": "Africa",
+    "Q916": "Africa", "Q945": "Africa", "Q1044": "Africa", "Q1045": "Africa",
+    "Q1050": "Africa",
+    "Q30": "Americas", "Q96": "Americas", "Q155": "Americas", "Q414": "Americas",
+    "Q241": "Americas", "Q717": "Americas", "Q736": "Americas", "Q750": "Americas",
+    "Q298": "Americas", "Q16": "Americas", "Q419": "Americas", "Q800": "Americas",
+    "Q691": "Oceania", "Q664": "Oceania", "Q408": "Oceania",
 }
+
+SPARQL = """\
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?item ?label ?birthYear ?deathYear
+  (GROUP_CONCAT(DISTINCT ?occupationQid; separator="|") AS ?occupations)
+  (GROUP_CONCAT(DISTINCT ?countryQid; separator="|") AS ?countries)
+WHERE {
+  ?item wdt:P31 wd:Q5 .
+  ?item wdt:P570 ?death .
+  FILTER(YEAR(?death) < 1950)
+  ?item wdt:P569 ?birth .
+  BIND(YEAR(?birth) AS ?birthYear)
+  BIND(YEAR(?death) AS ?deathYear)
+  ?item wdt:P27|wdt:P495 ?country .
+  BIND(STRAFTER(STR(?country), "http://www.wikidata.org/entity/") AS ?countryQid)
+  OPTIONAL {
+    ?item wdt:P106 ?occupation .
+    BIND(STRAFTER(STR(?occupation), "http://www.wikidata.org/entity/") AS ?occupationQid)
+  }
+  ?item rdfs:label ?label .
+  FILTER(LANG(?label) = "en")
+  ?item wikibase:sitelinks ?links .
+  FILTER(?links > 30)
+}
+GROUP BY ?item ?label ?birthYear ?deathYear
+LIMIT 800
+"""
 
 
 def sparql_query(query: str) -> list[dict]:
-    url = "https://query.wikidata.org/sparql"
     req = urllib.request.Request(
-        url + "?" + urllib.parse.urlencode({"query": query, "format": "json"}),
+        ENDPOINT + "?" + urllib.parse.urlencode({"query": query}),
         headers={"User-Agent": USER_AGENT, "Accept": "application/sparql-results+json"},
     )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.loads(resp.read())["results"]["bindings"]
+    for attempt in range(6):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                return json.loads(resp.read())["results"]["bindings"]
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                wait = 30 * (attempt + 1)
+                print(f"  QLever 429, waiting {wait}s...", file=sys.stderr, flush=True)
+                time.sleep(wait)
+            else:
+                raise
+    raise RuntimeError("SPARQL query failed after retries")
 
 
 def wiki_summary(title: str) -> dict | None:
@@ -175,14 +143,10 @@ def wiki_summary(title: str) -> dict | None:
 
 
 def year_to_era(y: int) -> str:
-    if y <= 500:
-        return "Ancient (to 500 CE)"
-    if y <= 1500:
-        return "Medieval (500–1500)"
-    if y <= 1800:
-        return "Early modern (1500–1800)"
-    if y <= 1900:
-        return "19th century"
+    if y <= 500: return "Ancient (to 500 CE)"
+    if y <= 1500: return "Medieval (500–1500)"
+    if y <= 1800: return "Early modern (1500–1800)"
+    if y <= 1900: return "19th century"
     return "20th century onward"
 
 
@@ -194,7 +158,7 @@ def qids_to_roles(qids: list[str]) -> list[str]:
         if role and role not in seen:
             seen.add(role)
             roles.append(role)
-    return roles or ["Reformer"]  # fallback
+    return roles or ["Reformer"]
 
 
 def qid_to_region(qids: list[str]) -> str:
@@ -202,51 +166,45 @@ def qid_to_region(qids: list[str]) -> str:
         r = COUNTRY_REGION_MAP.get(q)
         if r:
             return r
-    return "Europe"  # fallback; LLM pass can fix
+    return "Europe"
 
 
-SPARQL = """
-SELECT DISTINCT ?item ?itemLabel ?birthYear ?deathYear
-  (GROUP_CONCAT(DISTINCT ?occupationQid; separator="|") AS ?occupations)
-  (GROUP_CONCAT(DISTINCT ?countryQid; separator="|") AS ?countries)
-  ?article
-WHERE {
-  ?item wdt:P31 wd:Q5 .                         # human
-  ?item wdt:P570 ?death .                        # has death date
-  FILTER(YEAR(?death) < 1950)
-  ?item wdt:P569 ?birth .                        # has birth date
-  BIND(YEAR(?birth) AS ?birthYear)
-  BIND(YEAR(?death) AS ?deathYear)
-  ?item wdt:P569 ?birthDate .
-  ?item wdt:P27|wdt:P495 ?country .             # country of citizenship or origin
-  BIND(STR(?country) AS ?countryQid)
-  OPTIONAL { ?item wdt:P106 ?occupation .
-             BIND(STR(?occupation) AS ?occupationQid) }
-  ?article schema:about ?item ;
-           schema:isPartOf <https://en.wikipedia.org/> .
-  ?item wikibase:sitelinks ?links .
-  FILTER(?links > 30)                            # reasonably notable
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
-}
-GROUP BY ?item ?itemLabel ?birthYear ?deathYear ?article
-LIMIT 800
-"""
+def load_checkpoint() -> dict[str, dict]:
+    if not CHECKPOINT.exists():
+        return {}
+    entries = {}
+    with CHECKPOINT.open(encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                try:
+                    e = json.loads(line)
+                    entries[e["name"]] = e
+                except Exception:
+                    pass
+    return entries
 
 
-def extract_qid(uri: str) -> str:
-    return uri.rsplit("/", 1)[-1]
+def append_checkpoint(entry: dict) -> None:
+    with CHECKPOINT.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
 
 def main() -> None:
-    print("Querying Wikidata...", flush=True)
-    rows = sparql_query(SPARQL)
-    print(f"Got {len(rows)} candidates", flush=True)
+    sys.stdout.reconfigure(encoding="utf-8")  # type: ignore[attr-defined]
+    print("Loading checkpoint...", file=sys.stderr, flush=True)
+    done = load_checkpoint()
+    print(f"  {len(done)} entries already fetched", file=sys.stderr, flush=True)
 
-    entries: list[dict] = []
-    seen_names: set[str] = set()
+    print("Querying QLever (Wikidata)...", file=sys.stderr, flush=True)
+    rows = sparql_query(SPARQL)
+    print(f"Got {len(rows)} candidates", file=sys.stderr, flush=True)
+
+    seen_names: set[str] = set(done.keys())
+    new_count = 0
 
     for i, row in enumerate(rows):
-        name = row.get("itemLabel", {}).get("value", "")
+        name = row.get("label", {}).get("value", "")
         if not name or name.startswith("Q"):
             continue
         if name in seen_names:
@@ -258,42 +216,31 @@ def main() -> None:
         if birth_y == 0:
             continue
 
-        article_url = row.get("article", {}).get("value", "")
-        wiki_title = article_url.rsplit("/wiki/", 1)[-1] if "/wiki/" in article_url else ""
-
-        occupation_qids = [extract_qid(q) for q in row.get("occupations", {}).get("value", "").split("|") if q]
-        country_qids = [extract_qid(q) for q in row.get("countries", {}).get("value", "").split("|") if q]
+        occupation_qids = [q for q in row.get("occupations", {}).get("value", "").split("|") if q]
+        country_qids = [q for q in row.get("countries", {}).get("value", "").split("|") if q]
 
         roles = qids_to_roles(occupation_qids)
         era = year_to_era(birth_y)
 
-        # Skip pure philosophers — they belong in phil.json
-        if roles == ["Reformer"] and not occupation_qids:
-            continue
-
-        # Fetch Wikipedia summary
-        summary = None
-        if wiki_title:
-            time.sleep(SLEEP)
-            summary = wiki_summary(wiki_title)
-
+        wiki_title = name.replace(" ", "_")
+        time.sleep(SLEEP)
+        summary = wiki_summary(wiki_title)
         if not summary or not summary.get("extract"):
+            # Try canonical title from summary redirect
             continue
+
+        # Use canonical title from Wikipedia response if available
+        canonical = summary.get("title", name)
+        article_url = f"https://en.wikipedia.org/wiki/{urllib.parse.quote(canonical.replace(' ', '_'))}"
 
         extract = summary["extract"]
         sentences = re.split(r'(?<=[.!?])\s+', extract.strip())
         desc = " ".join(sentences[:2]).strip()
         tldr = " ".join(sentences[:3]).strip() if len(sentences) > 2 else desc
-
-        # Truncate
-        if len(desc) > 200:
-            desc = desc[:197] + "…"
-        if len(tldr) > 400:
-            tldr = tldr[:397] + "…"
+        if len(desc) > 200: desc = desc[:197] + "…"
+        if len(tldr) > 400: tldr = tldr[:397] + "…"
 
         dates_str = f"{abs(birth_y)}{'BCE' if birth_y < 0 else ''}–{abs(death_y)}{'BCE' if death_y < 0 else ''}"
-        if birth_y < 0 or death_y < 0:
-            dates_str = f"{'c. ' if True else ''}{abs(birth_y)} BCE–{abs(death_y) if death_y < 0 else death_y}{' BCE' if death_y < 0 else ' CE'}"
 
         entry: dict = {
             "name": name,
@@ -303,17 +250,20 @@ def main() -> None:
             "era": era,
             "desc": desc,
             "tldr": tldr,
-            "url": article_url or f"https://en.wikipedia.org/wiki/{wiki_title}",
-            "_country_qids": country_qids,       # for LLM region pass
-            "_occupation_qids": occupation_qids,  # for LLM roles pass
+            "url": article_url,
+            "_country_qids": country_qids,
+            "_occupation_qids": occupation_qids,
         }
-        entries.append(entry)
+        append_checkpoint(entry)
+        new_count += 1
 
         if (i + 1) % 50 == 0:
-            print(f"  processed {i+1}/{len(rows)}...", flush=True)
+            print(f"  processed {i+1}/{len(rows)} ({new_count} new)...", file=sys.stderr, flush=True)
 
-    print(f"\nTotal entries: {len(entries)}", flush=True)
-    print(json.dumps(entries, ensure_ascii=False, indent=2))
+    # Merge checkpoint (preserves entries from prior runs not in current SPARQL batch)
+    all_entries = load_checkpoint()
+    print(f"\nTotal entries: {len(all_entries)} ({new_count} new this run)", file=sys.stderr, flush=True)
+    print(json.dumps(list(all_entries.values()), ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

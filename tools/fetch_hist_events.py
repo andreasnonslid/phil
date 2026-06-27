@@ -1,138 +1,110 @@
 #!/usr/bin/env python3
-"""Fetch historical events from Wikidata + Wikipedia and emit JSON entries.
+"""Fetch historical events from Wikidata (via QLever) + Wikipedia.
 
-Strategy:
-  1. SPARQL query pulls notable historical events (before 1950, with
-     Wikipedia articles, point-in-time or start dates, and location data).
-  2. Wikipedia Summary API provides desc and tldr text.
-  3. Wikidata heuristics map location → region and date → period.
-  4. Output includes _meta fields for a subsequent LLM classification pass.
+Writes incrementally to a .jsonl checkpoint file so re-runs resume where they
+left off. Final output (stdout) is a JSON array ready to merge into hist-events.json.
 
-Output: prints JSON array of entries ready to merge into hist-events.json.
-Run: python tools/fetch_hist_events.py > /tmp/events_raw.json
-Then review, prune, and merge manually.
+Run:
+  python tools/fetch_hist_events.py > events_raw.json
+  # Re-run safely — already-fetched entries are skipped via checkpoint.
 """
 from __future__ import annotations
 
 import json
 import re
+import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-USER_AGENT = "PhilHistEvents/1.0 (https://github.com/andreasnonslid/phil; manual script)"
+CHECKPOINT = Path(__file__).resolve().parent / ".events_checkpoint.jsonl"
+ENDPOINT = "https://qlever.dev/api/wikidata"
+USER_AGENT = "PhilHistEvents/1.0 (andy.reinkarnert@gmail.com; manual script)"
 SLEEP = 0.3
 
 VALID_PERIODS = [
-    "Ancient (to 500 CE)",
-    "Medieval (500–1500)",
-    "Early modern (1500–1800)",
-    "19th century",
-    "20th century onward",
+    "Ancient (to 500 CE)", "Medieval (500–1500)", "Early modern (1500–1800)",
+    "19th century", "20th century onward",
 ]
 VALID_REGIONS = ["Africa", "Americas", "East Asia", "Europe", "Middle East", "South Asia", "Oceania"]
 
-# Country/location QIDs → region
 LOCATION_REGION_MAP: dict[str, str] = {
-    "Q142": "Europe",   # France
-    "Q183": "Europe",   # Germany
-    "Q145": "Europe",   # UK
-    "Q38": "Europe",    # Italy
-    "Q29": "Europe",    # Spain
-    "Q159": "Europe",   # Russia
-    "Q41": "Europe",    # Greece
-    "Q40": "Europe",    # Austria
-    "Q39": "Europe",    # Switzerland
-    "Q36": "Europe",    # Poland
-    "Q37": "Europe",    # Lithuania
-    "Q35": "Europe",    # Denmark
-    "Q34": "Europe",    # Sweden
-    "Q33": "Europe",    # Finland
-    "Q20": "Europe",    # Norway
-    "Q45": "Europe",    # Portugal
-    "Q55": "Europe",    # Netherlands
-    "Q31": "Europe",    # Belgium
-    "Q28": "Europe",    # Hungary
-    "Q213": "Europe",   # Czech Republic
-    "Q214": "Europe",   # Slovakia
-    "Q218": "Europe",   # Romania
-    "Q212": "Europe",   # Ukraine
-    "Q184": "Europe",   # Belarus
-    "Q403": "Europe",   # Serbia
-    "Q189": "Europe",   # Iceland
-    "Q233": "Europe",   # Monaco
-    # Americas
-    "Q30": "Americas",
-    "Q96": "Americas",
-    "Q155": "Americas",
-    "Q414": "Americas",
-    "Q241": "Americas",
-    "Q717": "Americas",
-    "Q736": "Americas",
-    "Q750": "Americas",
-    "Q298": "Americas",
-    "Q16": "Americas",
-    "Q419": "Americas",
-    "Q800": "Americas",
-    # East Asia
-    "Q148": "East Asia",
-    "Q17": "East Asia",
-    "Q884": "East Asia",
-    "Q423": "East Asia",
-    "Q865": "East Asia",
-    "Q928": "East Asia",
-    # Middle East
-    "Q801": "Middle East",
-    "Q822": "Middle East",
-    "Q858": "Middle East",
-    "Q878": "Middle East",
-    "Q817": "Middle East",
-    "Q794": "Middle East",
-    "Q805": "Middle East",
-    "Q810": "Middle East",
-    "Q796": "Middle East",
-    # South Asia
-    "Q668": "South Asia",
-    "Q843": "South Asia",
-    "Q837": "South Asia",
-    "Q854": "South Asia",
-    "Q889": "South Asia",
-    "Q902": "South Asia",
-    # Africa
-    "Q258": "Africa",
-    "Q114": "Africa",
-    "Q115": "Africa",
-    "Q117": "Africa",
-    "Q916": "Africa",
-    "Q945": "Africa",
-    "Q1044": "Africa",
-    "Q1045": "Africa",
+    "Q142": "Europe", "Q183": "Europe", "Q145": "Europe", "Q38": "Europe",
+    "Q29": "Europe", "Q159": "Europe", "Q41": "Europe", "Q40": "Europe",
+    "Q39": "Europe", "Q36": "Europe", "Q37": "Europe", "Q35": "Europe",
+    "Q34": "Europe", "Q33": "Europe", "Q20": "Europe", "Q45": "Europe",
+    "Q55": "Europe", "Q31": "Europe", "Q28": "Europe", "Q213": "Europe",
+    "Q214": "Europe", "Q218": "Europe", "Q212": "Europe", "Q184": "Europe",
+    "Q403": "Europe", "Q189": "Europe", "Q233": "Europe",
+    "Q11768": "Europe", "Q12548": "Europe", "Q844653": "Europe",
+    "Q30": "Americas", "Q96": "Americas", "Q155": "Americas", "Q414": "Americas",
+    "Q241": "Americas", "Q717": "Americas", "Q736": "Americas", "Q750": "Americas",
+    "Q298": "Americas", "Q16": "Americas", "Q419": "Americas", "Q800": "Americas",
+    "Q148": "East Asia", "Q17": "East Asia", "Q884": "East Asia",
+    "Q423": "East Asia", "Q865": "East Asia", "Q928": "East Asia",
+    "Q801": "Middle East", "Q822": "Middle East", "Q858": "Middle East",
+    "Q878": "Middle East", "Q817": "Middle East", "Q794": "Middle East",
+    "Q805": "Middle East", "Q810": "Middle East", "Q796": "Middle East",
+    "Q7205": "Middle East", "Q8733": "Middle East",
+    "Q668": "South Asia", "Q843": "South Asia", "Q837": "South Asia",
+    "Q854": "South Asia", "Q889": "South Asia", "Q902": "South Asia",
+    "Q258": "Africa", "Q114": "Africa", "Q115": "Africa", "Q117": "Africa",
+    "Q916": "Africa", "Q945": "Africa", "Q1044": "Africa", "Q1045": "Africa",
     "Q1050": "Africa",
-    # Oceania
-    "Q408": "Oceania",
-    "Q664": "Oceania",
-    "Q691": "Oceania",
-    # Ancient empires / civilisations (map to region by geography)
-    "Q11768": "Europe",      # Roman Republic
-    "Q12548": "Europe",      # Roman Empire
-    "Q7205": "Middle East",  # Persian Empire (Achaemenid)
-    "Q8733": "Middle East",  # Ottoman Empire
-    "Q844653": "Middle East",# Byzantine Empire → Middle East/Europe (use Europe)
-    "Q844653": "Europe",
-    "Q6256": "Europe",       # country (generic fallback)
+    "Q408": "Oceania", "Q664": "Oceania", "Q691": "Oceania",
 }
+
+SPARQL = """\
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?item ?label ?pointInTime ?startTime
+  (GROUP_CONCAT(DISTINCT ?locationQid; separator="|") AS ?locations)
+WHERE {
+  ?item wdt:P31 ?type .
+  VALUES ?type {
+    wd:Q178561 wd:Q198 wd:Q7283 wd:Q131569 wd:Q13418847
+    wd:Q3839081 wd:Q2627975
+  }
+  OPTIONAL { ?item wdt:P585 ?pointInTime . }
+  OPTIONAL { ?item wdt:P580 ?startTime . }
+  FILTER(BOUND(?pointInTime) || BOUND(?startTime))
+  BIND(COALESCE(?pointInTime, ?startTime) AS ?eventDate)
+  FILTER(YEAR(?eventDate) < 1950)
+  OPTIONAL {
+    ?item wdt:P276|wdt:P17|wdt:P495 ?location .
+    BIND(STRAFTER(STR(?location), "http://www.wikidata.org/entity/") AS ?locationQid)
+  }
+  ?item rdfs:label ?label .
+  FILTER(LANG(?label) = "en")
+  ?item wikibase:sitelinks ?links .
+  FILTER(?links > 20)
+}
+GROUP BY ?item ?label ?pointInTime ?startTime
+LIMIT 800
+"""
 
 
 def sparql_query(query: str) -> list[dict]:
-    url = "https://query.wikidata.org/sparql"
     req = urllib.request.Request(
-        url + "?" + urllib.parse.urlencode({"query": query, "format": "json"}),
+        ENDPOINT + "?" + urllib.parse.urlencode({"query": query}),
         headers={"User-Agent": USER_AGENT, "Accept": "application/sparql-results+json"},
     )
-    with urllib.request.urlopen(req, timeout=45) as resp:
-        return json.loads(resp.read())["results"]["bindings"]
+    for attempt in range(6):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                return json.loads(resp.read())["results"]["bindings"]
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                wait = 30 * (attempt + 1)
+                print(f"  QLever 429, waiting {wait}s...", file=sys.stderr, flush=True)
+                time.sleep(wait)
+            else:
+                raise
+    raise RuntimeError("SPARQL query failed after retries")
 
 
 def wiki_summary(title: str) -> dict | None:
@@ -146,25 +118,11 @@ def wiki_summary(title: str) -> dict | None:
 
 
 def year_to_period(y: int) -> str:
-    if y <= 500:
-        return "Ancient (to 500 CE)"
-    if y <= 1500:
-        return "Medieval (500–1500)"
-    if y <= 1800:
-        return "Early modern (1500–1800)"
-    if y <= 1900:
-        return "19th century"
+    if y <= 500: return "Ancient (to 500 CE)"
+    if y <= 1500: return "Medieval (500–1500)"
+    if y <= 1800: return "Early modern (1500–1800)"
+    if y <= 1900: return "19th century"
     return "20th century onward"
-
-
-def format_dates(y: int) -> str:
-    if y < 0:
-        return f"{abs(y)} BCE"
-    return str(y)
-
-
-def extract_qid(uri: str) -> str:
-    return uri.rsplit("/", 1)[-1]
 
 
 def qids_to_region(qids: list[str]) -> str:
@@ -172,58 +130,45 @@ def qids_to_region(qids: list[str]) -> str:
         r = LOCATION_REGION_MAP.get(q)
         if r:
             return r
-    return ""  # unknown — LLM pass will fill
+    return ""
 
 
-# Pull battles, wars, revolutions, treaties, discoveries, founding events
-SPARQL = """
-SELECT DISTINCT ?item ?itemLabel ?pointInTime ?startTime
-  (GROUP_CONCAT(DISTINCT ?locationQid; separator="|") AS ?locations)
-  ?article
-WHERE {
-  ?item wdt:P31 ?type .
-  VALUES ?type {
-    wd:Q178561   # battle
-    wd:Q198      # war
-    wd:Q7283     # revolution
-    wd:Q131569   # treaty
-    wd:Q1656682  # event
-    wd:Q13418847 # historical event
-    wd:Q1190554  # occurrence
-    wd:Q3839081  # military operation
-    wd:Q891723   # public policy
-    wd:Q2627975  # armed conflict
-  }
-  OPTIONAL { ?item wdt:P585 ?pointInTime . }
-  OPTIONAL { ?item wdt:P580 ?startTime . }
-  FILTER(BOUND(?pointInTime) || BOUND(?startTime))
-  BIND(COALESCE(?pointInTime, ?startTime) AS ?eventDate)
-  FILTER(YEAR(?eventDate) < 1950)
-  OPTIONAL {
-    ?item wdt:P276|wdt:P17|wdt:P495 ?location .
-    BIND(STR(?location) AS ?locationQid)
-  }
-  ?article schema:about ?item ;
-           schema:isPartOf <https://en.wikipedia.org/> .
-  ?item wikibase:sitelinks ?links .
-  FILTER(?links > 20)
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
-}
-GROUP BY ?item ?itemLabel ?pointInTime ?startTime ?article
-LIMIT 800
-"""
+def load_checkpoint() -> dict[str, dict]:
+    if not CHECKPOINT.exists():
+        return {}
+    entries = {}
+    with CHECKPOINT.open(encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                try:
+                    e = json.loads(line)
+                    entries[e["name"]] = e
+                except Exception:
+                    pass
+    return entries
+
+
+def append_checkpoint(entry: dict) -> None:
+    with CHECKPOINT.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
 
 def main() -> None:
-    print("Querying Wikidata...", flush=True)
-    rows = sparql_query(SPARQL)
-    print(f"Got {len(rows)} candidates", flush=True)
+    sys.stdout.reconfigure(encoding="utf-8")  # type: ignore[attr-defined]
+    print("Loading checkpoint...", file=sys.stderr, flush=True)
+    done = load_checkpoint()
+    print(f"  {len(done)} entries already fetched", file=sys.stderr, flush=True)
 
-    entries: list[dict] = []
-    seen_names: set[str] = set()
+    print("Querying QLever (Wikidata)...", file=sys.stderr, flush=True)
+    rows = sparql_query(SPARQL)
+    print(f"Got {len(rows)} candidates", file=sys.stderr, flush=True)
+
+    seen_names: set[str] = set(done.keys())
+    new_count = 0
 
     for i, row in enumerate(rows):
-        name = row.get("itemLabel", {}).get("value", "")
+        name = row.get("label", {}).get("value", "")
         if not name or re.match(r'^Q\d+$', name):
             continue
         if name in seen_names:
@@ -240,47 +185,46 @@ def main() -> None:
         except (ValueError, IndexError):
             continue
 
-        location_qids = [extract_qid(q) for q in row.get("locations", {}).get("value", "").split("|") if q]
+        location_qids = [q for q in row.get("locations", {}).get("value", "").split("|") if q]
         region = qids_to_region(location_qids)
         period = year_to_period(y)
 
-        article_url = row.get("article", {}).get("value", "")
-        wiki_title = article_url.rsplit("/wiki/", 1)[-1] if "/wiki/" in article_url else ""
-
-        # Fetch Wikipedia summary
+        wiki_title = name.replace(" ", "_")
         time.sleep(SLEEP)
-        summary = wiki_summary(wiki_title) if wiki_title else None
+        summary = wiki_summary(wiki_title)
         if not summary or not summary.get("extract"):
             continue
+
+        canonical = summary.get("title", name)
+        article_url = f"https://en.wikipedia.org/wiki/{urllib.parse.quote(canonical.replace(' ', '_'))}"
 
         extract = summary["extract"]
         sentences = re.split(r'(?<=[.!?])\s+', extract.strip())
         desc = " ".join(sentences[:2]).strip()
         tldr = " ".join(sentences[:3]).strip() if len(sentences) > 2 else desc
-
-        if len(desc) > 200:
-            desc = desc[:197] + "…"
-        if len(tldr) > 400:
-            tldr = tldr[:397] + "…"
+        if len(desc) > 200: desc = desc[:197] + "…"
+        if len(tldr) > 400: tldr = tldr[:397] + "…"
 
         entry: dict = {
             "name": name,
-            "dates": format_dates(y),
+            "dates": str(abs(y)) + (" BCE" if y < 0 else ""),
             "y": y,
-            "region": region or "Europe",  # placeholder; LLM pass fixes blanks
+            "region": region or "Europe",
             "period": period,
             "desc": desc,
             "tldr": tldr,
             "url": article_url,
-            "_location_qids": location_qids,  # for LLM region pass
+            "_location_qids": location_qids,
         }
-        entries.append(entry)
+        append_checkpoint(entry)
+        new_count += 1
 
         if (i + 1) % 50 == 0:
-            print(f"  processed {i+1}/{len(rows)}...", flush=True)
+            print(f"  processed {i+1}/{len(rows)} ({new_count} new)...", file=sys.stderr, flush=True)
 
-    print(f"\nTotal entries: {len(entries)}", flush=True)
-    print(json.dumps(entries, ensure_ascii=False, indent=2))
+    all_entries = load_checkpoint()
+    print(f"\nTotal entries: {len(all_entries)} ({new_count} new this run)", file=sys.stderr, flush=True)
+    print(json.dumps(list(all_entries.values()), ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":
