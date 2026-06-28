@@ -1456,6 +1456,455 @@
       "desc": "Florentine poet whose Divine Comedy is widely regarded as the greatest literary work of the Middle Ages and the foundation of the Italian language.",
       "url": "https://en.wikipedia.org/wiki/Dante_Alighieri",
       "region": "Europe"
+    },
+    {
+      "name": "Hor-Aha",
+      "dates": "3161BCE–3100BCE",
+      "y": -3161,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Hor-Aha is considered the second pharaoh of the First Dynasty of Egypt by most Egyptologists, while others consider him the first one and corresponding to Menes. He lived around the 31st century BC…",
+      "tldr": "Hor-Aha is considered the second pharaoh of the First Dynasty of Egypt by most Egyptologists, while others consider him the first one and corresponding to Menes. He lived around the 31st century BC and is thought to have had a long reign.",
+      "url": "https://en.wikipedia.org/wiki/Hor-Aha",
+      "_country_qids": [
+        "Q11768"
+      ],
+      "_occupation_qids": [
+        "Q2304859"
+      ],
+      "region": "Africa"
+    },
+    {
+      "name": "Ivar Andreas Aasen",
+      "dates": "1813–1896",
+      "y": 1813,
+      "roles": [
+        "Writer",
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Ivar Andreas Aasen was a Norwegian philologist, lexicographer, playwright, and poet. He is best known for having assembled one of the two official written versions of the Norwegian language, Nynors…",
+      "tldr": "Ivar Andreas Aasen was a Norwegian philologist, lexicographer, playwright, and poet. He is best known for having assembled one of the two official written versions of the Norwegian language, Nynorsk, from various dialects.",
+      "url": "https://en.wikipedia.org/wiki/Ivar_Aasen",
+      "_country_qids": [
+        "Q20"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q13418253",
+        "Q333634",
+        "Q24262584",
+        "Q2374149",
+        "Q18939491",
+        "Q14972848",
+        "Q14467526",
+        "Q12003277",
+        "Q49757"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Saxo Grammaticus",
+      "dates": "1150–1206",
+      "y": 1150,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Saxo Grammaticus, also known as Saxo cognomine Longus, was a Danish historian, theologian, and author. He is thought to have been a clerk or secretary to Absalon, Archbishop of Lund, the main advis…",
+      "tldr": "Saxo Grammaticus, also known as Saxo cognomine Longus, was a Danish historian, theologian, and author. He is thought to have been a clerk or secretary to Absalon, Archbishop of Lund, the main advisor to Valdemar I of Denmark. He is the author of the Gesta Danorum, the first full history of Denmark, from which the legend of Amleth would come to inspire the story of Hamlet by Shakespeare.",
+      "url": "https://en.wikipedia.org/wiki/Saxo_Grammaticus",
+      "_country_qids": [
+        "Q756617"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q201788"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Hans Memling",
+      "dates": "1435–1494",
+      "y": 1435,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Hans Memling was a German-Flemish painter who worked in the tradition of Early Netherlandish painting. Born in the Middle Rhine region, he probably spent his childhood in Mainz. During his apprenticeship as a painter he moved to the Netherlands and spent time in the Brussels workshop of Rogier van der Weyden.",
+      "url": "https://en.wikipedia.org/wiki/Hans_Memling",
+      "_country_qids": [
+        "Q183",
+        "Q1031430"
+      ],
+      "_occupation_qids": [
+        "Q483501",
+        "Q3391743",
+        "Q15296811",
+        "Q1028181"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Katō Kiyomasa",
+      "dates": "1562–1611",
+      "y": 1562,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Katō Kiyomasa  was a Japanese daimyō of the Azuchi–Momoyama and Edo periods. His court title was Higo no Kami .",
+      "tldr": "Katō Kiyomasa  was a Japanese daimyō of the Azuchi–Momoyama and Edo periods. His court title was Higo no Kami . His name as a child was Yashamaru, and first name was Toranosuke.",
+      "url": "https://en.wikipedia.org/wiki/Kat%C5%8D_Kiyomasa",
+      "_country_qids": [
+        "Q17"
+      ],
+      "_occupation_qids": [
+        "Q38142"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Lu You",
+      "dates": "1125–1210",
+      "y": 1125,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Lu You was a Chinese historian and poet of the Southern Song Dynasty (南宋).",
+      "tldr": "Lu You was a Chinese historian and poet of the Southern Song Dynasty (南宋).",
+      "url": "https://en.wikipedia.org/wiki/Lu_You",
+      "_country_qids": [
+        "Q1147043"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q36180",
+        "Q201788"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Mirza Ghalib",
+      "dates": "1797–1869",
+      "y": 1797,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Mirza Asadullah Beg Khan, commonly known as Mirza Ghalib, was an Indian poet and letter writer of the Mughal Empire. Writing in Persian and Urdu during the final years of the Mughal Empire and the …",
+      "tldr": "Mirza Asadullah Beg Khan, commonly known as Mirza Ghalib, was an Indian poet and letter writer of the Mughal Empire. Writing in Persian and Urdu during the final years of the Mughal Empire and the rise of British colonial rule, his poetry often addressed themes of love, loss, philosophy, the human condition, and socio-political disturbances with a depth and complexity that influenced the litera…",
+      "url": "https://en.wikipedia.org/wiki/Ghalib",
+      "_country_qids": [
+        "Q33296",
+        "Q129286"
+      ],
+      "_occupation_qids": [
+        "Q201788",
+        "Q12144794",
+        "Q36180",
+        "Q49757"
+      ],
+      "region": "South Asia"
+    },
+    {
+      "name": "Mary Harris Jones",
+      "dates": "1830–1930",
+      "y": 1830,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Mary G. Harris Jones, known as Mother Jones from 1897 onward, was an American labor organizer, schoolteacher, and dressmaker who became a prominent union organizer, community organizer, and activist.",
+      "tldr": "Mary G. Harris Jones, known as Mother Jones from 1897 onward, was an American labor organizer, schoolteacher, and dressmaker who became a prominent union organizer, community organizer, and activist. She helped coordinate major strikes, secure bans on child labor, and co-founded the trade union Industrial Workers of the World (IWW).",
+      "url": "https://en.wikipedia.org/wiki/Mother_Jones",
+      "_country_qids": [
+        "Q174193",
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q37226",
+        "Q1476215",
+        "Q7886765",
+        "Q15627169",
+        "Q28532974",
+        "Q36180"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Kuchlug",
+      "dates": "1156–1218",
+      "y": 1156,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Kuchlug was a member of the Naiman tribe who became the last emperor of the Western Liao dynasty. The Naimans were defeated by Genghis Khan and he fled westward to the Western Liao, where he became…",
+      "tldr": "Kuchlug was a member of the Naiman tribe who became the last emperor of the Western Liao dynasty. The Naimans were defeated by Genghis Khan and he fled westward to the Western Liao, where he became an advisor to his future father-in-law Yelü Zhilugu. He later rebelled, usurped the throne and took control of the empire, putting an end to the rule of the House of Yelü.",
+      "url": "https://en.wikipedia.org/wiki/Kuchlug",
+      "_country_qids": [
+        "Q862304"
+      ],
+      "_occupation_qids": [
+        "Q181888"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Töregene Khatun",
+      "dates": "1185–1246",
+      "y": 1185,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Töregene Khatun was the Great Khatun and regent of the Mongol Empire from the death of her husband Ögedei Khan in 1241 until the election of her eldest son Güyük Khan in 1246.",
+      "tldr": "Töregene Khatun was the Great Khatun and regent of the Mongol Empire from the death of her husband Ögedei Khan in 1241 until the election of her eldest son Güyük Khan in 1246.",
+      "url": "https://en.wikipedia.org/wiki/T%C3%B6regene_Khatun",
+      "_country_qids": [
+        "Q7313"
+      ],
+      "_occupation_qids": [
+        "Q477406"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Wilhelm Friedemann Bach",
+      "dates": "1710–1784",
+      "y": 1710,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Wilhelm Friedemann Bach was a German composer, organist and harpsichordist. He was the second child and eldest son of Johann Sebastian Bach and Maria Barbara Bach.",
+      "tldr": "Wilhelm Friedemann Bach was a German composer, organist and harpsichordist. He was the second child and eldest son of Johann Sebastian Bach and Maria Barbara Bach. Despite his acknowledged genius as an improviser and composer, his income and employment were unstable, and he died in poverty.",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Friedemann_Bach",
+      "_country_qids": [
+        "Q12548"
+      ],
+      "_occupation_qids": [
+        "Q765778",
+        "Q639669",
+        "Q486748",
+        "Q36834",
+        "Q1643514",
+        "Q115793211"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Liliʻuokalani",
+      "dates": "1838–1917",
+      "y": 1838,
+      "roles": [
+        "Artist",
+        "Writer",
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Liliʻuokalani was the only queen regnant and the last sovereign monarch of the Hawaiian Kingdom, ruling from January 29, 1891, until the overthrow of the Hawaiian Kingdom on January 17, 1893, in a …",
+      "tldr": "Liliʻuokalani was the only queen regnant and the last sovereign monarch of the Hawaiian Kingdom, ruling from January 29, 1891, until the overthrow of the Hawaiian Kingdom on January 17, 1893, in a coup that was led by the Committee of Safety, composed of seven foreign residents and six Hawaiian Kingdom subjects of American descent in Honolulu. The composer of \"Aloha ʻOe\" and numerous other work…",
+      "url": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani",
+      "_country_qids": [
+        "Q156418"
+      ],
+      "_occupation_qids": [
+        "Q18814623",
+        "Q36834",
+        "Q36180",
+        "Q116"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Ulfilas",
+      "dates": "311–383",
+      "y": 311,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Ulfilas (Ancient Greek: Οὐλφίλας; c. 311 – 383), known also as Wulfila(s) or Urphilas, was a 4th-century Gothic preacher of Cappadocian Greek descent.",
+      "tldr": "Ulfilas (Ancient Greek: Οὐλφίλας; c. 311 – 383), known also as Wulfila(s) or Urphilas, was a 4th-century Gothic preacher of Cappadocian Greek descent. He was the apostle to the Gothic people.",
+      "url": "https://en.wikipedia.org/wiki/Ulfilas",
+      "_country_qids": [],
+      "_occupation_qids": [
+        "Q219477",
+        "Q24262584",
+        "Q29182",
+        "Q333634",
+        "Q36180",
+        "Q831474"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Christiaan Eijkman",
+      "dates": "1858–1930",
+      "y": 1858,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Christiaan Eijkman was a Dutch physician and professor of physiology whose demonstration that beriberi is caused by poor diet led to the discovery of antineuritic vitamins (thiamine). Together with…",
+      "tldr": "Christiaan Eijkman was a Dutch physician and professor of physiology whose demonstration that beriberi is caused by poor diet led to the discovery of antineuritic vitamins (thiamine). Together with Sir Frederick Hopkins, he received the Nobel Prize for Physiology or Medicine in 1929 for the discovery of vitamins.",
+      "url": "https://en.wikipedia.org/wiki/Christiaan_Eijkman",
+      "_country_qids": [
+        "Q29999"
+      ],
+      "_occupation_qids": [
+        "Q15816836",
+        "Q1622272",
+        "Q2055046",
+        "Q2919046",
+        "Q3368718",
+        "Q39631",
+        "Q901"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Francesco Cavalli",
+      "dates": "1602–1676",
+      "y": 1602,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Francesco Cavalli was a Venetian composer, organist and singer of the early Baroque period. He succeeded his teacher Claudio Monteverdi as the dominant and leading opera composer of the mid 17th-ce…",
+      "tldr": "Francesco Cavalli was a Venetian composer, organist and singer of the early Baroque period. He succeeded his teacher Claudio Monteverdi as the dominant and leading opera composer of the mid 17th-century. A central figure of Venetian musical life, Cavalli wrote more than thirty operas, almost all of which premiered in the city's theaters.",
+      "url": "https://en.wikipedia.org/wiki/Francesco_Cavalli",
+      "_country_qids": [
+        "Q4948"
+      ],
+      "_occupation_qids": [
+        "Q36834",
+        "Q765778",
+        "Q158852",
+        "Q215793",
+        "Q21680731"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "John Bunyan",
+      "dates": "1628–1688",
+      "y": 1628,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "John Bunyan was an English writer and nonconformist preacher. He is best remembered as the author of the Christian allegory The Pilgrim's Progress, which also became an influential literary model.",
+      "tldr": "John Bunyan was an English writer and nonconformist preacher. He is best remembered as the author of the Christian allegory The Pilgrim's Progress, which also became an influential literary model. In addition to The Pilgrim's Progress, Bunyan wrote nearly sixty titles, many of them expanded sermons.",
+      "url": "https://en.wikipedia.org/wiki/John_Bunyan",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q432386",
+        "Q6625963",
+        "Q1234713",
+        "Q338221",
+        "Q36180"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Pyotr Wrangel",
+      "dates": "1878–1928",
+      "y": 1878,
+      "roles": [
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "Baron Pyotr Nikolayevich Wrangel, nicknamed the \"Black Baron\", was a Russian military officer who served as a commanding general in the anti-Bolshevik Volunteer Army during the Russian Civil War. I…",
+      "tldr": "Baron Pyotr Nikolayevich Wrangel, nicknamed the \"Black Baron\", was a Russian military officer who served as a commanding general in the anti-Bolshevik Volunteer Army during the Russian Civil War. In 1920, he became the last commander-in-chief of the White forces in Southern Russia, which he reorganized as the Russian Army.",
+      "url": "https://en.wikipedia.org/wiki/Pyotr_Wrangel",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q189290"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Michael Praetorius",
+      "dates": "1571–1621",
+      "y": 1571,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Michael Praetorius was a German composer, organist, and music theorist. He was one of the most versatile composers of his age, being particularly significant in the development of musical forms bas…",
+      "tldr": "Michael Praetorius was a German composer, organist, and music theorist. He was one of the most versatile composers of his age, being particularly significant in the development of musical forms based on Protestant hymns.",
+      "url": "https://en.wikipedia.org/wiki/Michael_Praetorius",
+      "_country_qids": [
+        "Q556263"
+      ],
+      "_occupation_qids": [
+        "Q36834",
+        "Q61996872",
+        "Q37226",
+        "Q765778",
+        "Q16031530",
+        "Q158852",
+        "Q14915627",
+        "Q115793211",
+        "Q830337",
+        "Q8178443"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Anton Denikin",
+      "dates": "1872–1947",
+      "y": 1872,
+      "roles": [
+        "Military",
+        "Ruler",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Anton Ivanovich Denikin was a Russian military officer who served as a lieutenant general in the Imperial Russian Army and as a leading commander of the anti-Bolshevik White movement during the Rus…",
+      "tldr": "Anton Ivanovich Denikin was a Russian military officer who served as a lieutenant general in the Imperial Russian Army and as a leading commander of the anti-Bolshevik White movement during the Russian Civil War.",
+      "url": "https://en.wikipedia.org/wiki/Anton_Denikin",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q189290",
+        "Q152951",
+        "Q82955",
+        "Q36180"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Alexander VI",
+      "dates": "1431–1503",
+      "y": 1431,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Pope Alexander VI was head of the Catholic Church and leader of the Papal States from 11 August 1492 until his death in 1503.",
+      "tldr": "Pope Alexander VI was head of the Catholic Church and leader of the Papal States from 11 August 1492 until his death in 1503.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VI",
+      "_country_qids": [
+        "Q204920"
+      ],
+      "_occupation_qids": [
+        "Q250867",
+        "Q7834465"
+      ],
+      "region": "Europe"
     }
   ]
 }
