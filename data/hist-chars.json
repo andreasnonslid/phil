@@ -485,6 +485,253 @@
       "region": "Europe",
       "desc": "Italian composer of over 70 operas, a leading figure of the bel canto style alongside Rossini and Bellini.",
       "url": "https://en.wikipedia.org/wiki/Gaetano_Donizetti"
+    },
+    {
+      "name": "Joachim von Ribbentrop",
+      "dates": "1893–1946",
+      "y": 1893,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "German politician and diplomat who served as Nazi Germany's Foreign Minister 1938–1945; executed at Nuremberg as a war criminal.",
+      "url": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
+    },
+    {
+      "name": "Ronald Ross",
+      "dates": "1857–1932",
+      "y": 1857,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "British physician who proved mosquitoes transmit malaria, earning the 1902 Nobel Prize in Physiology or Medicine.",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Ross"
+    },
+    {
+      "name": "Marcellus I",
+      "dates": "255–309",
+      "y": 255,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Pope from 308 to 309 CE, successor to Marcellinus; banished from Rome by Maxentius over disputes about Christian penance.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Marcellus_I"
+    },
+    {
+      "name": "Henry II of England",
+      "dates": "1133–1189",
+      "y": 1133,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "King of England (1154–1189) who presided over the Angevin Empire, spanning England, much of France, and parts of Ireland and Wales.",
+      "url": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+    },
+    {
+      "name": "Jan van Eyck",
+      "dates": "1390–1441",
+      "y": 1390,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Early Netherlandish painter active in Bruges, renowned as one of the supreme innovators of Early Northern Renaissance oil painting.",
+      "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
+    },
+    {
+      "name": "Francis William Aston",
+      "dates": "1877–1945",
+      "y": 1877,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "British physicist and chemist who won the 1922 Nobel Prize in Chemistry for discovering isotopes in non-radioactive elements via his mass spectrograph.",
+      "url": "https://en.wikipedia.org/wiki/Francis_William_Aston"
+    },
+    {
+      "name": "Snorri Sturluson",
+      "dates": "1179–1241",
+      "y": 1179,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Icelandic historian, poet, and twice-elected lawspeaker of the Althing, credited with compiling the Prose Edda and Heimskringla.",
+      "url": "https://en.wikipedia.org/wiki/Snorri_Sturluson"
+    },
+    {
+      "name": "Dadabhai Naoroji",
+      "dates": "1825–1917",
+      "y": 1825,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "19th century",
+      "region": "South Asia",
+      "desc": "Indian political leader, founding member of the Indian National Congress, and the first Indian elected to the British Parliament.",
+      "url": "https://en.wikipedia.org/wiki/Dadabhai_Naoroji"
+    },
+    {
+      "name": "Evangelista Torricelli",
+      "dates": "1608–1647",
+      "y": 1608,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Italian physicist and mathematician, student of Galileo, best known for inventing the barometer.",
+      "url": "https://en.wikipedia.org/wiki/Evangelista_Torricelli"
+    },
+    {
+      "name": "Harriet Beecher Stowe",
+      "dates": "1811–1896",
+      "y": 1811,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "region": "Americas",
+      "desc": "American author and abolitionist whose novel Uncle Tom's Cabin (1852) galvanized the anti-slavery movement across the US and Britain.",
+      "url": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe"
+    },
+    {
+      "name": "Robert Falcon Scott",
+      "dates": "1868–1912",
+      "y": 1868,
+      "roles": [
+        "Explorer",
+        "Military"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "British Royal Navy officer and Antarctic explorer who led two polar expeditions, perishing on the return from his 1910–13 attempt to reach the South Pole.",
+      "url": "https://en.wikipedia.org/wiki/Robert_Falcon_Scott"
+    },
+    {
+      "name": "Johann Gottlieb Fichte",
+      "dates": "1762–1814",
+      "y": 1762,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "German philosopher and founding figure of German Idealism who extended Kant's ethics and epistemology into a systematic philosophy of the self.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte"
+    },
+    {
+      "name": "Paul II",
+      "dates": "1417–1471",
+      "y": 1417,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope from 1464 to 1471, born Pietro Barbo of Venice; known for his love of art and gems and his conflicts with humanist scholars.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Paul_II"
+    },
+    {
+      "name": "Pythagoras",
+      "dates": "582BCE–490BCE",
+      "y": -582,
+      "roles": [
+        "Scientist",
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Ancient Greek philosopher and mathematician who founded a religious-philosophical community and gave his name to fundamental theorems in mathematics.",
+      "url": "https://en.wikipedia.org/wiki/Pythagoras"
+    },
+    {
+      "name": "Wilhelm Steinitz",
+      "dates": "1836–1900",
+      "y": 1836,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Bohemian-Austrian chess player who became the first official World Chess Champion (1886–1894) and revolutionized chess theory.",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Steinitz"
+    },
+    {
+      "name": "Henri Moissan",
+      "dates": "1852–1907",
+      "y": 1852,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French chemist who won the 1906 Nobel Prize in Chemistry for isolating fluorine and pioneering the electric arc furnace.",
+      "url": "https://en.wikipedia.org/wiki/Henri_Moissan"
+    },
+    {
+      "name": "Jacobus Henricus van 't Hoff",
+      "dates": "1852–1911",
+      "y": 1852,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Dutch physical chemist who won the inaugural Nobel Prize in Chemistry (1901) for discovering the laws of chemical dynamics and osmotic pressure.",
+      "url": "https://en.wikipedia.org/wiki/Jacobus_Henricus_van_%27t_Hoff"
+    },
+    {
+      "name": "Boethius",
+      "dates": "480–524",
+      "y": 480,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Roman senator, philosopher, and polymath of the Early Middle Ages whose Consolation of Philosophy became a cornerstone of medieval thought.",
+      "url": "https://en.wikipedia.org/wiki/Boethius"
+    },
+    {
+      "name": "Darius III",
+      "dates": "379BCE–329BCE",
+      "y": -379,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Middle East",
+      "desc": "Last Achaemenid King of Kings of Persia (336–330 BCE), defeated by Alexander the Great at Issus and Gaugamela.",
+      "url": "https://en.wikipedia.org/wiki/Darius_III"
+    },
+    {
+      "name": "Harriet Tubman",
+      "dates": "1820–1913",
+      "y": 1820,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "19th century",
+      "region": "Americas",
+      "desc": "American abolitionist who escaped slavery and led some 70 people to freedom via the Underground Railroad, and later served as a Union spy.",
+      "url": "https://en.wikipedia.org/wiki/Harriet_Tubman"
     }
   ]
 }
