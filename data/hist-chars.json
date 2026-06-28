@@ -103,11 +103,13 @@
       "y": -100,
       "roles": [
         "Ruler",
-        "Military"
+        "Military",
+        "Writer"
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Roman general and statesman whose rise ended the Republic and led to the Empire.",
-      "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+      "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "region": "Europe"
     },
     {
       "name": "Cleopatra VII",
@@ -980,6 +982,237 @@
       "region": "Europe",
       "desc": "Pope (678–681) who presided over the Third Council of Constantinople, decisively condemning Monothelitism.",
       "url": "https://en.wikipedia.org/wiki/Pope_Agatho"
+    },
+    {
+      "name": "Gallienus",
+      "dates": "218–268",
+      "y": 218,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Roman emperor (253–268) who held the empire together during the Crisis of the Third Century and was a noted patron of philosophy and the arts.",
+      "url": "https://en.wikipedia.org/wiki/Gallienus"
+    },
+    {
+      "name": "Paul Sabatier",
+      "dates": "1854–1941",
+      "y": 1854,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French chemist who developed a method for hydrogenating organic compounds using metal catalysts, awarded the Nobel Prize in Chemistry in 1912.",
+      "url": "https://en.wikipedia.org/wiki/Paul_Sabatier_(chemist)"
+    },
+    {
+      "name": "Victor Grignard",
+      "dates": "1871–1935",
+      "y": 1871,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French chemist who discovered the Grignard reagent, an essential tool in organic synthesis, earning the Nobel Prize in Chemistry in 1912.",
+      "url": "https://en.wikipedia.org/wiki/Victor_Grignard"
+    },
+    {
+      "name": "Manshuk Mametova",
+      "dates": "1922–1943",
+      "y": 1922,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "20th century onward",
+      "region": "Europe",
+      "desc": "Kazakh machine-gunner in the Red Army who single-handedly held off a German assault near Nevel in 1943, posthumously awarded Hero of the Soviet Union.",
+      "url": "https://en.wikipedia.org/wiki/Manshuk_Mametova"
+    },
+    {
+      "name": "Mesrop Mashtots",
+      "dates": "362–440",
+      "y": 362,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Middle East",
+      "desc": "Armenian monk and linguist who created the Armenian alphabet around 405 CE, enabling the translation of the Bible and founding Armenian literature.",
+      "url": "https://en.wikipedia.org/wiki/Mesrop_Mashtots"
+    },
+    {
+      "name": "Caspar David Friedrich",
+      "dates": "1774–1840",
+      "y": 1774,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "German Romantic painter whose landscapes, including Wanderer above the Sea of Fog, express spiritual solitude and the sublime power of nature.",
+      "url": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich"
+    },
+    {
+      "name": "Gabriel Fauré",
+      "dates": "1845–1924",
+      "y": 1845,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French composer known for his Requiem, piano nocturnes, and chamber music who shaped the transition from Romanticism to modern French music.",
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Faur%C3%A9"
+    },
+    {
+      "name": "Friedrich Wilhelm I of Prussia",
+      "dates": "1688–1740",
+      "y": 1688,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "King of Prussia (1713–1740) known as the ‘Soldier King’ who built a highly disciplined army and centralised the Prussian state.",
+      "url": "https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia"
+    },
+    {
+      "name": "Theodoric the Great",
+      "dates": "454–526",
+      "y": 454,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "King of the Ostrogoths who conquered Italy in 493 and ruled as a tolerant monarch, promoting classical culture and coexistence of Romans and Goths.",
+      "url": "https://en.wikipedia.org/wiki/Theodoric_the_Great"
+    },
+    {
+      "name": "Sojourner Truth",
+      "dates": "c. 1797–1883",
+      "y": 1797,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Americas",
+      "desc": "American abolitionist born into slavery who delivered the landmark ‘Ain’t I a Woman?’ speech at the 1851 Women’s Rights Convention.",
+      "url": "https://en.wikipedia.org/wiki/Sojourner_Truth"
+    },
+    {
+      "name": "Giacomo Meyerbeer",
+      "dates": "1791–1864",
+      "y": 1791,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "German-Jewish opera composer whose grand operas—including Les Huguenots—dominated Parisian stages for decades and influenced later Romantic opera.",
+      "url": "https://en.wikipedia.org/wiki/Giacomo_Meyerbeer"
+    },
+    {
+      "name": "Praxiteles",
+      "dates": "394–329 BCE",
+      "y": -394,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Athenian sculptor of the 4th century BCE renowned for the Aphrodite of Knidos, the first monumental nude female figure in Western art.",
+      "url": "https://en.wikipedia.org/wiki/Praxiteles"
+    },
+    {
+      "name": "Berthe Morisot",
+      "dates": "1841–1895",
+      "y": 1841,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French Impressionist painter who exhibited at most Impressionist exhibitions and was known for intimate domestic scenes in a distinctive loose style.",
+      "url": "https://en.wikipedia.org/wiki/Berthe_Morisot"
+    },
+    {
+      "name": "Johann Heinrich Pestalozzi",
+      "dates": "1746–1827",
+      "y": 1746,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Swiss educational reformer who pioneered child-centred learning methods emphasising hands-on experience, shaping the foundations of modern elementary education.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi"
+    },
+    {
+      "name": "Lepidus",
+      "dates": "89–12 BCE",
+      "y": -89,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Roman general who formed the Second Triumvirate with Octavian and Mark Antony after Caesar’s assassination, later sidelined as Pontifex Maximus.",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)"
+    },
+    {
+      "name": "Paul Morphy",
+      "dates": "1837–1884",
+      "y": 1837,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "19th century",
+      "region": "Americas",
+      "desc": "American chess prodigy who dominated world chess in the late 1850s, widely regarded as the first unofficial World Chess Champion before retiring from the game.",
+      "url": "https://en.wikipedia.org/wiki/Paul_Morphy"
+    },
+    {
+      "name": "Italo Balbo",
+      "dates": "1896–1940",
+      "y": 1896,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "20th century onward",
+      "region": "Europe",
+      "desc": "Italian fascist politician and aviator who led pioneering transatlantic air expeditions in the 1930s and served as Governor-General of Libya until his death.",
+      "url": "https://en.wikipedia.org/wiki/Italo_Balbo"
+    },
+    {
+      "name": "Jean Harlow",
+      "dates": "1911–1937",
+      "y": 1911,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "20th century onward",
+      "region": "Americas",
+      "desc": "American actress and 1930s sex symbol dubbed the ‘Platinum Blonde’ whose comedic roles at MGM made her one of Hollywood’s biggest stars before her early death at 26.",
+      "url": "https://en.wikipedia.org/wiki/Jean_Harlow"
+    },
+    {
+      "name": "Malhun Hatun",
+      "dates": "c. 1300–1324",
+      "y": 1300,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Middle East",
+      "desc": "Second wife of Osman I, founder of the Ottoman dynasty, whose family alliances helped consolidate the early Ottoman state.",
+      "url": "https://en.wikipedia.org/wiki/Malhun_Hatun"
     }
   ]
 }
