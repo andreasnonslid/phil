@@ -1213,6 +1213,249 @@
       "region": "Middle East",
       "desc": "Second wife of Osman I, founder of the Ottoman dynasty, whose family alliances helped consolidate the early Ottoman state.",
       "url": "https://en.wikipedia.org/wiki/Malhun_Hatun"
+    },
+    {
+      "name": "José I of Portugal",
+      "dates": "1714–1777",
+      "y": 1714,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Dom Joseph I, known as the Reformer, was King of Portugal from 1750 until his death in 1777, with his reign dominated by the Marquis of Pombal.",
+      "url": "https://en.wikipedia.org/wiki/Joseph_I_of_Portugal",
+      "region": "Europe"
+    },
+    {
+      "name": "Sancho I of Portugal",
+      "dates": "1154–1211",
+      "y": 1154,
+      "roles": [
+        "Ruler",
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Second King of Portugal, known as Sancho the Populator for rebuilding and repopulating towns reconquered from the Moors.",
+      "url": "https://en.wikipedia.org/wiki/Sancho_I_of_Portugal",
+      "region": "Europe"
+    },
+    {
+      "name": "Sviatoslav I of Kiev",
+      "dates": "942–972",
+      "y": 942,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Prince of Kiev renowned for relentless military campaigns that toppled Khazaria and the First Bulgarian Empire while expanding Rus territory.",
+      "url": "https://en.wikipedia.org/wiki/Sviatoslav_I",
+      "region": "Europe"
+    },
+    {
+      "name": "Arius",
+      "dates": "250–336",
+      "y": 250,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Alexandrian presbyter whose theology on Christ's nature sparked the Arian controversy, prompting the Council of Nicaea in 325 CE.",
+      "url": "https://en.wikipedia.org/wiki/Arius",
+      "region": "Middle East"
+    },
+    {
+      "name": "Ibn al-Muqaffa'",
+      "dates": "724–840",
+      "y": 724,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Persian-born author and translator who rendered Kalila wa Dimna into Arabic, becoming a foundational figure of classical Arabic prose.",
+      "url": "https://en.wikipedia.org/wiki/Ibn_al-Muqaffa%27",
+      "region": "Middle East"
+    },
+    {
+      "name": "Lady Godiva",
+      "dates": "990–1067",
+      "y": 990,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Anglo-Saxon noblewoman and patron of churches, legendary for riding naked through Coventry to persuade her husband to lower taxes on the poor.",
+      "url": "https://en.wikipedia.org/wiki/Lady_Godiva",
+      "region": "Europe"
+    },
+    {
+      "name": "John IV of Portugal",
+      "dates": "1604–1656",
+      "y": 1604,
+      "roles": [
+        "Ruler",
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "First Braganza king, restored Portuguese independence from Spain in 1640; also a prolific composer and patron of music.",
+      "url": "https://en.wikipedia.org/wiki/John_IV_of_Portugal",
+      "region": "Europe"
+    },
+    {
+      "name": "King Wu of Zhou",
+      "dates": "1150BCE–1042BCE",
+      "y": -1150,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Founding king of the Zhou dynasty who overthrew the Shang at the Battle of Muye and became a Confucian model of virtuous rule.",
+      "url": "https://en.wikipedia.org/wiki/King_Wu_of_Zhou",
+      "region": "East Asia"
+    },
+    {
+      "name": "Samuel Pepys",
+      "dates": "1633–1703",
+      "y": 1633,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "English naval administrator and MP whose candid diary, kept 1660–1669, is among the most vivid primary sources for the Stuart Restoration.",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Pepys",
+      "region": "Europe"
+    },
+    {
+      "name": "Denis Papin",
+      "dates": "1647–1713",
+      "y": 1647,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "French Huguenot physicist and inventor of the steam digester, forerunner of both the pressure cooker and the steam engine.",
+      "url": "https://en.wikipedia.org/wiki/Denis_Papin",
+      "region": "Europe"
+    },
+    {
+      "name": "Daniel Webster",
+      "dates": "1782–1852",
+      "y": 1782,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "American lawyer and statesman who served as U.S. Senator and twice as Secretary of State, a dominant voice for Union and constitutional law.",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Webster",
+      "region": "Americas"
+    },
+    {
+      "name": "Charles-Augustin Sainte-Beuve",
+      "dates": "1804–1869",
+      "y": 1804,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Foremost French literary critic of the 19th century, influential for his biographical method of contextualizing authors' lives and works.",
+      "url": "https://en.wikipedia.org/wiki/Charles_Augustin_Sainte-Beuve",
+      "region": "Europe"
+    },
+    {
+      "name": "Alessandro Manzoni",
+      "dates": "1785–1873",
+      "y": 1785,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Italian poet and novelist whose The Betrothed (1827) is considered the greatest Italian novel and a pillar of the Risorgimento.",
+      "url": "https://en.wikipedia.org/wiki/Alessandro_Manzoni",
+      "region": "Europe"
+    },
+    {
+      "name": "Max Bruch",
+      "dates": "1838–1920",
+      "y": 1838,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "German Romantic composer best known for his Violin Concerto No. 1 in G minor, a cornerstone of the violin repertoire.",
+      "url": "https://en.wikipedia.org/wiki/Max_Bruch",
+      "region": "Europe"
+    },
+    {
+      "name": "Asaph Hall",
+      "dates": "1829–1907",
+      "y": 1829,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "American astronomer who in 1877 discovered Phobos and Deimos, the two moons of Mars, and determined the orbital mechanics of planetary satellites.",
+      "url": "https://en.wikipedia.org/wiki/Asaph_Hall",
+      "region": "Americas"
+    },
+    {
+      "name": "Maria of Castile, Queen of Aragon",
+      "dates": "1401–1458",
+      "y": 1401,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Queen of Aragon and longtime regent of the Crown, effectively governing Aragon for most of Alfonso V's reign while he campaigned in Italy.",
+      "url": "https://en.wikipedia.org/wiki/Maria_of_Castile",
+      "region": "Europe"
+    },
+    {
+      "name": "Henry Campbell-Bannerman",
+      "dates": "1836–1908",
+      "y": 1836,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "British Liberal Prime Minister 1905–1908 who granted self-government to the former Boer republics and was the first PM officially titled as such.",
+      "url": "https://en.wikipedia.org/wiki/Henry_Campbell-Bannerman",
+      "region": "Europe"
+    },
+    {
+      "name": "Neville Chamberlain",
+      "dates": "1869–1940",
+      "y": 1869,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "British Prime Minister 1937–1940, defined by his appeasement policy and the Munich Agreement ceding the Sudetenland to Nazi Germany.",
+      "url": "https://en.wikipedia.org/wiki/Neville_Chamberlain",
+      "region": "Europe"
+    },
+    {
+      "name": "Johann Christian Bach",
+      "dates": "1735–1782",
+      "y": 1735,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Youngest son of J.S. Bach, German-born Classical composer who settled in London and profoundly influenced the young Mozart.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Christian_Bach",
+      "region": "Europe"
+    },
+    {
+      "name": "Dante Alighieri",
+      "dates": "1265–1321",
+      "y": 1265,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Florentine poet whose Divine Comedy is widely regarded as the greatest literary work of the Middle Ages and the foundation of the Italian language.",
+      "url": "https://en.wikipedia.org/wiki/Dante_Alighieri",
+      "region": "Europe"
     }
   ]
 }
