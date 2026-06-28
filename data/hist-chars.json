@@ -86,6 +86,50 @@
   },
   "entries": [
     {
+      "name": "Hor-Aha",
+      "dates": "3161BCE–3100BCE",
+      "y": -3161,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Hor-Aha is considered the second pharaoh of the First Dynasty of Egypt by most Egyptologists, while others consider him the first one and corresponding to Menes. He lived around the 31st century BC…",
+      "tldr": "Hor-Aha is considered the second pharaoh of the First Dynasty of Egypt by most Egyptologists, while others consider him the first one and corresponding to Menes. He lived around the 31st century BC and is thought to have had a long reign.",
+      "url": "https://en.wikipedia.org/wiki/Hor-Aha",
+      "_country_qids": [
+        "Q11768"
+      ],
+      "_occupation_qids": [
+        "Q2304859"
+      ],
+      "region": "Africa"
+    },
+    {
+      "name": "King Wu of Zhou",
+      "dates": "1150BCE–1042BCE",
+      "y": -1150,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Founding king of the Zhou dynasty who overthrew the Shang at the Battle of Muye and became a Confucian model of virtuous rule.",
+      "url": "https://en.wikipedia.org/wiki/King_Wu_of_Zhou",
+      "region": "East Asia"
+    },
+    {
+      "name": "Pythagoras",
+      "dates": "582BCE–490BCE",
+      "y": -582,
+      "roles": [
+        "Scientist",
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Ancient Greek philosopher and mathematician who founded a religious-philosophical community and gave his name to fundamental theorems in mathematics.",
+      "url": "https://en.wikipedia.org/wiki/Pythagoras"
+    },
+    {
       "name": "Confucius",
       "dates": "551–479 BCE",
       "y": -551,
@@ -96,6 +140,77 @@
       "era": "Ancient (to 500 CE)",
       "desc": "Chinese teacher and philosopher whose ideas on ethics and governance shaped East Asian thought.",
       "url": "https://en.wikipedia.org/wiki/Confucius"
+    },
+    {
+      "name": "Callicrates",
+      "dates": "469–419 BCE",
+      "y": -469,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Ancient Greek architect who co-designed the Parthenon in Athens alongside Ictinus.",
+      "url": "https://en.wikipedia.org/wiki/Callicrates",
+      "region": "Europe"
+    },
+    {
+      "name": "Praxiteles",
+      "dates": "394–329 BCE",
+      "y": -394,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Athenian sculptor of the 4th century BCE renowned for the Aphrodite of Knidos, the first monumental nude female figure in Western art.",
+      "url": "https://en.wikipedia.org/wiki/Praxiteles"
+    },
+    {
+      "name": "Darius III",
+      "dates": "379BCE–329BCE",
+      "y": -379,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Middle East",
+      "desc": "Last Achaemenid King of Kings of Persia (336–330 BCE), defeated by Alexander the Great at Issus and Gaugamela.",
+      "url": "https://en.wikipedia.org/wiki/Darius_III"
+    },
+    {
+      "name": "Antigonus III Doson",
+      "dates": "262BCE–220BCE",
+      "y": -262,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Antigonus III Doson was king of Antigonid Macedon from 229 BC to 221 BC. Antigonus was a member of the Antigonid dynasty through his paternal line.",
+      "tldr": "Antigonus III Doson was king of Antigonid Macedon from 229 BC to 221 BC. During the Cleomenean War, Antigonus revived the Hellenic League of Philip II of Macedon under the name of the “League of Leagues” and managed to incorporate most of the Greek city-states in this League.",
+      "url": "https://en.wikipedia.org/wiki/Antigonus_III_Doson",
+      "_country_qids": [
+        "Q83958"
+      ],
+      "_occupation_qids": [
+        "Q47064"
+      ]
+    },
+    {
+      "name": "Antigonus III Doson",
+      "dates": "262BCE–220BCE",
+      "y": -262,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Antigonus III Doson was king of Antigonid Macedon from 229 BC to 221 BC. Antigonus was a member of the Antigonid dynasty through his paternal line.",
+      "tldr": "Antigonus III Doson was king of Antigonid Macedon from 229 BC to 221 BC. During the Cleomenean War, Antigonus revived the Hellenic League of Philip II of Macedon under the name of the \"League of Leagues\" and managed to incorporate most of the Greek city-states in this League.",
+      "url": "https://en.wikipedia.org/wiki/Antigonus_III_Doson"
     },
     {
       "name": "Julius Caesar",
@@ -112,6 +227,54 @@
       "region": "Europe"
     },
     {
+      "name": "Cornelius Nepos",
+      "dates": "99BCE–24BCE",
+      "y": -99,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Cornelius Nepos was a Roman biographer.",
+      "tldr": "Cornelius Nepos was a Roman biographer.",
+      "url": "https://en.wikipedia.org/wiki/Cornelius_Nepos",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q201788",
+        "Q36180",
+        "Q49757",
+        "Q864380"
+      ]
+    },
+    {
+      "name": "Cornelius Nepos",
+      "dates": "99BCE–24BCE",
+      "y": -99,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Cornelius Nepos was a Roman biographer.",
+      "tldr": "Cornelius Nepos was a Roman biographer.",
+      "url": "https://en.wikipedia.org/wiki/Cornelius_Nepos"
+    },
+    {
+      "name": "Lepidus",
+      "dates": "89–12 BCE",
+      "y": -89,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Roman general who formed the Second Triumvirate with Octavian and Mark Antony after Caesar’s assassination, later sidelined as Pontifex Maximus.",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)"
+    },
+    {
       "name": "Cleopatra VII",
       "dates": "69–30 BCE",
       "y": -69,
@@ -121,6 +284,402 @@
       "era": "Ancient (to 500 CE)",
       "desc": "Last active ruler of Ptolemaic Egypt, allied with Julius Caesar and Mark Antony.",
       "url": "https://en.wikipedia.org/wiki/Cleopatra"
+    },
+    {
+      "name": "Tibullus",
+      "dates": "50BCE–15BCE",
+      "y": -50,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Albius Tibullus was a Latin poet and writer of elegies. His first and second books of poetry are extant; many other texts attributed to him are of questionable origins.",
+      "tldr": "Albius Tibullus was a Latin poet and writer of elegies. His first and second books of poetry are extant; many other texts attributed to him are of questionable origins.",
+      "url": "https://en.wikipedia.org/wiki/Tibullus",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q16868675"
+      ]
+    },
+    {
+      "name": "Tibullus",
+      "dates": "50BCE–15BCE",
+      "y": -50,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Albius Tibullus was a Latin poet and writer of elegies. His first and second books of poetry are extant; many other texts attributed to him are of questionable origins.",
+      "tldr": "Albius Tibullus was a Latin poet and writer of elegies. His first and second books of poetry are extant; many other texts attributed to him are of questionable origins.",
+      "url": "https://en.wikipedia.org/wiki/Tibullus"
+    },
+    {
+      "name": "Suetonius",
+      "dates": "69–126",
+      "y": 69,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Roman historian of the early Empire, best known for The Twelve Caesars, biographies of Rome's first rulers.",
+      "url": "https://en.wikipedia.org/wiki/Suetonius"
+    },
+    {
+      "name": "Soter",
+      "dates": "200–175",
+      "y": 200,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "2nd-century Pope of Rome who strengthened ties between the Roman church and Greek Christian communities.",
+      "url": "https://en.wikipedia.org/wiki/Soter"
+    },
+    {
+      "name": "Gallienus",
+      "dates": "218–268",
+      "y": 218,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Roman emperor (253–268) who held the empire together during the Crisis of the Third Century and was a noted patron of philosophy and the arts.",
+      "url": "https://en.wikipedia.org/wiki/Gallienus"
+    },
+    {
+      "name": "Arius",
+      "dates": "250–336",
+      "y": 250,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Alexandrian presbyter whose theology on Christ's nature sparked the Arian controversy, prompting the Council of Nicaea in 325 CE.",
+      "url": "https://en.wikipedia.org/wiki/Arius",
+      "region": "Middle East"
+    },
+    {
+      "name": "Marcellus I",
+      "dates": "255–309",
+      "y": 255,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Pope from 308 to 309 CE, successor to Marcellinus; banished from Rome by Maxentius over disputes about Christian penance.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Marcellus_I"
+    },
+    {
+      "name": "Ulfilas",
+      "dates": "311–383",
+      "y": 311,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Ulfilas (Ancient Greek: Οὐλφίλας; c. 311 – 383), known also as Wulfila(s) or Urphilas, was a 4th-century Gothic preacher of Cappadocian Greek descent.",
+      "tldr": "Ulfilas (Ancient Greek: Οὐλφίλας; c. 311 – 383), known also as Wulfila(s) or Urphilas, was a 4th-century Gothic preacher of Cappadocian Greek descent. He was the apostle to the Gothic people.",
+      "url": "https://en.wikipedia.org/wiki/Ulfilas",
+      "_country_qids": [],
+      "_occupation_qids": [
+        "Q219477",
+        "Q24262584",
+        "Q29182",
+        "Q333634",
+        "Q36180",
+        "Q831474"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Samudragupta",
+      "dates": "335–380",
+      "y": 335,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Second emperor of the Gupta Empire who expanded India's territory through military conquest.",
+      "url": "https://en.wikipedia.org/wiki/Samudragupta",
+      "region": "South Asia"
+    },
+    {
+      "name": "Mesrop Mashtots",
+      "dates": "362–440",
+      "y": 362,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Middle East",
+      "desc": "Armenian monk and linguist who created the Armenian alphabet around 405 CE, enabling the translation of the Bible and founding Armenian literature.",
+      "url": "https://en.wikipedia.org/wiki/Mesrop_Mashtots"
+    },
+    {
+      "name": "Julius Nepos",
+      "dates": "430–480",
+      "y": 430,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Roman emperor of the West (474–475) who was deposed by Orestes but retained recognition from the East until his murder in 480.",
+      "url": "https://en.wikipedia.org/wiki/Julius_Nepos"
+    },
+    {
+      "name": "Odoacer",
+      "dates": "433–493",
+      "y": 433,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Germanic chieftain who deposed Romulus Augustulus in 476 and ruled Italy until overthrown by Theodoric the Great.",
+      "url": "https://en.wikipedia.org/wiki/Odoacer"
+    },
+    {
+      "name": "Theodoric the Great",
+      "dates": "454–526",
+      "y": 454,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "King of the Ostrogoths who conquered Italy in 493 and ruled as a tolerant monarch, promoting classical culture and coexistence of Romans and Goths.",
+      "url": "https://en.wikipedia.org/wiki/Theodoric_the_Great"
+    },
+    {
+      "name": "Alaric II",
+      "dates": "458–507",
+      "y": 458,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "King of the Visigoths from 484 who issued the Breviary of Alaric, a landmark codification of Roman law for his subjects.",
+      "url": "https://en.wikipedia.org/wiki/Alaric_II",
+      "region": "Europe"
+    },
+    {
+      "name": "Boethius",
+      "dates": "480–524",
+      "y": 480,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Roman senator, philosopher, and polymath of the Early Middle Ages whose Consolation of Philosophy became a cornerstone of medieval thought.",
+      "url": "https://en.wikipedia.org/wiki/Boethius"
+    },
+    {
+      "name": "Athalaric",
+      "dates": "516–534",
+      "y": 516,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "King of the Ostrogoths in Italy from 526, grandson of Theodoric the Great, who reigned under the regency of his mother Amalasuintha.",
+      "url": "https://en.wikipedia.org/wiki/Athalaric",
+      "region": "Europe"
+    },
+    {
+      "name": "Ammar ibn Yasir",
+      "dates": "570–657",
+      "y": 570,
+      "roles": [
+        "Religious",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Companion of the Prophet Muhammad whose parents were the first martyrs of Islam; later a commander in the early Muslim conquests.",
+      "url": "https://en.wikipedia.org/wiki/Ammar_ibn_Yasir",
+      "region": "Middle East"
+    },
+    {
+      "name": "Agatho",
+      "dates": "574–681",
+      "y": 574,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (678–681) who presided over the Third Council of Constantinople, decisively condemning Monothelitism.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Agatho"
+    },
+    {
+      "name": "Sa’id ibn Zayd",
+      "dates": "593–671",
+      "y": 593,
+      "roles": [
+        "Religious",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Companion of the Prophet Muhammad and early Muslim military leader.",
+      "url": "https://en.wikipedia.org/wiki/Sa%27id_ibn_Zayd",
+      "region": "Middle East"
+    },
+    {
+      "name": "Muadh ibn Jabal",
+      "dates": "600–638",
+      "y": 600,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Companion of Muhammad who helped compile the Quran and became a leading Islamic scholar.",
+      "url": "https://en.wikipedia.org/wiki/Muadh_ibn_Jabal",
+      "region": "Middle East"
+    },
+    {
+      "name": "Leo II",
+      "dates": "611–683",
+      "y": 611,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (682–683) who ratified the Third Council of Constantinople, condemning Monothelitism and rehabilitating orthodox theology.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Leo_II"
+    },
+    {
+      "name": "Dagobert I",
+      "dates": "611–639",
+      "y": 611,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Dagobert I was King of the Franks. He ruled Austrasia (623–634) and Neustria and Burgundy (629–639). He has been described as the last king of the Merovingian dynasty to wield real royal power.",
+      "url": "https://en.wikipedia.org/wiki/Dagobert_I",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ]
+    },
+    {
+      "name": "Dagobert I",
+      "dates": "611–639",
+      "y": 611,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Dagobert I was King of the Franks. He ruled Austrasia (623–634) and Neustria and Burgundy (629–639). He has been described as the last king of the Merovingian dynasty to wield real royal power.",
+      "url": "https://en.wikipedia.org/wiki/Dagobert_I"
+    },
+    {
+      "name": "Husayn ibn Ali",
+      "dates": "626–680",
+      "y": 626,
+      "roles": [
+        "Religious",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Grandson of the Prophet Muhammad and third Imam of Shia Islam; his death at the Battle of Karbala became the central tragedy of Shia faith.",
+      "url": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+      "region": "Middle East"
+    },
+    {
+      "name": "Sisinnius",
+      "dates": "650–708",
+      "y": 650,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope for about three weeks in 708, one of the shortest pontificates in history.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Sisinnius"
+    },
+    {
+      "name": "Gregory II",
+      "dates": "669–731",
+      "y": 669,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (715–731) who condemned Byzantine iconoclasm and supported Boniface’s missionary work among the Germanic peoples.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Gregory_II"
+    },
+    {
+      "name": "Gregory III",
+      "dates": "700–741",
+      "y": 700,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (731–741) who condemned Byzantine iconoclasm and cemented the papacy’s ties with the Frankish kingdom.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Gregory_III"
+    },
+    {
+      "name": "Adrian I",
+      "dates": "700–795",
+      "y": 700,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (772–795) who forged a lasting alliance with Charlemagne, shaping the political foundations of medieval Christendom.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Adrian_I"
+    },
+    {
+      "name": "Paul I",
+      "dates": "700–767",
+      "y": 700,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (757–768) who deepened the papacy’s alliance with the Frankish king Pepin the Short against the Lombards.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Paul_I"
+    },
+    {
+      "name": "Ibn al-Muqaffa'",
+      "dates": "724–840",
+      "y": 724,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Persian-born author and translator who rendered Kalila wa Dimna into Arabic, becoming a foundational figure of classical Arabic prose.",
+      "url": "https://en.wikipedia.org/wiki/Ibn_al-Muqaffa%27",
+      "region": "Middle East"
     },
     {
       "name": "Charlemagne",
@@ -135,6 +694,227 @@
       "url": "https://en.wikipedia.org/wiki/Charlemagne"
     },
     {
+      "name": "Abu Ma’shar al-Balkhi",
+      "dates": "787–886",
+      "y": 787,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Persian astrologer and astronomer regarded as the greatest astrologer of the Abbasid court in Baghdad.",
+      "url": "https://en.wikipedia.org/wiki/Abu_Ma%27shar_al-Balkhi",
+      "region": "Middle East"
+    },
+    {
+      "name": "Ansgar",
+      "dates": "801–865",
+      "y": 801,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Archbishop of Hamburg-Bremen known as the “Apostle of the North” for missionary journeys that brought Christianity to Scandinavia.",
+      "url": "https://en.wikipedia.org/wiki/Ansgar",
+      "region": "Europe"
+    },
+    {
+      "name": "Abd al-Rahman al-Sufi",
+      "dates": "903–986",
+      "y": 903,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Persian astronomer of the Islamic Golden Age whose Book of Fixed Stars gave the first recorded description of the Andromeda Galaxy.",
+      "url": "https://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi",
+      "region": "Middle East"
+    },
+    {
+      "name": "Sviatoslav I of Kiev",
+      "dates": "942–972",
+      "y": 942,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Prince of Kiev renowned for relentless military campaigns that toppled Khazaria and the First Bulgarian Empire while expanding Rus territory.",
+      "url": "https://en.wikipedia.org/wiki/Sviatoslav_I",
+      "region": "Europe"
+    },
+    {
+      "name": "Ibn al-Haytham",
+      "dates": "965–1039",
+      "y": 965,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Arab mathematician and physicist from Iraq known as “the father of modern optics”; his Book of Optics transformed the science of vision.",
+      "url": "https://en.wikipedia.org/wiki/Ibn_al-Haytham",
+      "region": "Middle East"
+    },
+    {
+      "name": "Henry II, Holy Roman Emperor",
+      "dates": "973–1024",
+      "y": 973,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Holy Roman Emperor (1014–1024) and the last Ottonian emperor, later canonised for his support of Church reform.",
+      "url": "https://en.wikipedia.org/wiki/Henry_II%2C_Holy_Roman_Emperor"
+    },
+    {
+      "name": "Lady Godiva",
+      "dates": "990–1067",
+      "y": 990,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Anglo-Saxon noblewoman and patron of churches, legendary for riding naked through Coventry to persuade her husband to lower taxes on the poor.",
+      "url": "https://en.wikipedia.org/wiki/Lady_Godiva",
+      "region": "Europe"
+    },
+    {
+      "name": "Abū Ishāq Ibrāhīm al-Zarqālī",
+      "dates": "1027–1100",
+      "y": 1027,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Arab astronomer and instrument-maker from Al-Andalus who invented the saphaea and compiled the influential Toledo Tables.",
+      "url": "https://en.wikipedia.org/wiki/Al-Zarqali",
+      "region": "Europe"
+    },
+    {
+      "name": "Henry I of England",
+      "dates": "1068–1135",
+      "y": 1068,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Fourth son of William the Conqueror who seized the English throne in 1100 and stabilised the realm.",
+      "url": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+    },
+    {
+      "name": "Sanai",
+      "dates": "1080–1131",
+      "y": 1080,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Persian Sufi poet of the Ghaznavid Empire who pioneered mystical verse in Persian literature.",
+      "url": "https://en.wikipedia.org/wiki/Sanai",
+      "region": "Middle East"
+    },
+    {
+      "name": "Avempace",
+      "dates": "1095–1139",
+      "y": 1095,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Andalusian Arab polymath who wrote on astronomy, physics, philosophy, and medicine in Al-Andalus.",
+      "url": "https://en.wikipedia.org/wiki/Avempace",
+      "region": "Europe"
+    },
+    {
+      "name": "Adam of Bremen",
+      "dates": "1100–1085",
+      "y": 1100,
+      "roles": [
+        "Writer",
+        "Religious"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Adam of Bremen was a German medieval chronicler. He lived and worked in the second half of the eleventh century. Adam is most famous for his chronicle Gesta Hammaburgensis ecclesiae pontificum.",
+      "url": "https://en.wikipedia.org/wiki/Adam_of_Bremen",
+      "_country_qids": [
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q1234713",
+        "Q201788",
+        "Q1104153",
+        "Q3330547",
+        "Q36180",
+        "Q901402"
+      ]
+    },
+    {
+      "name": "Adam of Bremen",
+      "dates": "1100–1085",
+      "y": 1100,
+      "roles": [
+        "Religious",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Adam of Bremen was a German medieval chronicler. He lived and worked in the second half of the eleventh century. Adam is most famous for his chronicle Gesta Hammaburgensis ecclesiae pontificum.",
+      "url": "https://en.wikipedia.org/wiki/Adam_of_Bremen"
+    },
+    {
+      "name": "Geoffrey Plantagenet, Count of Anjou",
+      "dates": "1113–1151",
+      "y": 1113,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Count of Anjou and Duke of Normandy by conquest who founded the Plantagenet dynasty that would rule England for three centuries.",
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet%2C_Count_of_Anjou",
+      "region": "Europe"
+    },
+    {
+      "name": "Lu You",
+      "dates": "1125–1210",
+      "y": 1125,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Lu You was a Chinese historian and poet of the Southern Song Dynasty (南宋).",
+      "tldr": "Lu You was a Chinese historian and poet of the Southern Song Dynasty (南宋).",
+      "url": "https://en.wikipedia.org/wiki/Lu_You",
+      "_country_qids": [
+        "Q1147043"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q36180",
+        "Q201788"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Henry II of England",
+      "dates": "1133–1189",
+      "y": 1133,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "King of England (1154–1189) who presided over the Angevin Empire, spanning England, much of France, and parts of Ireland and Wales.",
+      "url": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+    },
+    {
       "name": "Saladin",
       "dates": "1137–1193",
       "y": 1137,
@@ -145,6 +925,241 @@
       "era": "Medieval (500–1500)",
       "desc": "First sultan of Egypt and Syria who led Muslim forces during the Crusades.",
       "url": "https://en.wikipedia.org/wiki/Saladin"
+    },
+    {
+      "name": "Saxo Grammaticus",
+      "dates": "1150–1206",
+      "y": 1150,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Saxo Grammaticus, also known as Saxo cognomine Longus, was a Danish historian, theologian, and author. He is thought to have been a clerk or secretary to Absalon, Archbishop of Lund, the main advis…",
+      "tldr": "Saxo Grammaticus, also known as Saxo cognomine Longus, was a Danish historian, theologian, and author. He is thought to have been a clerk or secretary to Absalon, Archbishop of Lund, the main advisor to Valdemar I of Denmark. He is the author of the Gesta Danorum, the first full history of Denmark, from which the legend of Amleth would come to inspire the story of Hamlet by Shakespeare.",
+      "url": "https://en.wikipedia.org/wiki/Saxo_Grammaticus",
+      "_country_qids": [
+        "Q756617"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q201788"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Sancho I of Portugal",
+      "dates": "1154–1211",
+      "y": 1154,
+      "roles": [
+        "Ruler",
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Second King of Portugal, known as Sancho the Populator for rebuilding and repopulating towns reconquered from the Moors.",
+      "url": "https://en.wikipedia.org/wiki/Sancho_I_of_Portugal",
+      "region": "Europe"
+    },
+    {
+      "name": "Kuchlug",
+      "dates": "1156–1218",
+      "y": 1156,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Kuchlug was a member of the Naiman tribe who became the last emperor of the Western Liao dynasty. The Naimans were defeated by Genghis Khan and he fled westward to the Western Liao, where he became…",
+      "tldr": "Kuchlug was a member of the Naiman tribe who became the last emperor of the Western Liao dynasty. The Naimans were defeated by Genghis Khan and he fled westward to the Western Liao, where he became an advisor to his future father-in-law Yelü Zhilugu. He later rebelled, usurped the throne and took control of the empire, putting an end to the rule of the House of Yelü.",
+      "url": "https://en.wikipedia.org/wiki/Kuchlug",
+      "_country_qids": [
+        "Q862304"
+      ],
+      "_occupation_qids": [
+        "Q181888"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Snorri Sturluson",
+      "dates": "1179–1241",
+      "y": 1179,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Icelandic historian, poet, and twice-elected lawspeaker of the Althing, credited with compiling the Prose Edda and Heimskringla.",
+      "url": "https://en.wikipedia.org/wiki/Snorri_Sturluson"
+    },
+    {
+      "name": "Töregene Khatun",
+      "dates": "1185–1246",
+      "y": 1185,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Töregene Khatun was the Great Khatun and regent of the Mongol Empire from the death of her husband Ögedei Khan in 1241 until the election of her eldest son Güyük Khan in 1246.",
+      "tldr": "Töregene Khatun was the Great Khatun and regent of the Mongol Empire from the death of her husband Ögedei Khan in 1241 until the election of her eldest son Güyük Khan in 1246.",
+      "url": "https://en.wikipedia.org/wiki/T%C3%B6regene_Khatun",
+      "_country_qids": [
+        "Q7313"
+      ],
+      "_occupation_qids": [
+        "Q477406"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Nicholas IV",
+      "dates": "1227–1292",
+      "y": 1227,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "First Franciscan pope (1288–1292) who dispatched missionaries to Asia and sought Mongol-Christian alliances against the Mamluks.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Nicholas_IV"
+    },
+    {
+      "name": "Dante Alighieri",
+      "dates": "1265–1321",
+      "y": 1265,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Florentine poet whose Divine Comedy is widely regarded as the greatest literary work of the Middle Ages and the foundation of the Italian language.",
+      "url": "https://en.wikipedia.org/wiki/Dante_Alighieri",
+      "region": "Europe"
+    },
+    {
+      "name": "Malhun Hatun",
+      "dates": "c. 1300–1324",
+      "y": 1300,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Middle East",
+      "desc": "Second wife of Osman I, founder of the Ottoman dynasty, whose family alliances helped consolidate the early Ottoman state.",
+      "url": "https://en.wikipedia.org/wiki/Malhun_Hatun"
+    },
+    {
+      "name": "Ferdinand I of Portugal",
+      "dates": "1345–1383",
+      "y": 1345,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Ferdinand I, sometimes called the Handsome or occasionally the Inconstant, was the King of Portugal from 1367 until his death in 1383. He was also briefly made King of Galicia, in 1369.",
+      "tldr": "Ferdinand I, sometimes called the Handsome or occasionally the Inconstant, was the King of Portugal from 1367 until his death in 1383. He was also briefly made King of Galicia, in 1369. Facing a lack of legitimate male heirs, his death led to the 1383–85 crisis, also known as the Portuguese interregnum.",
+      "url": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Portugal",
+      "_country_qids": [
+        "Q45670"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ]
+    },
+    {
+      "name": "Ferdinand I of Portugal",
+      "dates": "1345–1383",
+      "y": 1345,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Ferdinand I, sometimes called the Handsome or occasionally the Inconstant, was the King of Portugal from 1367 until his death in 1383. He was also briefly made King of Galicia, in 1369.",
+      "tldr": "Ferdinand I, sometimes called the Handsome or occasionally the Inconstant, was the King of Portugal from 1367 until his death in 1383. He was also briefly made King of Galicia, in 1369. Facing a lack of legitimate male heirs, his death led to the 1383–85 crisis, also known as the Portuguese interregnum.",
+      "url": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Portugal"
+    },
+    {
+      "name": "Jamshīd al-Kāshī",
+      "dates": "1380–1429",
+      "y": 1380,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Persian astronomer and mathematician who calculated pi to 16 decimal places under Timurid patronage.",
+      "url": "https://en.wikipedia.org/wiki/Jamshid_al-Kashi",
+      "region": "Middle East"
+    },
+    {
+      "name": "Musa Çelebi",
+      "dates": "1388–1413",
+      "y": 1388,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Middle East",
+      "era": "Medieval (500–1500)",
+      "desc": "Musa Çelebi was an Ottoman prince and a co-ruler of the empire for three years during the Ottoman Interregnum.",
+      "tldr": "Musa Çelebi was an Ottoman prince and a co-ruler of the empire for three years during the Ottoman Interregnum.",
+      "url": "https://en.wikipedia.org/wiki/Musa_%C3%87elebi",
+      "_country_qids": [
+        "Q12560"
+      ],
+      "_occupation_qids": [
+        "Q47064"
+      ]
+    },
+    {
+      "name": "Musa Çelebi",
+      "dates": "1388–1413",
+      "y": 1388,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Middle East",
+      "era": "Medieval (500–1500)",
+      "desc": "Musa Çelebi was an Ottoman prince and a co-ruler of the empire for three years during the Ottoman Interregnum.",
+      "tldr": "Musa Çelebi was an Ottoman prince and a co-ruler of the empire for three years during the Ottoman Interregnum.",
+      "url": "https://en.wikipedia.org/wiki/Musa_%C3%87elebi"
+    },
+    {
+      "name": "Jan van Eyck",
+      "dates": "1390–1441",
+      "y": 1390,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Early Netherlandish painter active in Bruges, renowned as one of the supreme innovators of Early Northern Renaissance oil painting.",
+      "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
+    },
+    {
+      "name": "Maria of Castile, Queen of Aragon",
+      "dates": "1401–1458",
+      "y": 1401,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Queen of Aragon and longtime regent of the Crown, effectively governing Aragon for most of Alfonso V's reign while he campaigned in Italy.",
+      "url": "https://en.wikipedia.org/wiki/Maria_of_Castile",
+      "region": "Europe"
+    },
+    {
+      "name": "Pius II",
+      "dates": "1405–1464",
+      "y": 1405,
+      "roles": [
+        "Religious",
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (1458–1464) and humanist scholar who called a failed crusade against the Ottoman Empire.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Pius_II"
     },
     {
       "name": "Joan of Arc",
@@ -159,6 +1174,60 @@
       "url": "https://en.wikipedia.org/wiki/Joan_of_Arc"
     },
     {
+      "name": "Paul II",
+      "dates": "1417–1471",
+      "y": 1417,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope from 1464 to 1471, born Pietro Barbo of Venice; known for his love of art and gems and his conflicts with humanist scholars.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Paul_II"
+    },
+    {
+      "name": "Alexander VI",
+      "dates": "1431–1503",
+      "y": 1431,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Pope Alexander VI was head of the Catholic Church and leader of the Papal States from 11 August 1492 until his death in 1503.",
+      "tldr": "Pope Alexander VI was head of the Catholic Church and leader of the Papal States from 11 August 1492 until his death in 1503.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VI",
+      "_country_qids": [
+        "Q204920"
+      ],
+      "_occupation_qids": [
+        "Q250867",
+        "Q7834465"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Hans Memling",
+      "dates": "1435–1494",
+      "y": 1435,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Hans Memling was a German-Flemish painter who worked in the tradition of Early Netherlandish painting. Born in the Middle Rhine region, he probably spent his childhood in Mainz. During his apprenticeship as a painter he moved to the Netherlands and spent time in the Brussels workshop of Rogier van der Weyden.",
+      "url": "https://en.wikipedia.org/wiki/Hans_Memling",
+      "_country_qids": [
+        "Q183",
+        "Q1031430"
+      ],
+      "_occupation_qids": [
+        "Q483501",
+        "Q3391743",
+        "Q15296811",
+        "Q1028181"
+      ],
+      "region": "Europe"
+    },
+    {
       "name": "Leonardo da Vinci",
       "dates": "1452–1519",
       "y": 1452,
@@ -169,6 +1238,19 @@
       "era": "Early modern (1500–1800)",
       "desc": "Italian polymath of the Renaissance, painter of the Mona Lisa and prolific inventor.",
       "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "name": "Paul IV",
+      "dates": "1476–1559",
+      "y": 1476,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (1555–1559) who established the first Roman ghetto and intensified the Roman Inquisition.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Paul_IV"
     },
     {
       "name": "Ferdinand Magellan",
@@ -194,63 +1276,6 @@
       "url": "https://en.wikipedia.org/wiki/Martin_Luther"
     },
     {
-      "name": "Isaac Newton",
-      "dates": "1643–1727",
-      "y": 1643,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "English physicist and mathematician who formulated the laws of motion and gravitation.",
-      "url": "https://en.wikipedia.org/wiki/Isaac_Newton"
-    },
-    {
-      "name": "Charles Darwin",
-      "dates": "1809–1882",
-      "y": 1809,
-      "roles": [
-        "Scientist",
-        "Writer"
-      ],
-      "era": "19th century",
-      "desc": "English naturalist whose theory of evolution by natural selection transformed biology.",
-      "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
-    },
-    {
-      "name": "Florence Nightingale",
-      "dates": "1820–1910",
-      "y": 1820,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "19th century",
-      "desc": "Founder of modern nursing and a pioneer of statistics in public health.",
-      "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
-    },
-    {
-      "name": "Marie Curie",
-      "dates": "1867–1934",
-      "y": 1867,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "20th century onward",
-      "desc": "Physicist and chemist, pioneer of radioactivity and the first person to win two Nobel Prizes.",
-      "url": "https://en.wikipedia.org/wiki/Marie_Curie"
-    },
-    {
-      "name": "Mahatma Gandhi",
-      "dates": "1869–1948",
-      "y": 1869,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "20th century onward",
-      "desc": "Leader of India's nonviolent independence movement against British rule.",
-      "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
-      "region": "South Asia"
-    },
-    {
       "name": "Zhengde Emperor",
       "dates": "1491–1521",
       "y": 1491,
@@ -261,6 +1286,40 @@
       "region": "East Asia",
       "desc": "11th emperor of the Ming dynasty (1505–1521), known for unconventional rule and fondness for military pursuits.",
       "url": "https://en.wikipedia.org/wiki/Zhengde_Emperor"
+    },
+    {
+      "name": "Clément Marot",
+      "dates": "1495–1544",
+      "y": 1495,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Clément Marot was a French Renaissance poet. He was influenced by the writers of the late 15th century and paved the way for the Pléiade, and is undoubtedly the most important poet at the court of Francis I.",
+      "url": "https://en.wikipedia.org/wiki/Cl%C3%A9ment_Marot",
+      "_country_qids": [
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q639669",
+        "Q36180",
+        "Q333634",
+        "Q8178443"
+      ]
+    },
+    {
+      "name": "Clément Marot",
+      "dates": "1495–1544",
+      "y": 1495,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Clément Marot was a French Renaissance poet. He was influenced by the writers of the late 15th century and paved the way for the Pléiade, and is undoubtedly the most important poet at the court of Francis I.",
+      "url": "https://en.wikipedia.org/wiki/Cl%C3%A9ment_Marot"
     },
     {
       "name": "Longqing Emperor",
@@ -275,6 +1334,37 @@
       "url": "https://en.wikipedia.org/wiki/Longqing_Emperor"
     },
     {
+      "name": "Katō Kiyomasa",
+      "dates": "1562–1611",
+      "y": 1562,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Katō Kiyomasa  was a Japanese daimyō of the Azuchi–Momoyama and Edo periods. His court title was Higo no Kami .",
+      "tldr": "Katō Kiyomasa  was a Japanese daimyō of the Azuchi–Momoyama and Edo periods. His court title was Higo no Kami . His name as a child was Yashamaru, and first name was Toranosuke.",
+      "url": "https://en.wikipedia.org/wiki/Kat%C5%8D_Kiyomasa",
+      "_country_qids": [
+        "Q17"
+      ],
+      "_occupation_qids": [
+        "Q38142"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Jan Pieterszoon Sweelinck",
+      "dates": "1562–1621",
+      "y": 1562,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Dutch composer, organist, and pedagogue whose work bridged the Renaissance and Baroque eras; shaped the north German organ tradition.",
+      "url": "https://en.wikipedia.org/wiki/Jan_Pieterszoon_Sweelinck",
+      "region": "Europe"
+    },
+    {
       "name": "Wanli Emperor",
       "dates": "1563–1620",
       "y": 1563,
@@ -287,66 +1377,32 @@
       "url": "https://en.wikipedia.org/wiki/Wanli_Emperor"
     },
     {
-      "name": "Taichang Emperor",
-      "dates": "1582–1620",
-      "y": 1582,
+      "name": "Michael Praetorius",
+      "dates": "1571–1621",
+      "y": 1571,
       "roles": [
-        "Ruler"
+        "Artist"
       ],
       "era": "Early modern (1500–1800)",
-      "region": "East Asia",
-      "desc": "15th Ming emperor whose reign lasted less than a month in 1620 before his sudden and mysterious death.",
-      "url": "https://en.wikipedia.org/wiki/Taichang_Emperor"
-    },
-    {
-      "name": "Tianqi Emperor",
-      "dates": "1605–1627",
-      "y": 1605,
-      "roles": [
-        "Ruler"
+      "desc": "Michael Praetorius was a German composer, organist, and music theorist. He was one of the most versatile composers of his age, being particularly significant in the development of musical forms bas…",
+      "tldr": "Michael Praetorius was a German composer, organist, and music theorist. He was one of the most versatile composers of his age, being particularly significant in the development of musical forms based on Protestant hymns.",
+      "url": "https://en.wikipedia.org/wiki/Michael_Praetorius",
+      "_country_qids": [
+        "Q556263"
       ],
-      "era": "Early modern (1500–1800)",
-      "region": "East Asia",
-      "desc": "16th Ming emperor (1620–1627) who ceded court power to the eunuch Wei Zhongxian while pursuing carpentry.",
-      "url": "https://en.wikipedia.org/wiki/Tianqi_Emperor"
-    },
-    {
-      "name": "Chongzhen Emperor",
-      "dates": "1611–1644",
-      "y": 1611,
-      "roles": [
-        "Ruler"
+      "_occupation_qids": [
+        "Q36834",
+        "Q61996872",
+        "Q37226",
+        "Q765778",
+        "Q16031530",
+        "Q158852",
+        "Q14915627",
+        "Q115793211",
+        "Q830337",
+        "Q8178443"
       ],
-      "era": "Early modern (1500–1800)",
-      "region": "East Asia",
-      "desc": "Last emperor of the Ming dynasty (1627–1644), who hanged himself as rebel forces captured Beijing.",
-      "url": "https://en.wikipedia.org/wiki/Chongzhen_Emperor"
-    },
-    {
-      "name": "Tipu Sultan",
-      "dates": "1750–1799",
-      "y": 1750,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "South Asia",
-      "desc": "Sultan of Mysore (1782–1799) who pioneered iron-cased rocket artillery and fiercely resisted British expansion.",
-      "url": "https://en.wikipedia.org/wiki/Tipu_Sultan"
-    },
-    {
-      "name": "Baháʼu'lláh",
-      "dates": "1817–1892",
-      "y": 1817,
-      "roles": [
-        "Religious",
-        "Writer"
-      ],
-      "era": "19th century",
-      "region": "Middle East",
-      "desc": "Iranian founder of the Baháʼí Faith who proclaimed a new divine revelation in 1863 after decades of exile.",
-      "url": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BCu%27ll%C3%A1h"
+      "region": "Europe"
     },
     {
       "name": "Innocent X",
@@ -362,930 +1418,102 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Innocent_X"
     },
     {
-      "name": "Soter",
-      "dates": "200–175",
-      "y": 200,
+      "name": "Guido Reni",
+      "dates": "1575–1642",
+      "y": 1575,
       "roles": [
-        "Religious"
+        "Artist"
       ],
-      "era": "Ancient (to 500 CE)",
       "region": "Europe",
-      "desc": "2nd-century Pope of Rome who strengthened ties between the Roman church and Greek Christian communities.",
-      "url": "https://en.wikipedia.org/wiki/Soter"
+      "era": "Early modern (1500–1800)",
+      "desc": "Guido Reni was an Italian Baroque painter, although his works showed a classical manner. He painted primarily religious works, but also mythological and allegorical subjects.",
+      "url": "https://en.wikipedia.org/wiki/Guido_Reni",
+      "_country_qids": [
+        "Q170174"
+      ],
+      "_occupation_qids": [
+        "Q15296811",
+        "Q2079935",
+        "Q22669155",
+        "Q3391743",
+        "Q5322166",
+        "Q984276",
+        "Q1183704",
+        "Q10862983",
+        "Q1028181",
+        "Q644687"
+      ]
     },
     {
-      "name": "Innocent XI",
-      "dates": "1611–1689",
-      "y": 1611,
+      "name": "Guido Reni",
+      "dates": "1575–1642",
+      "y": 1575,
       "roles": [
-        "Religious",
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Guido Reni was an Italian Baroque painter, although his works showed a classical manner. He painted primarily religious works, but also mythological and allegorical subjects.",
+      "url": "https://en.wikipedia.org/wiki/Guido_Reni"
+    },
+    {
+      "name": "Taichang Emperor",
+      "dates": "1582–1620",
+      "y": 1582,
+      "roles": [
         "Ruler"
       ],
       "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "Pope (1676–1689) who led the Holy League against Ottoman expansion and championed Church reform.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Innocent_XI"
+      "region": "East Asia",
+      "desc": "15th Ming emperor whose reign lasted less than a month in 1620 before his sudden and mysterious death.",
+      "url": "https://en.wikipedia.org/wiki/Taichang_Emperor"
     },
     {
-      "name": "Alexander VIII",
-      "dates": "1610–1691",
-      "y": 1610,
-      "roles": [
-        "Religious",
-        "Ruler"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "Pope (1689–1691) known for nepotism and his condemnation of Jansenism during his brief pontificate.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VIII"
-    },
-    {
-      "name": "Suetonius",
-      "dates": "69–126",
-      "y": 69,
-      "roles": [
-        "Writer"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Europe",
-      "desc": "Roman historian of the early Empire, best known for The Twelve Caesars, biographies of Rome's first rulers.",
-      "url": "https://en.wikipedia.org/wiki/Suetonius"
-    },
-    {
-      "name": "Henry I of England",
-      "dates": "1068–1135",
-      "y": 1068,
+      "name": "Leopold V, Archduke of Austria",
+      "dates": "1586–1632",
+      "y": 1586,
       "roles": [
         "Ruler",
-        "Military"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Fourth son of William the Conqueror who seized the English throne in 1100 and stabilised the realm.",
-      "url": "https://en.wikipedia.org/wiki/Henry_I_of_England"
-    },
-    {
-      "name": "Paul IV",
-      "dates": "1476–1559",
-      "y": 1476,
-      "roles": [
-        "Religious",
-        "Ruler"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Pope (1555–1559) who established the first Roman ghetto and intensified the Roman Inquisition.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Paul_IV"
-    },
-    {
-      "name": "Pius II",
-      "dates": "1405–1464",
-      "y": 1405,
-      "roles": [
-        "Religious",
-        "Writer"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Pope (1458–1464) and humanist scholar who called a failed crusade against the Ottoman Empire.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Pius_II"
-    },
-    {
-      "name": "Sergei Prokudin-Gorskii",
-      "dates": "1863–1944",
-      "y": 1863,
-      "roles": [
-        "Scientist",
-        "Artist"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "Russian chemist and photographer who pioneered colour photography and documented early 20th-century Russia.",
-      "url": "https://en.wikipedia.org/wiki/Sergey_Prokudin-Gorsky"
-    },
-    {
-      "name": "Mary Wollstonecraft",
-      "dates": "1759–1797",
-      "y": 1759,
-      "roles": [
-        "Writer",
-        "Reformer"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "English writer and philosopher whose A Vindication of the Rights of Woman (1792) is a founding text of feminism.",
-      "url": "https://en.wikipedia.org/wiki/Mary_Wollstonecraft"
-    },
-    {
-      "name": "Gaetano Donizetti",
-      "dates": "1797–1848",
-      "y": 1797,
-      "roles": [
-        "Artist"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "Italian composer of over 70 operas, a leading figure of the bel canto style alongside Rossini and Bellini.",
-      "url": "https://en.wikipedia.org/wiki/Gaetano_Donizetti"
-    },
-    {
-      "name": "Joachim von Ribbentrop",
-      "dates": "1893–1946",
-      "y": 1893,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "German politician and diplomat who served as Nazi Germany's Foreign Minister 1938–1945; executed at Nuremberg as a war criminal.",
-      "url": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
-    },
-    {
-      "name": "Ronald Ross",
-      "dates": "1857–1932",
-      "y": 1857,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "British physician who proved mosquitoes transmit malaria, earning the 1902 Nobel Prize in Physiology or Medicine.",
-      "url": "https://en.wikipedia.org/wiki/Ronald_Ross"
-    },
-    {
-      "name": "Marcellus I",
-      "dates": "255–309",
-      "y": 255,
-      "roles": [
         "Religious"
       ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Europe",
-      "desc": "Pope from 308 to 309 CE, successor to Marcellinus; banished from Rome by Maxentius over disputes about Christian penance.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Marcellus_I"
-    },
-    {
-      "name": "Henry II of England",
-      "dates": "1133–1189",
-      "y": 1133,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "King of England (1154–1189) who presided over the Angevin Empire, spanning England, much of France, and parts of Ireland and Wales.",
-      "url": "https://en.wikipedia.org/wiki/Henry_II_of_England"
-    },
-    {
-      "name": "Jan van Eyck",
-      "dates": "1390–1441",
-      "y": 1390,
-      "roles": [
-        "Artist"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Early Netherlandish painter active in Bruges, renowned as one of the supreme innovators of Early Northern Renaissance oil painting.",
-      "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
-    },
-    {
-      "name": "Francis William Aston",
-      "dates": "1877–1945",
-      "y": 1877,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "British physicist and chemist who won the 1922 Nobel Prize in Chemistry for discovering isotopes in non-radioactive elements via his mass spectrograph.",
-      "url": "https://en.wikipedia.org/wiki/Francis_William_Aston"
-    },
-    {
-      "name": "Snorri Sturluson",
-      "dates": "1179–1241",
-      "y": 1179,
-      "roles": [
-        "Ruler",
-        "Writer"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Icelandic historian, poet, and twice-elected lawspeaker of the Althing, credited with compiling the Prose Edda and Heimskringla.",
-      "url": "https://en.wikipedia.org/wiki/Snorri_Sturluson"
-    },
-    {
-      "name": "Dadabhai Naoroji",
-      "dates": "1825–1917",
-      "y": 1825,
-      "roles": [
-        "Ruler",
-        "Writer"
-      ],
-      "era": "19th century",
-      "region": "South Asia",
-      "desc": "Indian political leader, founding member of the Indian National Congress, and the first Indian elected to the British Parliament.",
-      "url": "https://en.wikipedia.org/wiki/Dadabhai_Naoroji"
-    },
-    {
-      "name": "Evangelista Torricelli",
-      "dates": "1608–1647",
-      "y": 1608,
-      "roles": [
-        "Scientist"
-      ],
       "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "Italian physicist and mathematician, student of Galileo, best known for inventing the barometer.",
-      "url": "https://en.wikipedia.org/wiki/Evangelista_Torricelli"
-    },
-    {
-      "name": "Harriet Beecher Stowe",
-      "dates": "1811–1896",
-      "y": 1811,
-      "roles": [
-        "Writer"
-      ],
-      "era": "19th century",
-      "region": "Americas",
-      "desc": "American author and abolitionist whose novel Uncle Tom's Cabin (1852) galvanized the anti-slavery movement across the US and Britain.",
-      "url": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe"
-    },
-    {
-      "name": "Robert Falcon Scott",
-      "dates": "1868–1912",
-      "y": 1868,
-      "roles": [
-        "Explorer",
-        "Military"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "British Royal Navy officer and Antarctic explorer who led two polar expeditions, perishing on the return from his 1910–13 attempt to reach the South Pole.",
-      "url": "https://en.wikipedia.org/wiki/Robert_Falcon_Scott"
-    },
-    {
-      "name": "Johann Gottlieb Fichte",
-      "dates": "1762–1814",
-      "y": 1762,
-      "roles": [
-        "Writer"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "German philosopher and founding figure of German Idealism who extended Kant's ethics and epistemology into a systematic philosophy of the self.",
-      "url": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte"
-    },
-    {
-      "name": "Paul II",
-      "dates": "1417–1471",
-      "y": 1417,
-      "roles": [
-        "Religious"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Pope from 1464 to 1471, born Pietro Barbo of Venice; known for his love of art and gems and his conflicts with humanist scholars.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Paul_II"
-    },
-    {
-      "name": "Pythagoras",
-      "dates": "582BCE–490BCE",
-      "y": -582,
-      "roles": [
-        "Scientist",
-        "Religious"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Europe",
-      "desc": "Ancient Greek philosopher and mathematician who founded a religious-philosophical community and gave his name to fundamental theorems in mathematics.",
-      "url": "https://en.wikipedia.org/wiki/Pythagoras"
-    },
-    {
-      "name": "Wilhelm Steinitz",
-      "dates": "1836–1900",
-      "y": 1836,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "Bohemian-Austrian chess player who became the first official World Chess Champion (1886–1894) and revolutionized chess theory.",
-      "url": "https://en.wikipedia.org/wiki/Wilhelm_Steinitz"
-    },
-    {
-      "name": "Henri Moissan",
-      "dates": "1852–1907",
-      "y": 1852,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "French chemist who won the 1906 Nobel Prize in Chemistry for isolating fluorine and pioneering the electric arc furnace.",
-      "url": "https://en.wikipedia.org/wiki/Henri_Moissan"
-    },
-    {
-      "name": "Jacobus Henricus van 't Hoff",
-      "dates": "1852–1911",
-      "y": 1852,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "Dutch physical chemist who won the inaugural Nobel Prize in Chemistry (1901) for discovering the laws of chemical dynamics and osmotic pressure.",
-      "url": "https://en.wikipedia.org/wiki/Jacobus_Henricus_van_%27t_Hoff"
-    },
-    {
-      "name": "Boethius",
-      "dates": "480–524",
-      "y": 480,
-      "roles": [
-        "Ruler",
-        "Writer"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Europe",
-      "desc": "Roman senator, philosopher, and polymath of the Early Middle Ages whose Consolation of Philosophy became a cornerstone of medieval thought.",
-      "url": "https://en.wikipedia.org/wiki/Boethius"
-    },
-    {
-      "name": "Darius III",
-      "dates": "379BCE–329BCE",
-      "y": -379,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Middle East",
-      "desc": "Last Achaemenid King of Kings of Persia (336–330 BCE), defeated by Alexander the Great at Issus and Gaugamela.",
-      "url": "https://en.wikipedia.org/wiki/Darius_III"
-    },
-    {
-      "name": "Harriet Tubman",
-      "dates": "1820–1913",
-      "y": 1820,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "19th century",
-      "region": "Americas",
-      "desc": "American abolitionist who escaped slavery and led some 70 people to freedom via the Underground Railroad, and later served as a Union spy.",
-      "url": "https://en.wikipedia.org/wiki/Harriet_Tubman"
-    },
-    {
-      "name": "France Prešeren",
-      "dates": "1800–1849",
-      "y": 1800,
-      "roles": [
-        "Writer"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "Slovene Romantic poet whose sonnets and the poem Zdravljica established him as the national poet of Slovenia.",
-      "url": "https://en.wikipedia.org/wiki/France_Pre%C5%A1eren"
-    },
-    {
-      "name": "Gregory III",
-      "dates": "700–741",
-      "y": 700,
-      "roles": [
-        "Religious",
-        "Ruler"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Pope (731–741) who condemned Byzantine iconoclasm and cemented the papacy’s ties with the Frankish kingdom.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Gregory_III"
-    },
-    {
-      "name": "Sisinnius",
-      "dates": "650–708",
-      "y": 650,
-      "roles": [
-        "Religious"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Pope for about three weeks in 708, one of the shortest pontificates in history.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Sisinnius"
-    },
-    {
-      "name": "José Martí",
-      "dates": "1853–1895",
-      "y": 1853,
-      "roles": [
-        "Writer",
-        "Military",
-        "Reformer"
-      ],
-      "era": "19th century",
-      "region": "Americas",
-      "desc": "Cuban poet, journalist, and independence leader who organised the 1895 war against Spanish rule and died in its first skirmish.",
-      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD"
-    },
-    {
-      "name": "Adrian I",
-      "dates": "700–795",
-      "y": 700,
-      "roles": [
-        "Religious",
-        "Ruler"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Pope (772–795) who forged a lasting alliance with Charlemagne, shaping the political foundations of medieval Christendom.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Adrian_I"
-    },
-    {
-      "name": "Gregory II",
-      "dates": "669–731",
-      "y": 669,
-      "roles": [
-        "Religious"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Pope (715–731) who condemned Byzantine iconoclasm and supported Boniface’s missionary work among the Germanic peoples.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Gregory_II"
-    },
-    {
-      "name": "Leo II",
-      "dates": "611–683",
-      "y": 611,
-      "roles": [
-        "Religious"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Pope (682–683) who ratified the Third Council of Constantinople, condemning Monothelitism and rehabilitating orthodox theology.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Leo_II"
-    },
-    {
-      "name": "Odoacer",
-      "dates": "433–493",
-      "y": 433,
-      "roles": [
-        "Military",
-        "Ruler"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Europe",
-      "desc": "Germanic chieftain who deposed Romulus Augustulus in 476 and ruled Italy until overthrown by Theodoric the Great.",
-      "url": "https://en.wikipedia.org/wiki/Odoacer"
-    },
-    {
-      "name": "Paul I",
-      "dates": "700–767",
-      "y": 700,
-      "roles": [
-        "Religious",
-        "Ruler"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Pope (757–768) who deepened the papacy’s alliance with the Frankish king Pepin the Short against the Lombards.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Paul_I"
-    },
-    {
-      "name": "Henry II, Holy Roman Emperor",
-      "dates": "973–1024",
-      "y": 973,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Holy Roman Emperor (1014–1024) and the last Ottonian emperor, later canonised for his support of Church reform.",
-      "url": "https://en.wikipedia.org/wiki/Henry_II%2C_Holy_Roman_Emperor"
-    },
-    {
-      "name": "Nicholas IV",
-      "dates": "1227–1292",
-      "y": 1227,
-      "roles": [
-        "Religious"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "First Franciscan pope (1288–1292) who dispatched missionaries to Asia and sought Mongol-Christian alliances against the Mamluks.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Nicholas_IV"
-    },
-    {
-      "name": "Glenn Miller",
-      "dates": "1904–1944",
-      "y": 1904,
-      "roles": [
-        "Artist"
-      ],
-      "era": "20th century onward",
-      "region": "Americas",
-      "desc": "American big band conductor and trombonist whose Orchestra was one of the most popular ensembles of the Swing era before he disappeared over the English Channel in 1944.",
-      "url": "https://en.wikipedia.org/wiki/Glenn_Miller"
-    },
-    {
-      "name": "Julius Nepos",
-      "dates": "430–480",
-      "y": 430,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Europe",
-      "desc": "Roman emperor of the West (474–475) who was deposed by Orestes but retained recognition from the East until his murder in 480.",
-      "url": "https://en.wikipedia.org/wiki/Julius_Nepos"
-    },
-    {
-      "name": "Gustav Stresemann",
-      "dates": "1878–1929",
-      "y": 1878,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "German statesman who as chancellor and foreign minister steered Weimar Germany toward international reconciliation, sharing the 1926 Nobel Peace Prize.",
-      "url": "https://en.wikipedia.org/wiki/Gustav_Stresemann"
-    },
-    {
-      "name": "Douglas Fairbanks",
-      "dates": "1883–1939",
-      "y": 1883,
-      "roles": [
-        "Artist"
-      ],
-      "era": "19th century",
-      "region": "Americas",
-      "desc": "American actor famed for swashbuckling silent-film roles including Zorro and Robin Hood, and co-founder of United Artists.",
-      "url": "https://en.wikipedia.org/wiki/Douglas_Fairbanks"
-    },
-    {
-      "name": "Urbain Le Verrier",
-      "dates": "1811–1877",
-      "y": 1811,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "French astronomer who predicted the existence and position of Neptune through mathematics alone, prompting its discovery in 1846.",
-      "url": "https://en.wikipedia.org/wiki/Urbain_Le_Verrier"
-    },
-    {
-      "name": "Robert Walpole",
-      "dates": "1676–1745",
-      "y": 1676,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "British Whig statesman regarded as the de facto first Prime Minister of Great Britain, serving 1721–1742.",
-      "url": "https://en.wikipedia.org/wiki/Robert_Walpole"
-    },
-    {
-      "name": "Báb",
-      "dates": "1819–1850",
-      "y": 1819,
-      "roles": [
-        "Religious",
-        "Writer"
-      ],
-      "era": "19th century",
-      "region": "Middle East",
-      "desc": "Iranian religious leader who founded Bábism in 1844 and is revered as a central figure of the Baháʼí Faith.",
-      "url": "https://en.wikipedia.org/wiki/B%C3%A1b"
-    },
-    {
-      "name": "Carl Linnaeus",
-      "dates": "1707–1778",
-      "y": 1707,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "Swedish biologist who formalised binomial nomenclature and is known as the father of modern taxonomy.",
-      "url": "https://en.wikipedia.org/wiki/Carl_Linnaeus"
-    },
-    {
-      "name": "Agatho",
-      "dates": "574–681",
-      "y": 574,
-      "roles": [
-        "Religious"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Europe",
-      "desc": "Pope (678–681) who presided over the Third Council of Constantinople, decisively condemning Monothelitism.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Agatho"
-    },
-    {
-      "name": "Gallienus",
-      "dates": "218–268",
-      "y": 218,
-      "roles": [
-        "Military",
-        "Ruler"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Europe",
-      "desc": "Roman emperor (253–268) who held the empire together during the Crisis of the Third Century and was a noted patron of philosophy and the arts.",
-      "url": "https://en.wikipedia.org/wiki/Gallienus"
-    },
-    {
-      "name": "Paul Sabatier",
-      "dates": "1854–1941",
-      "y": 1854,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "French chemist who developed a method for hydrogenating organic compounds using metal catalysts, awarded the Nobel Prize in Chemistry in 1912.",
-      "url": "https://en.wikipedia.org/wiki/Paul_Sabatier_(chemist)"
-    },
-    {
-      "name": "Victor Grignard",
-      "dates": "1871–1935",
-      "y": 1871,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "French chemist who discovered the Grignard reagent, an essential tool in organic synthesis, earning the Nobel Prize in Chemistry in 1912.",
-      "url": "https://en.wikipedia.org/wiki/Victor_Grignard"
-    },
-    {
-      "name": "Manshuk Mametova",
-      "dates": "1922–1943",
-      "y": 1922,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "20th century onward",
-      "region": "Europe",
-      "desc": "Kazakh machine-gunner in the Red Army who single-handedly held off a German assault near Nevel in 1943, posthumously awarded Hero of the Soviet Union.",
-      "url": "https://en.wikipedia.org/wiki/Manshuk_Mametova"
-    },
-    {
-      "name": "Mesrop Mashtots",
-      "dates": "362–440",
-      "y": 362,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Middle East",
-      "desc": "Armenian monk and linguist who created the Armenian alphabet around 405 CE, enabling the translation of the Bible and founding Armenian literature.",
-      "url": "https://en.wikipedia.org/wiki/Mesrop_Mashtots"
-    },
-    {
-      "name": "Caspar David Friedrich",
-      "dates": "1774–1840",
-      "y": 1774,
-      "roles": [
-        "Artist"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "German Romantic painter whose landscapes, including Wanderer above the Sea of Fog, express spiritual solitude and the sublime power of nature.",
-      "url": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich"
-    },
-    {
-      "name": "Gabriel Fauré",
-      "dates": "1845–1924",
-      "y": 1845,
-      "roles": [
-        "Artist"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "French composer known for his Requiem, piano nocturnes, and chamber music who shaped the transition from Romanticism to modern French music.",
-      "url": "https://en.wikipedia.org/wiki/Gabriel_Faur%C3%A9"
-    },
-    {
-      "name": "Friedrich Wilhelm I of Prussia",
-      "dates": "1688–1740",
-      "y": 1688,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "King of Prussia (1713–1740) known as the ‘Soldier King’ who built a highly disciplined army and centralised the Prussian state.",
-      "url": "https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia"
-    },
-    {
-      "name": "Theodoric the Great",
-      "dates": "454–526",
-      "y": 454,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Europe",
-      "desc": "King of the Ostrogoths who conquered Italy in 493 and ruled as a tolerant monarch, promoting classical culture and coexistence of Romans and Goths.",
-      "url": "https://en.wikipedia.org/wiki/Theodoric_the_Great"
-    },
-    {
-      "name": "Sojourner Truth",
-      "dates": "c. 1797–1883",
-      "y": 1797,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Americas",
-      "desc": "American abolitionist born into slavery who delivered the landmark ‘Ain’t I a Woman?’ speech at the 1851 Women’s Rights Convention.",
-      "url": "https://en.wikipedia.org/wiki/Sojourner_Truth"
-    },
-    {
-      "name": "Giacomo Meyerbeer",
-      "dates": "1791–1864",
-      "y": 1791,
-      "roles": [
-        "Artist"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "German-Jewish opera composer whose grand operas—including Les Huguenots—dominated Parisian stages for decades and influenced later Romantic opera.",
-      "url": "https://en.wikipedia.org/wiki/Giacomo_Meyerbeer"
-    },
-    {
-      "name": "Praxiteles",
-      "dates": "394–329 BCE",
-      "y": -394,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Europe",
-      "desc": "Athenian sculptor of the 4th century BCE renowned for the Aphrodite of Knidos, the first monumental nude female figure in Western art.",
-      "url": "https://en.wikipedia.org/wiki/Praxiteles"
-    },
-    {
-      "name": "Berthe Morisot",
-      "dates": "1841–1895",
-      "y": 1841,
-      "roles": [
-        "Artist"
-      ],
-      "era": "19th century",
-      "region": "Europe",
-      "desc": "French Impressionist painter who exhibited at most Impressionist exhibitions and was known for intimate domestic scenes in a distinctive loose style.",
-      "url": "https://en.wikipedia.org/wiki/Berthe_Morisot"
-    },
-    {
-      "name": "Johann Heinrich Pestalozzi",
-      "dates": "1746–1827",
-      "y": 1746,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "Early modern (1500–1800)",
-      "region": "Europe",
-      "desc": "Swiss educational reformer who pioneered child-centred learning methods emphasising hands-on experience, shaping the foundations of modern elementary education.",
-      "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi"
-    },
-    {
-      "name": "Lepidus",
-      "dates": "89–12 BCE",
-      "y": -89,
-      "roles": [
-        "Military",
-        "Ruler"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "region": "Europe",
-      "desc": "Roman general who formed the Second Triumvirate with Octavian and Mark Antony after Caesar’s assassination, later sidelined as Pontifex Maximus.",
-      "url": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)"
-    },
-    {
-      "name": "Paul Morphy",
-      "dates": "1837–1884",
-      "y": 1837,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "19th century",
-      "region": "Americas",
-      "desc": "American chess prodigy who dominated world chess in the late 1850s, widely regarded as the first unofficial World Chess Champion before retiring from the game.",
-      "url": "https://en.wikipedia.org/wiki/Paul_Morphy"
-    },
-    {
-      "name": "Italo Balbo",
-      "dates": "1896–1940",
-      "y": 1896,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "era": "20th century onward",
-      "region": "Europe",
-      "desc": "Italian fascist politician and aviator who led pioneering transatlantic air expeditions in the 1930s and served as Governor-General of Libya until his death.",
-      "url": "https://en.wikipedia.org/wiki/Italo_Balbo"
-    },
-    {
-      "name": "Jean Harlow",
-      "dates": "1911–1937",
-      "y": 1911,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "20th century onward",
-      "region": "Americas",
-      "desc": "American actress and 1930s sex symbol dubbed the ‘Platinum Blonde’ whose comedic roles at MGM made her one of Hollywood’s biggest stars before her early death at 26.",
-      "url": "https://en.wikipedia.org/wiki/Jean_Harlow"
-    },
-    {
-      "name": "Malhun Hatun",
-      "dates": "c. 1300–1324",
-      "y": 1300,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "Medieval (500–1500)",
-      "region": "Middle East",
-      "desc": "Second wife of Osman I, founder of the Ottoman dynasty, whose family alliances helped consolidate the early Ottoman state.",
-      "url": "https://en.wikipedia.org/wiki/Malhun_Hatun"
-    },
-    {
-      "name": "José I of Portugal",
-      "dates": "1714–1777",
-      "y": 1714,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Dom Joseph I, known as the Reformer, was King of Portugal from 1750 until his death in 1777, with his reign dominated by the Marquis of Pombal.",
-      "url": "https://en.wikipedia.org/wiki/Joseph_I_of_Portugal",
+      "desc": "Habsburg archduke who served as Prince-Bishop of Passau and Strasbourg before assuming secular rule over Further Austria.",
+      "url": "https://en.wikipedia.org/wiki/Leopold_V%2C_Archduke_of_Austria",
       "region": "Europe"
     },
     {
-      "name": "Sancho I of Portugal",
-      "dates": "1154–1211",
-      "y": 1154,
+      "name": "Ahmed I",
+      "dates": "1590–1617",
+      "y": 1590,
       "roles": [
-        "Ruler",
-        "Reformer"
+        "Ruler"
       ],
-      "era": "Medieval (500–1500)",
-      "desc": "Second King of Portugal, known as Sancho the Populator for rebuilding and repopulating towns reconquered from the Moors.",
-      "url": "https://en.wikipedia.org/wiki/Sancho_I_of_Portugal",
-      "region": "Europe"
-    },
-    {
-      "name": "Sviatoslav I of Kiev",
-      "dates": "942–972",
-      "y": 942,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "Prince of Kiev renowned for relentless military campaigns that toppled Khazaria and the First Bulgarian Empire while expanding Rus territory.",
-      "url": "https://en.wikipedia.org/wiki/Sviatoslav_I",
-      "region": "Europe"
-    },
-    {
-      "name": "Arius",
-      "dates": "250–336",
-      "y": 250,
-      "roles": [
-        "Religious"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "desc": "Alexandrian presbyter whose theology on Christ's nature sparked the Arian controversy, prompting the Council of Nicaea in 325 CE.",
-      "url": "https://en.wikipedia.org/wiki/Arius",
+      "era": "Early modern (1500–1800)",
+      "desc": "Ottoman sultan who commissioned the Blue Mosque in Istanbul and ruled the empire from 1603 to 1617.",
+      "url": "https://en.wikipedia.org/wiki/Ahmed_I",
       "region": "Middle East"
     },
     {
-      "name": "Ibn al-Muqaffa'",
-      "dates": "724–840",
-      "y": 724,
+      "name": "Francesco Cavalli",
+      "dates": "1602–1676",
+      "y": 1602,
       "roles": [
-        "Writer"
+        "Artist"
       ],
-      "era": "Medieval (500–1500)",
-      "desc": "Persian-born author and translator who rendered Kalila wa Dimna into Arabic, becoming a foundational figure of classical Arabic prose.",
-      "url": "https://en.wikipedia.org/wiki/Ibn_al-Muqaffa%27",
-      "region": "Middle East"
-    },
-    {
-      "name": "Lady Godiva",
-      "dates": "990–1067",
-      "y": 990,
-      "roles": [
-        "Reformer"
+      "era": "Early modern (1500–1800)",
+      "desc": "Francesco Cavalli was a Venetian composer, organist and singer of the early Baroque period. He succeeded his teacher Claudio Monteverdi as the dominant and leading opera composer of the mid 17th-ce…",
+      "tldr": "Francesco Cavalli was a Venetian composer, organist and singer of the early Baroque period. He succeeded his teacher Claudio Monteverdi as the dominant and leading opera composer of the mid 17th-century. A central figure of Venetian musical life, Cavalli wrote more than thirty operas, almost all of which premiered in the city's theaters.",
+      "url": "https://en.wikipedia.org/wiki/Francesco_Cavalli",
+      "_country_qids": [
+        "Q4948"
       ],
-      "era": "Medieval (500–1500)",
-      "desc": "Anglo-Saxon noblewoman and patron of churches, legendary for riding naked through Coventry to persuade her husband to lower taxes on the poor.",
-      "url": "https://en.wikipedia.org/wiki/Lady_Godiva",
+      "_occupation_qids": [
+        "Q36834",
+        "Q765778",
+        "Q158852",
+        "Q215793",
+        "Q21680731"
+      ],
       "region": "Europe"
     },
     {
@@ -1302,16 +1530,150 @@
       "region": "Europe"
     },
     {
-      "name": "King Wu of Zhou",
-      "dates": "1150BCE–1042BCE",
-      "y": -1150,
+      "name": "Tianqi Emperor",
+      "dates": "1605–1627",
+      "y": 1605,
       "roles": [
         "Ruler"
       ],
-      "era": "Ancient (to 500 CE)",
-      "desc": "Founding king of the Zhou dynasty who overthrew the Shang at the Battle of Muye and became a Confucian model of virtuous rule.",
-      "url": "https://en.wikipedia.org/wiki/King_Wu_of_Zhou",
-      "region": "East Asia"
+      "era": "Early modern (1500–1800)",
+      "region": "East Asia",
+      "desc": "16th Ming emperor (1620–1627) who ceded court power to the eunuch Wei Zhongxian while pursuing carpentry.",
+      "url": "https://en.wikipedia.org/wiki/Tianqi_Emperor"
+    },
+    {
+      "name": "Christine of France",
+      "dates": "1606–1663",
+      "y": 1606,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Christine of France was Duchess of Savoy from 26 July 1630 to 7 October 1637 as the consort of Duke Victor Amadeus I. She was the daughter of Henry IV of France and sister of Louis XIII.",
+      "tldr": "Christine of France was Duchess of Savoy from 26 July 1630 to 7 October 1637 as the consort of Duke Victor Amadeus I. She was the daughter of Henry IV of France and sister of Louis XIII. Following her husband's death in 1637, she acted as regent of Savoy between 1637 and 1648.",
+      "url": "https://en.wikipedia.org/wiki/Christine_of_France",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ]
+    },
+    {
+      "name": "Christine of France",
+      "dates": "1606–1663",
+      "y": 1606,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Christine of France was Duchess of Savoy from 26 July 1630 to 7 October 1637 as the consort of Duke Victor Amadeus I. She was the daughter of Henry IV of France and sister of Louis XIII.",
+      "tldr": "Christine of France was Duchess of Savoy from 26 July 1630 to 7 October 1637 as the consort of Duke Victor Amadeus I. She was the daughter of Henry IV of France and sister of Louis XIII. Following her husband's death in 1637, she acted as regent of Savoy between 1637 and 1648.",
+      "url": "https://en.wikipedia.org/wiki/Christine_of_France"
+    },
+    {
+      "name": "Evangelista Torricelli",
+      "dates": "1608–1647",
+      "y": 1608,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Italian physicist and mathematician, student of Galileo, best known for inventing the barometer.",
+      "url": "https://en.wikipedia.org/wiki/Evangelista_Torricelli"
+    },
+    {
+      "name": "Alexander VIII",
+      "dates": "1610–1691",
+      "y": 1610,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Pope (1689–1691) known for nepotism and his condemnation of Jansenism during his brief pontificate.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VIII"
+    },
+    {
+      "name": "Chongzhen Emperor",
+      "dates": "1611–1644",
+      "y": 1611,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "East Asia",
+      "desc": "Last emperor of the Ming dynasty (1627–1644), who hanged himself as rebel forces captured Beijing.",
+      "url": "https://en.wikipedia.org/wiki/Chongzhen_Emperor"
+    },
+    {
+      "name": "Innocent XI",
+      "dates": "1611–1689",
+      "y": 1611,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Pope (1676–1689) who led the Holy League against Ottoman expansion and championed Church reform.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Innocent_XI"
+    },
+    {
+      "name": "Saskia van Uylenburgh",
+      "dates": "1612–1642",
+      "y": 1612,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Saskia van Uylenburgh was the wife of painter Rembrandt van Rijn. In the course of her life, she was his model for some of his paintings, drawings, and etchings.",
+      "url": "https://en.wikipedia.org/wiki/Saskia_van_Uylenburgh",
+      "_country_qids": [
+        "Q170072"
+      ],
+      "_occupation_qids": []
+    },
+    {
+      "name": "Saskia van Uylenburgh",
+      "dates": "1612–1642",
+      "y": 1612,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Saskia van Uylenburgh was the wife of painter Rembrandt van Rijn. In the course of her life, she was his model for some of his paintings, drawings, and etchings.",
+      "url": "https://en.wikipedia.org/wiki/Saskia_van_Uylenburgh"
+    },
+    {
+      "name": "John Bunyan",
+      "dates": "1628–1688",
+      "y": 1628,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "John Bunyan was an English writer and nonconformist preacher. He is best remembered as the author of the Christian allegory The Pilgrim's Progress, which also became an influential literary model.",
+      "tldr": "John Bunyan was an English writer and nonconformist preacher. He is best remembered as the author of the Christian allegory The Pilgrim's Progress, which also became an influential literary model. In addition to The Pilgrim's Progress, Bunyan wrote nearly sixty titles, many of them expanded sermons.",
+      "url": "https://en.wikipedia.org/wiki/John_Bunyan",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q432386",
+        "Q6625963",
+        "Q1234713",
+        "Q338221",
+        "Q36180"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Samuel Pepys",
@@ -1326,6 +1688,17 @@
       "region": "Europe"
     },
     {
+      "name": "Isaac Newton",
+      "dates": "1643–1727",
+      "y": 1643,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "English physicist and mathematician who formulated the laws of motion and gravitation.",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
       "name": "Denis Papin",
       "dates": "1647–1713",
       "y": 1647,
@@ -1338,99 +1711,158 @@
       "region": "Europe"
     },
     {
-      "name": "Daniel Webster",
-      "dates": "1782–1852",
-      "y": 1782,
+      "name": "Robert Walpole",
+      "dates": "1676–1745",
+      "y": 1676,
       "roles": [
         "Ruler"
       ],
       "era": "Early modern (1500–1800)",
-      "desc": "American lawyer and statesman who served as U.S. Senator and twice as Secretary of State, a dominant voice for Union and constitutional law.",
-      "url": "https://en.wikipedia.org/wiki/Daniel_Webster",
-      "region": "Americas"
+      "region": "Europe",
+      "desc": "British Whig statesman regarded as the de facto first Prime Minister of Great Britain, serving 1721–1742.",
+      "url": "https://en.wikipedia.org/wiki/Robert_Walpole"
     },
     {
-      "name": "Charles-Augustin Sainte-Beuve",
-      "dates": "1804–1869",
-      "y": 1804,
+      "name": "Louis, Dauphin of France, Duke of Burgundy",
+      "dates": "1682–1712",
+      "y": 1682,
       "roles": [
-        "Writer"
+        "Ruler"
       ],
-      "era": "19th century",
-      "desc": "Foremost French literary critic of the 19th century, influential for his biographical method of contextualizing authors' lives and works.",
-      "url": "https://en.wikipedia.org/wiki/Charles_Augustin_Sainte-Beuve",
+      "era": "Early modern (1500–1800)",
+      "desc": "Grandson of Louis XIV known as le Petit Dauphin, groomed by Fénelon to be an enlightened king but died of measles before acceding.",
+      "url": "https://en.wikipedia.org/wiki/Louis%2C_Duke_of_Burgundy",
       "region": "Europe"
     },
     {
-      "name": "Alessandro Manzoni",
-      "dates": "1785–1873",
-      "y": 1785,
+      "name": "Jean-Philippe Rameau",
+      "dates": "1683–1764",
+      "y": 1683,
       "roles": [
+        "Artist",
         "Writer"
       ],
-      "era": "19th century",
-      "desc": "Italian poet and novelist whose The Betrothed (1827) is considered the greatest Italian novel and a pillar of the Risorgimento.",
-      "url": "https://en.wikipedia.org/wiki/Alessandro_Manzoni",
+      "era": "Early modern (1500–1800)",
+      "desc": "French Baroque composer and music theorist who became the dominant figure in French opera.",
+      "url": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau",
       "region": "Europe"
     },
     {
-      "name": "Max Bruch",
-      "dates": "1838–1920",
-      "y": 1838,
+      "name": "Friedrich Wilhelm I of Prussia",
+      "dates": "1688–1740",
+      "y": 1688,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "King of Prussia (1713–1740) known as the ‘Soldier King’ who built a highly disciplined army and centralised the Prussian state.",
+      "url": "https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia"
+    },
+    {
+      "name": "Giuseppe Tartini",
+      "dates": "1692–1770",
+      "y": 1692,
       "roles": [
         "Artist"
       ],
-      "era": "19th century",
-      "desc": "German Romantic composer best known for his Violin Concerto No. 1 in G minor, a cornerstone of the violin repertoire.",
-      "url": "https://en.wikipedia.org/wiki/Max_Bruch",
-      "region": "Europe"
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Giuseppe Tartini was an Italian composer and violinist of the Baroque era born in Pirano in the Republic of Venice. Tartini was a prolific composer, composing over a hundred pieces for the violin, the majority of them violin concertos. He is best remembered for his Violin Sonata in G Minor.",
+      "url": "https://en.wikipedia.org/wiki/Giuseppe_Tartini",
+      "_country_qids": [
+        "Q4948"
+      ],
+      "_occupation_qids": [
+        "Q1259917",
+        "Q14915627",
+        "Q16031530",
+        "Q16145150",
+        "Q36834"
+      ]
     },
     {
-      "name": "Asaph Hall",
-      "dates": "1829–1907",
-      "y": 1829,
+      "name": "Giuseppe Tartini",
+      "dates": "1692–1770",
+      "y": 1692,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Giuseppe Tartini was an Italian composer and violinist of the Baroque era born in Pirano in the Republic of Venice. He is best remembered for his Violin Sonata in G Minor.",
+      "url": "https://en.wikipedia.org/wiki/Giuseppe_Tartini"
+    },
+    {
+      "name": "Pierre Bouguer",
+      "dates": "1698–1758",
+      "y": 1698,
       "roles": [
         "Scientist"
       ],
-      "era": "19th century",
-      "desc": "American astronomer who in 1877 discovered Phobos and Deimos, the two moons of Mars, and determined the orbital mechanics of planetary satellites.",
-      "url": "https://en.wikipedia.org/wiki/Asaph_Hall",
-      "region": "Americas"
-    },
-    {
-      "name": "Maria of Castile, Queen of Aragon",
-      "dates": "1401–1458",
-      "y": 1401,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "Queen of Aragon and longtime regent of the Crown, effectively governing Aragon for most of Alfonso V's reign while he campaigned in Italy.",
-      "url": "https://en.wikipedia.org/wiki/Maria_of_Castile",
+      "era": "Early modern (1500–1800)",
+      "desc": "French mathematician, geophysicist, and astronomer known as “the father of naval architecture” and for pioneering photometry.",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Bouguer",
       "region": "Europe"
     },
     {
-      "name": "Henry Campbell-Bannerman",
-      "dates": "1836–1908",
-      "y": 1836,
+      "name": "Carl Linnaeus",
+      "dates": "1707–1778",
+      "y": 1707,
       "roles": [
-        "Ruler"
+        "Scientist"
       ],
-      "era": "19th century",
-      "desc": "British Liberal Prime Minister 1905–1908 who granted self-government to the former Boer republics and was the first PM officially titled as such.",
-      "url": "https://en.wikipedia.org/wiki/Henry_Campbell-Bannerman",
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Swedish biologist who formalised binomial nomenclature and is known as the father of modern taxonomy.",
+      "url": "https://en.wikipedia.org/wiki/Carl_Linnaeus"
+    },
+    {
+      "name": "Wilhelm Friedemann Bach",
+      "dates": "1710–1784",
+      "y": 1710,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Wilhelm Friedemann Bach was a German composer, organist and harpsichordist. He was the second child and eldest son of Johann Sebastian Bach and Maria Barbara Bach.",
+      "tldr": "Wilhelm Friedemann Bach was a German composer, organist and harpsichordist. He was the second child and eldest son of Johann Sebastian Bach and Maria Barbara Bach. Despite his acknowledged genius as an improviser and composer, his income and employment were unstable, and he died in poverty.",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Friedemann_Bach",
+      "_country_qids": [
+        "Q12548"
+      ],
+      "_occupation_qids": [
+        "Q765778",
+        "Q639669",
+        "Q486748",
+        "Q36834",
+        "Q1643514",
+        "Q115793211"
+      ],
       "region": "Europe"
     },
     {
-      "name": "Neville Chamberlain",
-      "dates": "1869–1940",
-      "y": 1869,
+      "name": "José I of Portugal",
+      "dates": "1714–1777",
+      "y": 1714,
       "roles": [
         "Ruler"
       ],
-      "era": "19th century",
-      "desc": "British Prime Minister 1937–1940, defined by his appeasement policy and the Munich Agreement ceding the Sudetenland to Nazi Germany.",
-      "url": "https://en.wikipedia.org/wiki/Neville_Chamberlain",
+      "era": "Early modern (1500–1800)",
+      "desc": "Dom Joseph I, known as the Reformer, was King of Portugal from 1750 until his death in 1777, with his reign dominated by the Marquis of Pombal.",
+      "url": "https://en.wikipedia.org/wiki/Joseph_I_of_Portugal",
+      "region": "Europe"
+    },
+    {
+      "name": "Louis, Dauphin of France",
+      "dates": "1729–1765",
+      "y": 1729,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Son of Louis XV of France and father of three kings (Louis XVI, Louis XVIII, Charles X) who never himself ascended the throne.",
+      "url": "https://en.wikipedia.org/wiki/Louis%2C_Dauphin_of_France_(son_of_Louis_XV)",
       "region": "Europe"
     },
     {
@@ -1446,35 +1878,327 @@
       "region": "Europe"
     },
     {
-      "name": "Dante Alighieri",
-      "dates": "1265–1321",
-      "y": 1265,
-      "roles": [
-        "Writer"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "Florentine poet whose Divine Comedy is widely regarded as the greatest literary work of the Middle Ages and the foundation of the Italian language.",
-      "url": "https://en.wikipedia.org/wiki/Dante_Alighieri",
-      "region": "Europe"
-    },
-    {
-      "name": "Hor-Aha",
-      "dates": "3161BCE–3100BCE",
-      "y": -3161,
+      "name": "Johann Heinrich Pestalozzi",
+      "dates": "1746–1827",
+      "y": 1746,
       "roles": [
         "Reformer"
       ],
-      "era": "Ancient (to 500 CE)",
-      "desc": "Hor-Aha is considered the second pharaoh of the First Dynasty of Egypt by most Egyptologists, while others consider him the first one and corresponding to Menes. He lived around the 31st century BC…",
-      "tldr": "Hor-Aha is considered the second pharaoh of the First Dynasty of Egypt by most Egyptologists, while others consider him the first one and corresponding to Menes. He lived around the 31st century BC and is thought to have had a long reign.",
-      "url": "https://en.wikipedia.org/wiki/Hor-Aha",
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Swiss educational reformer who pioneered child-centred learning methods emphasising hands-on experience, shaping the foundations of modern elementary education.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi"
+    },
+    {
+      "name": "Tipu Sultan",
+      "dates": "1750–1799",
+      "y": 1750,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "South Asia",
+      "desc": "Sultan of Mysore (1782–1799) who pioneered iron-cased rocket artillery and fiercely resisted British expansion.",
+      "url": "https://en.wikipedia.org/wiki/Tipu_Sultan"
+    },
+    {
+      "name": "Mary Wollstonecraft",
+      "dates": "1759–1797",
+      "y": 1759,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "English writer and philosopher whose A Vindication of the Rights of Woman (1792) is a founding text of feminism.",
+      "url": "https://en.wikipedia.org/wiki/Mary_Wollstonecraft"
+    },
+    {
+      "name": "Johann Gottlieb Fichte",
+      "dates": "1762–1814",
+      "y": 1762,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "German philosopher and founding figure of German Idealism who extended Kant's ethics and epistemology into a systematic philosophy of the self.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte"
+    },
+    {
+      "name": "Caspar David Friedrich",
+      "dates": "1774–1840",
+      "y": 1774,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "German Romantic painter whose landscapes, including Wanderer above the Sea of Fog, express spiritual solitude and the sublime power of nature.",
+      "url": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich"
+    },
+    {
+      "name": "François Adrien Boieldieu",
+      "dates": "1775–1834",
+      "y": 1775,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "François-Adrien Boieldieu was a French composer, mainly of operas, often called “the French Mozart”.",
+      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Adrien_Boieldieu",
       "_country_qids": [
-        "Q11768"
+        "Q142"
       ],
       "_occupation_qids": [
-        "Q2304859"
+        "Q36834",
+        "Q158852",
+        "Q14915627",
+        "Q21680731",
+        "Q1622272",
+        "Q16145150"
+      ]
+    },
+    {
+      "name": "François Adrien Boieldieu",
+      "dates": "1775–1834",
+      "y": 1775,
+      "roles": [
+        "Artist"
       ],
-      "region": "Africa"
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "François-Adrien Boieldieu was a French composer, mainly of operas, often called \"the French Mozart\".",
+      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Adrien_Boieldieu"
+    },
+    {
+      "name": "Richard Mentor Johnson",
+      "dates": "1780–1850",
+      "y": 1780,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "Richard Mentor Johnson was an American lawyer, military officer and politician who served as the ninth vice president of the United States from 1837 to 1841 under President Martin Van Buren.",
+      "url": "https://en.wikipedia.org/wiki/Richard_Mentor_Johnson",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q40348",
+        "Q82955",
+        "Q185351"
+      ]
+    },
+    {
+      "name": "Richard Mentor Johnson",
+      "dates": "1780–1850",
+      "y": 1780,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "Richard Mentor Johnson was an American lawyer, military officer and politician who served as the ninth vice president of the United States from 1837 to 1841 under President Martin Van Buren.",
+      "url": "https://en.wikipedia.org/wiki/Richard_Mentor_Johnson"
+    },
+    {
+      "name": "Daniel Webster",
+      "dates": "1782–1852",
+      "y": 1782,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "American lawyer and statesman who served as U.S. Senator and twice as Secretary of State, a dominant voice for Union and constitutional law.",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Webster",
+      "region": "Americas"
+    },
+    {
+      "name": "Alessandro Manzoni",
+      "dates": "1785–1873",
+      "y": 1785,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Italian poet and novelist whose The Betrothed (1827) is considered the greatest Italian novel and a pillar of the Risorgimento.",
+      "url": "https://en.wikipedia.org/wiki/Alessandro_Manzoni",
+      "region": "Europe"
+    },
+    {
+      "name": "Giacomo Meyerbeer",
+      "dates": "1791–1864",
+      "y": 1791,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "German-Jewish opera composer whose grand operas—including Les Huguenots—dominated Parisian stages for decades and influenced later Romantic opera.",
+      "url": "https://en.wikipedia.org/wiki/Giacomo_Meyerbeer"
+    },
+    {
+      "name": "Horace Mann",
+      "dates": "1796–1859",
+      "y": 1796,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "American educational reformer who championed public schooling, known as the Father of American Education.",
+      "url": "https://en.wikipedia.org/wiki/Horace_Mann",
+      "region": "Americas"
+    },
+    {
+      "name": "Gaetano Donizetti",
+      "dates": "1797–1848",
+      "y": 1797,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Italian composer of over 70 operas, a leading figure of the bel canto style alongside Rossini and Bellini.",
+      "url": "https://en.wikipedia.org/wiki/Gaetano_Donizetti"
+    },
+    {
+      "name": "Sojourner Truth",
+      "dates": "c. 1797–1883",
+      "y": 1797,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Americas",
+      "desc": "American abolitionist born into slavery who delivered the landmark ‘Ain’t I a Woman?’ speech at the 1851 Women’s Rights Convention.",
+      "url": "https://en.wikipedia.org/wiki/Sojourner_Truth"
+    },
+    {
+      "name": "Mirza Ghalib",
+      "dates": "1797–1869",
+      "y": 1797,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Mirza Asadullah Beg Khan, commonly known as Mirza Ghalib, was an Indian poet and letter writer of the Mughal Empire. Writing in Persian and Urdu during the final years of the Mughal Empire and the …",
+      "tldr": "Mirza Asadullah Beg Khan, commonly known as Mirza Ghalib, was an Indian poet and letter writer of the Mughal Empire. Writing in Persian and Urdu during the final years of the Mughal Empire and the rise of British colonial rule, his poetry often addressed themes of love, loss, philosophy, the human condition, and socio-political disturbances with a depth and complexity that influenced the litera…",
+      "url": "https://en.wikipedia.org/wiki/Ghalib",
+      "_country_qids": [
+        "Q33296",
+        "Q129286"
+      ],
+      "_occupation_qids": [
+        "Q201788",
+        "Q12144794",
+        "Q36180",
+        "Q49757"
+      ],
+      "region": "South Asia"
+    },
+    {
+      "name": "William Lassell",
+      "dates": "1799–1880",
+      "y": 1799,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "English merchant-astronomer who improved the reflecting telescope and discovered Triton, Ariel, Umbriel, and Hyperion.",
+      "url": "https://en.wikipedia.org/wiki/William_Lassell",
+      "region": "Europe"
+    },
+    {
+      "name": "France Prešeren",
+      "dates": "1800–1849",
+      "y": 1800,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Slovene Romantic poet whose sonnets and the poem Zdravljica established him as the national poet of Slovenia.",
+      "url": "https://en.wikipedia.org/wiki/France_Pre%C5%A1eren"
+    },
+    {
+      "name": "Hector Berlioz",
+      "dates": "1803–1869",
+      "y": 1803,
+      "roles": [
+        "Artist",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "French Romantic composer known for Symphonie fantastique and his influential innovations in orchestration.",
+      "url": "https://en.wikipedia.org/wiki/Hector_Berlioz",
+      "region": "Europe"
+    },
+    {
+      "name": "Charles-Augustin Sainte-Beuve",
+      "dates": "1804–1869",
+      "y": 1804,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Foremost French literary critic of the 19th century, influential for his biographical method of contextualizing authors' lives and works.",
+      "url": "https://en.wikipedia.org/wiki/Charles_Augustin_Sainte-Beuve",
+      "region": "Europe"
+    },
+    {
+      "name": "Matthew Fontaine Maury",
+      "dates": "1806–1873",
+      "y": 1806,
+      "roles": [
+        "Scientist",
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "American oceanographer and naval officer who pioneered systematic charting of ocean winds and currents.",
+      "url": "https://en.wikipedia.org/wiki/Matthew_Fontaine_Maury",
+      "region": "Americas"
+    },
+    {
+      "name": "Charles Darwin",
+      "dates": "1809–1882",
+      "y": 1809,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "English naturalist whose theory of evolution by natural selection transformed biology.",
+      "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
+    },
+    {
+      "name": "Harriet Beecher Stowe",
+      "dates": "1811–1896",
+      "y": 1811,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "region": "Americas",
+      "desc": "American author and abolitionist whose novel Uncle Tom's Cabin (1852) galvanized the anti-slavery movement across the US and Britain.",
+      "url": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe"
+    },
+    {
+      "name": "Urbain Le Verrier",
+      "dates": "1811–1877",
+      "y": 1811,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French astronomer who predicted the existence and position of Neptune through mathematics alone, prompting its discovery in 1846.",
+      "url": "https://en.wikipedia.org/wiki/Urbain_Le_Verrier"
     },
     {
       "name": "Ivar Andreas Aasen",
@@ -1506,109 +2230,90 @@
       "region": "Europe"
     },
     {
-      "name": "Saxo Grammaticus",
-      "dates": "1150–1206",
-      "y": 1150,
+      "name": "Baháʼu'lláh",
+      "dates": "1817–1892",
+      "y": 1817,
       "roles": [
+        "Religious",
         "Writer"
       ],
-      "era": "Medieval (500–1500)",
-      "desc": "Saxo Grammaticus, also known as Saxo cognomine Longus, was a Danish historian, theologian, and author. He is thought to have been a clerk or secretary to Absalon, Archbishop of Lund, the main advis…",
-      "tldr": "Saxo Grammaticus, also known as Saxo cognomine Longus, was a Danish historian, theologian, and author. He is thought to have been a clerk or secretary to Absalon, Archbishop of Lund, the main advisor to Valdemar I of Denmark. He is the author of the Gesta Danorum, the first full history of Denmark, from which the legend of Amleth would come to inspire the story of Hamlet by Shakespeare.",
-      "url": "https://en.wikipedia.org/wiki/Saxo_Grammaticus",
-      "_country_qids": [
-        "Q756617"
-      ],
-      "_occupation_qids": [
-        "Q36180",
-        "Q201788"
-      ],
-      "region": "Europe"
+      "era": "19th century",
+      "region": "Middle East",
+      "desc": "Iranian founder of the Baháʼí Faith who proclaimed a new divine revelation in 1863 after decades of exile.",
+      "url": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BCu%27ll%C3%A1h"
     },
     {
-      "name": "Hans Memling",
-      "dates": "1435–1494",
-      "y": 1435,
+      "name": "Báb",
+      "dates": "1819–1850",
+      "y": 1819,
       "roles": [
-        "Artist"
+        "Religious",
+        "Writer"
       ],
-      "era": "Medieval (500–1500)",
-      "desc": "Hans Memling was a German-Flemish painter who worked in the tradition of Early Netherlandish painting. Born in the Middle Rhine region, he probably spent his childhood in Mainz. During his apprenticeship as a painter he moved to the Netherlands and spent time in the Brussels workshop of Rogier van der Weyden.",
-      "url": "https://en.wikipedia.org/wiki/Hans_Memling",
-      "_country_qids": [
-        "Q183",
-        "Q1031430"
+      "era": "19th century",
+      "region": "Middle East",
+      "desc": "Iranian religious leader who founded Bábism in 1844 and is revered as a central figure of the Baháʼí Faith.",
+      "url": "https://en.wikipedia.org/wiki/B%C3%A1b"
+    },
+    {
+      "name": "Annibale de Gasparis",
+      "dates": "1819–1892",
+      "y": 1819,
+      "roles": [
+        "Scientist"
       ],
-      "_occupation_qids": [
-        "Q483501",
-        "Q3391743",
-        "Q15296811",
-        "Q1028181"
-      ],
+      "era": "19th century",
+      "desc": "Italian astronomer who discovered nine asteroids and contributed to theoretical astronomy from the Naples Observatory.",
+      "url": "https://en.wikipedia.org/wiki/Annibale_de_Gasparis",
       "region": "Europe"
     },
     {
-      "name": "Katō Kiyomasa",
-      "dates": "1562–1611",
-      "y": 1562,
+      "name": "Florence Nightingale",
+      "dates": "1820–1910",
+      "y": 1820,
       "roles": [
         "Reformer"
       ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Katō Kiyomasa  was a Japanese daimyō of the Azuchi–Momoyama and Edo periods. His court title was Higo no Kami .",
-      "tldr": "Katō Kiyomasa  was a Japanese daimyō of the Azuchi–Momoyama and Edo periods. His court title was Higo no Kami . His name as a child was Yashamaru, and first name was Toranosuke.",
-      "url": "https://en.wikipedia.org/wiki/Kat%C5%8D_Kiyomasa",
-      "_country_qids": [
-        "Q17"
-      ],
-      "_occupation_qids": [
-        "Q38142"
-      ],
-      "region": "East Asia"
+      "era": "19th century",
+      "desc": "Founder of modern nursing and a pioneer of statistics in public health.",
+      "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
     },
     {
-      "name": "Lu You",
-      "dates": "1125–1210",
-      "y": 1125,
+      "name": "Harriet Tubman",
+      "dates": "1820–1913",
+      "y": 1820,
       "roles": [
-        "Writer"
+        "Reformer"
       ],
-      "era": "Medieval (500–1500)",
-      "desc": "Lu You was a Chinese historian and poet of the Southern Song Dynasty (南宋).",
-      "tldr": "Lu You was a Chinese historian and poet of the Southern Song Dynasty (南宋).",
-      "url": "https://en.wikipedia.org/wiki/Lu_You",
-      "_country_qids": [
-        "Q1147043"
-      ],
-      "_occupation_qids": [
-        "Q49757",
-        "Q36180",
-        "Q201788"
-      ],
-      "region": "East Asia"
+      "era": "19th century",
+      "region": "Americas",
+      "desc": "American abolitionist who escaped slavery and led some 70 people to freedom via the Underground Railroad, and later served as a Union spy.",
+      "url": "https://en.wikipedia.org/wiki/Harriet_Tubman"
     },
     {
-      "name": "Mirza Ghalib",
-      "dates": "1797–1869",
-      "y": 1797,
+      "name": "Dadabhai Naoroji",
+      "dates": "1825–1917",
+      "y": 1825,
       "roles": [
+        "Ruler",
         "Writer"
       ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Mirza Asadullah Beg Khan, commonly known as Mirza Ghalib, was an Indian poet and letter writer of the Mughal Empire. Writing in Persian and Urdu during the final years of the Mughal Empire and the …",
-      "tldr": "Mirza Asadullah Beg Khan, commonly known as Mirza Ghalib, was an Indian poet and letter writer of the Mughal Empire. Writing in Persian and Urdu during the final years of the Mughal Empire and the rise of British colonial rule, his poetry often addressed themes of love, loss, philosophy, the human condition, and socio-political disturbances with a depth and complexity that influenced the litera…",
-      "url": "https://en.wikipedia.org/wiki/Ghalib",
-      "_country_qids": [
-        "Q33296",
-        "Q129286"
+      "era": "19th century",
+      "region": "South Asia",
+      "desc": "Indian political leader, founding member of the Indian National Congress, and the first Indian elected to the British Parliament.",
+      "url": "https://en.wikipedia.org/wiki/Dadabhai_Naoroji"
+    },
+    {
+      "name": "Asaph Hall",
+      "dates": "1829–1907",
+      "y": 1829,
+      "roles": [
+        "Scientist"
       ],
-      "_occupation_qids": [
-        "Q201788",
-        "Q12144794",
-        "Q36180",
-        "Q49757"
-      ],
-      "region": "South Asia"
+      "era": "19th century",
+      "desc": "American astronomer who in 1877 discovered Phobos and Deimos, the two moons of Mars, and determined the orbital mechanics of planetary satellites.",
+      "url": "https://en.wikipedia.org/wiki/Asaph_Hall",
+      "region": "Americas"
     },
     {
       "name": "Mary Harris Jones",
@@ -1636,65 +2341,156 @@
       "region": "Americas"
     },
     {
-      "name": "Kuchlug",
-      "dates": "1156–1218",
-      "y": 1156,
+      "name": "Leo von Caprivi",
+      "dates": "1831–1899",
+      "y": 1831,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Georg Leo Graf von Caprivi de Caprara de Montecuccoli was a German general and statesman. He served as the imperial chancellor of the German Empire from March 1890 to October 1894, succeeding longtime chancellor Otto von Bismarck.",
+      "url": "https://en.wikipedia.org/wiki/Leo_von_Caprivi",
+      "_country_qids": [
+        "Q27306",
+        "Q43287"
+      ],
+      "_occupation_qids": [
+        "Q47064",
+        "Q82955"
+      ]
+    },
+    {
+      "name": "Leo von Caprivi",
+      "dates": "1831–1899",
+      "y": 1831,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Georg Leo Graf von Caprivi de Caprara de Montecuccoli was a German general and statesman. He served as the imperial chancellor of the German Empire from March 1890 to October 1894, succeeding longtime chancellor Otto von Bismarck.",
+      "url": "https://en.wikipedia.org/wiki/Leo_von_Caprivi"
+    },
+    {
+      "name": "Wilhelm Busch",
+      "dates": "1832–1908",
+      "y": 1832,
+      "roles": [
+        "Artist",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Heinrich Christian Wilhelm Busch was a German humorist, poet, illustrator, and painter. He published wildly innovative illustrated tales that remain influential to this day.",
+      "tldr": "Heinrich Christian Wilhelm Busch was a German humorist, poet, illustrator, and painter. He published wildly innovative illustrated tales that remain influential to this day.",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Busch",
+      "_country_qids": [
+        "Q164079",
+        "Q27306"
+      ],
+      "_occupation_qids": [
+        "Q17505902",
+        "Q36180",
+        "Q483501",
+        "Q4853732",
+        "Q49757",
+        "Q644687",
+        "Q18814623",
+        "Q1028181",
+        "Q15296811",
+        "Q11774202",
+        "Q1114448",
+        "Q107212688",
+        "Q3658608"
+      ]
+    },
+    {
+      "name": "Wilhelm Busch",
+      "dates": "1832–1908",
+      "y": 1832,
+      "roles": [
+        "Writer",
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Heinrich Christian Wilhelm Busch was a German humorist, poet, illustrator, and painter. He published wildly innovative illustrated tales that remain influential to this day.",
+      "tldr": "Heinrich Christian Wilhelm Busch was a German humorist, poet, illustrator, and painter. He published wildly innovative illustrated tales that remain influential to this day.",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Busch"
+    },
+    {
+      "name": "Edwin Arnold",
+      "dates": "1832–1904",
+      "y": 1832,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "English poet and journalist best known for The Light of Asia, a verse biography of the Buddha.",
+      "url": "https://en.wikipedia.org/wiki/Edwin_Arnold",
+      "region": "Europe"
+    },
+    {
+      "name": "Wilhelm Steinitz",
+      "dates": "1836–1900",
+      "y": 1836,
       "roles": [
         "Reformer"
       ],
-      "era": "Medieval (500–1500)",
-      "desc": "Kuchlug was a member of the Naiman tribe who became the last emperor of the Western Liao dynasty. The Naimans were defeated by Genghis Khan and he fled westward to the Western Liao, where he became…",
-      "tldr": "Kuchlug was a member of the Naiman tribe who became the last emperor of the Western Liao dynasty. The Naimans were defeated by Genghis Khan and he fled westward to the Western Liao, where he became an advisor to his future father-in-law Yelü Zhilugu. He later rebelled, usurped the throne and took control of the empire, putting an end to the rule of the House of Yelü.",
-      "url": "https://en.wikipedia.org/wiki/Kuchlug",
-      "_country_qids": [
-        "Q862304"
-      ],
-      "_occupation_qids": [
-        "Q181888"
-      ],
-      "region": "East Asia"
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Bohemian-Austrian chess player who became the first official World Chess Champion (1886–1894) and revolutionized chess theory.",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Steinitz"
     },
     {
-      "name": "Töregene Khatun",
-      "dates": "1185–1246",
-      "y": 1185,
+      "name": "Henry Campbell-Bannerman",
+      "dates": "1836–1908",
+      "y": 1836,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "British Liberal Prime Minister 1905–1908 who granted self-government to the former Boer republics and was the first PM officially titled as such.",
+      "url": "https://en.wikipedia.org/wiki/Henry_Campbell-Bannerman",
+      "region": "Europe"
+    },
+    {
+      "name": "Paul Morphy",
+      "dates": "1837–1884",
+      "y": 1837,
       "roles": [
         "Reformer"
       ],
-      "era": "Medieval (500–1500)",
-      "desc": "Töregene Khatun was the Great Khatun and regent of the Mongol Empire from the death of her husband Ögedei Khan in 1241 until the election of her eldest son Güyük Khan in 1246.",
-      "tldr": "Töregene Khatun was the Great Khatun and regent of the Mongol Empire from the death of her husband Ögedei Khan in 1241 until the election of her eldest son Güyük Khan in 1246.",
-      "url": "https://en.wikipedia.org/wiki/T%C3%B6regene_Khatun",
-      "_country_qids": [
-        "Q7313"
-      ],
-      "_occupation_qids": [
-        "Q477406"
-      ],
-      "region": "East Asia"
+      "era": "19th century",
+      "region": "Americas",
+      "desc": "American chess prodigy who dominated world chess in the late 1850s, widely regarded as the first unofficial World Chess Champion before retiring from the game.",
+      "url": "https://en.wikipedia.org/wiki/Paul_Morphy"
     },
     {
-      "name": "Wilhelm Friedemann Bach",
-      "dates": "1710–1784",
-      "y": 1710,
+      "name": "Henry Becque",
+      "dates": "1837–1899",
+      "y": 1837,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "French dramatist known for naturalistic plays depicting Parisian bourgeois life.",
+      "url": "https://en.wikipedia.org/wiki/Henry_Becque",
+      "region": "Europe"
+    },
+    {
+      "name": "Max Bruch",
+      "dates": "1838–1920",
+      "y": 1838,
       "roles": [
         "Artist"
       ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Wilhelm Friedemann Bach was a German composer, organist and harpsichordist. He was the second child and eldest son of Johann Sebastian Bach and Maria Barbara Bach.",
-      "tldr": "Wilhelm Friedemann Bach was a German composer, organist and harpsichordist. He was the second child and eldest son of Johann Sebastian Bach and Maria Barbara Bach. Despite his acknowledged genius as an improviser and composer, his income and employment were unstable, and he died in poverty.",
-      "url": "https://en.wikipedia.org/wiki/Wilhelm_Friedemann_Bach",
-      "_country_qids": [
-        "Q12548"
-      ],
-      "_occupation_qids": [
-        "Q765778",
-        "Q639669",
-        "Q486748",
-        "Q36834",
-        "Q1643514",
-        "Q115793211"
-      ],
+      "era": "19th century",
+      "desc": "German Romantic composer best known for his Violin Concerto No. 1 in G minor, a cornerstone of the violin repertoire.",
+      "url": "https://en.wikipedia.org/wiki/Max_Bruch",
       "region": "Europe"
     },
     {
@@ -1722,26 +2518,158 @@
       "region": "Americas"
     },
     {
-      "name": "Ulfilas",
-      "dates": "311–383",
-      "y": 311,
+      "name": "Berthe Morisot",
+      "dates": "1841–1895",
+      "y": 1841,
       "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French Impressionist painter who exhibited at most Impressionist exhibitions and was known for intimate domestic scenes in a distinctive loose style.",
+      "url": "https://en.wikipedia.org/wiki/Berthe_Morisot"
+    },
+    {
+      "name": "Emil Theodor Kocher",
+      "dates": "1841–1917",
+      "y": 1841,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Swiss surgeon who won the 1909 Nobel Prize in Physiology for pioneering work on thyroid surgery.",
+      "url": "https://en.wikipedia.org/wiki/Emil_Theodor_Kocher",
+      "region": "Europe"
+    },
+    {
+      "name": "Georg Ritter von Schönerer",
+      "dates": "1842–1921",
+      "y": 1842,
+      "roles": [
+        "Ruler",
+        "Reformer"
+      ],
+      "era": "19th century",
+      "desc": "Austrian politician and pan-German nationalist whose virulent antisemitism and rhetoric directly influenced the young Adolf Hitler.",
+      "url": "https://en.wikipedia.org/wiki/Georg_Ritter_von_Sch%C3%B6nerer",
+      "region": "Europe"
+    },
+    {
+      "name": "Gabriel Fauré",
+      "dates": "1845–1924",
+      "y": 1845,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French composer known for his Requiem, piano nocturnes, and chamber music who shaped the transition from Romanticism to modern French music.",
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Faur%C3%A9"
+    },
+    {
+      "name": "Vasily Surikov",
+      "dates": "1848–1916",
+      "y": 1848,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Vasily Ivanovich Surikov was a Russian Realist painter, active in Moscow during Tsars Alexander III and Nicholas II's reigns, renowned for his large history pictures.",
+      "url": "https://en.wikipedia.org/wiki/Vasily_Surikov",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q1028181"
+      ]
+    },
+    {
+      "name": "Vasily Surikov",
+      "dates": "1848–1916",
+      "y": 1848,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Vasily Ivanovich Surikov was a Russian Realist painter, active in Moscow during Tsars Alexander III and Nicholas II's reigns, renowned for his large history pictures.",
+      "url": "https://en.wikipedia.org/wiki/Vasily_Surikov"
+    },
+    {
+      "name": "Vilfredo Pareto",
+      "dates": "1848–1923",
+      "y": 1848,
+      "roles": [
+        "Scientist",
         "Writer"
       ],
-      "era": "Ancient (to 500 CE)",
-      "desc": "Ulfilas (Ancient Greek: Οὐλφίλας; c. 311 – 383), known also as Wulfila(s) or Urphilas, was a 4th-century Gothic preacher of Cappadocian Greek descent.",
-      "tldr": "Ulfilas (Ancient Greek: Οὐλφίλας; c. 311 – 383), known also as Wulfila(s) or Urphilas, was a 4th-century Gothic preacher of Cappadocian Greek descent. He was the apostle to the Gothic people.",
-      "url": "https://en.wikipedia.org/wiki/Ulfilas",
-      "_country_qids": [],
-      "_occupation_qids": [
-        "Q219477",
-        "Q24262584",
-        "Q29182",
-        "Q333634",
-        "Q36180",
-        "Q831474"
-      ],
+      "era": "19th century",
+      "desc": "Italian polymath who formulated the Pareto principle (the 80/20 rule) and made foundational contributions to economics and sociology.",
+      "url": "https://en.wikipedia.org/wiki/Vilfredo_Pareto",
       "region": "Europe"
+    },
+    {
+      "name": "Henri Moissan",
+      "dates": "1852–1907",
+      "y": 1852,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French chemist who won the 1906 Nobel Prize in Chemistry for isolating fluorine and pioneering the electric arc furnace.",
+      "url": "https://en.wikipedia.org/wiki/Henri_Moissan"
+    },
+    {
+      "name": "Jacobus Henricus van 't Hoff",
+      "dates": "1852–1911",
+      "y": 1852,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Dutch physical chemist who won the inaugural Nobel Prize in Chemistry (1901) for discovering the laws of chemical dynamics and osmotic pressure.",
+      "url": "https://en.wikipedia.org/wiki/Jacobus_Henricus_van_%27t_Hoff"
+    },
+    {
+      "name": "José Martí",
+      "dates": "1853–1895",
+      "y": 1853,
+      "roles": [
+        "Writer",
+        "Military",
+        "Reformer"
+      ],
+      "era": "19th century",
+      "region": "Americas",
+      "desc": "Cuban poet, journalist, and independence leader who organised the 1895 war against Spanish rule and died in its first skirmish.",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD"
+    },
+    {
+      "name": "Paul Sabatier",
+      "dates": "1854–1941",
+      "y": 1854,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French chemist who developed a method for hydrogenating organic compounds using metal catalysts, awarded the Nobel Prize in Chemistry in 1912.",
+      "url": "https://en.wikipedia.org/wiki/Paul_Sabatier_(chemist)"
+    },
+    {
+      "name": "Ronald Ross",
+      "dates": "1857–1932",
+      "y": 1857,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "British physician who proved mosquitoes transmit malaria, earning the 1902 Nobel Prize in Physiology or Medicine.",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Ross"
     },
     {
       "name": "Christiaan Eijkman",
@@ -1769,98 +2697,166 @@
       "region": "Europe"
     },
     {
-      "name": "Francesco Cavalli",
-      "dates": "1602–1676",
-      "y": 1602,
-      "roles": [
-        "Artist"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Francesco Cavalli was a Venetian composer, organist and singer of the early Baroque period. He succeeded his teacher Claudio Monteverdi as the dominant and leading opera composer of the mid 17th-ce…",
-      "tldr": "Francesco Cavalli was a Venetian composer, organist and singer of the early Baroque period. He succeeded his teacher Claudio Monteverdi as the dominant and leading opera composer of the mid 17th-century. A central figure of Venetian musical life, Cavalli wrote more than thirty operas, almost all of which premiered in the city's theaters.",
-      "url": "https://en.wikipedia.org/wiki/Francesco_Cavalli",
-      "_country_qids": [
-        "Q4948"
-      ],
-      "_occupation_qids": [
-        "Q36834",
-        "Q765778",
-        "Q158852",
-        "Q215793",
-        "Q21680731"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "John Bunyan",
-      "dates": "1628–1688",
-      "y": 1628,
+      "name": "Fatma Aliye Topuz",
+      "dates": "1862–1936",
+      "y": 1862,
       "roles": [
         "Writer",
         "Reformer"
       ],
-      "era": "Early modern (1500–1800)",
-      "desc": "John Bunyan was an English writer and nonconformist preacher. He is best remembered as the author of the Christian allegory The Pilgrim's Progress, which also became an influential literary model.",
-      "tldr": "John Bunyan was an English writer and nonconformist preacher. He is best remembered as the author of the Christian allegory The Pilgrim's Progress, which also became an influential literary model. In addition to The Pilgrim's Progress, Bunyan wrote nearly sixty titles, many of them expanded sermons.",
-      "url": "https://en.wikipedia.org/wiki/John_Bunyan",
-      "_country_qids": [
-        "Q179876"
+      "era": "19th century",
+      "desc": "Ottoman Turkish novelist and feminist considered the first female novelist in Turkish literature.",
+      "url": "https://en.wikipedia.org/wiki/Fatma_Aliye_Topuz",
+      "region": "Middle East"
+    },
+    {
+      "name": "Sergei Prokudin-Gorskii",
+      "dates": "1863–1944",
+      "y": 1863,
+      "roles": [
+        "Scientist",
+        "Artist"
       ],
-      "_occupation_qids": [
-        "Q432386",
-        "Q6625963",
-        "Q1234713",
-        "Q338221",
-        "Q36180"
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Russian chemist and photographer who pioneered colour photography and documented early 20th-century Russia.",
+      "url": "https://en.wikipedia.org/wiki/Sergey_Prokudin-Gorsky"
+    },
+    {
+      "name": "Israel Zangwill",
+      "dates": "1864–1926",
+      "y": 1864,
+      "roles": [
+        "Writer"
       ],
+      "era": "19th century",
+      "desc": "British Jewish author and Zionist leader known for novels exploring immigrant life and the play The Melting Pot.",
+      "url": "https://en.wikipedia.org/wiki/Israel_Zangwill",
       "region": "Europe"
     },
     {
-      "name": "Pyotr Wrangel",
-      "dates": "1878–1928",
-      "y": 1878,
+      "name": "Marie Curie",
+      "dates": "1867–1934",
+      "y": 1867,
       "roles": [
+        "Scientist"
+      ],
+      "era": "20th century onward",
+      "desc": "Physicist and chemist, pioneer of radioactivity and the first person to win two Nobel Prizes.",
+      "url": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "name": "Robert Falcon Scott",
+      "dates": "1868–1912",
+      "y": 1868,
+      "roles": [
+        "Explorer",
         "Military"
       ],
       "era": "19th century",
-      "desc": "Baron Pyotr Nikolayevich Wrangel, nicknamed the \"Black Baron\", was a Russian military officer who served as a commanding general in the anti-Bolshevik Volunteer Army during the Russian Civil War. I…",
-      "tldr": "Baron Pyotr Nikolayevich Wrangel, nicknamed the \"Black Baron\", was a Russian military officer who served as a commanding general in the anti-Bolshevik Volunteer Army during the Russian Civil War. In 1920, he became the last commander-in-chief of the White forces in Southern Russia, which he reorganized as the Russian Army.",
-      "url": "https://en.wikipedia.org/wiki/Pyotr_Wrangel",
+      "region": "Europe",
+      "desc": "British Royal Navy officer and Antarctic explorer who led two polar expeditions, perishing on the return from his 1910–13 attempt to reach the South Pole.",
+      "url": "https://en.wikipedia.org/wiki/Robert_Falcon_Scott"
+    },
+    {
+      "name": "Henrietta Swan Leavitt",
+      "dates": "1868–1921",
+      "y": 1868,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Americas",
+      "era": "19th century",
+      "desc": "Henrietta Swan Leavitt was an American astronomer. Her discovery of how to effectively measure vast astronomical distances led to a shift in the understanding of the scale and nature of the universe.",
+      "tldr": "Henrietta Swan Leavitt was an American astronomer. Her discovery of how to effectively measure vast astronomical distances led to a shift in the understanding of the scale and nature of the universe.",
+      "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt",
       "_country_qids": [
-        "Q34266"
+        "Q30"
       ],
       "_occupation_qids": [
-        "Q189290"
+        "Q11063"
+      ]
+    },
+    {
+      "name": "Henrietta Swan Leavitt",
+      "dates": "1868–1921",
+      "y": 1868,
+      "roles": [
+        "Scientist"
       ],
+      "region": "Americas",
+      "era": "19th century",
+      "desc": "Henrietta Swan Leavitt was an American astronomer. Her discovery of how to effectively measure vast astronomical distances led to a shift in the understanding of the scale and nature of the universe.",
+      "tldr": "Henrietta Swan Leavitt was an American astronomer. Her discovery of how to effectively measure vast astronomical distances led to a shift in the understanding of the scale and nature of the universe.",
+      "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "dates": "1869–1948",
+      "y": 1869,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "20th century onward",
+      "desc": "Leader of India's nonviolent independence movement against British rule.",
+      "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+      "region": "South Asia"
+    },
+    {
+      "name": "Neville Chamberlain",
+      "dates": "1869–1940",
+      "y": 1869,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "British Prime Minister 1937–1940, defined by his appeasement policy and the Munich Agreement ceding the Sudetenland to Nazi Germany.",
+      "url": "https://en.wikipedia.org/wiki/Neville_Chamberlain",
       "region": "Europe"
     },
     {
-      "name": "Michael Praetorius",
-      "dates": "1571–1621",
-      "y": 1571,
+      "name": "Johannes Linnankoski",
+      "dates": "1869–1913",
+      "y": 1869,
       "roles": [
-        "Artist"
+        "Writer"
       ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Michael Praetorius was a German composer, organist, and music theorist. He was one of the most versatile composers of his age, being particularly significant in the development of musical forms bas…",
-      "tldr": "Michael Praetorius was a German composer, organist, and music theorist. He was one of the most versatile composers of his age, being particularly significant in the development of musical forms based on Protestant hymns.",
-      "url": "https://en.wikipedia.org/wiki/Michael_Praetorius",
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Johannes Linnankoski was a Finnish author and playwright. His most famous work is the romance novel, The Song of the Blood-Red Flower (1905). His primary themes were guilt, punishment, and redemption as moral questions.",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Linnankoski",
       "_country_qids": [
-        "Q556263"
+        "Q62633"
       ],
       "_occupation_qids": [
-        "Q36834",
-        "Q61996872",
-        "Q37226",
-        "Q765778",
-        "Q16031530",
-        "Q158852",
-        "Q14915627",
-        "Q115793211",
-        "Q830337",
-        "Q8178443"
+        "Q36180",
+        "Q333634",
+        "Q1930187"
+      ]
+    },
+    {
+      "name": "Johannes Linnankoski",
+      "dates": "1869–1913",
+      "y": 1869,
+      "roles": [
+        "Writer"
       ],
-      "region": "Europe"
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Johannes Linnankoski was a Finnish author and playwright. His most famous work is the romance novel, The Song of the Blood-Red Flower (1905). His primary themes were guilt, punishment, and redemption as moral questions.",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Linnankoski"
+    },
+    {
+      "name": "Victor Grignard",
+      "dates": "1871–1935",
+      "y": 1871,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French chemist who discovered the Grignard reagent, an essential tool in organic synthesis, earning the Nobel Prize in Chemistry in 1912.",
+      "url": "https://en.wikipedia.org/wiki/Victor_Grignard"
     },
     {
       "name": "Anton Denikin",
@@ -1887,174 +2883,16 @@
       "region": "Europe"
     },
     {
-      "name": "Alexander VI",
-      "dates": "1431–1503",
-      "y": 1431,
+      "name": "Francis William Aston",
+      "dates": "1877–1945",
+      "y": 1877,
       "roles": [
-        "Reformer"
+        "Scientist"
       ],
-      "era": "Medieval (500–1500)",
-      "desc": "Pope Alexander VI was head of the Catholic Church and leader of the Papal States from 11 August 1492 until his death in 1503.",
-      "tldr": "Pope Alexander VI was head of the Catholic Church and leader of the Papal States from 11 August 1492 until his death in 1503.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VI",
-      "_country_qids": [
-        "Q204920"
-      ],
-      "_occupation_qids": [
-        "Q250867",
-        "Q7834465"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Christine of France",
-      "dates": "1606–1663",
-      "y": 1606,
-      "roles": [
-        "Ruler"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Christine of France was Duchess of Savoy from 26 July 1630 to 7 October 1637 as the consort of Duke Victor Amadeus I. She was the daughter of Henry IV of France and sister of Louis XIII.",
-      "tldr": "Christine of France was Duchess of Savoy from 26 July 1630 to 7 October 1637 as the consort of Duke Victor Amadeus I. She was the daughter of Henry IV of France and sister of Louis XIII. Following her husband's death in 1637, she acted as regent of Savoy between 1637 and 1648.",
-      "url": "https://en.wikipedia.org/wiki/Christine_of_France",
-      "_country_qids": [
-        "Q142"
-      ],
-      "_occupation_qids": [
-        "Q82955"
-      ]
-    },
-    {
-      "name": "Ferdinand I of Portugal",
-      "dates": "1345–1383",
-      "y": 1345,
-      "roles": [
-        "Ruler"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Ferdinand I, sometimes called the Handsome or occasionally the Inconstant, was the King of Portugal from 1367 until his death in 1383. He was also briefly made King of Galicia, in 1369.",
-      "tldr": "Ferdinand I, sometimes called the Handsome or occasionally the Inconstant, was the King of Portugal from 1367 until his death in 1383. He was also briefly made King of Galicia, in 1369. Facing a lack of legitimate male heirs, his death led to the 1383–85 crisis, also known as the Portuguese interregnum.",
-      "url": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Portugal",
-      "_country_qids": [
-        "Q45670"
-      ],
-      "_occupation_qids": [
-        "Q116"
-      ]
-    },
-    {
-      "name": "Giuseppe Tartini",
-      "dates": "1692–1770",
-      "y": 1692,
-      "roles": [
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Giuseppe Tartini was an Italian composer and violinist of the Baroque era born in Pirano in the Republic of Venice. Tartini was a prolific composer, composing over a hundred pieces for the violin, the majority of them violin concertos. He is best remembered for his Violin Sonata in G Minor.",
-      "url": "https://en.wikipedia.org/wiki/Giuseppe_Tartini",
-      "_country_qids": [
-        "Q4948"
-      ],
-      "_occupation_qids": [
-        "Q1259917",
-        "Q14915627",
-        "Q16031530",
-        "Q16145150",
-        "Q36834"
-      ]
-    },
-    {
-      "name": "Leo von Caprivi",
-      "dates": "1831–1899",
-      "y": 1831,
-      "roles": [
-        "Military",
-        "Ruler"
-      ],
-      "region": "Europe",
       "era": "19th century",
-      "desc": "Georg Leo Graf von Caprivi de Caprara de Montecuccoli was a German general and statesman. He served as the imperial chancellor of the German Empire from March 1890 to October 1894, succeeding longtime chancellor Otto von Bismarck.",
-      "url": "https://en.wikipedia.org/wiki/Leo_von_Caprivi",
-      "_country_qids": [
-        "Q27306",
-        "Q43287"
-      ],
-      "_occupation_qids": [
-        "Q47064",
-        "Q82955"
-      ]
-    },
-    {
-      "name": "Antigonus III Doson",
-      "dates": "262BCE–220BCE",
-      "y": -262,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
       "region": "Europe",
-      "era": "Ancient (to 500 CE)",
-      "desc": "Antigonus III Doson was king of Antigonid Macedon from 229 BC to 221 BC. Antigonus was a member of the Antigonid dynasty through his paternal line.",
-      "tldr": "Antigonus III Doson was king of Antigonid Macedon from 229 BC to 221 BC. During the Cleomenean War, Antigonus revived the Hellenic League of Philip II of Macedon under the name of the “League of Leagues” and managed to incorporate most of the Greek city-states in this League.",
-      "url": "https://en.wikipedia.org/wiki/Antigonus_III_Doson",
-      "_country_qids": [
-        "Q83958"
-      ],
-      "_occupation_qids": [
-        "Q47064"
-      ]
-    },
-    {
-      "name": "Clément Marot",
-      "dates": "1495–1544",
-      "y": 1495,
-      "roles": [
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Clément Marot was a French Renaissance poet. He was influenced by the writers of the late 15th century and paved the way for the Pléiade, and is undoubtedly the most important poet at the court of Francis I.",
-      "url": "https://en.wikipedia.org/wiki/Cl%C3%A9ment_Marot",
-      "_country_qids": [
-        "Q70972"
-      ],
-      "_occupation_qids": [
-        "Q49757",
-        "Q639669",
-        "Q36180",
-        "Q333634",
-        "Q8178443"
-      ]
-    },
-    {
-      "name": "Guido Reni",
-      "dates": "1575–1642",
-      "y": 1575,
-      "roles": [
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Guido Reni was an Italian Baroque painter, although his works showed a classical manner. He painted primarily religious works, but also mythological and allegorical subjects.",
-      "url": "https://en.wikipedia.org/wiki/Guido_Reni",
-      "_country_qids": [
-        "Q170174"
-      ],
-      "_occupation_qids": [
-        "Q15296811",
-        "Q2079935",
-        "Q22669155",
-        "Q3391743",
-        "Q5322166",
-        "Q984276",
-        "Q1183704",
-        "Q10862983",
-        "Q1028181",
-        "Q644687"
-      ]
+      "desc": "British physicist and chemist who won the 1922 Nobel Prize in Chemistry for discovering isotopes in non-radioactive elements via his mass spectrograph.",
+      "url": "https://en.wikipedia.org/wiki/Francis_William_Aston"
     },
     {
       "name": "Viktor Dyk",
@@ -2091,349 +2929,6 @@
       ]
     },
     {
-      "name": "Adam of Bremen",
-      "dates": "1100–1085",
-      "y": 1100,
-      "roles": [
-        "Writer",
-        "Religious"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Adam of Bremen was a German medieval chronicler. He lived and worked in the second half of the eleventh century. Adam is most famous for his chronicle Gesta Hammaburgensis ecclesiae pontificum.",
-      "url": "https://en.wikipedia.org/wiki/Adam_of_Bremen",
-      "_country_qids": [
-        "Q183"
-      ],
-      "_occupation_qids": [
-        "Q1234713",
-        "Q201788",
-        "Q1104153",
-        "Q3330547",
-        "Q36180",
-        "Q901402"
-      ]
-    },
-    {
-      "name": "Johannes Linnankoski",
-      "dates": "1869–1913",
-      "y": 1869,
-      "roles": [
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Johannes Linnankoski was a Finnish author and playwright. His most famous work is the romance novel, The Song of the Blood-Red Flower (1905). His primary themes were guilt, punishment, and redemption as moral questions.",
-      "url": "https://en.wikipedia.org/wiki/Johannes_Linnankoski",
-      "_country_qids": [
-        "Q62633"
-      ],
-      "_occupation_qids": [
-        "Q36180",
-        "Q333634",
-        "Q1930187"
-      ]
-    },
-    {
-      "name": "Richard Mentor Johnson",
-      "dates": "1780–1850",
-      "y": 1780,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "Richard Mentor Johnson was an American lawyer, military officer and politician who served as the ninth vice president of the United States from 1837 to 1841 under President Martin Van Buren.",
-      "url": "https://en.wikipedia.org/wiki/Richard_Mentor_Johnson",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q40348",
-        "Q82955",
-        "Q185351"
-      ]
-    },
-    {
-      "name": "Musa Çelebi",
-      "dates": "1388–1413",
-      "y": 1388,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "region": "Middle East",
-      "era": "Medieval (500–1500)",
-      "desc": "Musa Çelebi was an Ottoman prince and a co-ruler of the empire for three years during the Ottoman Interregnum.",
-      "tldr": "Musa Çelebi was an Ottoman prince and a co-ruler of the empire for three years during the Ottoman Interregnum.",
-      "url": "https://en.wikipedia.org/wiki/Musa_%C3%87elebi",
-      "_country_qids": [
-        "Q12560"
-      ],
-      "_occupation_qids": [
-        "Q47064"
-      ]
-    },
-    {
-      "name": "Wilhelm Busch",
-      "dates": "1832–1908",
-      "y": 1832,
-      "roles": [
-        "Artist",
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Heinrich Christian Wilhelm Busch was a German humorist, poet, illustrator, and painter. He published wildly innovative illustrated tales that remain influential to this day.",
-      "tldr": "Heinrich Christian Wilhelm Busch was a German humorist, poet, illustrator, and painter. He published wildly innovative illustrated tales that remain influential to this day.",
-      "url": "https://en.wikipedia.org/wiki/Wilhelm_Busch",
-      "_country_qids": [
-        "Q164079",
-        "Q27306"
-      ],
-      "_occupation_qids": [
-        "Q17505902",
-        "Q36180",
-        "Q483501",
-        "Q4853732",
-        "Q49757",
-        "Q644687",
-        "Q18814623",
-        "Q1028181",
-        "Q15296811",
-        "Q11774202",
-        "Q1114448",
-        "Q107212688",
-        "Q3658608"
-      ]
-    },
-    {
-      "name": "Cornelius Nepos",
-      "dates": "99BCE–24BCE",
-      "y": -99,
-      "roles": [
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Ancient (to 500 CE)",
-      "desc": "Cornelius Nepos was a Roman biographer.",
-      "tldr": "Cornelius Nepos was a Roman biographer.",
-      "url": "https://en.wikipedia.org/wiki/Cornelius_Nepos",
-      "_country_qids": [
-        "Q1747689"
-      ],
-      "_occupation_qids": [
-        "Q201788",
-        "Q36180",
-        "Q49757",
-        "Q864380"
-      ]
-    },
-    {
-      "name": "Tibullus",
-      "dates": "50BCE–15BCE",
-      "y": -50,
-      "roles": [
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Ancient (to 500 CE)",
-      "desc": "Albius Tibullus was a Latin poet and writer of elegies. His first and second books of poetry are extant; many other texts attributed to him are of questionable origins.",
-      "tldr": "Albius Tibullus was a Latin poet and writer of elegies. His first and second books of poetry are extant; many other texts attributed to him are of questionable origins.",
-      "url": "https://en.wikipedia.org/wiki/Tibullus",
-      "_country_qids": [
-        "Q1747689"
-      ],
-      "_occupation_qids": [
-        "Q49757",
-        "Q16868675"
-      ]
-    },
-    {
-      "name": "Saskia van Uylenburgh",
-      "dates": "1612–1642",
-      "y": 1612,
-      "roles": [
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Saskia van Uylenburgh was the wife of painter Rembrandt van Rijn. In the course of her life, she was his model for some of his paintings, drawings, and etchings.",
-      "url": "https://en.wikipedia.org/wiki/Saskia_van_Uylenburgh",
-      "_country_qids": [
-        "Q170072"
-      ],
-      "_occupation_qids": []
-    },
-    {
-      "name": "Dagobert I",
-      "dates": "611–639",
-      "y": 611,
-      "roles": [
-        "Ruler"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Dagobert I was King of the Franks. He ruled Austrasia (623–634) and Neustria and Burgundy (629–639). He has been described as the last king of the Merovingian dynasty to wield real royal power.",
-      "url": "https://en.wikipedia.org/wiki/Dagobert_I",
-      "_country_qids": [
-        "Q142"
-      ],
-      "_occupation_qids": [
-        "Q116"
-      ]
-    },
-    {
-      "name": "François Adrien Boieldieu",
-      "dates": "1775–1834",
-      "y": 1775,
-      "roles": [
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "François-Adrien Boieldieu was a French composer, mainly of operas, often called “the French Mozart”.",
-      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Adrien_Boieldieu",
-      "_country_qids": [
-        "Q142"
-      ],
-      "_occupation_qids": [
-        "Q36834",
-        "Q158852",
-        "Q14915627",
-        "Q21680731",
-        "Q1622272",
-        "Q16145150"
-      ]
-    },
-    {
-      "name": "Henrietta Swan Leavitt",
-      "dates": "1868–1921",
-      "y": 1868,
-      "roles": [
-        "Scientist"
-      ],
-      "region": "Americas",
-      "era": "19th century",
-      "desc": "Henrietta Swan Leavitt was an American astronomer. Her discovery of how to effectively measure vast astronomical distances led to a shift in the understanding of the scale and nature of the universe.",
-      "tldr": "Henrietta Swan Leavitt was an American astronomer. Her discovery of how to effectively measure vast astronomical distances led to a shift in the understanding of the scale and nature of the universe.",
-      "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q11063"
-      ]
-    },
-    {
-      "name": "Vasily Surikov",
-      "dates": "1848–1916",
-      "y": 1848,
-      "roles": [
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Vasily Ivanovich Surikov was a Russian Realist painter, active in Moscow during Tsars Alexander III and Nicholas II's reigns, renowned for his large history pictures.",
-      "url": "https://en.wikipedia.org/wiki/Vasily_Surikov",
-      "_country_qids": [
-        "Q34266"
-      ],
-      "_occupation_qids": [
-        "Q1028181"
-      ]
-    },
-    {
-      "name": "Christine of France",
-      "dates": "1606–1663",
-      "y": 1606,
-      "roles": [
-        "Ruler"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Christine of France was Duchess of Savoy from 26 July 1630 to 7 October 1637 as the consort of Duke Victor Amadeus I. She was the daughter of Henry IV of France and sister of Louis XIII.",
-      "tldr": "Christine of France was Duchess of Savoy from 26 July 1630 to 7 October 1637 as the consort of Duke Victor Amadeus I. She was the daughter of Henry IV of France and sister of Louis XIII. Following her husband's death in 1637, she acted as regent of Savoy between 1637 and 1648.",
-      "url": "https://en.wikipedia.org/wiki/Christine_of_France"
-    },
-    {
-      "name": "Ferdinand I of Portugal",
-      "dates": "1345–1383",
-      "y": 1345,
-      "roles": [
-        "Ruler"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Ferdinand I, sometimes called the Handsome or occasionally the Inconstant, was the King of Portugal from 1367 until his death in 1383. He was also briefly made King of Galicia, in 1369.",
-      "tldr": "Ferdinand I, sometimes called the Handsome or occasionally the Inconstant, was the King of Portugal from 1367 until his death in 1383. He was also briefly made King of Galicia, in 1369. Facing a lack of legitimate male heirs, his death led to the 1383–85 crisis, also known as the Portuguese interregnum.",
-      "url": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Portugal"
-    },
-    {
-      "name": "Giuseppe Tartini",
-      "dates": "1692–1770",
-      "y": 1692,
-      "roles": [
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Giuseppe Tartini was an Italian composer and violinist of the Baroque era born in Pirano in the Republic of Venice. He is best remembered for his Violin Sonata in G Minor.",
-      "url": "https://en.wikipedia.org/wiki/Giuseppe_Tartini"
-    },
-    {
-      "name": "Leo von Caprivi",
-      "dates": "1831–1899",
-      "y": 1831,
-      "roles": [
-        "Military",
-        "Ruler"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Georg Leo Graf von Caprivi de Caprara de Montecuccoli was a German general and statesman. He served as the imperial chancellor of the German Empire from March 1890 to October 1894, succeeding longtime chancellor Otto von Bismarck.",
-      "url": "https://en.wikipedia.org/wiki/Leo_von_Caprivi"
-    },
-    {
-      "name": "Antigonus III Doson",
-      "dates": "262BCE–220BCE",
-      "y": -262,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "region": "Europe",
-      "era": "Ancient (to 500 CE)",
-      "desc": "Antigonus III Doson was king of Antigonid Macedon from 229 BC to 221 BC. Antigonus was a member of the Antigonid dynasty through his paternal line.",
-      "tldr": "Antigonus III Doson was king of Antigonid Macedon from 229 BC to 221 BC. During the Cleomenean War, Antigonus revived the Hellenic League of Philip II of Macedon under the name of the \"League of Leagues\" and managed to incorporate most of the Greek city-states in this League.",
-      "url": "https://en.wikipedia.org/wiki/Antigonus_III_Doson"
-    },
-    {
-      "name": "Clément Marot",
-      "dates": "1495–1544",
-      "y": 1495,
-      "roles": [
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Clément Marot was a French Renaissance poet. He was influenced by the writers of the late 15th century and paved the way for the Pléiade, and is undoubtedly the most important poet at the court of Francis I.",
-      "url": "https://en.wikipedia.org/wiki/Cl%C3%A9ment_Marot"
-    },
-    {
-      "name": "Guido Reni",
-      "dates": "1575–1642",
-      "y": 1575,
-      "roles": [
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Guido Reni was an Italian Baroque painter, although his works showed a classical manner. He painted primarily religious works, but also mythological and allegorical subjects.",
-      "url": "https://en.wikipedia.org/wiki/Guido_Reni"
-    },
-    {
       "name": "Viktor Dyk",
       "dates": "1877–1931",
       "y": 1877,
@@ -2448,341 +2943,34 @@
       "url": "https://en.wikipedia.org/wiki/Viktor_Dyk"
     },
     {
-      "name": "Adam of Bremen",
-      "dates": "1100–1085",
-      "y": 1100,
-      "roles": [
-        "Religious",
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Adam of Bremen was a German medieval chronicler. He lived and worked in the second half of the eleventh century. Adam is most famous for his chronicle Gesta Hammaburgensis ecclesiae pontificum.",
-      "url": "https://en.wikipedia.org/wiki/Adam_of_Bremen"
-    },
-    {
-      "name": "Johannes Linnankoski",
-      "dates": "1869–1913",
-      "y": 1869,
-      "roles": [
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Johannes Linnankoski was a Finnish author and playwright. His most famous work is the romance novel, The Song of the Blood-Red Flower (1905). His primary themes were guilt, punishment, and redemption as moral questions.",
-      "url": "https://en.wikipedia.org/wiki/Johannes_Linnankoski"
-    },
-    {
-      "name": "Richard Mentor Johnson",
-      "dates": "1780–1850",
-      "y": 1780,
+      "name": "Gustav Stresemann",
+      "dates": "1878–1929",
+      "y": 1878,
       "roles": [
         "Ruler"
       ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "Richard Mentor Johnson was an American lawyer, military officer and politician who served as the ninth vice president of the United States from 1837 to 1841 under President Martin Van Buren.",
-      "url": "https://en.wikipedia.org/wiki/Richard_Mentor_Johnson"
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "German statesman who as chancellor and foreign minister steered Weimar Germany toward international reconciliation, sharing the 1926 Nobel Peace Prize.",
+      "url": "https://en.wikipedia.org/wiki/Gustav_Stresemann"
     },
     {
-      "name": "Musa Çelebi",
-      "dates": "1388–1413",
-      "y": 1388,
+      "name": "Pyotr Wrangel",
+      "dates": "1878–1928",
+      "y": 1878,
       "roles": [
-        "Ruler",
         "Military"
       ],
-      "region": "Middle East",
-      "era": "Medieval (500–1500)",
-      "desc": "Musa Çelebi was an Ottoman prince and a co-ruler of the empire for three years during the Ottoman Interregnum.",
-      "tldr": "Musa Çelebi was an Ottoman prince and a co-ruler of the empire for three years during the Ottoman Interregnum.",
-      "url": "https://en.wikipedia.org/wiki/Musa_%C3%87elebi"
-    },
-    {
-      "name": "Wilhelm Busch",
-      "dates": "1832–1908",
-      "y": 1832,
-      "roles": [
-        "Writer",
-        "Artist"
-      ],
-      "region": "Europe",
       "era": "19th century",
-      "desc": "Heinrich Christian Wilhelm Busch was a German humorist, poet, illustrator, and painter. He published wildly innovative illustrated tales that remain influential to this day.",
-      "tldr": "Heinrich Christian Wilhelm Busch was a German humorist, poet, illustrator, and painter. He published wildly innovative illustrated tales that remain influential to this day.",
-      "url": "https://en.wikipedia.org/wiki/Wilhelm_Busch"
-    },
-    {
-      "name": "Cornelius Nepos",
-      "dates": "99BCE–24BCE",
-      "y": -99,
-      "roles": [
-        "Writer"
+      "desc": "Baron Pyotr Nikolayevich Wrangel, nicknamed the \"Black Baron\", was a Russian military officer who served as a commanding general in the anti-Bolshevik Volunteer Army during the Russian Civil War. I…",
+      "tldr": "Baron Pyotr Nikolayevich Wrangel, nicknamed the \"Black Baron\", was a Russian military officer who served as a commanding general in the anti-Bolshevik Volunteer Army during the Russian Civil War. In 1920, he became the last commander-in-chief of the White forces in Southern Russia, which he reorganized as the Russian Army.",
+      "url": "https://en.wikipedia.org/wiki/Pyotr_Wrangel",
+      "_country_qids": [
+        "Q34266"
       ],
-      "region": "Europe",
-      "era": "Ancient (to 500 CE)",
-      "desc": "Cornelius Nepos was a Roman biographer.",
-      "tldr": "Cornelius Nepos was a Roman biographer.",
-      "url": "https://en.wikipedia.org/wiki/Cornelius_Nepos"
-    },
-    {
-      "name": "Tibullus",
-      "dates": "50BCE–15BCE",
-      "y": -50,
-      "roles": [
-        "Writer"
+      "_occupation_qids": [
+        "Q189290"
       ],
-      "region": "Europe",
-      "era": "Ancient (to 500 CE)",
-      "desc": "Albius Tibullus was a Latin poet and writer of elegies. His first and second books of poetry are extant; many other texts attributed to him are of questionable origins.",
-      "tldr": "Albius Tibullus was a Latin poet and writer of elegies. His first and second books of poetry are extant; many other texts attributed to him are of questionable origins.",
-      "url": "https://en.wikipedia.org/wiki/Tibullus"
-    },
-    {
-      "name": "Saskia van Uylenburgh",
-      "dates": "1612–1642",
-      "y": 1612,
-      "roles": [
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Saskia van Uylenburgh was the wife of painter Rembrandt van Rijn. In the course of her life, she was his model for some of his paintings, drawings, and etchings.",
-      "url": "https://en.wikipedia.org/wiki/Saskia_van_Uylenburgh"
-    },
-    {
-      "name": "Dagobert I",
-      "dates": "611–639",
-      "y": 611,
-      "roles": [
-        "Ruler"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Dagobert I was King of the Franks. He ruled Austrasia (623–634) and Neustria and Burgundy (629–639). He has been described as the last king of the Merovingian dynasty to wield real royal power.",
-      "url": "https://en.wikipedia.org/wiki/Dagobert_I"
-    },
-    {
-      "name": "François Adrien Boieldieu",
-      "dates": "1775–1834",
-      "y": 1775,
-      "roles": [
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "François-Adrien Boieldieu was a French composer, mainly of operas, often called \"the French Mozart\".",
-      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Adrien_Boieldieu"
-    },
-    {
-      "name": "Henrietta Swan Leavitt",
-      "dates": "1868–1921",
-      "y": 1868,
-      "roles": [
-        "Scientist"
-      ],
-      "region": "Americas",
-      "era": "19th century",
-      "desc": "Henrietta Swan Leavitt was an American astronomer. Her discovery of how to effectively measure vast astronomical distances led to a shift in the understanding of the scale and nature of the universe.",
-      "tldr": "Henrietta Swan Leavitt was an American astronomer. Her discovery of how to effectively measure vast astronomical distances led to a shift in the understanding of the scale and nature of the universe.",
-      "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
-    },
-    {
-      "name": "Vasily Surikov",
-      "dates": "1848–1916",
-      "y": 1848,
-      "roles": [
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Vasily Ivanovich Surikov was a Russian Realist painter, active in Moscow during Tsars Alexander III and Nicholas II's reigns, renowned for his large history pictures.",
-      "url": "https://en.wikipedia.org/wiki/Vasily_Surikov"
-    },
-    {
-      "name": "Jan Pieterszoon Sweelinck",
-      "dates": "1562–1621",
-      "y": 1562,
-      "roles": [
-        "Artist"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Dutch composer, organist, and pedagogue whose work bridged the Renaissance and Baroque eras; shaped the north German organ tradition.",
-      "url": "https://en.wikipedia.org/wiki/Jan_Pieterszoon_Sweelinck",
-      "region": "Europe"
-    },
-    {
-      "name": "Ansgar",
-      "dates": "801–865",
-      "y": 801,
-      "roles": [
-        "Religious"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "Archbishop of Hamburg-Bremen known as the “Apostle of the North” for missionary journeys that brought Christianity to Scandinavia.",
-      "url": "https://en.wikipedia.org/wiki/Ansgar",
-      "region": "Europe"
-    },
-    {
-      "name": "Vilfredo Pareto",
-      "dates": "1848–1923",
-      "y": 1848,
-      "roles": [
-        "Scientist",
-        "Writer"
-      ],
-      "era": "19th century",
-      "desc": "Italian polymath who formulated the Pareto principle (the 80/20 rule) and made foundational contributions to economics and sociology.",
-      "url": "https://en.wikipedia.org/wiki/Vilfredo_Pareto",
-      "region": "Europe"
-    },
-    {
-      "name": "Pierre Bouguer",
-      "dates": "1698–1758",
-      "y": 1698,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "French mathematician, geophysicist, and astronomer known as “the father of naval architecture” and for pioneering photometry.",
-      "url": "https://en.wikipedia.org/wiki/Pierre_Bouguer",
-      "region": "Europe"
-    },
-    {
-      "name": "Annibale de Gasparis",
-      "dates": "1819–1892",
-      "y": 1819,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "19th century",
-      "desc": "Italian astronomer who discovered nine asteroids and contributed to theoretical astronomy from the Naples Observatory.",
-      "url": "https://en.wikipedia.org/wiki/Annibale_de_Gasparis",
-      "region": "Europe"
-    },
-    {
-      "name": "Abd al-Rahman al-Sufi",
-      "dates": "903–986",
-      "y": 903,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "Persian astronomer of the Islamic Golden Age whose Book of Fixed Stars gave the first recorded description of the Andromeda Galaxy.",
-      "url": "https://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi",
-      "region": "Middle East"
-    },
-    {
-      "name": "William Lassell",
-      "dates": "1799–1880",
-      "y": 1799,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "English merchant-astronomer who improved the reflecting telescope and discovered Triton, Ariel, Umbriel, and Hyperion.",
-      "url": "https://en.wikipedia.org/wiki/William_Lassell",
-      "region": "Europe"
-    },
-    {
-      "name": "Alaric II",
-      "dates": "458–507",
-      "y": 458,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "desc": "King of the Visigoths from 484 who issued the Breviary of Alaric, a landmark codification of Roman law for his subjects.",
-      "url": "https://en.wikipedia.org/wiki/Alaric_II",
-      "region": "Europe"
-    },
-    {
-      "name": "Athalaric",
-      "dates": "516–534",
-      "y": 516,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "King of the Ostrogoths in Italy from 526, grandson of Theodoric the Great, who reigned under the regency of his mother Amalasuintha.",
-      "url": "https://en.wikipedia.org/wiki/Athalaric",
-      "region": "Europe"
-    },
-    {
-      "name": "Ibn al-Haytham",
-      "dates": "965–1039",
-      "y": 965,
-      "roles": [
-        "Scientist",
-        "Writer"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "Arab mathematician and physicist from Iraq known as “the father of modern optics”; his Book of Optics transformed the science of vision.",
-      "url": "https://en.wikipedia.org/wiki/Ibn_al-Haytham",
-      "region": "Middle East"
-    },
-    {
-      "name": "Ammar ibn Yasir",
-      "dates": "570–657",
-      "y": 570,
-      "roles": [
-        "Religious",
-        "Military"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "Companion of the Prophet Muhammad whose parents were the first martyrs of Islam; later a commander in the early Muslim conquests.",
-      "url": "https://en.wikipedia.org/wiki/Ammar_ibn_Yasir",
-      "region": "Middle East"
-    },
-    {
-      "name": "Abū Ishāq Ibrāhīm al-Zarqālī",
-      "dates": "1027–1100",
-      "y": 1027,
-      "roles": [
-        "Scientist"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "Arab astronomer and instrument-maker from Al-Andalus who invented the saphaea and compiled the influential Toledo Tables.",
-      "url": "https://en.wikipedia.org/wiki/Al-Zarqali",
-      "region": "Europe"
-    },
-    {
-      "name": "Geoffrey Plantagenet, Count of Anjou",
-      "dates": "1113–1151",
-      "y": 1113,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "Count of Anjou and Duke of Normandy by conquest who founded the Plantagenet dynasty that would rule England for three centuries.",
-      "url": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet%2C_Count_of_Anjou",
-      "region": "Europe"
-    },
-    {
-      "name": "Georg Ritter von Schönerer",
-      "dates": "1842–1921",
-      "y": 1842,
-      "roles": [
-        "Ruler",
-        "Reformer"
-      ],
-      "era": "19th century",
-      "desc": "Austrian politician and pan-German nationalist whose virulent antisemitism and rhetoric directly influenced the young Adolf Hitler.",
-      "url": "https://en.wikipedia.org/wiki/Georg_Ritter_von_Sch%C3%B6nerer",
-      "region": "Europe"
-    },
-    {
-      "name": "Leopold V, Archduke of Austria",
-      "dates": "1586–1632",
-      "y": 1586,
-      "roles": [
-        "Ruler",
-        "Religious"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Habsburg archduke who served as Prince-Bishop of Passau and Strasbourg before assuming secular rule over Further Austria.",
-      "url": "https://en.wikipedia.org/wiki/Leopold_V%2C_Archduke_of_Austria",
       "region": "Europe"
     },
     {
@@ -2798,19 +2986,6 @@
       "region": "Europe"
     },
     {
-      "name": "Husayn ibn Ali",
-      "dates": "626–680",
-      "y": 626,
-      "roles": [
-        "Religious",
-        "Military"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "Grandson of the Prophet Muhammad and third Imam of Shia Islam; his death at the Battle of Karbala became the central tragedy of Shia faith.",
-      "url": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
-      "region": "Middle East"
-    },
-    {
       "name": "Egon Friedell",
       "dates": "1878–1938",
       "y": 1878,
@@ -2824,28 +2999,101 @@
       "region": "Europe"
     },
     {
-      "name": "Louis, Dauphin of France",
-      "dates": "1729–1765",
-      "y": 1729,
+      "name": "Lili Elbe",
+      "dates": "1882–1931",
+      "y": 1882,
       "roles": [
-        "Ruler"
+        "Artist"
       ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Son of Louis XV of France and father of three kings (Louis XVI, Louis XVIII, Charles X) who never himself ascended the throne.",
-      "url": "https://en.wikipedia.org/wiki/Louis%2C_Dauphin_of_France_(son_of_Louis_XV)",
+      "era": "19th century",
+      "desc": "Danish painter and one of the earliest known recipients of gender reassignment surgery.",
+      "url": "https://en.wikipedia.org/wiki/Lili_Elbe",
       "region": "Europe"
     },
     {
-      "name": "Louis, Dauphin of France, Duke of Burgundy",
-      "dates": "1682–1712",
-      "y": 1682,
+      "name": "Douglas Fairbanks",
+      "dates": "1883–1939",
+      "y": 1883,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "region": "Americas",
+      "desc": "American actor famed for swashbuckling silent-film roles including Zorro and Robin Hood, and co-founder of United Artists.",
+      "url": "https://en.wikipedia.org/wiki/Douglas_Fairbanks"
+    },
+    {
+      "name": "Joachim von Ribbentrop",
+      "dates": "1893–1946",
+      "y": 1893,
       "roles": [
         "Ruler"
       ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Grandson of Louis XIV known as le Petit Dauphin, groomed by Fénelon to be an enlightened king but died of measles before acceding.",
-      "url": "https://en.wikipedia.org/wiki/Louis%2C_Duke_of_Burgundy",
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "German politician and diplomat who served as Nazi Germany's Foreign Minister 1938–1945; executed at Nuremberg as a war criminal.",
+      "url": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
+    },
+    {
+      "name": "Grand Duchess Olga Nikolaevna of Russia",
+      "dates": "1895–1918",
+      "y": 1895,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Eldest daughter of Russia's last tsar Nicholas II, executed with her family by Bolsheviks in 1918.",
+      "url": "https://en.wikipedia.org/wiki/Grand_Duchess_Olga_Nikolaevna_of_Russia",
       "region": "Europe"
+    },
+    {
+      "name": "Italo Balbo",
+      "dates": "1896–1940",
+      "y": 1896,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "20th century onward",
+      "region": "Europe",
+      "desc": "Italian fascist politician and aviator who led pioneering transatlantic air expeditions in the 1930s and served as Governor-General of Libya until his death.",
+      "url": "https://en.wikipedia.org/wiki/Italo_Balbo"
+    },
+    {
+      "name": "Glenn Miller",
+      "dates": "1904–1944",
+      "y": 1904,
+      "roles": [
+        "Artist"
+      ],
+      "era": "20th century onward",
+      "region": "Americas",
+      "desc": "American big band conductor and trombonist whose Orchestra was one of the most popular ensembles of the Swing era before he disappeared over the English Channel in 1944.",
+      "url": "https://en.wikipedia.org/wiki/Glenn_Miller"
+    },
+    {
+      "name": "Jean Harlow",
+      "dates": "1911–1937",
+      "y": 1911,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "20th century onward",
+      "region": "Americas",
+      "desc": "American actress and 1930s sex symbol dubbed the ‘Platinum Blonde’ whose comedic roles at MGM made her one of Hollywood’s biggest stars before her early death at 26.",
+      "url": "https://en.wikipedia.org/wiki/Jean_Harlow"
+    },
+    {
+      "name": "Manshuk Mametova",
+      "dates": "1922–1943",
+      "y": 1922,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "20th century onward",
+      "region": "Europe",
+      "desc": "Kazakh machine-gunner in the Red Army who single-handedly held off a German assault near Nevel in 1943, posthumously awarded Hero of the Soviet Union.",
+      "url": "https://en.wikipedia.org/wiki/Manshuk_Mametova"
     }
   ]
 }
