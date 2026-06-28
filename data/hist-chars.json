@@ -732,6 +732,254 @@
       "region": "Americas",
       "desc": "American abolitionist who escaped slavery and led some 70 people to freedom via the Underground Railroad, and later served as a Union spy.",
       "url": "https://en.wikipedia.org/wiki/Harriet_Tubman"
+    },
+    {
+      "name": "France Prešeren",
+      "dates": "1800–1849",
+      "y": 1800,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Slovene Romantic poet whose sonnets and the poem Zdravljica established him as the national poet of Slovenia.",
+      "url": "https://en.wikipedia.org/wiki/France_Pre%C5%A1eren"
+    },
+    {
+      "name": "Gregory III",
+      "dates": "700–741",
+      "y": 700,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (731–741) who condemned Byzantine iconoclasm and cemented the papacy’s ties with the Frankish kingdom.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Gregory_III"
+    },
+    {
+      "name": "Sisinnius",
+      "dates": "650–708",
+      "y": 650,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope for about three weeks in 708, one of the shortest pontificates in history.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Sisinnius"
+    },
+    {
+      "name": "José Martí",
+      "dates": "1853–1895",
+      "y": 1853,
+      "roles": [
+        "Writer",
+        "Military",
+        "Reformer"
+      ],
+      "era": "19th century",
+      "region": "Americas",
+      "desc": "Cuban poet, journalist, and independence leader who organised the 1895 war against Spanish rule and died in its first skirmish.",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD"
+    },
+    {
+      "name": "Adrian I",
+      "dates": "700–795",
+      "y": 700,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (772–795) who forged a lasting alliance with Charlemagne, shaping the political foundations of medieval Christendom.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Adrian_I"
+    },
+    {
+      "name": "Gregory II",
+      "dates": "669–731",
+      "y": 669,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (715–731) who condemned Byzantine iconoclasm and supported Boniface’s missionary work among the Germanic peoples.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Gregory_II"
+    },
+    {
+      "name": "Leo II",
+      "dates": "611–683",
+      "y": 611,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (682–683) who ratified the Third Council of Constantinople, condemning Monothelitism and rehabilitating orthodox theology.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Leo_II"
+    },
+    {
+      "name": "Odoacer",
+      "dates": "433–493",
+      "y": 433,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Germanic chieftain who deposed Romulus Augustulus in 476 and ruled Italy until overthrown by Theodoric the Great.",
+      "url": "https://en.wikipedia.org/wiki/Odoacer"
+    },
+    {
+      "name": "Paul I",
+      "dates": "700–767",
+      "y": 700,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (757–768) who deepened the papacy’s alliance with the Frankish king Pepin the Short against the Lombards.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Paul_I"
+    },
+    {
+      "name": "Henry II, Holy Roman Emperor",
+      "dates": "973–1024",
+      "y": 973,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Holy Roman Emperor (1014–1024) and the last Ottonian emperor, later canonised for his support of Church reform.",
+      "url": "https://en.wikipedia.org/wiki/Henry_II%2C_Holy_Roman_Emperor"
+    },
+    {
+      "name": "Nicholas IV",
+      "dates": "1227–1292",
+      "y": 1227,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "First Franciscan pope (1288–1292) who dispatched missionaries to Asia and sought Mongol-Christian alliances against the Mamluks.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Nicholas_IV"
+    },
+    {
+      "name": "Glenn Miller",
+      "dates": "1904–1944",
+      "y": 1904,
+      "roles": [
+        "Artist"
+      ],
+      "era": "20th century onward",
+      "region": "Americas",
+      "desc": "American big band conductor and trombonist whose Orchestra was one of the most popular ensembles of the Swing era before he disappeared over the English Channel in 1944.",
+      "url": "https://en.wikipedia.org/wiki/Glenn_Miller"
+    },
+    {
+      "name": "Julius Nepos",
+      "dates": "430–480",
+      "y": 430,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Roman emperor of the West (474–475) who was deposed by Orestes but retained recognition from the East until his murder in 480.",
+      "url": "https://en.wikipedia.org/wiki/Julius_Nepos"
+    },
+    {
+      "name": "Gustav Stresemann",
+      "dates": "1878–1929",
+      "y": 1878,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "German statesman who as chancellor and foreign minister steered Weimar Germany toward international reconciliation, sharing the 1926 Nobel Peace Prize.",
+      "url": "https://en.wikipedia.org/wiki/Gustav_Stresemann"
+    },
+    {
+      "name": "Douglas Fairbanks",
+      "dates": "1883–1939",
+      "y": 1883,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "region": "Americas",
+      "desc": "American actor famed for swashbuckling silent-film roles including Zorro and Robin Hood, and co-founder of United Artists.",
+      "url": "https://en.wikipedia.org/wiki/Douglas_Fairbanks"
+    },
+    {
+      "name": "Urbain Le Verrier",
+      "dates": "1811–1877",
+      "y": 1811,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "French astronomer who predicted the existence and position of Neptune through mathematics alone, prompting its discovery in 1846.",
+      "url": "https://en.wikipedia.org/wiki/Urbain_Le_Verrier"
+    },
+    {
+      "name": "Robert Walpole",
+      "dates": "1676–1745",
+      "y": 1676,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "British Whig statesman regarded as the de facto first Prime Minister of Great Britain, serving 1721–1742.",
+      "url": "https://en.wikipedia.org/wiki/Robert_Walpole"
+    },
+    {
+      "name": "Báb",
+      "dates": "1819–1850",
+      "y": 1819,
+      "roles": [
+        "Religious",
+        "Writer"
+      ],
+      "era": "19th century",
+      "region": "Middle East",
+      "desc": "Iranian religious leader who founded Bábism in 1844 and is revered as a central figure of the Baháʼí Faith.",
+      "url": "https://en.wikipedia.org/wiki/B%C3%A1b"
+    },
+    {
+      "name": "Carl Linnaeus",
+      "dates": "1707–1778",
+      "y": 1707,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Swedish biologist who formalised binomial nomenclature and is known as the father of modern taxonomy.",
+      "url": "https://en.wikipedia.org/wiki/Carl_Linnaeus"
+    },
+    {
+      "name": "Agatho",
+      "dates": "574–681",
+      "y": 574,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (678–681) who presided over the Third Council of Constantinople, decisively condemning Monothelitism.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Agatho"
     }
   ]
 }
