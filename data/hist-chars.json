@@ -3094,6 +3094,479 @@
       "region": "Europe",
       "desc": "Kazakh machine-gunner in the Red Army who single-handedly held off a German assault near Nevel in 1943, posthumously awarded Hero of the Soviet Union.",
       "url": "https://en.wikipedia.org/wiki/Manshuk_Mametova"
+    },
+    {
+      "name": "Joan Gamper",
+      "dates": "1877–1930",
+      "y": 1877,
+      "roles": [
+        "Reformer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Hans Max Gamper-Haessig, commonly known as Joan Gamper, was a Swiss-born football executive and versatile athlete. He founded football clubs in Switzerland and Spain, most notably Barcelona.",
+      "url": "https://en.wikipedia.org/wiki/Joan_Gamper",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q2066131",
+        "Q937857",
+        "Q26481809",
+        "Q43845"
+      ]
+    },
+    {
+      "name": "Eugen Bleuler",
+      "dates": "1857–1939",
+      "y": 1857,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Paul Eugen Bleuler was a Swiss psychiatrist and eugenicist most notable for his influence on modern concepts of mental illness. He coined several psychiatric terms including schizophrenia, schizoid, autism, and depth psychology.",
+      "url": "https://en.wikipedia.org/wiki/Eugen_Bleuler",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q39631",
+        "Q1622272",
+        "Q211346"
+      ]
+    },
+    {
+      "name": "Horace Bénédict de Saussure",
+      "dates": "1740–1799",
+      "y": 1740,
+      "roles": [
+        "Scientist",
+        "Explorer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Horace Bénédict de Saussure was a Genevan geologist, meteorologist, physicist, mountaineer and Alpine explorer, often called the founder of alpinism and modern meteorology.",
+      "url": "https://en.wikipedia.org/wiki/Horace_B%C3%A9n%C3%A9dict_de_Saussure",
+      "_country_qids": [
+        "Q142",
+        "Q23366230"
+      ],
+      "_occupation_qids": [
+        "Q9149093",
+        "Q15623737",
+        "Q169470",
+        "Q82955",
+        "Q520549",
+        "Q3951423",
+        "Q2374149",
+        "Q2310145",
+        "Q18805",
+        "Q1622272"
+      ]
+    },
+    {
+      "name": "Johann Jakob Bodmer",
+      "dates": "1698–1783",
+      "y": 1698,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Johann Jakob Bodmer was a Swiss author, academic, critic and poet.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Jakob_Bodmer",
+      "_country_qids": [
+        "Q39",
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q333634",
+        "Q4263842",
+        "Q49757",
+        "Q36180",
+        "Q708492",
+        "Q201788",
+        "Q1930187",
+        "Q13418253"
+      ]
+    },
+    {
+      "name": "Antoine-Henri Jomini",
+      "dates": "1779–1869",
+      "y": 1779,
+      "roles": [
+        "Military",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Baron Antoine-Henri Jomini was a Swiss-French military officer who served as a general in French and later in Russian service, and one of the most celebrated writers on the Napoleonic art of war.",
+      "url": "https://en.wikipedia.org/wiki/Antoine-Henri_Jomini",
+      "_country_qids": [
+        "Q39",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q4182927",
+        "Q47064",
+        "Q189290",
+        "Q806798",
+        "Q12806039",
+        "Q201788",
+        "Q1734662"
+      ]
+    },
+    {
+      "name": "Marcel Grossmann",
+      "dates": "1878–1936",
+      "y": 1878,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Marcel Grossmann was a Swiss mathematician who was a friend and classmate of Albert Einstein.",
+      "url": "https://en.wikipedia.org/wiki/Marcel_Grossmann",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q1622272",
+        "Q170790"
+      ]
+    },
+    {
+      "name": "Friedrich Miescher",
+      "dates": "1844–1895",
+      "y": 1844,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Johannes Friedrich Miescher was a Swiss physician and biologist. He was the first scientist to isolate nucleic acid in 1869.",
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Miescher",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q2919046",
+        "Q1622272",
+        "Q2055046"
+      ]
+    },
+    {
+      "name": "Anne Hutchinson",
+      "dates": "1591–1643",
+      "y": 1591,
+      "roles": [
+        "Religious",
+        "Reformer"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "Anne Hutchinson was an English-born religious figure who was an important participant in the Antinomian Controversy which shook the nascent Massachusetts Bay Colony from 1636 to 1638.",
+      "url": "https://en.wikipedia.org/wiki/Anne_Hutchinson",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q432386",
+        "Q36180",
+        "Q1234713",
+        "Q185196"
+      ]
+    },
+    {
+      "name": "Nikolai Marr",
+      "dates": "1865–1934",
+      "y": 1865,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Nikolai Yakovlevich Marr was a Georgian-born historian and linguist who gained a reputation as a scholar of the Caucasus.",
+      "url": "https://en.wikipedia.org/wiki/Nikolai_Marr",
+      "_country_qids": [
+        "Q8680",
+        "Q34266",
+        "Q15180",
+        "Q2305208"
+      ],
+      "_occupation_qids": [
+        "Q21280575",
+        "Q1731155",
+        "Q36180",
+        "Q3621491",
+        "Q4773904",
+        "Q1622272",
+        "Q14467526",
+        "Q1371378",
+        "Q13418253",
+        "Q860918"
+      ]
+    },
+    {
+      "name": "Ladislaus the Posthumous",
+      "dates": "1440–1457",
+      "y": 1440,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Ladislaus the Posthumous, known as Ladislaus V, was Duke of Austria and King of Hungary, Croatia and Bohemia.",
+      "url": "https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous",
+      "_country_qids": [
+        "Q28"
+      ],
+      "_occupation_qids": [
+        "Q1097498"
+      ]
+    },
+    {
+      "name": "Nikephoros I of Constantinople",
+      "dates": "750–828",
+      "y": 750,
+      "roles": [
+        "Religious",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Nikephoros I was a Byzantine writer and Ecumenical Patriarch of Constantinople from 12 April 806 to 13 March 815.",
+      "url": "https://en.wikipedia.org/wiki/Nikephoros_I_of_Constantinople",
+      "_country_qids": [
+        "Q12544"
+      ],
+      "_occupation_qids": [
+        "Q1423891",
+        "Q171692",
+        "Q916292",
+        "Q36180",
+        "Q201788",
+        "Q212238"
+      ]
+    },
+    {
+      "name": "Victoria, Princess Royal",
+      "dates": "1840–1901",
+      "y": 1840,
+      "roles": [
+        "Ruler",
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Victoria, Princess Royal was German Empress and Queen of Prussia as the wife of Frederick III, German Emperor. She was the eldest child of Queen Victoria of the United Kingdom.",
+      "url": "https://en.wikipedia.org/wiki/Victoria%2C_Princess_Royal",
+      "_country_qids": [
+        "Q27306",
+        "Q1206012",
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q1281618",
+        "Q1028181",
+        "Q15296811"
+      ]
+    },
+    {
+      "name": "Andreas Hofer",
+      "dates": "1767–1810",
+      "y": 1767,
+      "roles": [
+        "Military",
+        "Reformer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Andreas Hofer was a Tyrolean innkeeper and drover who became the leader of the 1809 Tyrolean Rebellion during the War of the Fifth Coalition.",
+      "url": "https://en.wikipedia.org/wiki/Andreas_Hofer",
+      "_country_qids": [
+        "Q153136"
+      ],
+      "_occupation_qids": [
+        "Q30242234",
+        "Q1402561",
+        "Q131512"
+      ]
+    },
+    {
+      "name": "Vicente Huidobro",
+      "dates": "1893–1948",
+      "y": 1893,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Americas",
+      "era": "19th century",
+      "desc": "Vicente García-Huidobro Fernández, known by the pseudonym Vicente Huidobro, was a Chilean poet, writer, editor and literary critic. He was the founder of Creationism.",
+      "url": "https://en.wikipedia.org/wiki/Vicente_Huidobro",
+      "_country_qids": [
+        "Q298"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q36180",
+        "Q214917",
+        "Q1930187"
+      ]
+    },
+    {
+      "name": "John Hay",
+      "dates": "1838–1905",
+      "y": 1838,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "region": "Americas",
+      "era": "19th century",
+      "desc": "John Milton Hay was an American statesman and official whose career in government stretched over almost half a century. He served as United States Secretary of State under Presidents William McKinley and Theodore Roosevelt.",
+      "url": "https://en.wikipedia.org/wiki/John_Hay",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q80687",
+        "Q864380",
+        "Q82955",
+        "Q36180",
+        "Q201788",
+        "Q193391",
+        "Q1930187",
+        "Q185351"
+      ]
+    },
+    {
+      "name": "Thespis",
+      "dates": "600BCE–560BCE",
+      "y": -600,
+      "roles": [
+        "Artist",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Thespis was a stage actor in Ancient Greece. According to certain Ancient Greek sources and especially Aristotle, he was the first human to appear on stage as an actor playing a character in a play.",
+      "url": "https://en.wikipedia.org/wiki/Thespis",
+      "_country_qids": [
+        "Q844930"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q36180",
+        "Q2259451",
+        "Q214917"
+      ]
+    },
+    {
+      "name": "Demosthenes",
+      "dates": "383BCE–321BCE",
+      "y": -383,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Demosthenes was a Greek statesman and orator in ancient Athens. His orations provide insight into the politics and culture of ancient Greece during the 4th century BC.",
+      "url": "https://en.wikipedia.org/wiki/Demosthenes",
+      "_country_qids": [
+        "Q844930"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q36180",
+        "Q12859263",
+        "Q193391"
+      ]
+    },
+    {
+      "name": "Otto Bauer",
+      "dates": "1881–1938",
+      "y": 1881,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Otto Bauer was an Austrian politician who was one of the founders and leading thinkers of the Austromarxists. He served as Foreign Minister of the Republic of German-Austria.",
+      "url": "https://en.wikipedia.org/wiki/Otto_Bauer",
+      "_country_qids": [
+        "Q40"
+      ],
+      "_occupation_qids": [
+        "Q193391",
+        "Q12718544",
+        "Q185351",
+        "Q3242115",
+        "Q36180",
+        "Q482980",
+        "Q486839",
+        "Q4964182",
+        "Q6051619",
+        "Q82955",
+        "Q876864"
+      ]
+    },
+    {
+      "name": "Engelbert Dollfuss",
+      "dates": "1892–1934",
+      "y": 1892,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Engelbert Dollfuss was an Austrian politician and dictator who served as chancellor of Austria between 1932 and 1934.",
+      "url": "https://en.wikipedia.org/wiki/Engelbert_Dollfuss",
+      "_country_qids": [
+        "Q40"
+      ],
+      "_occupation_qids": [
+        "Q193391",
+        "Q82955",
+        "Q47064",
+        "Q40348"
+      ]
+    },
+    {
+      "name": "L. L. Zamenhof",
+      "dates": "1859–1917",
+      "y": 1859,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "L. L. Zamenhof (1859–1917) was the creator of Esperanto, the most widely used constructed international auxiliary language.",
+      "url": "https://en.wikipedia.org/wiki/L._L._Zamenhof",
+      "_country_qids": [
+        "Q696908",
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q14467526",
+        "Q39631",
+        "Q205375",
+        "Q24262584",
+        "Q333634",
+        "Q860918",
+        "Q56810907",
+        "Q551835",
+        "Q49757",
+        "Q12013238",
+        "Q13418253"
+      ]
     }
   ]
 }
