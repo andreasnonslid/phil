@@ -2598,6 +2598,254 @@
       "era": "19th century",
       "desc": "Vasily Ivanovich Surikov was a Russian Realist painter, active in Moscow during Tsars Alexander III and Nicholas II's reigns, renowned for his large history pictures.",
       "url": "https://en.wikipedia.org/wiki/Vasily_Surikov"
+    },
+    {
+      "name": "Jan Pieterszoon Sweelinck",
+      "dates": "1562–1621",
+      "y": 1562,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Dutch composer, organist, and pedagogue whose work bridged the Renaissance and Baroque eras; shaped the north German organ tradition.",
+      "url": "https://en.wikipedia.org/wiki/Jan_Pieterszoon_Sweelinck",
+      "region": "Europe"
+    },
+    {
+      "name": "Ansgar",
+      "dates": "801–865",
+      "y": 801,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Archbishop of Hamburg-Bremen known as the “Apostle of the North” for missionary journeys that brought Christianity to Scandinavia.",
+      "url": "https://en.wikipedia.org/wiki/Ansgar",
+      "region": "Europe"
+    },
+    {
+      "name": "Vilfredo Pareto",
+      "dates": "1848–1923",
+      "y": 1848,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Italian polymath who formulated the Pareto principle (the 80/20 rule) and made foundational contributions to economics and sociology.",
+      "url": "https://en.wikipedia.org/wiki/Vilfredo_Pareto",
+      "region": "Europe"
+    },
+    {
+      "name": "Pierre Bouguer",
+      "dates": "1698–1758",
+      "y": 1698,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "French mathematician, geophysicist, and astronomer known as “the father of naval architecture” and for pioneering photometry.",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Bouguer",
+      "region": "Europe"
+    },
+    {
+      "name": "Annibale de Gasparis",
+      "dates": "1819–1892",
+      "y": 1819,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Italian astronomer who discovered nine asteroids and contributed to theoretical astronomy from the Naples Observatory.",
+      "url": "https://en.wikipedia.org/wiki/Annibale_de_Gasparis",
+      "region": "Europe"
+    },
+    {
+      "name": "Abd al-Rahman al-Sufi",
+      "dates": "903–986",
+      "y": 903,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Persian astronomer of the Islamic Golden Age whose Book of Fixed Stars gave the first recorded description of the Andromeda Galaxy.",
+      "url": "https://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi",
+      "region": "Middle East"
+    },
+    {
+      "name": "William Lassell",
+      "dates": "1799–1880",
+      "y": 1799,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "English merchant-astronomer who improved the reflecting telescope and discovered Triton, Ariel, Umbriel, and Hyperion.",
+      "url": "https://en.wikipedia.org/wiki/William_Lassell",
+      "region": "Europe"
+    },
+    {
+      "name": "Alaric II",
+      "dates": "458–507",
+      "y": 458,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "King of the Visigoths from 484 who issued the Breviary of Alaric, a landmark codification of Roman law for his subjects.",
+      "url": "https://en.wikipedia.org/wiki/Alaric_II",
+      "region": "Europe"
+    },
+    {
+      "name": "Athalaric",
+      "dates": "516–534",
+      "y": 516,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "King of the Ostrogoths in Italy from 526, grandson of Theodoric the Great, who reigned under the regency of his mother Amalasuintha.",
+      "url": "https://en.wikipedia.org/wiki/Athalaric",
+      "region": "Europe"
+    },
+    {
+      "name": "Ibn al-Haytham",
+      "dates": "965–1039",
+      "y": 965,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Arab mathematician and physicist from Iraq known as “the father of modern optics”; his Book of Optics transformed the science of vision.",
+      "url": "https://en.wikipedia.org/wiki/Ibn_al-Haytham",
+      "region": "Middle East"
+    },
+    {
+      "name": "Ammar ibn Yasir",
+      "dates": "570–657",
+      "y": 570,
+      "roles": [
+        "Religious",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Companion of the Prophet Muhammad whose parents were the first martyrs of Islam; later a commander in the early Muslim conquests.",
+      "url": "https://en.wikipedia.org/wiki/Ammar_ibn_Yasir",
+      "region": "Middle East"
+    },
+    {
+      "name": "Abū Ishāq Ibrāhīm al-Zarqālī",
+      "dates": "1027–1100",
+      "y": 1027,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Arab astronomer and instrument-maker from Al-Andalus who invented the saphaea and compiled the influential Toledo Tables.",
+      "url": "https://en.wikipedia.org/wiki/Al-Zarqali",
+      "region": "Europe"
+    },
+    {
+      "name": "Geoffrey Plantagenet, Count of Anjou",
+      "dates": "1113–1151",
+      "y": 1113,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Count of Anjou and Duke of Normandy by conquest who founded the Plantagenet dynasty that would rule England for three centuries.",
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet%2C_Count_of_Anjou",
+      "region": "Europe"
+    },
+    {
+      "name": "Georg Ritter von Schönerer",
+      "dates": "1842–1921",
+      "y": 1842,
+      "roles": [
+        "Ruler",
+        "Reformer"
+      ],
+      "era": "19th century",
+      "desc": "Austrian politician and pan-German nationalist whose virulent antisemitism and rhetoric directly influenced the young Adolf Hitler.",
+      "url": "https://en.wikipedia.org/wiki/Georg_Ritter_von_Sch%C3%B6nerer",
+      "region": "Europe"
+    },
+    {
+      "name": "Leopold V, Archduke of Austria",
+      "dates": "1586–1632",
+      "y": 1586,
+      "roles": [
+        "Ruler",
+        "Religious"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Habsburg archduke who served as Prince-Bishop of Passau and Strasbourg before assuming secular rule over Further Austria.",
+      "url": "https://en.wikipedia.org/wiki/Leopold_V%2C_Archduke_of_Austria",
+      "region": "Europe"
+    },
+    {
+      "name": "Franz Reichelt",
+      "dates": "1878–1912",
+      "y": 1878,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Austro-Hungarian tailor and inventor known as “the Flying Tailor” who died testing his parachute suit by jumping from the Eiffel Tower.",
+      "url": "https://en.wikipedia.org/wiki/Franz_Reichelt",
+      "region": "Europe"
+    },
+    {
+      "name": "Husayn ibn Ali",
+      "dates": "626–680",
+      "y": 626,
+      "roles": [
+        "Religious",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Grandson of the Prophet Muhammad and third Imam of Shia Islam; his death at the Battle of Karbala became the central tragedy of Shia faith.",
+      "url": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+      "region": "Middle East"
+    },
+    {
+      "name": "Egon Friedell",
+      "dates": "1878–1938",
+      "y": 1878,
+      "roles": [
+        "Writer",
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Austrian cultural historian, playwright, and actor whose three-volume Cultural History of the Modern Age remains a landmark of popular historiography.",
+      "url": "https://en.wikipedia.org/wiki/Egon_Friedell",
+      "region": "Europe"
+    },
+    {
+      "name": "Louis, Dauphin of France",
+      "dates": "1729–1765",
+      "y": 1729,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Son of Louis XV of France and father of three kings (Louis XVI, Louis XVIII, Charles X) who never himself ascended the throne.",
+      "url": "https://en.wikipedia.org/wiki/Louis%2C_Dauphin_of_France_(son_of_Louis_XV)",
+      "region": "Europe"
+    },
+    {
+      "name": "Louis, Dauphin of France, Duke of Burgundy",
+      "dates": "1682–1712",
+      "y": 1682,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Grandson of Louis XIV known as le Petit Dauphin, groomed by Fénelon to be an enlightened king but died of measles before acceding.",
+      "url": "https://en.wikipedia.org/wiki/Louis%2C_Duke_of_Burgundy",
+      "region": "Europe"
     }
   ]
 }
