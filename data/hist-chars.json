@@ -5,10 +5,18 @@
     "kicker": "A who's-who reference · {n} figures",
     "itemNoun": "figures",
     "itemNounSingular": "figure",
-    "searchKeys": ["name", "desc", "roles"],
+    "searchKeys": [
+      "name",
+      "desc",
+      "roles"
+    ],
     "cardTags": [
-      { "id": "roles" },
-      { "id": "era" }
+      {
+        "id": "roles"
+      },
+      {
+        "id": "era"
+      }
     ],
     "filters": [
       {
@@ -57,9 +65,18 @@
       }
     ],
     "sorts": [
-      ["az", "Alphabetical"],
-      ["old", "Chronological"],
-      ["new", "Reverse chronological"]
+      [
+        "az",
+        "Alphabetical"
+      ],
+      [
+        "old",
+        "Chronological"
+      ],
+      [
+        "new",
+        "Reverse chronological"
+      ]
     ],
     "defaultSort": "az",
     "yearKey": "y",
@@ -72,7 +89,10 @@
       "name": "Confucius",
       "dates": "551–479 BCE",
       "y": -551,
-      "roles": ["Writer", "Reformer"],
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
       "era": "Ancient (to 500 CE)",
       "desc": "Chinese teacher and philosopher whose ideas on ethics and governance shaped East Asian thought.",
       "url": "https://en.wikipedia.org/wiki/Confucius"
@@ -81,7 +101,10 @@
       "name": "Julius Caesar",
       "dates": "100–44 BCE",
       "y": -100,
-      "roles": ["Ruler", "Military"],
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
       "era": "Ancient (to 500 CE)",
       "desc": "Roman general and statesman whose rise ended the Republic and led to the Empire.",
       "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
@@ -90,7 +113,9 @@
       "name": "Cleopatra VII",
       "dates": "69–30 BCE",
       "y": -69,
-      "roles": ["Ruler"],
+      "roles": [
+        "Ruler"
+      ],
       "era": "Ancient (to 500 CE)",
       "desc": "Last active ruler of Ptolemaic Egypt, allied with Julius Caesar and Mark Antony.",
       "url": "https://en.wikipedia.org/wiki/Cleopatra"
@@ -99,7 +124,10 @@
       "name": "Charlemagne",
       "dates": "c. 748–814",
       "y": 748,
-      "roles": ["Ruler", "Military"],
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
       "era": "Medieval (500–1500)",
       "desc": "King of the Franks who united much of western Europe and was crowned Emperor in 800.",
       "url": "https://en.wikipedia.org/wiki/Charlemagne"
@@ -108,7 +136,10 @@
       "name": "Saladin",
       "dates": "1137–1193",
       "y": 1137,
-      "roles": ["Ruler", "Military"],
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
       "era": "Medieval (500–1500)",
       "desc": "First sultan of Egypt and Syria who led Muslim forces during the Crusades.",
       "url": "https://en.wikipedia.org/wiki/Saladin"
@@ -117,7 +148,10 @@
       "name": "Joan of Arc",
       "dates": "c. 1412–1431",
       "y": 1412,
-      "roles": ["Military", "Religious"],
+      "roles": [
+        "Military",
+        "Religious"
+      ],
       "era": "Medieval (500–1500)",
       "desc": "French peasant who led armies during the Hundred Years' War and was later canonised.",
       "url": "https://en.wikipedia.org/wiki/Joan_of_Arc"
@@ -126,7 +160,10 @@
       "name": "Leonardo da Vinci",
       "dates": "1452–1519",
       "y": 1452,
-      "roles": ["Artist", "Scientist"],
+      "roles": [
+        "Artist",
+        "Scientist"
+      ],
       "era": "Early modern (1500–1800)",
       "desc": "Italian polymath of the Renaissance, painter of the Mona Lisa and prolific inventor.",
       "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
@@ -135,7 +172,9 @@
       "name": "Ferdinand Magellan",
       "dates": "1480–1521",
       "y": 1480,
-      "roles": ["Explorer"],
+      "roles": [
+        "Explorer"
+      ],
       "era": "Early modern (1500–1800)",
       "desc": "Portuguese explorer who organised the first expedition to circumnavigate the globe.",
       "url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan"
@@ -144,7 +183,10 @@
       "name": "Martin Luther",
       "dates": "1483–1546",
       "y": 1483,
-      "roles": ["Religious", "Reformer"],
+      "roles": [
+        "Religious",
+        "Reformer"
+      ],
       "era": "Early modern (1500–1800)",
       "desc": "German theologian whose Ninety-five Theses sparked the Protestant Reformation.",
       "url": "https://en.wikipedia.org/wiki/Martin_Luther"
@@ -153,7 +195,9 @@
       "name": "Isaac Newton",
       "dates": "1643–1727",
       "y": 1643,
-      "roles": ["Scientist"],
+      "roles": [
+        "Scientist"
+      ],
       "era": "Early modern (1500–1800)",
       "desc": "English physicist and mathematician who formulated the laws of motion and gravitation.",
       "url": "https://en.wikipedia.org/wiki/Isaac_Newton"
@@ -162,7 +206,10 @@
       "name": "Charles Darwin",
       "dates": "1809–1882",
       "y": 1809,
-      "roles": ["Scientist", "Writer"],
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
       "era": "19th century",
       "desc": "English naturalist whose theory of evolution by natural selection transformed biology.",
       "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
@@ -171,7 +218,9 @@
       "name": "Florence Nightingale",
       "dates": "1820–1910",
       "y": 1820,
-      "roles": ["Reformer"],
+      "roles": [
+        "Reformer"
+      ],
       "era": "19th century",
       "desc": "Founder of modern nursing and a pioneer of statistics in public health.",
       "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
@@ -180,7 +229,9 @@
       "name": "Marie Curie",
       "dates": "1867–1934",
       "y": 1867,
-      "roles": ["Scientist"],
+      "roles": [
+        "Scientist"
+      ],
       "era": "20th century onward",
       "desc": "Physicist and chemist, pioneer of radioactivity and the first person to win two Nobel Prizes.",
       "url": "https://en.wikipedia.org/wiki/Marie_Curie"
@@ -189,10 +240,251 @@
       "name": "Mahatma Gandhi",
       "dates": "1869–1948",
       "y": 1869,
-      "roles": ["Reformer"],
+      "roles": [
+        "Reformer"
+      ],
       "era": "20th century onward",
       "desc": "Leader of India's nonviolent independence movement against British rule.",
-      "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+      "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+      "region": "South Asia"
+    },
+    {
+      "name": "Zhengde Emperor",
+      "dates": "1491–1521",
+      "y": 1491,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "East Asia",
+      "desc": "11th emperor of the Ming dynasty (1505–1521), known for unconventional rule and fondness for military pursuits.",
+      "url": "https://en.wikipedia.org/wiki/Zhengde_Emperor"
+    },
+    {
+      "name": "Longqing Emperor",
+      "dates": "1537–1572",
+      "y": 1537,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "East Asia",
+      "desc": "13th emperor of the Ming dynasty (1567–1572), whose brief reign brought pragmatic diplomatic and trade reforms.",
+      "url": "https://en.wikipedia.org/wiki/Longqing_Emperor"
+    },
+    {
+      "name": "Wanli Emperor",
+      "dates": "1563–1620",
+      "y": 1563,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "East Asia",
+      "desc": "14th and longest-reigning Ming emperor (1572–1620), whose 48-year reign ended in prolonged political withdrawal.",
+      "url": "https://en.wikipedia.org/wiki/Wanli_Emperor"
+    },
+    {
+      "name": "Taichang Emperor",
+      "dates": "1582–1620",
+      "y": 1582,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "East Asia",
+      "desc": "15th Ming emperor whose reign lasted less than a month in 1620 before his sudden and mysterious death.",
+      "url": "https://en.wikipedia.org/wiki/Taichang_Emperor"
+    },
+    {
+      "name": "Tianqi Emperor",
+      "dates": "1605–1627",
+      "y": 1605,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "East Asia",
+      "desc": "16th Ming emperor (1620–1627) who ceded court power to the eunuch Wei Zhongxian while pursuing carpentry.",
+      "url": "https://en.wikipedia.org/wiki/Tianqi_Emperor"
+    },
+    {
+      "name": "Chongzhen Emperor",
+      "dates": "1611–1644",
+      "y": 1611,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "East Asia",
+      "desc": "Last emperor of the Ming dynasty (1627–1644), who hanged himself as rebel forces captured Beijing.",
+      "url": "https://en.wikipedia.org/wiki/Chongzhen_Emperor"
+    },
+    {
+      "name": "Tipu Sultan",
+      "dates": "1750–1799",
+      "y": 1750,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "South Asia",
+      "desc": "Sultan of Mysore (1782–1799) who pioneered iron-cased rocket artillery and fiercely resisted British expansion.",
+      "url": "https://en.wikipedia.org/wiki/Tipu_Sultan"
+    },
+    {
+      "name": "Baháʼu'lláh",
+      "dates": "1817–1892",
+      "y": 1817,
+      "roles": [
+        "Religious",
+        "Writer"
+      ],
+      "era": "19th century",
+      "region": "Middle East",
+      "desc": "Iranian founder of the Baháʼí Faith who proclaimed a new divine revelation in 1863 after decades of exile.",
+      "url": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BCu%27ll%C3%A1h"
+    },
+    {
+      "name": "Innocent X",
+      "dates": "1574–1655",
+      "y": 1574,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Pope (1644–1655) who condemned the Peace of Westphalia and was immortalized by Velázquez's portrait.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Innocent_X"
+    },
+    {
+      "name": "Soter",
+      "dates": "200–175",
+      "y": 200,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "2nd-century Pope of Rome who strengthened ties between the Roman church and Greek Christian communities.",
+      "url": "https://en.wikipedia.org/wiki/Soter"
+    },
+    {
+      "name": "Innocent XI",
+      "dates": "1611–1689",
+      "y": 1611,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Pope (1676–1689) who led the Holy League against Ottoman expansion and championed Church reform.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Innocent_XI"
+    },
+    {
+      "name": "Alexander VIII",
+      "dates": "1610–1691",
+      "y": 1610,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Pope (1689–1691) known for nepotism and his condemnation of Jansenism during his brief pontificate.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VIII"
+    },
+    {
+      "name": "Suetonius",
+      "dates": "69–126",
+      "y": 69,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "region": "Europe",
+      "desc": "Roman historian of the early Empire, best known for The Twelve Caesars, biographies of Rome's first rulers.",
+      "url": "https://en.wikipedia.org/wiki/Suetonius"
+    },
+    {
+      "name": "Henry I of England",
+      "dates": "1068–1135",
+      "y": 1068,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Fourth son of William the Conqueror who seized the English throne in 1100 and stabilised the realm.",
+      "url": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+    },
+    {
+      "name": "Paul IV",
+      "dates": "1476–1559",
+      "y": 1476,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (1555–1559) who established the first Roman ghetto and intensified the Roman Inquisition.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Paul_IV"
+    },
+    {
+      "name": "Pius II",
+      "dates": "1405–1464",
+      "y": 1405,
+      "roles": [
+        "Religious",
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Pope (1458–1464) and humanist scholar who called a failed crusade against the Ottoman Empire.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Pius_II"
+    },
+    {
+      "name": "Sergei Prokudin-Gorskii",
+      "dates": "1863–1944",
+      "y": 1863,
+      "roles": [
+        "Scientist",
+        "Artist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Russian chemist and photographer who pioneered colour photography and documented early 20th-century Russia.",
+      "url": "https://en.wikipedia.org/wiki/Sergey_Prokudin-Gorsky"
+    },
+    {
+      "name": "Mary Wollstonecraft",
+      "dates": "1759–1797",
+      "y": 1759,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "English writer and philosopher whose A Vindication of the Rights of Woman (1792) is a founding text of feminism.",
+      "url": "https://en.wikipedia.org/wiki/Mary_Wollstonecraft"
+    },
+    {
+      "name": "Gaetano Donizetti",
+      "dates": "1797–1848",
+      "y": 1797,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Italian composer of over 70 operas, a leading figure of the bel canto style alongside Rossini and Bellini.",
+      "url": "https://en.wikipedia.org/wiki/Gaetano_Donizetti"
     }
   ]
 }
