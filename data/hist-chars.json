@@ -9204,6 +9204,457 @@
         "Q593644"
       ],
       "region": "Europe"
+    },
+    {
+      "name": "Mary, Queen of Scots",
+      "dates": "1542–1587",
+      "y": 1542,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Mary, Queen of Scots, also known as Mary Stuart or Mary I of Scotland, was Queen of Scotland from 14 December 1542 until her forced abdication on 24 July 1567.",
+      "tldr": "Mary, Queen of Scots, also known as Mary Stuart or Mary I of Scotland, was Queen of Scotland from 14 December 1542 until her forced abdication on 24 July 1567.",
+      "url": "https://en.wikipedia.org/wiki/Mary%2C_Queen_of_Scots",
+      "_country_qids": [
+        "Q230791"
+      ],
+      "_occupation_qids": [
+        "Q19643",
+        "Q2304859",
+        "Q2478141",
+        "Q719039",
+        "Q82955"
+      ]
+    },
+    {
+      "name": "Karl Adolph Gjellerup",
+      "dates": "1857–1919",
+      "y": 1857,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Karl Adolph Gjellerup was a Danish poet and novelist who together with his compatriot Henrik Pontoppidan won the Nobel Prize in Literature in 1917. He is associated with the Modern Breakthrough per…",
+      "tldr": "Karl Adolph Gjellerup was a Danish poet and novelist who together with his compatriot Henrik Pontoppidan won the Nobel Prize in Literature in 1917. He is associated with the Modern Breakthrough period of Scandinavian literature. He occasionally used the pseudonym Epigonos.",
+      "url": "https://en.wikipedia.org/wiki/Karl_Adolph_Gjellerup",
+      "_country_qids": [
+        "Q756617"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q1234713",
+        "Q214917",
+        "Q36180",
+        "Q6625963"
+      ]
+    },
+    {
+      "name": "Harry Houdini",
+      "dates": "1874–1926",
+      "y": 1874,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Americas",
+      "era": "19th century",
+      "desc": "Erik Weisz, known professionally as Harry Houdini, was an American escapologist, illusionist, and stunt performer noted for his escape acts.",
+      "tldr": "Erik Weisz, known professionally as Harry Houdini, was an American escapologist, illusionist, and stunt performer noted for his escape acts.",
+      "url": "https://en.wikipedia.org/wiki/Harry_Houdini",
+      "_country_qids": [
+        "Q30",
+        "Q28513"
+      ],
+      "_occupation_qids": [
+        "Q3282637",
+        "Q201788",
+        "Q713200",
+        "Q4964182",
+        "Q465501",
+        "Q33999",
+        "Q28389",
+        "Q2526255",
+        "Q2095549",
+        "Q1658894",
+        "Q15855449",
+        "Q107986049"
+      ]
+    },
+    {
+      "name": "Jordanes",
+      "dates": "490–560",
+      "y": 490,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Jordanes, also written as Jordanis or Jornandes, was a 6th-century Eastern Roman bureaucrat, of Gothic descent, who became a historian later in life.",
+      "tldr": "Jordanes, also written as Jordanis or Jornandes, was a 6th-century Eastern Roman bureaucrat, of Gothic descent, who became a historian later in life.",
+      "url": "https://en.wikipedia.org/wiki/Jordanes",
+      "_country_qids": [
+        "Q12544"
+      ],
+      "_occupation_qids": [
+        "Q201788",
+        "Q36180"
+      ]
+    },
+    {
+      "name": "Catherine de' Medici",
+      "dates": "1519–1589",
+      "y": 1519,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Catherine de' Medici was Queen of France from 1547 to 1559 by marriage to King Henry II. She was the mother of French kings Francis II, Charles IX, and Henry III, and a cousin to Pope Clement VII.",
+      "tldr": "Catherine de' Medici was Queen of France from 1547 to 1559 by marriage to King Henry II. She was the mother of French kings Francis II, Charles IX, and Henry III, and a cousin to Pope Clement VII. The years during which her sons reigned have been called \"the age of Catherine de' Medici\" since she had extensive, albeit at times varying, influence on the political life of France.",
+      "url": "https://en.wikipedia.org/wiki/Catherine_de%27_Medici",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q477406"
+      ]
+    },
+    {
+      "name": "Henry V of England",
+      "dates": "1386–1422",
+      "y": 1386,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Henry V, also called Henry of Monmouth, was King of England, Lord of Ireland, and Duke of Aquitaine from 1413 until his death in 1422. His victory at Agincourt in 1415 and his conquest of Normandy …",
+      "tldr": "Henry V, also called Henry of Monmouth, was King of England, Lord of Ireland, and Duke of Aquitaine from 1413 until his death in 1422. His victory at Agincourt in 1415 and his conquest of Normandy gave England the upper hand in the Hundred Years' War and led, by the Treaty of Troyes in 1420, to his recognition as heir and regent of France. This was the high-water mark of the English cause in th…",
+      "url": "https://en.wikipedia.org/wiki/Henry_V_of_England",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ]
+    },
+    {
+      "name": "Clement XIV",
+      "dates": "1705–1774",
+      "y": 1705,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Pope Clement XIV, born Giovanni Vincenzo Antonio Ganganelli, was head of the Catholic Church and ruler of the Papal States from 19 May 1769 to his death in September 1774. At the time of his electi…",
+      "tldr": "Pope Clement XIV, born Giovanni Vincenzo Antonio Ganganelli, was head of the Catholic Church and ruler of the Papal States from 19 May 1769 to his death in September 1774. At the time of his election, he was the only Franciscan friar in the College of Cardinals, having been a member of the Order of Friars Minor Conventual. He is the most recent pope to take the pontifical name of \"Clement\" upon…",
+      "url": "https://en.wikipedia.org/wiki/Pope_Clement_XIV",
+      "_country_qids": [
+        "Q170174"
+      ],
+      "_occupation_qids": [
+        "Q2566598",
+        "Q250867",
+        "Q102039658"
+      ]
+    },
+    {
+      "name": "Arthur Wellesley, 1st Duke of Wellington",
+      "dates": "1769–1852",
+      "y": 1769,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Field Marshal Arthur Wellesley, 1st Duke of Wellington was a British Army officer and statesman who was one of the leading military and political figures in Britain during the early 19th century, t…",
+      "tldr": "Field Marshal Arthur Wellesley, 1st Duke of Wellington was a British Army officer and statesman who was one of the leading military and political figures in Britain during the early 19th century, twice serving as Prime Minister. He was one of the British commanders who ended the Anglo-Mysore wars by defeating Tipu Sultan in 1799, and among those who ended the Napoleonic Wars in a Coalition vict…",
+      "url": "https://en.wikipedia.org/wiki/Arthur_Wellesley%2C_1st_Duke_of_Wellington",
+      "_country_qids": [
+        "Q45670",
+        "Q174193",
+        "Q215530"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q7820253",
+        "Q193391",
+        "Q189290",
+        "Q2285706"
+      ]
+    },
+    {
+      "name": "Maria Theresa of Austria",
+      "dates": "1717–1780",
+      "y": 1717,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Maria Theresa was the ruler of the Habsburg monarchy from 1740 until her death in 1780, and the only woman to hold the position in her own right. She was the sovereign of Austria, Hungary, Croatia,…",
+      "tldr": "Maria Theresa was the ruler of the Habsburg monarchy from 1740 until her death in 1780, and the only woman to hold the position in her own right. She was the sovereign of Austria, Hungary, Croatia, Bohemia, Transylvania, Slavonia, Mantua, Milan, Moravia, Galicia and Lodomeria, Dalmatia, Austrian Netherlands, Carinthia, Carniola, Gorizia and Gradisca, Austrian Silesia, Tyrol, Styria, and Parma. …",
+      "url": "https://en.wikipedia.org/wiki/Maria_Theresa",
+      "_country_qids": [
+        "Q153136"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q116",
+        "Q2478141"
+      ]
+    },
+    {
+      "name": "Johannes Diderik van der Waals",
+      "dates": "1837–1923",
+      "y": 1837,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Johannes Diderik van der Waals was a Dutch theoretical physicist who received the Nobel Prize in Physics in 1910 \"for his work on the equation of state for gases and liquids.\" Van der Waals started…",
+      "tldr": "Johannes Diderik van der Waals was a Dutch theoretical physicist who received the Nobel Prize in Physics in 1910 \"for his work on the equation of state for gases and liquids.\" Van der Waals started his career as a schoolteacher, before becoming the first physics professor of the University of Amsterdam when its status was upgraded to Municipal University in 1877.",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals",
+      "_country_qids": [
+        "Q29999"
+      ],
+      "_occupation_qids": [
+        "Q169470",
+        "Q1622272",
+        "Q593644",
+        "Q37226",
+        "Q19350898",
+        "Q170790"
+      ]
+    },
+    {
+      "name": "Henry Cavendish",
+      "dates": "1731–1810",
+      "y": 1731,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Henry Cavendish was an English experimental and theoretical chemist and physicist. He is noted for his discovery of hydrogen, which he termed \"inflammable air\".",
+      "tldr": "Henry Cavendish was an English experimental and theoretical chemist and physicist. He is noted for his discovery of hydrogen, which he termed \"inflammable air\". He described the density of inflammable air, which formed water on combustion, in a 1766 paper, On Factitious Airs.",
+      "url": "https://en.wikipedia.org/wiki/Henry_Cavendish",
+      "_country_qids": [
+        "Q174193",
+        "Q161885"
+      ],
+      "_occupation_qids": [
+        "Q593644",
+        "Q170790",
+        "Q169470"
+      ]
+    },
+    {
+      "name": "Humphry Davy",
+      "dates": "1778–1829",
+      "y": 1778,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Sir Humphry Davy, 1st Baronet was a British chemist and inventor who invented the Davy lamp and an early form of arc lamp. He is also remembered for isolating, by using electricity, several element…",
+      "tldr": "Sir Humphry Davy, 1st Baronet was a British chemist and inventor who invented the Davy lamp and an early form of arc lamp. He is also remembered for isolating, by using electricity, several elements for the first time: potassium and sodium in 1807 and calcium, strontium, barium, magnesium and boron the following year, as well as for discovering the elemental nature of chlorine and iodine. Davy …",
+      "url": "https://en.wikipedia.org/wiki/Humphry_Davy",
+      "_country_qids": [
+        "Q174193",
+        "Q161885"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q520549",
+        "Q169470",
+        "Q18805",
+        "Q205375",
+        "Q33231",
+        "Q36180",
+        "Q593644"
+      ]
+    },
+    {
+      "name": "Sergei Rachmaninoff",
+      "dates": "1873–1943",
+      "y": 1873,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Sergei Vasilyevich Rachmaninoff was a Russian composer, virtuoso pianist, and conductor. Rachmaninoff is widely considered one of the finest pianists of his day and, as a composer, one of the last …",
+      "tldr": "Sergei Vasilyevich Rachmaninoff was a Russian composer, virtuoso pianist, and conductor. Rachmaninoff is widely considered one of the finest pianists of his day and, as a composer, one of the last great representatives of Romanticism in Russian classical music. Early influences of Tchaikovsky, Rimsky-Korsakov, and other Russian composers gave way to a thoroughly personal idiom notable for its s…",
+      "url": "https://en.wikipedia.org/wiki/Sergei_Rachmaninoff",
+      "_country_qids": [
+        "Q30",
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q36834",
+        "Q486748",
+        "Q214970",
+        "Q158852",
+        "Q14915627"
+      ]
+    },
+    {
+      "name": "Pius V",
+      "dates": "1504–1572",
+      "y": 1504,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Pope Pius V, OP, born Antonio Ghislieri, was head of the Catholic Church and leader of the Papal States from 7 January 1566 to his death, in May 1572.",
+      "tldr": "Pope Pius V, OP, born Antonio Ghislieri, was head of the Catholic Church and leader of the Papal States from 7 January 1566 to his death, in May 1572.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Pius_V",
+      "_country_qids": [
+        "Q170174"
+      ],
+      "_occupation_qids": [
+        "Q250867",
+        "Q611644"
+      ]
+    },
+    {
+      "name": "Muhammad bin Saud",
+      "dates": "1679–1765",
+      "y": 1679,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Middle East",
+      "era": "Early modern (1500–1800)",
+      "desc": "Muhammad bin Saud Al Muqrin Al Saud, also known as Ibn Saud, was the emir of Diriyah and is considered the founder of the First Saudi State and the Saud dynasty, named after his father, Saud bin Mu…",
+      "tldr": "Muhammad bin Saud Al Muqrin Al Saud, also known as Ibn Saud, was the emir of Diriyah and is considered the founder of the First Saudi State and the Saud dynasty, named after his father, Saud bin Muhammad Al Muqrin. His reign lasted between 1727 and 1765.",
+      "url": "https://en.wikipedia.org/wiki/Muhammad_bin_Saud_Al_Muqrin",
+      "_country_qids": [
+        "Q851"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ]
+    },
+    {
+      "name": "George II of Great Britain",
+      "dates": "1683–1760",
+      "y": 1683,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "George II was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760.",
+      "tldr": "George II was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760.",
+      "url": "https://en.wikipedia.org/wiki/George_II_of_Great_Britain",
+      "_country_qids": [
+        "Q161885",
+        "Q706018"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q2478141"
+      ]
+    },
+    {
+      "name": "Leo III",
+      "dates": "750–816",
+      "y": 750,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Pope Leo III served as head of the Catholic Church from 795 to 816 and is best known for crowning Charlemagne as Emperor of the Romans on Christmas Day 800.",
+      "tldr": "Pope Leo III served as head of the Catholic Church from 795 to 816. Following a violent assault by Roman nobles in 799, he fled to Charlemagne’s court before returning to Rome under Frankish protection. His coronation of Charlemagne as Emperor of the Romans at St. Peter’s Basilica on Christmas Day 800 revived the concept of a Western Roman Emperor and profoundly shaped medieval European politics and the relationship between church and state.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Leo_III",
+      "_country_qids": [
+        "Q170174"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q250867",
+        "Q611644"
+      ]
+    },
+    {
+      "name": "José Manuel Balmaceda",
+      "dates": "1840–1891",
+      "y": 1840,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Americas",
+      "era": "19th century",
+      "desc": "José Manuel Emiliano Balmaceda Fernández was a Chilean politician who served as the 11th President of Chile from 18 September 1886 to 29 August 1891. A controversial figure, Balmaceda’s political d…",
+      "tldr": "José Manuel Emiliano Balmaceda Fernández was a Chilean politician who served as the 11th President of Chile from 18 September 1886 to 29 August 1891. A controversial figure, Balmaceda’s political disagreements with the Chilean congress led to the 1891 Chilean Civil War. Following the government forces’ defeat at the Battle of Placilla, Balmaceda took refuge in the Argentine embassy where he lat…",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Balmaceda",
+      "_country_qids": [
+        "Q298"
+      ],
+      "_occupation_qids": [
+        "Q193391",
+        "Q248577",
+        "Q7330070",
+        "Q82955"
+      ]
+    },
+    {
+      "name": "Clara Schumann",
+      "dates": "1819–1896",
+      "y": 1819,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Clara Josephine Schumann was a German virtuoso pianist, composer, and piano teacher. Regarded as one of the most distinguished pianists of the Romantic era, she exerted her influence over the cours…",
+      "tldr": "Clara Josephine Schumann was a German virtuoso pianist, composer, and piano teacher. Regarded as one of the most distinguished pianists of the Romantic era, she exerted her influence over the course of a 61-year concert career, changing the format and repertoire of the piano recital by lessening the importance of purely virtuosic works. She also composed solo piano pieces, a piano concerto, cha…",
+      "url": "https://en.wikipedia.org/wiki/Clara_Schumann",
+      "_country_qids": [
+        "Q153015"
+      ],
+      "_occupation_qids": [
+        "Q486748",
+        "Q36834",
+        "Q17303149",
+        "Q1643514",
+        "Q16145150",
+        "Q1607826"
+      ]
+    },
+    {
+      "name": "Ferdinand de Saussure",
+      "dates": "1857–1913",
+      "y": 1857,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Ferdinand Mongin de Saussure was a Swiss linguist, semiotician and philosopher. His ideas laid a foundation for many significant developments in both linguistics and semiotics in the 20th century.",
+      "tldr": "Ferdinand Mongin de Saussure was a Swiss linguist, semiotician and philosopher. His ideas laid a foundation for many significant developments in both linguistics and semiotics in the 20th century. He is widely considered one of the founders of 20th-century linguistics and one of two major founders of semiotics, or semiology, as Saussure called it.",
+      "url": "https://en.wikipedia.org/wiki/Ferdinand_de_Saussure",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q14467526"
+      ]
     }
   ]
 }
