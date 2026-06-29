@@ -6901,6 +6901,511 @@
         "Q189290",
         "Q82955"
       ]
+    },
+    {
+      "name": "Ziryab",
+      "dates": "777–857",
+      "y": 777,
+      "roles": [
+        "Artist",
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Abu al-Hasan ‘Ali Ibn Nafi’, commonly known as Ziryab, was a singer, oud and lute player, composer, poet, and teacher. He lived and worked in what is now Iraq, West Asia, and Andalusia during the m…",
+      "tldr": "Abu al-Hasan ‘Ali Ibn Nafi’, commonly known as Ziryab, was a singer, oud and lute player, composer, poet, and teacher. He lived and worked in what is now Iraq, West Asia, and Andalusia during the medieval Islamic period. He was also a polymath, with knowledge in astronomy, geography, meteorology, botanics, cosmetics, culinary art, and fashion.",
+      "url": "https://en.wikipedia.org/wiki/Ziryab",
+      "_country_qids": [
+        "Q123559"
+      ],
+      "_occupation_qids": [
+        "Q901402",
+        "Q639669",
+        "Q49757",
+        "Q14467526",
+        "Q11063"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Benedict XIV",
+      "dates": "1675–1758",
+      "y": 1675,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Pope Benedict XIV, born Prospero Lorenzo Lambertini, was head of the Catholic Church and ruler of the Papal States from 17 August 1740 to his death on 3 May 1758.",
+      "tldr": "Pope Benedict XIV, born Prospero Lorenzo Lambertini, was head of the Catholic Church and ruler of the Papal States from 17 August 1740 to his death on 3 May 1758.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Benedict_XIV",
+      "_country_qids": [
+        "Q170174"
+      ],
+      "_occupation_qids": [
+        "Q12027957",
+        "Q611644",
+        "Q250867",
+        "Q201788",
+        "Q185351"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Rudolf Diesel",
+      "dates": "1858–1913",
+      "y": 1858,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Rudolf Christian Karl Diesel was a German inventor and mechanical engineer, best known for inventing the diesel engine, which burns diesel fuel; both are named after him.",
+      "tldr": "Rudolf Christian Karl Diesel was a German inventor and mechanical engineer, best known for inventing the diesel engine, which burns diesel fuel; both are named after him.",
+      "url": "https://en.wikipedia.org/wiki/Rudolf_Diesel",
+      "_country_qids": [
+        "Q154195"
+      ],
+      "_occupation_qids": [
+        "Q860918",
+        "Q131524",
+        "Q205375",
+        "Q81096"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Frédéric Chopin",
+      "dates": "1810–1849",
+      "y": 1810,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Frédéric François Chopin was a Polish composer and virtuoso pianist of the early Romantic period who wrote primarily for solo piano. He has maintained worldwide renown as a leading composer of his …",
+      "tldr": "Frédéric François Chopin was a Polish composer and virtuoso pianist of the early Romantic period who wrote primarily for solo piano. He has maintained worldwide renown as a leading composer of his era whose “poetic genius was based on a professional technique that was without equal in his generation”.",
+      "url": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin",
+      "_country_qids": [
+        "Q34266",
+        "Q152115",
+        "Q221457",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q36834",
+        "Q486748",
+        "Q639669",
+        "Q1231865",
+        "Q17303149",
+        "Q214970"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Paul Doumer",
+      "dates": "1857–1932",
+      "y": 1857,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Joseph Athanase Doumer, commonly known as Paul Doumer, was a French politician who served as the President of France from June 1931 until his assassination in May 1932. He is described as “the Fath…",
+      "tldr": "Joseph Athanase Doumer, commonly known as Paul Doumer, was a French politician who served as the President of France from June 1931 until his assassination in May 1932. He is described as “the Father of French Indochina”, and was seen as one of the most active and effective governors general of Indochina.",
+      "url": "https://en.wikipedia.org/wiki/Paul_Doumer",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q372436"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Jean Jaurès",
+      "dates": "1859–1914",
+      "y": 1859,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Auguste Marie Joseph Jean Léon Jaurès, commonly referred to as Jean Jaurès, was a French socialist leader. Initially a Moderate Republican, he later became a social democrat and one of the first po…",
+      "tldr": "Auguste Marie Joseph Jean Léon Jaurès, commonly referred to as Jean Jaurès, was a French socialist leader. Initially a Moderate Republican, he later became a social democrat and one of the first possibilists and in 1902 the leader of the French Socialist Party, which opposed Jules Guesde’s revolutionary Socialist Party of France. The two parties merged in 1905 into the French Section of the Wor…",
+      "url": "https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q1930187",
+        "Q201788",
+        "Q462390",
+        "Q42909",
+        "Q486839",
+        "Q36180",
+        "Q16003550",
+        "Q82955",
+        "Q12718544",
+        "Q121594"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Nitobe Inazō",
+      "dates": "1862–1933",
+      "y": 1862,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "era": "19th century",
+      "desc": "Nitobe Inazō  was a Japanese agronomist, diplomat, political scientist, politician, and writer. He studied at Sapporo Agricultural College under the influence of its first president William S.",
+      "tldr": "Nitobe Inazō  was a Japanese agronomist, diplomat, political scientist, politician, and writer. He studied at Sapporo Agricultural College under the influence of its first president William S. Clark and later went to the United States to study agricultural policy.",
+      "url": "https://en.wikipedia.org/wiki/Nitobe_Inaz%C5%8D",
+      "_country_qids": [
+        "Q17"
+      ],
+      "_occupation_qids": [
+        "Q14467526",
+        "Q193391",
+        "Q212238",
+        "Q36180",
+        "Q188094",
+        "Q1781198",
+        "Q16258947",
+        "Q1622272",
+        "Q14972848",
+        "Q1231865",
+        "Q860918",
+        "Q82955"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Casimir Delavigne",
+      "dates": "1793–1843",
+      "y": 1793,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Jean-François Casimir Delavigne was a French poet and dramatist.",
+      "tldr": "Jean-François Casimir Delavigne was a French poet and dramatist.",
+      "url": "https://en.wikipedia.org/wiki/Casimir_Delavigne",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q182436",
+        "Q214917",
+        "Q36180",
+        "Q8178443",
+        "Q49757"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Vasily Vereshchagin",
+      "dates": "1842–1904",
+      "y": 1842,
+      "roles": [
+        "Artist",
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "Vasily Vasilyevich Vereshchagin was a Russian painter, war artist, and traveller. The graphic nature of his realist scenes led to many of them never being printed or exhibited to the public.",
+      "tldr": "Vasily Vasilyevich Vereshchagin was a Russian painter, war artist, and traveller. The graphic nature of his realist scenes led to many of them never being printed or exhibited to the public.",
+      "url": "https://en.wikipedia.org/wiki/Vasily_Vereshchagin",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q47064",
+        "Q1028181",
+        "Q36180",
+        "Q3964546",
+        "Q59938438"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Maxim Gorky",
+      "dates": "1868–1936",
+      "y": 1868,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "era": "19th century",
+      "desc": "Alexei Maximovich Peshkov, popularly known as Maxim Gorky, was a Russian and Soviet writer, journalist, and proponent of socialism. He was nominated five times for the Nobel Prize in Literature.",
+      "tldr": "Alexei Maximovich Peshkov, popularly known as Maxim Gorky, was a Russian and Soviet writer, journalist, and proponent of socialism. He was nominated five times for the Nobel Prize in Literature. Before his success as an author, he travelled widely across the Russian Empire, changing jobs frequently; these experiences would later influence his writing.",
+      "url": "https://en.wikipedia.org/wiki/Maxim_Gorky",
+      "_country_qids": [
+        "Q34266",
+        "Q15180"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q1930187",
+        "Q214917",
+        "Q2516866",
+        "Q487596",
+        "Q36180",
+        "Q18814623",
+        "Q6625963",
+        "Q6051619",
+        "Q49757",
+        "Q18939491"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Johann Martin Schleyer",
+      "dates": "1831–1912",
+      "y": 1831,
+      "roles": [
+        "Religious",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Johann Martin Schleyer was a German Catholic priest who invented the constructed language Volapük. His official name was “Martin Schleyer”; he added the name “Johann” unofficially.",
+      "tldr": "Johann Martin Schleyer was a German Catholic priest who invented the constructed language Volapük. His official name was “Martin Schleyer”; he added the name “Johann” unofficially.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Martin_Schleyer",
+      "_country_qids": [
+        "Q186320"
+      ],
+      "_occupation_qids": [
+        "Q15976715",
+        "Q2259532",
+        "Q955464",
+        "Q49757",
+        "Q482980",
+        "Q36180",
+        "Q250867",
+        "Q1206912"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Jean-Honoré Fragonard",
+      "dates": "1732–1806",
+      "y": 1732,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Jean-Honoré Fragonard was a French painter and printmaker whose late Rococo manner was distinguished by remarkable facility, exuberance, and hedonism. One of the most prolific artists active in the…",
+      "tldr": "Jean-Honoré Fragonard was a French painter and printmaker whose late Rococo manner was distinguished by remarkable facility, exuberance, and hedonism. One of the most prolific artists active in the last decades of the Ancien Régime, Fragonard produced more than 550 paintings, of which only five are dated. Among his most popular works are genre paintings conveying an atmosphere of intimacy and v…",
+      "url": "https://en.wikipedia.org/wiki/Jean-Honor%C3%A9_Fragonard",
+      "_country_qids": [
+        "Q69323",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q1028181",
+        "Q11569986",
+        "Q644687",
+        "Q15296811"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Auguste Comte",
+      "dates": "1798–1857",
+      "y": 1798,
+      "roles": [
+        "Writer",
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Isidore Auguste Marie François Xavier Comte was a French philosopher, mathematician and writer who formulated the doctrine of positivism. He is often regarded as the first philosopher of science in…",
+      "tldr": "Isidore Auguste Marie François Xavier Comte was a French philosopher, mathematician and writer who formulated the doctrine of positivism. He is often regarded as the first philosopher of science in the modern sense of the term. Comte’s ideas were fundamental to the development of sociology, with him inventing the very term and treating the discipline as the crowning achievement of the sciences.",
+      "url": "https://en.wikipedia.org/wiki/Auguste_Comte",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q2306091",
+        "Q36180",
+        "Q4964182",
+        "Q2144983",
+        "Q170790"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Albert Abraham Michelson",
+      "dates": "1852–1931",
+      "y": 1852,
+      "roles": [
+        "Scientist",
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "Albert Abraham Michelson was an American experimental physicist known for his work on measuring the speed of light and especially for the Michelson–Morley experiment. In 1907, he received the Nobel…",
+      "tldr": "Albert Abraham Michelson was an American experimental physicist known for his work on measuring the speed of light and especially for the Michelson–Morley experiment. In 1907, he received the Nobel Prize in Physics, becoming the first American to win the Nobel Prize in a science. He was the founder and the first head of the physics departments of the Case School of Applied Science and the Unive…",
+      "url": "https://en.wikipedia.org/wiki/Albert_A._Michelson",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q169470",
+        "Q1622272",
+        "Q189290"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Alexander VII",
+      "dates": "1599–1667",
+      "y": 1599,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Pope Alexander VII, born Fabio Chigi, was head of the Catholic Church and ruler of the Papal States from 7 April 1655 to his death, in May 1667.",
+      "tldr": "Pope Alexander VII, born Fabio Chigi, was head of the Catholic Church and ruler of the Papal States from 7 April 1655 to his death, in May 1667.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VII",
+      "_country_qids": [
+        "Q170174"
+      ],
+      "_occupation_qids": [
+        "Q250867",
+        "Q611644"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "George III of Great Britain",
+      "dates": "1738–1820",
+      "y": 1738,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and …",
+      "tldr": "George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king. He was concurrently duke and prince-elector of Hanover in the Holy Roman Empire before becoming King of Hanover on 12 October 1814.",
+      "url": "https://en.wikipedia.org/wiki/George_III",
+      "_country_qids": [
+        "Q174193",
+        "Q161885"
+      ],
+      "_occupation_qids": [
+        "Q1097498",
+        "Q10732476",
+        "Q116",
+        "Q15472169",
+        "Q2478141",
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Charlotte Brontë",
+      "dates": "1816–1855",
+      "y": 1816,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Charlotte Nicholls, commonly known by her maiden name Charlotte Brontë, was an English novelist and poet, and was the elder sister of Emily, Anne and Branwell Brontë. She is best known for her nove…",
+      "tldr": "Charlotte Nicholls, commonly known by her maiden name Charlotte Brontë, was an English novelist and poet, and was the elder sister of Emily, Anne and Branwell Brontë. She is best known for her novel Jane Eyre, which was first published under the pseudonym Currer Bell. Jane Eyre was a great success on publication, and has since been acknowledged as a classic of English literature.",
+      "url": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q6625963",
+        "Q49757",
+        "Q37226",
+        "Q36180",
+        "Q1540278"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "José Echegaray",
+      "dates": "1832–1916",
+      "y": 1832,
+      "roles": [
+        "Ruler",
+        "Writer",
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "José Echegaray y Eizaguirre was a Spanish civil engineer, mathematician, statesman, and one of the leading Spanish dramatists of the last quarter of the 19th century. He was awarded the 1904 Nobel …",
+      "tldr": "José Echegaray y Eizaguirre was a Spanish civil engineer, mathematician, statesman, and one of the leading Spanish dramatists of the last quarter of the 19th century. He was awarded the 1904 Nobel Prize in Literature “in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama”.",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Echegaray",
+      "_country_qids": [
+        "Q29"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q13582652",
+        "Q82955",
+        "Q81096",
+        "Q36180",
+        "Q214917",
+        "Q188094",
+        "Q170790"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "John Amos Comenius",
+      "dates": "1592–1670",
+      "y": 1592,
+      "roles": [
+        "Religious",
+        "Writer",
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "John Amos Comenius was a Czech philosopher, pedagogue and theologian who is considered the father of modern education. He served as the last bishop of the Unity of the Brethren before becoming a re…",
+      "tldr": "John Amos Comenius was a Czech philosopher, pedagogue and theologian who is considered the father of modern education. He served as the last bishop of the Unity of the Brethren before becoming a religious refugee and one of the earliest champions of universal education, a concept eventually set forth in his book Didactica Magna. As an educator and theologian, he led schools and advised governme…",
+      "url": "https://en.wikipedia.org/wiki/John_Amos_Comenius",
+      "_country_qids": [
+        "Q153136"
+      ],
+      "_occupation_qids": [
+        "Q1234713",
+        "Q219477",
+        "Q901402",
+        "Q901",
+        "Q831474",
+        "Q29182",
+        "Q1231865",
+        "Q201788",
+        "Q1734662",
+        "Q82955",
+        "Q635734",
+        "Q4964182",
+        "Q37226",
+        "Q36180",
+        "Q14467526"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Bahadur Shah Zafar",
+      "dates": "1775–1862",
+      "y": 1775,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Bahadur Shah II, also known by his poetic title Bahadur Shah Zafar, was the twentieth and last Mughal Emperor and an Urdu poet. He was a titular Emperor with his authority limited to the Walled Cit…",
+      "tldr": "Bahadur Shah II, also known by his poetic title Bahadur Shah Zafar, was the twentieth and last Mughal Emperor and an Urdu poet. He was a titular Emperor with his authority limited to the Walled City of Delhi, but was declared the Emperor of India by the forces opposing East India Company forces across the Indian subcontinent during the Indian Rebellion of 1857. Zafar was exiled to Yangon in Bri…",
+      "url": "https://en.wikipedia.org/wiki/Bahadur_Shah_Zafar",
+      "_country_qids": [
+        "Q33296"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q36180",
+        "Q49757"
+      ],
+      "region": "South Asia"
     }
   ]
 }
