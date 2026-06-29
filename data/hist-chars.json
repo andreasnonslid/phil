@@ -4956,6 +4956,475 @@
       "region": "Europe",
       "desc": "Kazakh machine-gunner in the Red Army who single-handedly held off a German assault near Nevel in 1943, posthumously awarded Hero of the Soviet Union.",
       "url": "https://en.wikipedia.org/wiki/Manshuk_Mametova"
+    },
+    {
+      "name": "Eugène François Vidocq",
+      "dates": "1775–1857",
+      "y": 1775,
+      "roles": [
+        "Military",
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Eugène-François Vidocq was a French criminal turned criminalist. He was the founder and first director of France's Sûreté Nationale, and the head of the first known private detective agency.",
+      "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne-Fran%C3%A7ois_Vidocq",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q2159907",
+        "Q1058617",
+        "Q36180",
+        "Q361593",
+        "Q384593",
+        "Q1726903",
+        "Q47064",
+        "Q842782"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Alexander Emanuel Agassiz",
+      "dates": "1835–1910",
+      "y": 1835,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Alexander Emmanuel Rodolphe Agassiz was an American scientist and engineer. He was the son of Louis Agassiz and stepson of Elizabeth Cabot Agassiz.",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Agassiz",
+      "_country_qids": [
+        "Q39",
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q81096",
+        "Q7643464",
+        "Q864503",
+        "Q98544732",
+        "Q18805",
+        "Q674426",
+        "Q4205432",
+        "Q36180",
+        "Q350979",
+        "Q2374149",
+        "Q3546255",
+        "Q12362622",
+        "Q1622272"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Louis Agassiz",
+      "dates": "1807–1873",
+      "y": 1807,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Jean Louis Rodolphe Agassiz was a Swiss-born American biologist and geologist who is recognized as a scholar of Earth's natural history.",
+      "url": "https://en.wikipedia.org/wiki/Louis_Agassiz",
+      "_country_qids": [
+        "Q30",
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q4964182",
+        "Q2560911",
+        "Q350979",
+        "Q36180",
+        "Q4205432",
+        "Q15623737",
+        "Q39631",
+        "Q520549",
+        "Q98544732",
+        "Q1622272",
+        "Q1662561",
+        "Q16755977",
+        "Q18805",
+        "Q2083925",
+        "Q2374149",
+        "Q1113838"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Johann Jakob Balmer",
+      "dates": "1825–1898",
+      "y": 1825,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Johann Jakob Balmer was a Swiss mathematician best known for his work in physics, the Balmer series of the hydrogen atom.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Jakob_Balmer",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q1622272",
+        "Q169470",
+        "Q170790"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Pauline Viardot",
+      "dates": "1821–1910",
+      "y": 1821,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Pauline Viardot was a French dramatic mezzo-soprano, composer and pedagogue of Spanish descent.",
+      "url": "https://en.wikipedia.org/wiki/Pauline_Viardot",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q7939609",
+        "Q36834",
+        "Q486748",
+        "Q2865819",
+        "Q2350126",
+        "Q177220"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Johann Heinrich Lambert",
+      "dates": "1728–1777",
+      "y": 1728,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Johann Heinrich Lambert was a polymath who made important contributions to mathematics, physics, philosophy, astronomy and map projections.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert",
+      "_country_qids": [
+        "Q142",
+        "Q3456410"
+      ],
+      "_occupation_qids": [
+        "Q11063",
+        "Q170790",
+        "Q169470",
+        "Q36180",
+        "Q4964182"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Alfred Werner",
+      "dates": "1866–1919",
+      "y": 1866,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Alfred Werner was a Swiss chemist who won the Nobel Prize in Chemistry in 1913 for proposing the octahedral configuration of transition metal complexes.",
+      "url": "https://en.wikipedia.org/wiki/Alfred_Werner",
+      "_country_qids": [
+        "Q39",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q593644",
+        "Q1622272"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Charles Édouard Guillaume",
+      "dates": "1861–1938",
+      "y": 1861,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Charles-Édouard Guillaume was a Swiss physicist who received the Nobel Prize in Physics in 1920 for his discovery of anomalies in nickel steel alloys.",
+      "url": "https://en.wikipedia.org/wiki/Charles-%C3%89douard_Guillaume",
+      "_country_qids": [
+        "Q142",
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q169470",
+        "Q1650915"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Huldrych Zwingli",
+      "dates": "1484–1531",
+      "y": 1484,
+      "roles": [
+        "Religious",
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Huldrych Zwingli was a Swiss Christian theologian, musician, and leader of the Reformation in Switzerland.",
+      "url": "https://en.wikipedia.org/wiki/Huldrych_Zwingli",
+      "_country_qids": [
+        "Q435583"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q42603",
+        "Q333634",
+        "Q1234713",
+        "Q432386",
+        "Q763779",
+        "Q36834"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Germaine de Staël",
+      "dates": "1766–1817",
+      "y": 1766,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Anne Louise Germaine de Staël-Holstein, commonly known as Madame de Staël, was a prominent French novelist, woman of letters, philosopher, and political theorist.",
+      "url": "https://en.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl",
+      "_country_qids": [
+        "Q70972",
+        "Q23366230"
+      ],
+      "_occupation_qids": [
+        "Q4263842",
+        "Q18939491",
+        "Q82955",
+        "Q3068305",
+        "Q4964182",
+        "Q333634",
+        "Q3589290",
+        "Q36180"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Go-Komatsu",
+      "dates": "1377–1433",
+      "y": 1377,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Emperor Go-Komatsu was the 100th emperor of Japan, according to the traditional order of succession, and the sixth and final Emperor of the Northern Court.",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Go-Komatsu",
+      "_country_qids": [
+        "Q17"
+      ],
+      "_occupation_qids": [
+        "Q2304859"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Johanna Spyri",
+      "dates": "1827–1901",
+      "y": 1827,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Johanna Spyri was a Swiss author of novels, notably children's stories. She wrote the popular book Heidi.",
+      "url": "https://en.wikipedia.org/wiki/Johanna_Spyri",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q6625963",
+        "Q4853732",
+        "Q36180"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Augustin-Pyramus de Candolle",
+      "dates": "1778–1841",
+      "y": 1778,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Augustin Pyramus de Candolle was a Swiss botanist who documented hundreds of plant families and created a new natural plant classification system.",
+      "url": "https://en.wikipedia.org/wiki/Augustin_Pyramus_de_Candolle",
+      "_country_qids": [
+        "Q23366230",
+        "Q39",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q350979",
+        "Q121594",
+        "Q18805",
+        "Q2083925",
+        "Q2374149",
+        "Q98544732"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Millard Fillmore",
+      "dates": "1800–1874",
+      "y": 1800,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Millard Fillmore was the 13th president of the United States, serving from 1850 to 1853. He was the last president to be a member of the Whig Party while in the White House.",
+      "url": "https://en.wikipedia.org/wiki/Millard_Fillmore",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q185351",
+        "Q248577",
+        "Q82955",
+        "Q372436",
+        "Q40348"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Jacques Necker",
+      "dates": "1732–1804",
+      "y": 1732,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Jacques Necker was a Genevan banker, financier and statesman who served as finance minister of France for Louis XVI.",
+      "url": "https://en.wikipedia.org/wiki/Jacques_Necker",
+      "_country_qids": [
+        "Q23366230",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q806798",
+        "Q36180",
+        "Q1622272"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Arnold Böcklin",
+      "dates": "1827–1901",
+      "y": 1827,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Arnold Böcklin was a Swiss Symbolist painter. His five versions of the Isle of the Dead inspired works by several late Romantic composers.",
+      "url": "https://en.wikipedia.org/wiki/Arnold_B%C3%B6cklin",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q1281618",
+        "Q1028181",
+        "Q5322166",
+        "Q1622272",
+        "Q15296811"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Ismail II",
+      "dates": "1533–1577",
+      "y": 1533,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Ismail II was the third shah of Safavid Iran from 1576 to 1577.",
+      "url": "https://en.wikipedia.org/wiki/Ismail_II",
+      "_country_qids": [
+        "Q18234383"
+      ],
+      "_occupation_qids": [
+        "Q11063",
+        "Q116",
+        "Q49757"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Benjamin Constant",
+      "dates": "1767–1830",
+      "y": 1767,
+      "roles": [
+        "Writer",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Henri-Benjamin Constant de Rebecque, or simply Benjamin Constant, was a Swiss and French political thinker, activist and writer on political theory and religion.",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Constant",
+      "_country_qids": [
+        "Q142",
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q901",
+        "Q18939491",
+        "Q36180",
+        "Q4964182"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Angelica Kauffmann",
+      "dates": "1741–1807",
+      "y": 1741,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Maria Anna Angelika Kauffmann was a Swiss painter who had a successful career in London and Rome. She was one of two female painters among the founding members of the Royal Academy of Art in London in 1768.",
+      "url": "https://en.wikipedia.org/wiki/Angelica_Kauffman",
+      "_country_qids": [
+        "Q39",
+        "Q672685"
+      ],
+      "_occupation_qids": [
+        "Q1028181",
+        "Q483501",
+        "Q3391743",
+        "Q11569986"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Franklin Pierce",
+      "dates": "1804–1869",
+      "y": 1804,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "Franklin Pierce was the 14th president of the United States, serving from 1853 to 1857. He signed the Kansas–Nebraska Act and enforced the Fugitive Slave Act.",
+      "url": "https://en.wikipedia.org/wiki/Franklin_Pierce",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q185351",
+        "Q189290",
+        "Q82955",
+        "Q372436",
+        "Q40348"
+      ],
+      "region": "Americas"
     }
   ]
 }
