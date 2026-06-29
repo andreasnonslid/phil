@@ -8745,6 +8745,465 @@
       "_occupation_qids": [
         "Q39018"
       ]
+    },
+    {
+      "name": "Philip II of Macedon",
+      "dates": "385BCE–335BCE",
+      "y": -385,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Philip II of Macedon was the king (basileus) of Macedon from 359 BC until his death in 336 BC. The rise of Macedon, from a kingdom initially at the periphery of classical Greek affairs, to a power …",
+      "tldr": "Philip II of Macedon was the king (basileus) of Macedon from 359 BC until his death in 336 BC. The rise of Macedon, from a kingdom initially at the periphery of classical Greek affairs, to a power that came to dominate Ancient Greece in the span of less than 25 years, was largely thanks to the character and policies of Philip. He was the father of Alexander the Great and a member of the ruling …",
+      "url": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon",
+      "_country_qids": [
+        "Q83958"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Nicholas I of Russia",
+      "dates": "1796–1855",
+      "y": 1796,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Nicholas I was Emperor of Russia, King of Poland, and Grand Duke of Finland from 1825 to 1855. He was the third son of Paul I and younger brother of his predecessor, Alexander I.",
+      "tldr": "Nicholas I was Emperor of Russia, King of Poland, and Grand Duke of Finland from 1825 to 1855. He was the third son of Paul I and younger brother of his predecessor, Alexander I. Nicholas's 29-year reign began with the failed Decembrist revolt.",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_I_of_Russia",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q44356",
+        "Q1097498"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Elizabeth I of Russia",
+      "dates": "1709–1762",
+      "y": 1709,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Elizabeth or Elizaveta Petrovna was Empress of Russia from 1741 until her death in 1762. She remains one of the most popular Russian monarchs because of her decision not to execute a single person …",
+      "tldr": "Elizabeth or Elizaveta Petrovna was Empress of Russia from 1741 until her death in 1762. She remains one of the most popular Russian monarchs because of her decision not to execute a single person during her reign, her numerous construction projects, and her strong opposition to Prussian policies. She was the last person on the agnatic line of the Romanovs as her nephew ascended, thus creating …",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Russia",
+      "_country_qids": [
+        "Q34266",
+        "Q186096"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q2478141",
+        "Q116"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Christoph Willibald von Gluck",
+      "dates": "1714–1787",
+      "y": 1714,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Christoph Willibald Ritter von Gluck was a composer of Italian and French opera in the early classical period. Born in the Upper Palatinate and raised in Bohemia, both part of the Holy Roman Empire…",
+      "tldr": "Christoph Willibald Ritter von Gluck was a composer of Italian and French opera in the early classical period. Born in the Upper Palatinate and raised in Bohemia, both part of the Holy Roman Empire at the time, he gained prominence at the Habsburg court in Vienna. There he brought about the practical reform of opera's dramaturgical practices for which many intellectuals had been campaigning.",
+      "url": "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck",
+      "_country_qids": [
+        "Q699964",
+        "Q42585"
+      ],
+      "_occupation_qids": [
+        "Q36834",
+        "Q158852"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Kazimir Malevich",
+      "dates": "1879–1935",
+      "y": 1879,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Kazimir Severinovich Malevich was a Russian avant-garde artist and art theorist, whose work and writings pioneered the development of abstract painting in the 20th century. He is best known as the …",
+      "tldr": "Kazimir Severinovich Malevich was a Russian avant-garde artist and art theorist, whose work and writings pioneered the development of abstract painting in the 20th century. He is best known as the founder of Suprematism, a radically non-objective form of painting he introduced in 1915.",
+      "url": "https://en.wikipedia.org/wiki/Kazimir_Malevich",
+      "_country_qids": [
+        "Q34266",
+        "Q15180"
+      ],
+      "_occupation_qids": [
+        "Q483501",
+        "Q1028181",
+        "Q106811253",
+        "Q15296811",
+        "Q5322166",
+        "Q3391743",
+        "Q2707485",
+        "Q1925963",
+        "Q1792450",
+        "Q11613590",
+        "Q1231865",
+        "Q1281618",
+        "Q17505902",
+        "Q17391638",
+        "Q1323191",
+        "Q11569986",
+        "Q6051619"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "George I of Great Britain",
+      "dates": "1660–1727",
+      "y": 1660,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "George I was King of Great Britain and Ireland from 1 August 1714 and ruler of the Electorate of Hanover within the Holy Roman Empire from 23 January 1698 until his death in 1727. He was the first …",
+      "tldr": "George I was King of Great Britain and Ireland from 1 August 1714 and ruler of the Electorate of Hanover within the Holy Roman Empire from 23 January 1698 until his death in 1727. He was the first British monarch of the House of Hanover.",
+      "url": "https://en.wikipedia.org/wiki/George_I_of_Great_Britain",
+      "_country_qids": [
+        "Q161885",
+        "Q706018"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Mary II of England",
+      "dates": "1662–1695",
+      "y": 1662,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Mary II was Queen of England, Scotland, and Ireland with her husband, King William III and II, from 1689 until her death in 1694. She was also Princess of Orange following her marriage on 4 Novembe…",
+      "tldr": "Mary II was Queen of England, Scotland, and Ireland with her husband, King William III and II, from 1689 until her death in 1694. She was also Princess of Orange following her marriage on 4 November 1677. Her joint reign with William over Britain is known as that of William and Mary.",
+      "url": "https://en.wikipedia.org/wiki/Mary_II",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q19643",
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "William IV",
+      "dates": "1765–1837",
+      "y": 1765,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "William IV was King of the United Kingdom of Great Britain and Ireland and King of Hanover from 26 June 1830 until his death in 1837. The third son of George III, William succeeded his elder brothe…",
+      "tldr": "William IV was King of the United Kingdom of Great Britain and Ireland and King of Hanover from 26 June 1830 until his death in 1837. The third son of George III, William succeeded his elder brother George IV, becoming the last king and penultimate monarch of the United Kingdom's House of Hanover.",
+      "url": "https://en.wikipedia.org/wiki/William_IV",
+      "_country_qids": [
+        "Q174193",
+        "Q164079",
+        "Q161885"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q116",
+        "Q10669499"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Francis II, Holy Roman Emperor",
+      "dates": "1768–1835",
+      "y": 1768,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Francis II and I was the last Holy Roman Emperor as Francis II from 1792 to 1806, and the first Emperor of Austria as Francis I from 1804 to 1835. He was also King of Germany, Hungary, Croatia and …",
+      "tldr": "Francis II and I was the last Holy Roman Emperor as Francis II from 1792 to 1806, and the first Emperor of Austria as Francis I from 1804 to 1835. He was also King of Germany, Hungary, Croatia and Bohemia, and served as the first president of the German Confederation following its establishment in 1815.",
+      "url": "https://en.wikipedia.org/wiki/Francis_II%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q131964"
+      ],
+      "_occupation_qids": [
+        "Q48352"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Philip IV of France",
+      "dates": "1268–1314",
+      "y": 1268,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Philip IV, called Philip the Fair, was King of France from 1285 to 1314. By virtue of his marriage with Joan I of Navarre, he was also King of Navarre and Count of Champagne as Philip I from 1284 t…",
+      "tldr": "Philip IV, called Philip the Fair, was King of France from 1285 to 1314. By virtue of his marriage with Joan I of Navarre, he was also King of Navarre and Count of Champagne as Philip I from 1284 to 1305. Although Philip was known to be handsome, hence the epithet le Bel, his rigid, autocratic, imposing, and inflexible personality gained him other nicknames, such as the Iron King.",
+      "url": "https://en.wikipedia.org/wiki/Philip_IV_of_France",
+      "_country_qids": [
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q1097498"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Damasus I",
+      "dates": "305–384",
+      "y": 305,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Pope Damasus I, also known as Damasus of Rome, was the bishop of Rome from October 366 to his death in 384. He presided over the Council of Rome of 382, which established the canon, or official lis…",
+      "tldr": "Pope Damasus I, also known as Damasus of Rome, was the bishop of Rome from October 366 to his death in 384. He presided over the Council of Rome of 382, which established the canon, or official list, of sacred scripture.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Damasus_I",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q250867",
+        "Q49757"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "François Rabelais",
+      "dates": "1494–1553",
+      "y": 1494,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "François Rabelais was a French writer who has been called the first great French prose author. A humanist of the French Renaissance and Greek scholar, he attracted opposition from both Protestant t…",
+      "tldr": "François Rabelais was a French writer who has been called the first great French prose author. A humanist of the French Renaissance and Greek scholar, he attracted opposition from both Protestant theologian John Calvin and from the hierarchy of the Catholic Church. Though in his day he was best known as a physician, scholar, diplomat, and Catholic priest, later he became better known as a satir…",
+      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais",
+      "_country_qids": [
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q9334029",
+        "Q8178443",
+        "Q10527030",
+        "Q12406482",
+        "Q36180",
+        "Q6625963",
+        "Q551835",
+        "Q39631"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Henry David Thoreau",
+      "dates": "1817–1862",
+      "y": 1817,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Henry David Thoreau was an American naturalist, essayist, poet, and philosopher. A leading transcendentalist, he is best known for his book Walden, a reflection upon simple living in natural surrou…",
+      "tldr": "Henry David Thoreau was an American naturalist, essayist, poet, and philosopher. A leading transcendentalist, he is best known for his book Walden, a reflection upon simple living in natural surroundings, and his essay \"Civil Disobedience\", an argument in favor of citizen disobedience against an unjust state.",
+      "url": "https://en.wikipedia.org/wiki/Henry_David_Thoreau",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q333634",
+        "Q49757",
+        "Q3578589",
+        "Q36180",
+        "Q4964182",
+        "Q11774202",
+        "Q12526417",
+        "Q15839134",
+        "Q18805",
+        "Q18814623",
+        "Q18939491"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Dionysius",
+      "dates": "200–268",
+      "y": 200,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "The name Dionysius was common in classical and post-classical times. Etymologically it is a nominalized adjective formed with a -ios suffix from the stem Dionys- of the name of the Greek god, Diony…",
+      "tldr": "The name Dionysius was common in classical and post-classical times. Etymologically it is a nominalized adjective formed with a -ios suffix from the stem Dionys- of the name of the Greek god, Dionysus, parallel to Apollon-ios from Apollon, with meanings of Dionysos' and Apollo's, etc. The exact beliefs attendant on the original assignment of such names remain unknown.",
+      "url": "https://en.wikipedia.org/wiki/Dionysius",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q250867"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Polybius",
+      "dates": "199BCE–119BCE",
+      "y": -199,
+      "roles": [
+        "Military",
+        "Writer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Polybius was an ancient Greek historian of the middle Hellenistic period. He is noted for his Histories, a universal history documenting the rise of Rome in the Mediterranean in the third and secon…",
+      "tldr": "Polybius was an ancient Greek historian of the middle Hellenistic period. He is noted for his Histories, a universal history documenting the rise of Rome in the Mediterranean in the third and second centuries BC. It covers the period 264–146, recording in detail events in Italy, Iberia, Greece, Macedonia, Syria, Egypt, and Africa, and documents the Punic Wars and Macedonian Wars among many others.",
+      "url": "https://en.wikipedia.org/wiki/Polybius",
+      "_country_qids": [
+        "Q244796"
+      ],
+      "_occupation_qids": [
+        "Q47064",
+        "Q36180",
+        "Q201788"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Imhotep",
+      "dates": "2800BCE–2700BCE",
+      "y": -2800,
+      "roles": [
+        "Scientist",
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Imhotep was an Egyptian chancellor to the King Djoser, possible architect of Djoser's step pyramid, and high priest of the sun god Ra at Heliopolis. Very little is known of Imhotep as a historical …",
+      "tldr": "Imhotep was an Egyptian chancellor to the King Djoser, possible architect of Djoser's step pyramid, and high priest of the sun god Ra at Heliopolis. Very little is known of Imhotep as a historical figure, but in the 3,000 years following his death, he was gradually glorified and deified.",
+      "url": "https://en.wikipedia.org/wiki/Imhotep",
+      "_country_qids": [
+        "Q11768"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q81096",
+        "Q42973",
+        "Q39631",
+        "Q1340643",
+        "Q11063"
+      ],
+      "region": "Africa"
+    },
+    {
+      "name": "Constantius Chlorus",
+      "dates": "250–306",
+      "y": 250,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Marcus Flavius Valerius Constantius, also called Constantius I, was a Roman emperor from 305 to 306—and was father of Constantine the Great, the first Christian emperor of Rome. He was one of the f…",
+      "tldr": "Marcus Flavius Valerius Constantius, also called Constantius I, was a Roman emperor from 305 to 306—and was father of Constantine the Great, the first Christian emperor of Rome. He was one of the four original members of the Tetrarchy established by Diocletian, first serving as caesar from 293 to 305 and then ruling as augustus until his death. The nickname \"Chlorus\" was first popularized by By…",
+      "url": "https://en.wikipedia.org/wiki/Constantius_Chlorus",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "George Eliot",
+      "dates": "1819–1880",
+      "y": 1819,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Mary Ann Evans, known by her pen name George Eliot, was an English novelist, poet, journalist, translator, and one of the leading writers of the Victorian era. She wrote seven novels: Adam Bede (18…",
+      "tldr": "Mary Ann Evans, known by her pen name George Eliot, was an English novelist, poet, journalist, translator, and one of the leading writers of the Victorian era. She wrote seven novels: Adam Bede (1859), The Mill on the Floss (1860), Silas Marner (1861), Romola (1862–1863), Felix Holt, the Radical (1866), Middlemarch (1871–1872) and Daniel Deronda (1876). Her novels are known for their realism, p…",
+      "url": "https://en.wikipedia.org/wiki/George_Eliot",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q1607826",
+        "Q49757",
+        "Q6625963",
+        "Q4964182",
+        "Q36180",
+        "Q333634",
+        "Q1930187",
+        "Q11774202"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Alexander Alekhine",
+      "dates": "1892–1946",
+      "y": 1892,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Alexander Aleksandrovich Alekhine was a Russian and French chess player and the fourth World Chess Champion, a title he held for two reigns.",
+      "tldr": "Alexander Aleksandrovich Alekhine was a Russian and French chess player and the fourth World Chess Champion, a title he held for two reigns.",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Alekhine",
+      "_country_qids": [
+        "Q142",
+        "Q34266",
+        "Q2184",
+        "Q15180"
+      ],
+      "_occupation_qids": [
+        "Q10873124",
+        "Q36180",
+        "Q333634",
+        "Q185351",
+        "Q15958307"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Louis Daguerre",
+      "dates": "1787–1851",
+      "y": 1787,
+      "roles": [
+        "Scientist",
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Louis-Jacques-Mandé Daguerre was a French scientist, artist and photographer recognized for his invention of the eponymous daguerreotype process of photography. He became known as one of the father…",
+      "tldr": "Louis-Jacques-Mandé Daguerre was a French scientist, artist and photographer recognized for his invention of the eponymous daguerreotype process of photography. He became known as one of the fathers of photography. Though he is most famous for his contributions to photography, he was also an accomplished painter, scenic designer, and a developer of the diorama theatre.",
+      "url": "https://en.wikipedia.org/wiki/Louis_Daguerre",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q23011096",
+        "Q33231",
+        "Q1925963",
+        "Q1028181",
+        "Q42973",
+        "Q593644"
+      ],
+      "region": "Europe"
     }
   ]
 }
