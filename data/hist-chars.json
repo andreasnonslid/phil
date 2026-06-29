@@ -6399,6 +6399,508 @@
       "_occupation_qids": [
         "Q695364"
       ]
+    },
+    {
+      "name": "Richard Francis Burton",
+      "dates": "1821–1890",
+      "y": 1821,
+      "roles": [
+        "Explorer",
+        "Military",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Sir Richard Francis Burton was a British explorer, army officer, writer and scholar. He was famed for his travels and explorations in Asia, Africa and South America, as well as his extensive knowle…",
+      "tldr": "Sir Richard Francis Burton was a British explorer, army officer, writer and scholar. He was famed for his travels and explorations in Asia, Africa and South America, as well as his extensive knowledge of languages and cultures, speaking up to 29 different languages.",
+      "url": "https://en.wikipedia.org/wiki/Richard_Francis_Burton",
+      "_country_qids": [
+        "Q145"
+      ],
+      "_occupation_qids": [
+        "Q9352089",
+        "Q14467526",
+        "Q12356615",
+        "Q4773904",
+        "Q49757",
+        "Q2083925",
+        "Q11900058",
+        "Q333634",
+        "Q350979",
+        "Q36180",
+        "Q47064",
+        "Q201788",
+        "Q18805",
+        "Q193391",
+        "Q189290",
+        "Q1734662",
+        "Q1731155",
+        "Q1371378",
+        "Q1344452"
+      ]
+    },
+    {
+      "name": "John Hanning Speke",
+      "dates": "1827–1864",
+      "y": 1827,
+      "roles": [
+        "Explorer",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "John Hanning Speke was an English explorer and army officer who made three exploratory expeditions to Africa. He is most associated with the search for the source of the Nile and, with Richard Burt…",
+      "tldr": "John Hanning Speke was an English explorer and army officer who made three exploratory expeditions to Africa. He is most associated with the search for the source of the Nile and, with Richard Burton, was the first European to reach Lake Victoria.",
+      "url": "https://en.wikipedia.org/wiki/John_Hanning_Speke",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q98544732",
+        "Q2083925",
+        "Q189290",
+        "Q11900058",
+        "Q2374149",
+        "Q36180",
+        "Q47064"
+      ]
+    },
+    {
+      "name": "Şehzade Mustafa",
+      "dates": "1515–1553",
+      "y": 1515,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Middle East",
+      "era": "Early modern (1500–1800)",
+      "desc": "Şehzade Mustafa may refer to:Şehzade Mustafa (1450–1474), Ottoman prince, son of Mehmed II and Gülşah Hatun\nŞehzade Mustafa, Ottoman prince, son of Suleiman the Magnificent and Mahidevran Hatun",
+      "tldr": "Şehzade Mustafa may refer to:Şehzade Mustafa (1450–1474), Ottoman prince, son of Mehmed II and Gülşah Hatun\nŞehzade Mustafa, Ottoman prince, son of Suleiman the Magnificent and Mahidevran Hatun",
+      "url": "https://en.wikipedia.org/wiki/%C5%9Eehzade_Mustafa",
+      "_country_qids": [
+        "Q12560"
+      ],
+      "_occupation_qids": [
+        "Q132050"
+      ]
+    },
+    {
+      "name": "William James",
+      "dates": "1842–1910",
+      "y": 1842,
+      "roles": [
+        "Writer",
+        "Scientist"
+      ],
+      "region": "Americas",
+      "era": "19th century",
+      "desc": "William James was an American philosopher and psychologist. The first educator to offer a psychology course in the United States, he is considered to be one of the leading thinkers of the late 19th…",
+      "tldr": "William James was an American philosopher and psychologist. The first educator to offer a psychology course in the United States, he is considered to be one of the leading thinkers of the late 19th century, one of the most influential philosophers and is often dubbed the \"father of American psychology\".",
+      "url": "https://en.wikipedia.org/wiki/William_James",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q4964182",
+        "Q39631",
+        "Q1622272",
+        "Q212980",
+        "Q36180"
+      ]
+    },
+    {
+      "name": "Pompey",
+      "dates": "105BCE–47BCE",
+      "y": -105,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Gnaeus Pompeius Magnus, known in English as Pompey or Pompey the Great, was a Roman general and statesman who was prominent in the final decades of the Roman Republic. As a young man, he was a part…",
+      "tldr": "Gnaeus Pompeius Magnus, known in English as Pompey or Pompey the Great, was a Roman general and statesman who was prominent in the final decades of the Roman Republic. As a young man, he was a partisan and protégé of the dictator Sulla, after whose death he achieved significant military and political success.",
+      "url": "https://en.wikipedia.org/wiki/Pompey",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q47064"
+      ]
+    },
+    {
+      "name": "Henry Draper",
+      "dates": "1837–1882",
+      "y": 1837,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Americas",
+      "era": "19th century",
+      "desc": "Henry Draper was an American medical doctor and amateur astronomer. He is best known today as a pioneer of astrophotography.",
+      "tldr": "Henry Draper was an American medical doctor and amateur astronomer. He is best known today as a pioneer of astrophotography.",
+      "url": "https://en.wikipedia.org/wiki/Henry_Draper",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q11063",
+        "Q169470",
+        "Q33231",
+        "Q39631",
+        "Q593644"
+      ]
+    },
+    {
+      "name": "William III of the Netherlands",
+      "dates": "1817–1890",
+      "y": 1817,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "William III was King of the Netherlands and Grand Duke of Luxembourg from 1849 until his death in 1890, and was also the Duke of Limburg from 1849 until the abolition of the duchy in 1866. Having r…",
+      "tldr": "William III was King of the Netherlands and Grand Duke of Luxembourg from 1849 until his death in 1890, and was also the Duke of Limburg from 1849 until the abolition of the duchy in 1866. Having reigned for 41 years, he is the second-longest reigning Dutch monarch, only surpassed by his daughter, Wilhelmina.",
+      "url": "https://en.wikipedia.org/wiki/William_III_of_the_Netherlands",
+      "_country_qids": [
+        "Q29999"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q82955",
+        "Q16533",
+        "Q15472169",
+        "Q10732476"
+      ]
+    },
+    {
+      "name": "Methodios I of Constantinople",
+      "dates": "788–847",
+      "y": 788,
+      "roles": [
+        "Religious",
+        "Reformer"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Methodius I of Constantinople or Methodios I was Ecumenical Patriarch of Constantinople from 11 March 843 to 14 June 847. He was born in Syracuse and died in Constantinople.",
+      "tldr": "Methodius I of Constantinople or Methodios I was Ecumenical Patriarch of Constantinople from 11 March 843 to 14 June 847. He was born in Syracuse and died in Constantinople. His feast day is celebrated on June 14 in both the East and the West.",
+      "url": "https://en.wikipedia.org/wiki/Methodios_I_of_Constantinople",
+      "_country_qids": [
+        "Q12544"
+      ],
+      "_occupation_qids": [
+        "Q1234713",
+        "Q42603"
+      ]
+    },
+    {
+      "name": "Petko Slaveykov",
+      "dates": "1827–1895",
+      "y": 1827,
+      "roles": [
+        "Writer",
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Petko Rachov Slaveykov was a Bulgarian poet, publicist, politician and folklorist.",
+      "tldr": "Petko Rachov Slaveykov was a Bulgarian poet, publicist, politician and folklorist.",
+      "url": "https://en.wikipedia.org/wiki/Petko_Slaveykov",
+      "_country_qids": [
+        "Q219"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q1930187",
+        "Q49757",
+        "Q24262584",
+        "Q3075052",
+        "Q333634",
+        "Q36180"
+      ]
+    },
+    {
+      "name": "Sasan",
+      "dates": "200–300",
+      "y": 200,
+      "roles": [
+        "Religious"
+      ],
+      "region": "Middle East",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Sasan, considered the eponymous ancestor of the Sasanian Dynasty in Persia, was \"a great warrior and hunter\" and a Zoroastrian high priest in Pars. He lived sometime near the fall of the Arsacid (P…",
+      "tldr": "Sasan, considered the eponymous ancestor of the Sasanian Dynasty in Persia, was \"a great warrior and hunter\" and a Zoroastrian high priest in Pars. He lived sometime near the fall of the Arsacid (Parthian) Empire in the early 3rd century.",
+      "url": "https://en.wikipedia.org/wiki/Sasan",
+      "_country_qids": [
+        "Q1986139"
+      ],
+      "_occupation_qids": [
+        "Q1250916",
+        "Q3114821"
+      ]
+    },
+    {
+      "name": "Nebuchadnezzar II",
+      "dates": "641BCE–561BCE",
+      "y": -641,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Middle East",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Nebuchadnezzar II, more correctly spelled Nebuchadrezzar II, meaning \"Nabu, watch over my heir\", was the second king of the Neo-Babylonian Empire, ruling from the death of his father Nabopolassar i…",
+      "tldr": "Nebuchadnezzar II, more correctly spelled Nebuchadrezzar II, meaning \"Nabu, watch over my heir\", was the second king of the Neo-Babylonian Empire, ruling from the death of his father Nabopolassar in 605 BC to his own death in 562 BC. Often titled Nebuchadnezzar the Great, he is regarded as the empire's greatest king, famous for his military campaigns in the Levant and their role in Jewish histo…",
+      "url": "https://en.wikipedia.org/wiki/Nebuchadnezzar_II",
+      "_country_qids": [
+        "Q624887"
+      ],
+      "_occupation_qids": [
+        "Q1251441",
+        "Q116",
+        "Q12097"
+      ]
+    },
+    {
+      "name": "Nebuchadnezzar I",
+      "dates": "1200BCE–1103BCE",
+      "y": -1200,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Middle East",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Nebuchadnezzar I was the fourth king of the Second Dynasty of Isin and Fourth Dynasty of Babylon. He ruled for 22 years according to the Babylonian King List C, and was the most prominent monarch o…",
+      "tldr": "Nebuchadnezzar I was the fourth king of the Second Dynasty of Isin and Fourth Dynasty of Babylon. He ruled for 22 years according to the Babylonian King List C, and was the most prominent monarch of this dynasty. He is best known for his victory over Elam and the recovery of the cultic idol of Marduk.",
+      "url": "https://en.wikipedia.org/wiki/Nebuchadnezzar_I",
+      "_country_qids": [
+        "Q47690"
+      ],
+      "_occupation_qids": [
+        "Q2304859"
+      ]
+    },
+    {
+      "name": "James II of England",
+      "dates": "1633–1701",
+      "y": 1633,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "James II and VII was King of England and Ireland as James II and King of Scotland as James VII from February 1685 until he was deposed in the 1688 Glorious Revolution. The last Catholic monarch of …",
+      "tldr": "James II and VII was King of England and Ireland as James II and King of Scotland as James VII from February 1685 until he was deposed in the 1688 Glorious Revolution. The last Catholic monarch of England, Scotland, and Ireland, his reign was marked by conflicts over religion, absolutism and the divine right of kings; his deposition ended a century of political and civil strife by confirming th…",
+      "url": "https://en.wikipedia.org/wiki/James_II_of_England",
+      "_country_qids": [
+        "Q179876",
+        "Q230791"
+      ],
+      "_occupation_qids": [
+        "Q2304859",
+        "Q116",
+        "Q17769800",
+        "Q82955"
+      ]
+    },
+    {
+      "name": "Jurji Zaydan",
+      "dates": "1861–1914",
+      "y": 1861,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Middle East",
+      "era": "19th century",
+      "desc": "Jurji Zaydan was a prolific Lebanese novelist, journalist, editor and teacher, most noted for his creation of the magazine Al-Hilal, which he used to serialize his twenty three historical novels.",
+      "tldr": "Jurji Zaydan was a prolific Lebanese novelist, journalist, editor and teacher, most noted for his creation of the magazine Al-Hilal, which he used to serialize his twenty three historical novels.",
+      "url": "https://en.wikipedia.org/wiki/Jurji_Zaydan",
+      "_country_qids": [
+        "Q12560"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q37226",
+        "Q36180",
+        "Q1930187",
+        "Q124634459",
+        "Q6625963"
+      ]
+    },
+    {
+      "name": "Thomas Paine",
+      "dates": "1737–1809",
+      "y": 1737,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "Thomas Paine was an English-born American Founding Father, inventor, political philosopher, and statesman. His pamphlets Common Sense (1776) and The American Crisis (1776–1783) framed the Patriot a…",
+      "tldr": "Thomas Paine was an English-born American Founding Father, inventor, political philosopher, and statesman. His pamphlets Common Sense (1776) and The American Crisis (1776–1783) framed the Patriot argument for independence from Great Britain at the outset of the American Revolution. Paine advanced Enlightenment-era arguments for human rights that shaped revolutionary discourse on both sides of t…",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Paine",
+      "_country_qids": [
+        "Q142",
+        "Q161885",
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q6051619",
+        "Q36180",
+        "Q82955",
+        "Q4964182",
+        "Q12144794",
+        "Q1930187",
+        "Q131524"
+      ]
+    },
+    {
+      "name": "Su Song",
+      "dates": "1020–1101",
+      "y": 1020,
+      "roles": [
+        "Scientist",
+        "Ruler"
+      ],
+      "region": "East Asia",
+      "era": "Medieval (500–1500)",
+      "desc": "Su Song, courtesy name Zirong, was a Chinese polymathic scientist and statesman who lived during the Song dynasty (960–1279). He excelled in numerous fields including but not limited to mathematics…",
+      "tldr": "Su Song, courtesy name Zirong, was a Chinese polymathic scientist and statesman who lived during the Song dynasty (960–1279). He excelled in numerous fields including but not limited to mathematics, astronomy, cartography, geography, metallurgy, mechanical engineering, hydraulic engineering, poetry, and statesmanship.",
+      "url": "https://en.wikipedia.org/wiki/Su_Song",
+      "_country_qids": [
+        "Q319460",
+        "Q7462"
+      ],
+      "_occupation_qids": [
+        "Q170790",
+        "Q1734662",
+        "Q18576582",
+        "Q155647",
+        "Q13582652",
+        "Q18805",
+        "Q193391",
+        "Q205375",
+        "Q11063",
+        "Q2374149",
+        "Q350979",
+        "Q39631",
+        "Q105186",
+        "Q42973",
+        "Q49757",
+        "Q4964182",
+        "Q82955"
+      ]
+    },
+    {
+      "name": "Wilhelm Ostwald",
+      "dates": "1853–1932",
+      "y": 1853,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Wilhelm Friedrich Ostwald was a Baltic German chemist and philosopher. Ostwald is credited with being one of the founders of the field of physical chemistry, with Jacobus Henricus van 't Hoff, Walt…",
+      "tldr": "Wilhelm Friedrich Ostwald was a Baltic German chemist and philosopher. Ostwald is credited with being one of the founders of the field of physical chemistry, with Jacobus Henricus van 't Hoff, Walther Nernst and Svante Arrhenius. He received the Nobel Prize in Chemistry in 1909 for his scientific contributions to the fields of catalysis, chemical equilibria and reaction velocities.",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Ostwald",
+      "_country_qids": [
+        "Q183",
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q1622272",
+        "Q593644",
+        "Q4964182",
+        "Q18805",
+        "Q1028181",
+        "Q37226",
+        "Q36180",
+        "Q169470",
+        "Q205375",
+        "Q860918",
+        "Q27496075",
+        "Q2306091"
+      ]
+    },
+    {
+      "name": "William Hazlitt",
+      "dates": "1778–1830",
+      "y": 1778,
+      "roles": [
+        "Artist",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "William Hazlitt was an English essayist, drama and literary critic, painter, social commentator, and philosopher. He is now considered one of the greatest critics and essayists in the history of th…",
+      "tldr": "William Hazlitt was an English essayist, drama and literary critic, painter, social commentator, and philosopher. He is now considered one of the greatest critics and essayists in the history of the English language, placed in the company of Samuel Johnson and George Orwell. He is also acknowledged as the finest art critic of his age.",
+      "url": "https://en.wikipedia.org/wiki/William_Hazlitt",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q1028181",
+        "Q4263842",
+        "Q4964182",
+        "Q6430706",
+        "Q333634",
+        "Q36180",
+        "Q1930187",
+        "Q13570226",
+        "Q11774202"
+      ]
+    },
+    {
+      "name": "Robert Baden-Powell, 1st Baron Baden-Powell",
+      "dates": "1857–1941",
+      "y": 1857,
+      "roles": [
+        "Military",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Lieutenant-General Robert Stephenson Smyth Baden-Powell, 1st Baron Baden-Powell, was a British Army officer, writer, founder of The Boy Scouts Association and its first Chief Scout, and founder, wi…",
+      "tldr": "Lieutenant-General Robert Stephenson Smyth Baden-Powell, 1st Baron Baden-Powell, was a British Army officer, writer, founder of The Boy Scouts Association and its first Chief Scout, and founder, with his sister Agnes, of The Girl Guides Association. Baden-Powell wrote Scouting for Boys, which with his previous books – such as his 1884 Reconnaissance and Scouting and his 1899 Aids to Scouting fo…",
+      "url": "https://en.wikipedia.org/wiki/Robert_Baden-Powell%2C_1st_Baron_Baden-Powell",
+      "_country_qids": [
+        "Q145"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q872181",
+        "Q189290",
+        "Q36180",
+        "Q2540793"
+      ]
+    },
+    {
+      "name": "Ivan Paskevich",
+      "dates": "1782–1856",
+      "y": 1782,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Count Ivan Fyodorovich Paskevich-Erevansky, Serene Prince of Warsaw was a Russian military leader who was the namiestnik of Poland.",
+      "tldr": "Count Ivan Fyodorovich Paskevich-Erevansky, Serene Prince of Warsaw was a Russian military leader who was the namiestnik of Poland.",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Paskevich",
+      "_country_qids": [
+        "Q34266",
+        "Q172107"
+      ],
+      "_occupation_qids": [
+        "Q189290",
+        "Q82955"
+      ]
     }
   ]
 }
