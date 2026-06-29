@@ -5907,6 +5907,498 @@
         "Q3055126",
         "Q2374149"
       ]
+    },
+    {
+      "name": "George Gershwin",
+      "dates": "1898–1937",
+      "y": 1898,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "region": "Americas",
+      "desc": "George Gershwin was an American composer and pianist whose compositions spanned jazz, popular and classical music. Among his best-known works are the songs \"Swanee\" (1919) and \"Fascinating Rhythm\" …",
+      "tldr": "George Gershwin was an American composer and pianist whose compositions spanned jazz, popular and classical music. Among his best-known works are the songs \"Swanee\" (1919) and \"Fascinating Rhythm\" (1924), the orchestral compositions Rhapsody in Blue (1924) and An American in Paris (1928), the jazz standards \"Embraceable You\" (1928) and \"I Got Rhythm\" (1930) and the opera Porgy and Bess (1935), …",
+      "url": "https://en.wikipedia.org/wiki/George_Gershwin",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q61947380",
+        "Q1028181",
+        "Q753110",
+        "Q1415090",
+        "Q158852",
+        "Q36834",
+        "Q486748"
+      ]
+    },
+    {
+      "name": "Heinrich Bullinger",
+      "dates": "1504–1575",
+      "y": 1504,
+      "roles": [
+        "Religious",
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Heinrich Bullinger was a Swiss Reformer and theologian, the successor of Huldrych Zwingli as head of the Church of Zürich and a pastor at the Grossmünster. One of the most important leaders of the …",
+      "tldr": "Heinrich Bullinger was a Swiss Reformer and theologian, the successor of Huldrych Zwingli as head of the Church of Zürich and a pastor at the Grossmünster. One of the most important leaders of the Swiss Reformation, Bullinger co-authored the Helvetic Confessions and collaborated with John Calvin to work out a Reformed doctrine of the Lord's Supper.",
+      "url": "https://en.wikipedia.org/wiki/Heinrich_Bullinger",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q432386",
+        "Q201788",
+        "Q214917",
+        "Q36180",
+        "Q98833883",
+        "Q763779"
+      ]
+    },
+    {
+      "name": "Johann Jakob Bachofen",
+      "dates": "1815–1887",
+      "y": 1815,
+      "roles": [
+        "Writer",
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Johann Jakob Bachofen was a Swiss antiquarian, jurist, philologist, anthropologist, and professor of Roman law at the University of Basel from 1841 to 1844.",
+      "tldr": "Johann Jakob Bachofen was a Swiss antiquarian, jurist, philologist, anthropologist, and professor of Roman law at the University of Basel from 1841 to 1844.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Jakob_Bachofen",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q63952000",
+        "Q2468727",
+        "Q36180",
+        "Q1792450",
+        "Q2306091",
+        "Q201788",
+        "Q185351",
+        "Q16533",
+        "Q3621491",
+        "Q61831758",
+        "Q1402736",
+        "Q16012028",
+        "Q1622272",
+        "Q4964182"
+      ]
+    },
+    {
+      "name": "Marquis de Sade",
+      "dates": "1740–1814",
+      "y": 1740,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Donatien Alphonse François, Marquis de Sade was a French writer, libertine, political activist, and nobleman best known for his libertine novels and imprisonment for sex crimes, blasphemy, and porn…",
+      "tldr": "Donatien Alphonse François, Marquis de Sade was a French writer, libertine, political activist, and nobleman best known for his libertine novels and imprisonment for sex crimes, blasphemy, and pornography. His works include novels, short stories, plays, dialogues, and political tracts. Some of these were published under his own name during his lifetime, but most appeared anonymously or posthumo…",
+      "url": "https://en.wikipedia.org/wiki/Marquis_de_Sade",
+      "_country_qids": [
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q4964182",
+        "Q6625963",
+        "Q36180",
+        "Q214917",
+        "Q12144794"
+      ]
+    },
+    {
+      "name": "Carl Nägeli",
+      "dates": "1817–1891",
+      "y": 1817,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Carl Wilhelm von Nägeli was a Swiss botanist. He studied cell division and pollination but became known as the man who discouraged Gregor Mendel from further work on genetics.",
+      "tldr": "Carl Wilhelm von Nägeli was a Swiss botanist. He studied cell division and pollination but became known as the man who discouraged Gregor Mendel from further work on genetics. He rejected natural selection as a mechanism of evolution, favouring orthogenesis, though the term was only coined in 1893, two years after his death, driven by a supposed \"inner perfecting principle\".",
+      "url": "https://en.wikipedia.org/wiki/Carl_N%C3%A4geli",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q98544732",
+        "Q1622272",
+        "Q2083925",
+        "Q864503",
+        "Q593644",
+        "Q39631",
+        "Q2487799",
+        "Q2374149"
+      ]
+    },
+    {
+      "name": "Henri-Frédéric Amiel",
+      "dates": "1821–1881",
+      "y": 1821,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Henri Frédéric Amiel was a Swiss moral philosopher, poet, and critic.",
+      "tldr": "Henri Frédéric Amiel was a Swiss moral philosopher, poet, and critic.",
+      "url": "https://en.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q1622272",
+        "Q18939491",
+        "Q333634",
+        "Q36180",
+        "Q4263842",
+        "Q4964182"
+      ]
+    },
+    {
+      "name": "Johann Kaspar Lavater",
+      "dates": "1741–1801",
+      "y": 1741,
+      "roles": [
+        "Writer",
+        "Religious"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Johann Kaspar Lavater was a Swiss poet, writer, philosopher, physiognomist and Reformed theologian.",
+      "tldr": "Johann Kaspar Lavater was a Swiss poet, writer, philosopher, physiognomist and Reformed theologian.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Kaspar_Lavater",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q1231865",
+        "Q8142883",
+        "Q644687",
+        "Q49757",
+        "Q4964182",
+        "Q36180",
+        "Q152002",
+        "Q1028181",
+        "Q1234713",
+        "Q955464"
+      ]
+    },
+    {
+      "name": "Alexandre Yersin",
+      "dates": "1863–1943",
+      "y": 1863,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Alexandre Émile John Yersin was a Swiss-French physician and bacteriologist. He is remembered for his work as a pioneer in microbiology and immunology.",
+      "tldr": "Alexandre Émile John Yersin was a Swiss-French physician and bacteriologist. He is remembered for his work as a pioneer in microbiology and immunology. Yersin is the co-discoverer of both the Diphtheria and Tetanus toxins and of the bacillus responsible for the bubonic plague.",
+      "url": "https://en.wikipedia.org/wiki/Alexandre_Yersin",
+      "_country_qids": [
+        "Q142",
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q15816836",
+        "Q1781198",
+        "Q39631",
+        "Q864503",
+        "Q11900058"
+      ]
+    },
+    {
+      "name": "Jakob Friedrich Ehrhart",
+      "dates": "1742–1795",
+      "y": 1742,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Jakob Friedrich Ehrhart was a German botanist, a pupil of Carl Linnaeus at Uppsala University, and later director of the Botanical Garden of Hannover, where he produced several major botanical work…",
+      "tldr": "Jakob Friedrich Ehrhart was a German botanist, a pupil of Carl Linnaeus at Uppsala University, and later director of the Botanical Garden of Hannover, where he produced several major botanical works between 1780 and 1793. Ehrhart was the first author to use the rank of subspecies in botanical literature, and he published many subspecific names between 1780 and 1789. Ehrhart issued several exsic…",
+      "url": "https://en.wikipedia.org/wiki/Jakob_Friedrich_Ehrhart",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q2374149",
+        "Q98544732",
+        "Q2487799",
+        "Q105186",
+        "Q16334507",
+        "Q16334509",
+        "Q2083925"
+      ]
+    },
+    {
+      "name": "Nicolaus II Bernoulli",
+      "dates": "1695–1726",
+      "y": 1695,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Nicolaus II Bernoulli was a Swiss mathematician as were his father Johann Bernoulli and one of his brothers, Daniel Bernoulli. He was one of the many prominent mathematicians in the Bernoulli family.",
+      "tldr": "Nicolaus II Bernoulli was a Swiss mathematician as were his father Johann Bernoulli and one of his brothers, Daniel Bernoulli. He was one of the many prominent mathematicians in the Bernoulli family.",
+      "url": "https://en.wikipedia.org/wiki/Nicolaus_II_Bernoulli",
+      "_country_qids": [
+        "Q34266",
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q185351",
+        "Q170790",
+        "Q1622272"
+      ]
+    },
+    {
+      "name": "Jost Bürgi",
+      "dates": "1552–1632",
+      "y": 1552,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Jost Bürgi, active primarily at the courts in Kassel and Prague, was a Swiss clockmaker, mathematician, and writer. Burgi was the brother-in-law and adoptive father of Benjamin Bramer.",
+      "tldr": "Jost Bürgi, active primarily at the courts in Kassel and Prague, was a Swiss clockmaker, mathematician, and writer. Burgi was the brother-in-law and adoptive father of Benjamin Bramer.",
+      "url": "https://en.wikipedia.org/wiki/Jost_B%C3%BCrgi",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q109181161",
+        "Q11063",
+        "Q157798",
+        "Q170790",
+        "Q2700922"
+      ]
+    },
+    {
+      "name": "Jean Charles Léonard de Sismondi",
+      "dates": "1773–1842",
+      "y": 1773,
+      "roles": [
+        "Writer",
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Jean Charles Léonard de Sismondi, also known as Jean Charles Leonard Simonde de Sismondi, whose real surname was Simonde, was a Swiss historian and political economist, who is best known for his wo…",
+      "tldr": "Jean Charles Léonard de Sismondi, also known as Jean Charles Leonard Simonde de Sismondi, whose real surname was Simonde, was a Swiss historian and political economist, who is best known for his works on French and Italian history, and his economic ideas. His Nouveaux principes d'économie politique, ou de la richesse dans ses rapports avec la population (1819) represents the first liberal criti…",
+      "url": "https://en.wikipedia.org/wiki/Jean_Charles_L%C3%A9onard_de_Sismondi",
+      "_country_qids": [
+        "Q39",
+        "Q142",
+        "Q23366230"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q2374149",
+        "Q201788",
+        "Q188094",
+        "Q1227195"
+      ]
+    },
+    {
+      "name": "Niels Henrik Abel",
+      "dates": "1802–1829",
+      "y": 1802,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Niels Henrik Abel was a Norwegian mathematician who made pioneering contributions in a variety of fields. His most famous single result is the first complete proof demonstrating the impossibility o…",
+      "tldr": "Niels Henrik Abel was a Norwegian mathematician who made pioneering contributions in a variety of fields. His most famous single result is the first complete proof demonstrating the impossibility of solving the general quintic equation in radicals. This question was one of the outstanding open problems of his day, and had been unresolved for over 250 years.",
+      "url": "https://en.wikipedia.org/wiki/Niels_Henrik_Abel",
+      "_country_qids": [
+        "Q20"
+      ],
+      "_occupation_qids": [
+        "Q1622272",
+        "Q170790"
+      ]
+    },
+    {
+      "name": "Hasan-i Sabbah",
+      "dates": "1037–1124",
+      "y": 1037,
+      "roles": [
+        "Ruler",
+        "Military",
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Middle East",
+      "desc": "Hasan-i Sabbah, also known as Hasan I of Alamut, was a military leader, founder of the Nizari Ismai'li sect, Order of Assassins, as well as the Nizari Ismaili state, ruling from 1090 to 1124 AD.",
+      "tldr": "Hasan-i Sabbah, also known as Hasan I of Alamut, was a military leader, founder of the Nizari Ismai'li sect, Order of Assassins, as well as the Nizari Ismaili state, ruling from 1090 to 1124 AD.",
+      "url": "https://en.wikipedia.org/wiki/Hasan-i_Sabbah",
+      "_country_qids": [
+        "Q3708094",
+        "Q160307",
+        "Q6563843"
+      ],
+      "_occupation_qids": [
+        "Q1402561",
+        "Q132050",
+        "Q1999841",
+        "Q4964182",
+        "Q37226",
+        "Q36180",
+        "Q3133901",
+        "Q18814623",
+        "Q170790",
+        "Q15995642",
+        "Q155647",
+        "Q11063",
+        "Q82955",
+        "Q967769",
+        "Q1234713"
+      ]
+    },
+    {
+      "name": "Pius VII",
+      "dates": "1742–1823",
+      "y": 1742,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Pope Pius VII was head of the Catholic Church from 14 March 1800 to his death in August 1823. He was the leader of the Papal States from June 1800 to 17 May 1809 and again from 1814 to his death.",
+      "tldr": "Pope Pius VII was head of the Catholic Church from 14 March 1800 to his death in August 1823. He was the leader of the Papal States from June 1800 to 17 May 1809 and again from 1814 to his death. Chiaramonti was also a monk of the Order of Saint Benedict in addition to being a well-known theologian and bishop.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Pius_VII",
+      "_country_qids": [
+        "Q170174"
+      ],
+      "_occupation_qids": [
+        "Q611644",
+        "Q250867",
+        "Q97722145"
+      ]
+    },
+    {
+      "name": "Pietro Locatelli",
+      "dates": "1695–1764",
+      "y": 1695,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Pietro Antonio Locatelli was an Italian Baroque composer and violinist.",
+      "tldr": "Pietro Antonio Locatelli was an Italian Baroque composer and violinist.",
+      "url": "https://en.wikipedia.org/wiki/Pietro_Locatelli",
+      "_country_qids": [
+        "Q4948",
+        "Q170072"
+      ],
+      "_occupation_qids": [
+        "Q36834",
+        "Q1259917"
+      ]
+    },
+    {
+      "name": "Jean-Louis Guez de Balzac",
+      "dates": "1597–1654",
+      "y": 1597,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Jean-Louis Guez de Balzac was a French author in Baroque Précieuses style, best known for his epistolary essays, which were widely circulated and read in his day. He was one of the founding members…",
+      "tldr": "Jean-Louis Guez de Balzac was a French author in Baroque Précieuses style, best known for his epistolary essays, which were widely circulated and read in his day. He was one of the founding members of the Académie française.",
+      "url": "https://en.wikipedia.org/wiki/Jean-Louis_Guez_de_Balzac",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q201788",
+        "Q36180"
+      ]
+    },
+    {
+      "name": "Thomas Fuller",
+      "dates": "1608–1661",
+      "y": 1608,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "region": "Europe",
+      "desc": "Thomas Fuller was an English churchman and historian. He is now remembered for his writings, particularly his Worthies of England, published in 1662, after his death.",
+      "tldr": "Thomas Fuller was an English churchman and historian. He is now remembered for his writings, particularly his Worthies of England, published in 1662, after his death. He was a prolific author, and one of the first English writers able to live by his pen.",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Fuller",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q201788",
+        "Q36180"
+      ]
+    },
+    {
+      "name": "Edmond de Goncourt",
+      "dates": "1822–1896",
+      "y": 1822,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "region": "Europe",
+      "desc": "Edmond Louis Antoine Huot de Goncourt was a French writer, literary critic, art critic, book publisher and the founder of the Académie Goncourt.",
+      "tldr": "Edmond Louis Antoine Huot de Goncourt was a French writer, literary critic, art critic, book publisher and the founder of the Académie Goncourt.",
+      "url": "https://en.wikipedia.org/wiki/Edmond_de_Goncourt",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q214917",
+        "Q10732476",
+        "Q4263842",
+        "Q36180",
+        "Q1792450",
+        "Q18939491",
+        "Q201788",
+        "Q6430706",
+        "Q49757"
+      ]
+    },
+    {
+      "name": "Frederick the Fair",
+      "dates": "1289–1330",
+      "y": 1289,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "region": "Europe",
+      "desc": "Frederick the Fair or the Handsome, from the House of Habsburg, was the duke of Austria and Styria from 1308 as well as the anti-king of Germany from 1314 until 1325 and then co-king until his death.",
+      "tldr": "Frederick the Fair or the Handsome, from the House of Habsburg, was the duke of Austria and Styria from 1308 as well as the anti-king of Germany from 1314 until 1325 and then co-king until his death.",
+      "url": "https://en.wikipedia.org/wiki/Frederick_the_Fair",
+      "_country_qids": [
+        "Q3624335"
+      ],
+      "_occupation_qids": [
+        "Q695364"
+      ]
     }
   ]
 }
