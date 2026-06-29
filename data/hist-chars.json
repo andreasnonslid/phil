@@ -8315,6 +8315,436 @@
         "Q372436"
       ],
       "region": "Africa"
+    },
+    {
+      "name": "Edward III of England",
+      "dates": "1312–1377",
+      "y": 1312,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Edward III was King of England from 1327 to 1377, known for his military success and for transforming England into one of Europe's most formidable military powers.",
+      "tldr": "Edward III was King of England from January 1327 until his death in 1377. He is noted for his military success and for restoring royal authority after the disastrous reign of his father, Edward II. Edward III transformed the Kingdom of England into one of the most formidable military powers in Europe. He is also credited with founding the Order of the Garter and initiating the Hundred Years' War with France.",
+      "url": "https://en.wikipedia.org/wiki/Edward_III",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q11573099"
+      ]
+    },
+    {
+      "name": "John, King of England",
+      "dates": "1166–1216",
+      "y": 1166,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "John was King of England from 1199 to 1216, whose reign saw the sealing of Magna Carta and the collapse of the Angevin Empire in France.",
+      "tldr": "John was King of England from 1199 until his death in 1216. He lost the Duchy of Normandy and most of his other French lands to King Philip II of France, resulting in the collapse of the Angevin Empire and contributing to the subsequent growth in power of the French Capetian dynasty during the 13th century. The baronial revolt at the end of John's reign led to the sealing of Magna Carta, a document of great historical importance in the development of constitutional law.",
+      "url": "https://en.wikipedia.org/wiki/John%2C_King_of_England",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ]
+    },
+    {
+      "name": "Étienne Lenoir",
+      "dates": "1822–1900",
+      "y": 1822,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Jean Joseph Étienne Lenoir was a Belgian-French engineer who invented the internal combustion engine in 1858.",
+      "tldr": "Jean Joseph Étienne Lenoir was a Belgian-French engineer who invented the internal combustion engine in 1858. Prior designs for such engines were patented as early as 1807 and 1854. His engine used illuminating gas and was the first to be produced commercially, with several hundred built before 1865.",
+      "url": "https://en.wikipedia.org/wiki/%C3%89tienne_Lenoir",
+      "_country_qids": [
+        "Q31",
+        "Q32"
+      ],
+      "_occupation_qids": [
+        "Q205375",
+        "Q5352191",
+        "Q48351861",
+        "Q2860259",
+        "Q215536"
+      ]
+    },
+    {
+      "name": "James Barry",
+      "dates": "1789–1865",
+      "y": 1789,
+      "roles": [
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "James Barry was a British military surgeon and Inspector General of Hospitals, one of the first women to practise medicine in Britain under a male identity.",
+      "tldr": "James Barry was a British military surgeon who rose to the rank of Inspector General of Hospitals. Born Margaret Ann Bulkley, Barry lived as a man for decades, becoming one of the first women to practise medicine in Britain. Barry performed one of the earliest successful caesarean sections and was renowned for improving conditions for soldiers and the poor in colonial postings across the British Empire.",
+      "url": "https://en.wikipedia.org/wiki/James_Barry",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q4002666",
+        "Q774306"
+      ]
+    },
+    {
+      "name": "Leopold II of Belgium",
+      "dates": "1835–1909",
+      "y": 1835,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Leopold II was the second king of the Belgians from 1865 to 1909, and the founder and sole owner of the Congo Free State, infamous for brutal exploitation of its people.",
+      "tldr": "Leopold II was the second king of the Belgians from 1865 to 1909, and the founder and sole owner of the Congo Free State from 1885 to 1908. His regime in the Congo was responsible for the deaths of millions through forced labour and atrocities. International pressure eventually forced him to cede the territory to Belgium in 1908.",
+      "url": "https://en.wikipedia.org/wiki/Leopold_II_of_Belgium",
+      "_country_qids": [
+        "Q31"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ]
+    },
+    {
+      "name": "Leopold I of Belgium",
+      "dates": "1790–1865",
+      "y": 1790,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Leopold I was the first king of the Belgians, reigning from 1831 until his death in 1865 after being chosen by the Belgian National Congress.",
+      "tldr": "Leopold I was the first king of the Belgians, reigning from 21 July 1831 until his death in 1865. He had previously served as a general in Russian service during the Napoleonic Wars. After declining the Greek throne, he accepted the Belgian crown and steered the new state through its early years with skill, strengthening its constitutional monarchy.",
+      "url": "https://en.wikipedia.org/wiki/Leopold_I_of_Belgium",
+      "_country_qids": [
+        "Q700663",
+        "Q31",
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q2478141",
+        "Q82955",
+        "Q47064"
+      ]
+    },
+    {
+      "name": "Xenophon",
+      "dates": "430BCE–353BCE",
+      "y": -430,
+      "roles": [
+        "Writer",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Xenophon of Athens was a Greek military leader, historian, and philosopher, best known for leading the Ten Thousand mercenaries back to Greece after their stranding deep in Persia.",
+      "tldr": "Xenophon of Athens was a Greek military leader, philosopher, and historian. At the age of 30, he was elected as one of the leaders of the retreating Greek mercenaries, the Ten Thousand, who had been part of Cyrus the Younger's attempt to seize control of the Achaemenid Empire. His account of this retreat, the Anabasis, became one of the most influential military memoirs of antiquity. He also wrote Socratic dialogues and histories of Greece.",
+      "url": "https://en.wikipedia.org/wiki/Xenophon",
+      "_country_qids": [
+        "Q844930"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q4964182",
+        "Q47064",
+        "Q201788",
+        "Q178197"
+      ]
+    },
+    {
+      "name": "Empress Amélie of Brazil",
+      "dates": "1812–1873",
+      "y": 1812,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Americas",
+      "era": "19th century",
+      "desc": "Amélie of Leuchtenberg was Empress of Brazil as the wife of Pedro I, the first Emperor of Brazil.",
+      "tldr": "Amélie of Leuchtenberg was Empress of Brazil as the wife of Pedro I of Brazil. She was the daughter of Eugène de Beauharnais, stepson of Napoleon I. She accompanied Pedro I during his abdication and followed him to Portugal where he fought for his daughter Maria II's rights. She was noted for her charitable work and dignity during political upheaval.",
+      "url": "https://en.wikipedia.org/wiki/Am%C3%A9lie_of_Leuchtenberg",
+      "_country_qids": [
+        "Q142",
+        "Q172579",
+        "Q45670"
+      ],
+      "_occupation_qids": [
+        "Q5784340"
+      ]
+    },
+    {
+      "name": "Francis I of France",
+      "dates": "1494–1547",
+      "y": 1494,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Francis I was King of France from 1515 to 1547, a Renaissance patron who brought Italian artists and scholars to his court and waged long rivalry with Holy Roman Emperor Charles V.",
+      "tldr": "Francis I was King of France from 1515 until his death in 1547. He was the son of Charles, Count of Angoulême, and Louise of Savoy. He succeeded his first cousin once removed and father-in-law Louis XII. Francis was a key figure of the French Renaissance, patronising artists like Leonardo da Vinci and waging the Italian Wars against the Habsburgs.",
+      "url": "https://en.wikipedia.org/wiki/Francis_I_of_France",
+      "_country_qids": [
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ]
+    },
+    {
+      "name": "William III of England",
+      "dates": "1650–1702",
+      "y": 1650,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "William III, also known as William of Orange, was King of England, Scotland, and Ireland from 1689 and Dutch stadtholder, who led the Glorious Revolution.",
+      "tldr": "William III and II, also known as William of Orange, was the sovereign Prince of Orange from birth, Stadtholder of Holland, Zeeland, Utrecht, Guelders, and Overijssel in the Dutch Republic from 1672, and King of England, Ireland, and Scotland from 1689 until his death in 1702. He ruled jointly with his wife, Queen Mary II, until her death in 1694. His Glorious Revolution reshaped the British constitutional monarchy.",
+      "url": "https://en.wikipedia.org/wiki/William_III_of_England",
+      "_country_qids": [
+        "Q179876",
+        "Q170072"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q116"
+      ]
+    },
+    {
+      "name": "Frederick II, Holy Roman Emperor",
+      "dates": "1195–1250",
+      "y": 1195,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Frederick II was Holy Roman Emperor from 1220, King of Sicily, Germany, Jerusalem, and Italy — a polymath ruler known as Stupor Mundi, the wonder of the world.",
+      "tldr": "Frederick II was King of Sicily from 1198, King of Germany from 1212, King of Italy and Holy Roman Emperor from 1220, and King of Jerusalem from 1225 to 1228. He was the son of Emperor Henry VI of the Hohenstaufen dynasty and Queen Constance I of Sicily. A scholar in multiple languages, he wrote a landmark treatise on falconry and fostered a multicultural court in Palermo.",
+      "url": "https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q12548",
+        "Q188586"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q36180",
+        "Q2304859",
+        "Q116"
+      ]
+    },
+    {
+      "name": "Giovanni Losi",
+      "dates": "1838–1882",
+      "y": 1838,
+      "roles": [
+        "Religious"
+      ],
+      "region": "Africa",
+      "era": "19th century",
+      "desc": "Giovanni Losi was an Italian Catholic priest and Comboni missionary who served in South Sudan, ministering under extreme hardship in Central Africa.",
+      "tldr": "Giovanni Losi M.C.C.I. was an Italian Catholic priest and member of the Comboni Missionaries of the Heart of Jesus. He spent the majority of his ministry in South Sudan, working in difficult conditions in Central Africa. He is venerated for his dedication to spreading Christianity and providing pastoral care in remote regions of Africa.",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Losi",
+      "_country_qids": [
+        "Q172579"
+      ],
+      "_occupation_qids": [
+        "Q219477",
+        "Q250867"
+      ]
+    },
+    {
+      "name": "Thomas Stamford Raffles",
+      "dates": "1781–1826",
+      "y": 1781,
+      "roles": [
+        "Ruler",
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Sir Thomas Stamford Raffles was a British colonial official and naturalist who founded modern Singapore and served as governor in the Dutch East Indies.",
+      "tldr": "Sir Thomas Stamford Bingley Raffles was a British colonial official who served as the governor of the Dutch East Indies between 1811 and 1816 and lieutenant-governor of Bencoolen between 1818 and 1824. He founded modern Singapore in 1819. Raffles was also a keen naturalist who co-founded the Zoological Society of London and had many species named after him.",
+      "url": "https://en.wikipedia.org/wiki/Stamford_Raffles",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q12356615",
+        "Q2083925",
+        "Q98544732",
+        "Q82955",
+        "Q2374149",
+        "Q17765219",
+        "Q12526417",
+        "Q1225716"
+      ]
+    },
+    {
+      "name": "Maria Zankovetska",
+      "dates": "1854–1934",
+      "y": 1854,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Maria Zankovetska was a pioneering Ukrainian theater actress regarded as one of the greatest performers in Ukrainian theatrical history.",
+      "tldr": "Maria Kostiantynivna Adasovska, better known under her pseudonym Maria Zankovetska, was a Ukrainian theater actress. Some sources date her birth to 3 August 1860. She is regarded as the greatest actress in the history of Ukrainian theater and played leading roles in many Ukrainian dramatic productions during a period when Ukrainian culture faced significant suppression.",
+      "url": "https://en.wikipedia.org/wiki/Maria_Zankovetska",
+      "_country_qids": [
+        "Q133356",
+        "Q34266",
+        "Q243610",
+        "Q15180"
+      ],
+      "_occupation_qids": [
+        "Q2259451",
+        "Q10800557",
+        "Q33999"
+      ]
+    },
+    {
+      "name": "Bartolomeu Dias",
+      "dates": "1467–1500",
+      "y": 1467,
+      "roles": [
+        "Explorer"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Bartolomeu Dias was a Portuguese explorer who in 1488 became the first European to round the southern tip of Africa, proving a sea route to Asia was possible.",
+      "tldr": "Bartolomeu Dias was a Portuguese mariner and explorer. In February 1488, he became the first European navigator to round the southern tip of Africa and to demonstrate that the most effective southward route for ships is in the open ocean, well to the west of the African coast. His discoveries were later used by Vasco da Gama to establish a sea route between Europe and Asia.",
+      "url": "https://en.wikipedia.org/wiki/Bartolomeu_Dias",
+      "_country_qids": [
+        "Q45670"
+      ],
+      "_occupation_qids": [
+        "Q11900058"
+      ]
+    },
+    {
+      "name": "Sophia of Nassau",
+      "dates": "1836–1913",
+      "y": 1836,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Sophia of Nassau was Queen of Sweden and Norway as wife of King Oscar II, the longest-serving queen in Swedish history until 2011.",
+      "tldr": "Sophia of Nassau, also Sofia, was Queen of Sweden and Norway as the wife of King Oscar II. She was Queen of Sweden for 35 years, longer than anyone before her, and the longest-serving queen until 2011, when she was surpassed by Queen Silvia. She is also the most recent woman to have been officially Dowager Queen of Sweden.",
+      "url": "https://en.wikipedia.org/wiki/Sophia_of_Nassau",
+      "_country_qids": [
+        "Q836680"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ]
+    },
+    {
+      "name": "Louise of the Netherlands",
+      "dates": "1828–1871",
+      "y": 1828,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Louise of the Netherlands, also called Lovisa, was Queen of Sweden and Norway from 1859 until her death in 1871 as wife of King Charles XV & IV.",
+      "tldr": "Louise of the Netherlands, also called Lovisa, was Queen of Sweden and Norway from 8 July 1859 until her death in 1871 as the wife of King Charles XV & IV. She was born a Dutch princess and became one of the most beloved queens of Sweden, known for her charm and grace at court. Her early death at age 42 was mourned widely across Scandinavia.",
+      "url": "https://en.wikipedia.org/wiki/Louise_of_the_Netherlands",
+      "_country_qids": [
+        "Q29999"
+      ],
+      "_occupation_qids": [
+        "Q5784340",
+        "Q333634"
+      ]
+    },
+    {
+      "name": "Hieronymus Bosch",
+      "dates": "1450–1516",
+      "y": 1450,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Hieronymus Bosch was a Dutch painter from Brabant known for his fantastical, moralistic imagery blending religious themes with nightmarish surreal scenes.",
+      "tldr": "Hieronymus Bosch was a Dutch painter from Brabant. He is one of the most notable representatives of the Early Netherlandish painting school. His work, generally oil on oak wood, mainly contains fantastic illustrations of religious concepts and narratives. His most famous work, The Garden of Earthly Delights, remains one of the most complex and debated triptychs in art history.",
+      "url": "https://en.wikipedia.org/wiki/Hieronymus_Bosch",
+      "_country_qids": [
+        "Q27996474"
+      ],
+      "_occupation_qids": [
+        "Q2079935",
+        "Q3391743",
+        "Q15296811",
+        "Q1028181"
+      ]
+    },
+    {
+      "name": "George IV of the United Kingdom",
+      "dates": "1762–1830",
+      "y": 1762,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "George IV was King of the United Kingdom from 1820 to 1830, having previously served as Prince Regent during his father's mental illness from 1811.",
+      "tldr": "George IV was King of the United Kingdom of Great Britain and Ireland and King of Hanover from 29 January 1820 until his death in 1830. At the time of his accession to the throne, he was acting as prince regent for his father, King George III, having done so since 5 February 1811 during his father's final mental illness. He was known for his extravagance and his patronage of the arts and architecture.",
+      "url": "https://en.wikipedia.org/wiki/George_IV",
+      "_country_qids": [
+        "Q161885",
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q10732476",
+        "Q15472169",
+        "Q1097498"
+      ]
+    },
+    {
+      "name": "Romulus Augustus",
+      "dates": "462–510",
+      "y": 462,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Romulus Augustus, nicknamed Augustulus, was the last Roman Emperor of the West, deposed in 476 CE after a reign of just ten months.",
+      "tldr": "Romulus Augustus, nicknamed Augustulus, was Roman emperor of the West from 31 October 475 until 4 September 476. Romulus was placed on the imperial throne while still a minor by his father Orestes, the magister militum, for whom he served as little more than a figurehead. After a rule of ten months, the barbarian general Odoacer defeated and killed Orestes and deposed Romulus, an event traditionally marking the fall of the Western Roman Empire.",
+      "url": "https://en.wikipedia.org/wiki/Romulus_Augustulus",
+      "_country_qids": [
+        "Q42834"
+      ],
+      "_occupation_qids": [
+        "Q39018"
+      ]
     }
   ]
 }
