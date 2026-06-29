@@ -7406,6 +7406,471 @@
         "Q49757"
       ],
       "region": "South Asia"
+    },
+    {
+      "name": "Sixtus II",
+      "dates": "215–258",
+      "y": 215,
+      "roles": [
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Pope Sixtus II, also written as Pope Xystus II, was the bishop of Rome from 31 August 257 until his death on 6 August 258. He was killed along with seven deacons, including Lawrence of Rome, during…",
+      "tldr": "Pope Sixtus II, also written as Pope Xystus II, was the bishop of Rome from 31 August 257 until his death on 6 August 258. He was killed along with seven deacons, including Lawrence of Rome, during the persecution of Christians by the Emperor Valerian.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Sixtus_II",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q250867"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Moshe ben Maimon",
+      "dates": "1135–1204",
+      "y": 1135,
+      "roles": [
+        "Religious",
+        "Writer",
+        "Scientist"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Moses ben Maimon, commonly known as Maimonides and also referred to by the Hebrew acronym Rambam, was a Sephardic Jewish rabbi who is widely acknowledged as one of the most prolific and influential…",
+      "tldr": "Moses ben Maimon, commonly known as Maimonides and also referred to by the Hebrew acronym Rambam, was a Sephardic Jewish rabbi who is widely acknowledged as one of the most prolific and influential Torah scholars of the Middle Ages.",
+      "url": "https://en.wikipedia.org/wiki/Maimonides",
+      "_country_qids": [
+        "Q79",
+        "Q123559"
+      ],
+      "_occupation_qids": [
+        "Q551835",
+        "Q36180",
+        "Q4964182",
+        "Q39631",
+        "Q3570351",
+        "Q133485",
+        "Q11063"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Carl Schurz",
+      "dates": "1829–1906",
+      "y": 1829,
+      "roles": [
+        "Military",
+        "Ruler",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Carl Christian Schurz was a German-American revolutionary and an American statesman, journalist, and reformer. He migrated to the United States after the German revolutions of 1848–1849 and became …",
+      "tldr": "Carl Christian Schurz was a German-American revolutionary and an American statesman, journalist, and reformer. He migrated to the United States after the German revolutions of 1848–1849 and became a prominent member of the newly-forming Republican Party. After serving as a Union general in the American Civil War, he helped found the short-lived Liberal Republican Party and became a prominent ad…",
+      "url": "https://en.wikipedia.org/wiki/Carl_Schurz",
+      "_country_qids": [
+        "Q27306",
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q189290",
+        "Q3242115",
+        "Q193391",
+        "Q6051619",
+        "Q1930187",
+        "Q40348",
+        "Q1607826",
+        "Q121998",
+        "Q82955"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Skandagupta",
+      "dates": "500–467",
+      "y": 500,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Skandagupta was a Gupta Emperor who ruled in northern India. His Bhitari pillar inscription suggests that he restored the Gupta power by defeating his enemies, who may have been rebels or foreign i…",
+      "tldr": "Skandagupta was a Gupta Emperor who ruled in northern India. His Bhitari pillar inscription suggests that he restored the Gupta power by defeating his enemies, who may have been rebels or foreign invaders. He repulsed an invasion by the Indo-Hephthalites, probably the Kidarites.",
+      "url": "https://en.wikipedia.org/wiki/Skandagupta",
+      "_country_qids": [
+        "Q11774"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ],
+      "region": "South Asia"
+    },
+    {
+      "name": "Vitus Bering",
+      "dates": "1681–1741",
+      "y": 1681,
+      "roles": [
+        "Explorer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Vitus Jonassen Bering, also known as Ivan Ivanovich Bering, was a Danish-born Russian cartographer, explorer, and officer in the Russian Navy. He is known as a leader of two Russian expeditions, th…",
+      "tldr": "Vitus Jonassen Bering, also known as Ivan Ivanovich Bering, was a Danish-born Russian cartographer, explorer, and officer in the Russian Navy. He is known as a leader of two Russian expeditions, the First Kamchatka Expedition and the Great Northern Expedition, exploring the northeastern coast of the Asian continent and from there the western coast of the North American continent. The Bering Str…",
+      "url": "https://en.wikipedia.org/wiki/Vitus_Bering",
+      "_country_qids": [
+        "Q34266",
+        "Q756617"
+      ],
+      "_occupation_qids": [
+        "Q1344452",
+        "Q10295465",
+        "Q10669499",
+        "Q12038843",
+        "Q11900058"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Johan Vilhelm Snellman",
+      "dates": "1806–1881",
+      "y": 1806,
+      "roles": [
+        "Writer",
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Johan Vilhelm Snellman was a Finland-Swedish philosopher, journalist and statesman, and one of the leading figures of Fennoman nationalism in 19th-century Finland. A central exponent of Hegelian ph…",
+      "tldr": "Johan Vilhelm Snellman was a Finland-Swedish philosopher, journalist and statesman, and one of the leading figures of Fennoman nationalism in 19th-century Finland. A central exponent of Hegelian philosophy in the Nordic countries, he is regarded as one of the most important 'awakeners' of Finnish national identity, alongside Elias Lönnrot and J. L.",
+      "url": "https://en.wikipedia.org/wiki/Johan_Vilhelm_Snellman",
+      "_country_qids": [
+        "Q34266",
+        "Q62633"
+      ],
+      "_occupation_qids": [
+        "Q1930187",
+        "Q36180",
+        "Q1622272",
+        "Q82955",
+        "Q4964182",
+        "Q1607826"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Norman Lockyer",
+      "dates": "1836–1920",
+      "y": 1836,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Sir Joseph Norman Lockyer was an English scientist and astronomer. Along with the French scientist Pierre Janssen, he is credited with discovering the gas helium.",
+      "tldr": "Sir Joseph Norman Lockyer was an English scientist and astronomer. Along with the French scientist Pierre Janssen, he is credited with discovering the gas helium. Lockyer also is remembered for being the founder and first editor of the influential journal Nature.",
+      "url": "https://en.wikipedia.org/wiki/Norman_Lockyer",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q169470",
+        "Q11063",
+        "Q1622272"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Pius VI",
+      "dates": "1717–1799",
+      "y": 1717,
+      "roles": [
+        "Religious",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Pope Pius VI was head of the Catholic Church and ruler of the Papal States from 15 February 1775 to his death in August 1799.",
+      "tldr": "Pope Pius VI was head of the Catholic Church and ruler of the Papal States from 15 February 1775 to his death in August 1799.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Pius_VI",
+      "_country_qids": [
+        "Q170174"
+      ],
+      "_occupation_qids": [
+        "Q611644",
+        "Q250867"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Giorgio Vasari",
+      "dates": "1511–1574",
+      "y": 1511,
+      "roles": [
+        "Artist",
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Giorgio Vasari was an Italian Renaissance painter, architect, art historian, and biographer known for his work Lives of the Most Excellent Painters, Sculptors, and Architects, considered the ideolo…",
+      "tldr": "Giorgio Vasari was an Italian Renaissance painter, architect, art historian, and biographer known for his work Lives of the Most Excellent Painters, Sculptors, and Architects, considered the ideological foundation of Western art-historical writing, and still much cited in modern biographies of the many Italian Renaissance artists he covers, including Leonardo da Vinci and Michelangelo, although…",
+      "url": "https://en.wikipedia.org/wiki/Giorgio_Vasari",
+      "_country_qids": [
+        "Q154849",
+        "Q148540"
+      ],
+      "_occupation_qids": [
+        "Q1028181",
+        "Q17391638",
+        "Q864380",
+        "Q11613590",
+        "Q42973",
+        "Q36180",
+        "Q3391743",
+        "Q21550346",
+        "Q2079935",
+        "Q1792450"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Radoje Domanović",
+      "dates": "1873–1908",
+      "y": 1873,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Radoje Domanović was a Serbian journalist, writer and teacher, most famous for his satirical short stories. His adult years were a constant fight against tuberculosis.",
+      "tldr": "Radoje Domanović was a Serbian journalist, writer and teacher, most famous for his satirical short stories. His adult years were a constant fight against tuberculosis. This circumstance of his life, and the affection which he inspired in all who knew him, created an aura of romanticism and sentimentality which stand in contrast to his literary accomplishments as a satirist and a powerful critic…",
+      "url": "https://en.wikipedia.org/wiki/Radoje_Domanovi%C4%87",
+      "_country_qids": [
+        "Q241748"
+      ],
+      "_occupation_qids": [
+        "Q18844224",
+        "Q1930187",
+        "Q36180",
+        "Q37226",
+        "Q9334029",
+        "Q1607826"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Shote Galica",
+      "dates": "1895–1927",
+      "y": 1895,
+      "roles": [
+        "Military",
+        "Reformer"
+      ],
+      "era": "19th century",
+      "desc": "Shote Galica was a Kachak Albanian insurgent. She has been declared a People's Heroine of Albania.",
+      "tldr": "Shote Galica was a Kachak Albanian insurgent. She has been declared a People's Heroine of Albania.",
+      "url": "https://en.wikipedia.org/wiki/Shote_Galica",
+      "_country_qids": [
+        "Q222"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Abu Mansur al-Maturidi",
+      "dates": "852–944",
+      "y": 852,
+      "roles": [
+        "Religious",
+        "Writer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Imam Abu Mansur al-Maturidi was a Hanafi jurist and theologian who is the eponym of the Maturidi school of kalam in Sunnism. He got his nisba from Māturīd, a district in Samarkand.",
+      "tldr": "Imam Abu Mansur al-Maturidi was a Hanafi jurist and theologian who is the eponym of the Maturidi school of kalam in Sunnism. He got his nisba from Māturīd, a district in Samarkand. His works include Tafsir al-Maturidi, a classic exegesis of the Qur'an, and Kitab al-Tawhid.",
+      "url": "https://en.wikipedia.org/wiki/Abu_Mansur_al-Maturidi",
+      "_country_qids": [
+        "Q12536"
+      ],
+      "_occupation_qids": [
+        "Q12912932",
+        "Q12270170",
+        "Q12328016",
+        "Q1234713",
+        "Q1999841",
+        "Q4964182"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Al-Walid II",
+      "dates": "700–744",
+      "y": 700,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Al-Walid ibn Yazid ibn Abd al-Malik, commonly known as al-Walid II, was the eleventh Umayyad caliph, ruling from 743 until his assassination in 744. He succeeded his uncle, Hisham ibn Abd al-Malik.",
+      "tldr": "Al-Walid ibn Yazid ibn Abd al-Malik, commonly known as al-Walid II, was the eleventh Umayyad caliph, ruling from 743 until his assassination in 744. He succeeded his uncle, Hisham ibn Abd al-Malik. He has the distinction of being the last Umayyad caliph to receive broad recognition across the empire; none of his successors—Yazid ibn al-Walid, who deposed him in 744, Ibrahim ibn al-Walid, and Ma…",
+      "url": "https://en.wikipedia.org/wiki/Al-Walid_II",
+      "_country_qids": [
+        "Q8575586"
+      ],
+      "_occupation_qids": [
+        "Q65997",
+        "Q49757",
+        "Q132050"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Hisham ibn Abd al-Malik",
+      "dates": "691–743",
+      "y": 691,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Hisham ibn Abd al-Malik ibn Marwan was the tenth Umayyad caliph, ruling from 724 until his death in 743. His grandson Abd al-Rahman I was the founder and first emir of the Emirate of Córdoba.",
+      "tldr": "Hisham ibn Abd al-Malik ibn Marwan was the tenth Umayyad caliph, ruling from 724 until his death in 743. His grandson Abd al-Rahman I was the founder and first emir of the Emirate of Córdoba.",
+      "url": "https://en.wikipedia.org/wiki/Hisham_ibn_Abd_al-Malik",
+      "_country_qids": [
+        "Q8575586"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q65997",
+        "Q132050"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Marwan II",
+      "dates": "688–750",
+      "y": 688,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Marwan ibn Muhammad ibn Marwan, commonly known as Marwan II and surnamed al-Himar, was the fourteenth and last caliph of the Umayyad Caliphate, ruling from 744 until his death. His reign was domina…",
+      "tldr": "Marwan ibn Muhammad ibn Marwan, commonly known as Marwan II and surnamed al-Himar, was the fourteenth and last caliph of the Umayyad Caliphate, ruling from 744 until his death. His reign was dominated by a civil war, and he was the last Umayyad ruler to rule the united Caliphate before the Abbasid Revolution toppled the Umayyad dynasty.",
+      "url": "https://en.wikipedia.org/wiki/Marwan_II",
+      "_country_qids": [
+        "Q8575586"
+      ],
+      "_occupation_qids": [
+        "Q1402561",
+        "Q65997",
+        "Q82955",
+        "Q132050"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Yazid III",
+      "dates": "701–744",
+      "y": 701,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Yazid ibn al-Walid ibn Abd al-Malik, commonly known as Yazid III, was the twelfth Umayyad caliph, ruling from 744 until his death months later.",
+      "tldr": "Yazid ibn al-Walid ibn Abd al-Malik, commonly known as Yazid III, was the twelfth Umayyad caliph, ruling from 744 until his death months later.",
+      "url": "https://en.wikipedia.org/wiki/Yazid_III",
+      "_country_qids": [
+        "Q8575586"
+      ],
+      "_occupation_qids": [
+        "Q132050",
+        "Q82955",
+        "Q65997"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Charles Perrault",
+      "dates": "1628–1703",
+      "y": 1628,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Charles Perrault was a French author and member of the Académie Française. He laid the foundations for a new literary genre, the fairy tale, with his works derived from earlier folk tales, publishe…",
+      "tldr": "Charles Perrault was a French author and member of the Académie Française. He laid the foundations for a new literary genre, the fairy tale, with his works derived from earlier folk tales, published in his 1697 book Histoires ou contes du temps passé. The best known of his tales include \"Little Red Riding Hood\", \"Cinderella\", \"Puss in Boots\", \"Sleeping Beauty\", and \"Bluebeard\".",
+      "url": "https://en.wikipedia.org/wiki/Charles_Perrault",
+      "_country_qids": [
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q6430706",
+        "Q20551564",
+        "Q49757",
+        "Q4853732",
+        "Q36180",
+        "Q69423232",
+        "Q17391638",
+        "Q15949613",
+        "Q1209498"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Ferdinand II of Aragon",
+      "dates": "1452–1516",
+      "y": 1452,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Ferdinand II was King of Aragon from 1479 until his death in 1516. As the husband and co-ruler of Queen Isabella I of Castile, he was also King of Castile from 1475 to 1504.",
+      "tldr": "Ferdinand II was King of Aragon from 1479 until his death in 1516. As the husband and co-ruler of Queen Isabella I of Castile, he was also King of Castile from 1475 to 1504. He reigned jointly with Isabella over a dynastically unified Spain; together, they are known as the Catholic Monarchs.",
+      "url": "https://en.wikipedia.org/wiki/Ferdinand_II_of_Aragon",
+      "_country_qids": [
+        "Q204920"
+      ],
+      "_occupation_qids": [
+        "Q1097498"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Richard Bedford Bennett",
+      "dates": "1870–1947",
+      "y": 1870,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Richard Bedford Bennett, 1st Viscount Bennett was a Canadian lawyer, businessman, philanthropist, and politician who served as the 11th prime minister of Canada from 1930 to 1935.",
+      "tldr": "Richard Bedford Bennett, 1st Viscount Bennett was a Canadian lawyer, businessman, philanthropist, and politician who served as the 11th prime minister of Canada from 1930 to 1935.",
+      "url": "https://en.wikipedia.org/wiki/R._B._Bennett",
+      "_country_qids": [
+        "Q16"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q40348",
+        "Q193391",
+        "Q37226"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Robert Borden",
+      "dates": "1854–1937",
+      "y": 1854,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Sir Robert Laird Borden was a Canadian lawyer and politician who served as the eighth prime minister of Canada from 1911 to 1920. He is best known for his leadership of Canada during World War I.",
+      "tldr": "Sir Robert Laird Borden was a Canadian lawyer and politician who served as the eighth prime minister of Canada from 1911 to 1920. He is best known for his leadership of Canada during World War I.",
+      "url": "https://en.wikipedia.org/wiki/Robert_Borden",
+      "_country_qids": [
+        "Q16"
+      ],
+      "_occupation_qids": [
+        "Q193391",
+        "Q40348",
+        "Q82955"
+      ],
+      "region": "Americas"
     }
   ]
 }
