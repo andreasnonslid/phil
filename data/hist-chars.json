@@ -105,6 +105,24 @@
       "region": "Africa"
     },
     {
+      "name": "Tutankhamun",
+      "dates": "1342BCE–1323BCE",
+      "y": -1342,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Africa",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Tutankhamun was the antepenultimate pharaoh of the Eighteenth Dynasty of ancient Egypt, who ruled c. 1332 – 1323 BC.",
+      "url": "https://en.wikipedia.org/wiki/Tutankhamun",
+      "_country_qids": [
+        "Q11768"
+      ],
+      "_occupation_qids": [
+        "Q1097498"
+      ]
+    },
+    {
       "name": "King Wu of Zhou",
       "dates": "1150BCE–1042BCE",
       "y": -1150,
@@ -115,6 +133,28 @@
       "desc": "Founding king of the Zhou dynasty who overthrew the Shang at the Battle of Muye and became a Confucian model of virtuous rule.",
       "url": "https://en.wikipedia.org/wiki/King_Wu_of_Zhou",
       "region": "East Asia"
+    },
+    {
+      "name": "Thespis",
+      "dates": "600BCE–560BCE",
+      "y": -600,
+      "roles": [
+        "Artist",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Thespis was a stage actor in Ancient Greece. According to certain Ancient Greek sources and especially Aristotle, he was the first human to appear on stage as an actor playing a character in a play.",
+      "url": "https://en.wikipedia.org/wiki/Thespis",
+      "_country_qids": [
+        "Q844930"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q36180",
+        "Q2259451",
+        "Q214917"
+      ]
     },
     {
       "name": "Pythagoras",
@@ -166,6 +206,28 @@
       "url": "https://en.wikipedia.org/wiki/Praxiteles"
     },
     {
+      "name": "Demosthenes",
+      "dates": "383BCE–321BCE",
+      "y": -383,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Demosthenes was a Greek statesman and orator in ancient Athens. His orations provide insight into the politics and culture of ancient Greece during the 4th century BC.",
+      "url": "https://en.wikipedia.org/wiki/Demosthenes",
+      "_country_qids": [
+        "Q844930"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q36180",
+        "Q12859263",
+        "Q193391"
+      ]
+    },
+    {
       "name": "Darius III",
       "dates": "379BCE–329BCE",
       "y": -379,
@@ -177,6 +239,45 @@
       "region": "Middle East",
       "desc": "Last Achaemenid King of Kings of Persia (336–330 BCE), defeated by Alexander the Great at Issus and Gaugamela.",
       "url": "https://en.wikipedia.org/wiki/Darius_III"
+    },
+    {
+      "name": "Menander",
+      "dates": "340BCE–290BCE",
+      "y": -340,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Menander was a Greek playwright and the best-known representative of Athenian New Comedy. He wrote 108 comedies and took the prize at the Lenaia festival eight times.",
+      "url": "https://en.wikipedia.org/wiki/Menander",
+      "_country_qids": [
+        "Q844930"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q36180",
+        "Q11914886"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Pushyamitra Shunga",
+      "dates": "300BCE–147BCE",
+      "y": -300,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Pushyamitra Shunga was the founder and the first ruler of the Shunga Empire which he established to succeed the Maurya Empire.",
+      "url": "https://en.wikipedia.org/wiki/Pushyamitra_Shunga",
+      "_country_qids": [
+        "Q651377",
+        "Q62943"
+      ],
+      "_occupation_qids": [
+        "Q2304859"
+      ],
+      "region": "South Asia"
     },
     {
       "name": "Antigonus III Doson",
@@ -319,6 +420,45 @@
       "url": "https://en.wikipedia.org/wiki/Tibullus"
     },
     {
+      "name": "Marcus Gavius Apicius",
+      "dates": "24BCE–37",
+      "y": -24,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Marcus Gavius Apicius is believed to have been a Roman gourmet and lover of luxury, who lived sometime in the 1st century AD. The Roman cookbook Apicius is often attributed to him.",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Gavius_Apicius",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q113516626",
+        "Q215536"
+      ]
+    },
+    {
+      "name": "Sejanus",
+      "dates": "19BCE–31",
+      "y": -19,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Lucius Aelius Sejanus was a Roman soldier and confidant of the Roman Emperor Tiberius. He rose to power as prefect of the Praetorian Guard and was executed for treason in AD 31.",
+      "url": "https://en.wikipedia.org/wiki/Sejanus",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q47064"
+      ],
+      "region": "Europe"
+    },
+    {
       "name": "Suetonius",
       "dates": "69–126",
       "y": 69,
@@ -402,6 +542,28 @@
       "region": "Europe"
     },
     {
+      "name": "Huiyuan",
+      "dates": "334–416",
+      "y": 334,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Huiyuan refers to Lushan Huiyuan (334–416), a Chinese Buddhist monk.",
+      "url": "https://en.wikipedia.org/wiki/Huiyuan",
+      "_country_qids": [
+        "Q29520"
+      ],
+      "_occupation_qids": [
+        "Q854997",
+        "Q333634",
+        "Q4964182",
+        "Q733786",
+        "Q37226"
+      ],
+      "region": "East Asia"
+    },
+    {
       "name": "Samudragupta",
       "dates": "335–380",
       "y": 335,
@@ -413,6 +575,29 @@
       "desc": "Second emperor of the Gupta Empire who expanded India's territory through military conquest.",
       "url": "https://en.wikipedia.org/wiki/Samudragupta",
       "region": "South Asia"
+    },
+    {
+      "name": "Hypatia",
+      "dates": "360–415",
+      "y": 360,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Hypatia was a Neoplatonist philosopher, astronomer, and mathematician who lived in Alexandria. In Alexandria, Hypatia was a prominent thinker who taught subjects including philosophy and astronomy.",
+      "url": "https://en.wikipedia.org/wiki/Hypatia",
+      "_country_qids": [
+        "Q12544"
+      ],
+      "_occupation_qids": [
+        "Q170790",
+        "Q205375",
+        "Q36180",
+        "Q4964182",
+        "Q11063"
+      ],
+      "region": "Africa"
     },
     {
       "name": "Mesrop Mashtots",
@@ -694,6 +879,30 @@
       "url": "https://en.wikipedia.org/wiki/Charlemagne"
     },
     {
+      "name": "Nikephoros I of Constantinople",
+      "dates": "750–828",
+      "y": 750,
+      "roles": [
+        "Religious",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Nikephoros I was a Byzantine writer and Ecumenical Patriarch of Constantinople from 12 April 806 to 13 March 815.",
+      "url": "https://en.wikipedia.org/wiki/Nikephoros_I_of_Constantinople",
+      "_country_qids": [
+        "Q12544"
+      ],
+      "_occupation_qids": [
+        "Q1423891",
+        "Q171692",
+        "Q916292",
+        "Q36180",
+        "Q201788",
+        "Q212238"
+      ]
+    },
+    {
       "name": "Abu Ma’shar al-Balkhi",
       "dates": "787–886",
       "y": 787,
@@ -769,6 +978,43 @@
       "url": "https://en.wikipedia.org/wiki/Henry_II%2C_Holy_Roman_Emperor"
     },
     {
+      "name": "Al-Biruni",
+      "dates": "973–1048",
+      "y": 973,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "region": "Middle East",
+      "era": "Medieval (500–1500)",
+      "desc": "Abu Rayhan Muhammad ibn Ahmad al-Biruni was a Khwarazmian Iranic scholar and polymath during the Islamic Golden Age. He has been called the \"Father of Comparative Religion\" and \"Father of modern geodesy\".",
+      "url": "https://en.wikipedia.org/wiki/Al-Biruni",
+      "_country_qids": [
+        "Q12150341"
+      ],
+      "_occupation_qids": [
+        "Q333634",
+        "Q1734662",
+        "Q170790",
+        "Q901402",
+        "Q593644",
+        "Q169470",
+        "Q4964182",
+        "Q4773904",
+        "Q36180",
+        "Q2374149",
+        "Q270141",
+        "Q155647",
+        "Q14467526",
+        "Q11063",
+        "Q10527030",
+        "Q105186",
+        "Q18524037",
+        "Q18805",
+        "Q201788"
+      ]
+    },
+    {
       "name": "Lady Godiva",
       "dates": "990–1067",
       "y": 990,
@@ -781,6 +1027,26 @@
       "region": "Europe"
     },
     {
+      "name": "Nicholas II",
+      "dates": "990–1061",
+      "y": 990,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Nicholas II was Emperor of Russia from 1 November 1894 until his abdication in 1917. He was the last Russian monarch before the Russian Revolution.",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_II",
+      "_country_qids": [
+        "Q3271735"
+      ],
+      "_occupation_qids": [
+        "Q611644",
+        "Q250867",
+        "Q36180"
+      ]
+    },
+    {
       "name": "Abū Ishāq Ibrāhīm al-Zarqālī",
       "dates": "1027–1100",
       "y": 1027,
@@ -791,6 +1057,24 @@
       "desc": "Arab astronomer and instrument-maker from Al-Andalus who invented the saphaea and compiled the influential Toledo Tables.",
       "url": "https://en.wikipedia.org/wiki/Al-Zarqali",
       "region": "Europe"
+    },
+    {
+      "name": "Lulach",
+      "dates": "1030–1058",
+      "y": 1030,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Lulach mac Gille Coemgáin was King of Alba (Scotland) between 15 August 1057 and 17 March 1058.",
+      "url": "https://en.wikipedia.org/wiki/Lulach",
+      "_country_qids": [
+        "Q230791"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ]
     },
     {
       "name": "Henry I of England",
@@ -927,6 +1211,24 @@
       "url": "https://en.wikipedia.org/wiki/Saladin"
     },
     {
+      "name": "Malcolm IV of Scotland",
+      "dates": "1141–1165",
+      "y": 1141,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Malcolm IV, nicknamed Virgo, \"the Maiden\" was King of Scotland from 1153 until his death.",
+      "url": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland",
+      "_country_qids": [
+        "Q230791"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ]
+    },
+    {
       "name": "Saxo Grammaticus",
       "dates": "1150–1206",
       "y": 1150,
@@ -977,6 +1279,25 @@
         "Q181888"
       ],
       "region": "East Asia"
+    },
+    {
+      "name": "Philip of Swabia",
+      "dates": "1177–1208",
+      "y": 1177,
+      "roles": [
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Philip of Swabia was a member of the House of Hohenstaufen and King of Germany from 1198 until his assassination.",
+      "url": "https://en.wikipedia.org/wiki/Philip_of_Swabia",
+      "_country_qids": [
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q611644",
+        "Q250867"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Snorri Sturluson",
@@ -1228,6 +1549,24 @@
       "region": "Europe"
     },
     {
+      "name": "Ladislaus the Posthumous",
+      "dates": "1440–1457",
+      "y": 1440,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Medieval (500–1500)",
+      "desc": "Ladislaus the Posthumous, known as Ladislaus V, was Duke of Austria and King of Hungary, Croatia and Bohemia.",
+      "url": "https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous",
+      "_country_qids": [
+        "Q28"
+      ],
+      "_occupation_qids": [
+        "Q1097498"
+      ]
+    },
+    {
       "name": "Leonardo da Vinci",
       "dates": "1452–1519",
       "y": 1452,
@@ -1238,6 +1577,26 @@
       "era": "Early modern (1500–1800)",
       "desc": "Italian polymath of the Renaissance, painter of the Mona Lisa and prolific inventor.",
       "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "name": "Sri Krishnadevaraya",
+      "dates": "1471–1529",
+      "y": 1471,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "region": "South Asia",
+      "era": "Medieval (500–1500)",
+      "desc": "Krishnadevaraya was emperor of the Vijayanagara Empire from 1509 to 1529. Widely regarded as one of the greatest rulers in Indian history, he presided over the empire at its political and cultural zenith.",
+      "url": "https://en.wikipedia.org/wiki/Krishnadevaraya",
+      "_country_qids": [
+        "Q167639"
+      ],
+      "_occupation_qids": [
+        "Q2304859",
+        "Q36180"
+      ]
     },
     {
       "name": "Paul IV",
@@ -1332,6 +1691,49 @@
       "region": "East Asia",
       "desc": "13th emperor of the Ming dynasty (1567–1572), whose brief reign brought pragmatic diplomatic and trade reforms.",
       "url": "https://en.wikipedia.org/wiki/Longqing_Emperor"
+    },
+    {
+      "name": "Carlo Maderno",
+      "dates": "1556–1629",
+      "y": 1556,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Carlo Maderno was an Italian architect, born in today’s Ticino, Switzerland, who is remembered as one of the fathers of Baroque architecture.",
+      "url": "https://en.wikipedia.org/wiki/Carlo_Maderno",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q42973"
+      ]
+    },
+    {
+      "name": "Michael the Brave",
+      "dates": "1558–1601",
+      "y": 1558,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Michael the Brave was the Prince of Wallachia, Prince of Moldavia (1600) and de facto ruler of Transylvania (1599–1600). He is considered one of Romania's greatest national heroes.",
+      "url": "https://en.wikipedia.org/wiki/Michael_the_Brave",
+      "_country_qids": [
+        "Q10957559",
+        "Q655621",
+        "Q389004"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q1097498",
+        "Q275102",
+        "Q116",
+        "Q11545923"
+      ]
     },
     {
       "name": "Katō Kiyomasa",
@@ -1494,6 +1896,28 @@
       "region": "Middle East"
     },
     {
+      "name": "Anne Hutchinson",
+      "dates": "1591–1643",
+      "y": 1591,
+      "roles": [
+        "Religious",
+        "Reformer"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "Anne Hutchinson was an English-born religious figure who was an important participant in the Antinomian Controversy which shook the nascent Massachusetts Bay Colony from 1636 to 1638.",
+      "url": "https://en.wikipedia.org/wiki/Anne_Hutchinson",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q432386",
+        "Q36180",
+        "Q1234713",
+        "Q185196"
+      ]
+    },
+    {
       "name": "Francesco Cavalli",
       "dates": "1602–1676",
       "y": 1602,
@@ -1652,6 +2076,26 @@
       "url": "https://en.wikipedia.org/wiki/Saskia_van_Uylenburgh"
     },
     {
+      "name": "Empress Meishō",
+      "dates": "1624–1696",
+      "y": 1624,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Empress Meishō was the 109th monarch of Japan. Her reign lasted from 1629 to 1643.",
+      "url": "https://en.wikipedia.org/wiki/Empress_Meish%C5%8D",
+      "_country_qids": [
+        "Q17"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q2478141",
+        "Q116"
+      ],
+      "region": "East Asia"
+    },
+    {
       "name": "John Bunyan",
       "dates": "1628–1688",
       "y": 1628,
@@ -1672,6 +2116,58 @@
         "Q1234713",
         "Q338221",
         "Q36180"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Charles II of England",
+      "dates": "1630–1685",
+      "y": 1630,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Charles II was King of Scotland from 1649 until 1651 and King of England, Scotland, and Ireland from the 1660 Restoration of the monarchy until his death in 1685.",
+      "url": "https://en.wikipedia.org/wiki/Charles_II_of_England",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q10732476",
+        "Q116",
+        "Q17769800",
+        "Q2304859",
+        "Q82955"
+      ]
+    },
+    {
+      "name": "Jean-Baptiste Lully",
+      "dates": "1632–1687",
+      "y": 1632,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Jean-Baptiste Lully was an Italian-French composer, dancer and instrumentalist, who is considered a master of the French Baroque music style. Best known for his operas, he spent most of his life working in the court of Louis XIV.",
+      "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Lully",
+      "_country_qids": [
+        "Q154849",
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q1259917",
+        "Q16145150",
+        "Q158852",
+        "Q1776724",
+        "Q2490358",
+        "Q33999",
+        "Q36834",
+        "Q37226",
+        "Q1231865",
+        "Q5716684",
+        "Q639669",
+        "Q805221"
       ],
       "region": "Europe"
     },
@@ -1708,6 +2204,51 @@
       "era": "Early modern (1500–1800)",
       "desc": "French Huguenot physicist and inventor of the steam digester, forerunner of both the pressure cooker and the steam engine.",
       "url": "https://en.wikipedia.org/wiki/Denis_Papin",
+      "region": "Europe"
+    },
+    {
+      "name": "Jacob Bernoulli",
+      "dates": "1654–1705",
+      "y": 1654,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Jacob Bernoulli was a Swiss mathematician and an early proponent of Leibnizian calculus. Along with his brother Johann, he was one of the founders of the calculus of variations.",
+      "url": "https://en.wikipedia.org/wiki/Jacob_Bernoulli",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q39631",
+        "Q170790",
+        "Q169470",
+        "Q1622272"
+      ]
+    },
+    {
+      "name": "Anne of Great Britain",
+      "dates": "1665–1714",
+      "y": 1665,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Anne of Great Britain may refer to Anne, Queen of Great Britain (1665–1714), who ruled after William III and before the House of Hanover.",
+      "url": "https://en.wikipedia.org/wiki/Anne_of_Great_Britain",
+      "_country_qids": [
+        "Q161885"
+      ],
+      "_occupation_qids": [
+        "Q372436",
+        "Q82955",
+        "Q1097498",
+        "Q116",
+        "Q19643",
+        "Q2478141"
+      ],
       "region": "Europe"
     },
     {
@@ -1806,6 +2347,76 @@
       "region": "Europe"
     },
     {
+      "name": "Johann Jakob Bodmer",
+      "dates": "1698–1783",
+      "y": 1698,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Johann Jakob Bodmer was a Swiss author, academic, critic and poet.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Jakob_Bodmer",
+      "_country_qids": [
+        "Q39",
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q333634",
+        "Q4263842",
+        "Q49757",
+        "Q36180",
+        "Q708492",
+        "Q201788",
+        "Q1930187",
+        "Q13418253"
+      ]
+    },
+    {
+      "name": "Daniel Bernoulli",
+      "dates": "1700–1782",
+      "y": 1700,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Daniel Bernoulli was a Swiss mathematician and physicist particularly remembered for his applications of mathematics to fluid mechanics and his pioneering work in probability and statistics.",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Bernoulli",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q2374149",
+        "Q1622272",
+        "Q169470",
+        "Q170790",
+        "Q39631",
+        "Q188094",
+        "Q2732142"
+      ]
+    },
+    {
+      "name": "Gabriel Cramer",
+      "dates": "1704–1752",
+      "y": 1704,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Gabriel Cramer was a Genevan mathematician.",
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Cramer",
+      "_country_qids": [
+        "Q23366230"
+      ],
+      "_occupation_qids": [
+        "Q1622272",
+        "Q170790",
+        "Q169470"
+      ]
+    },
+    {
       "name": "Carl Linnaeus",
       "dates": "1707–1778",
       "y": 1707,
@@ -1878,6 +2489,148 @@
       "region": "Europe"
     },
     {
+      "name": "John Adams",
+      "dates": "1735–1826",
+      "y": 1735,
+      "roles": [
+        "Ruler",
+        "Writer",
+        "Reformer"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "John Adams was a Founding Father and the second president of the United States from 1797 to 1801. He was a leader of the American Revolution that achieved independence from Great Britain.",
+      "url": "https://en.wikipedia.org/wiki/John_Adams",
+      "_country_qids": [
+        "Q30",
+        "Q179997"
+      ],
+      "_occupation_qids": [
+        "Q248577",
+        "Q372436",
+        "Q40348",
+        "Q82955",
+        "Q121998",
+        "Q36180",
+        "Q193391",
+        "Q18930007"
+      ]
+    },
+    {
+      "name": "Horace Bénédict de Saussure",
+      "dates": "1740–1799",
+      "y": 1740,
+      "roles": [
+        "Scientist",
+        "Explorer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Horace Bénédict de Saussure was a Genevan geologist, meteorologist, physicist, mountaineer and Alpine explorer, often called the founder of alpinism and modern meteorology.",
+      "url": "https://en.wikipedia.org/wiki/Horace_B%C3%A9n%C3%A9dict_de_Saussure",
+      "_country_qids": [
+        "Q142",
+        "Q23366230"
+      ],
+      "_occupation_qids": [
+        "Q9149093",
+        "Q15623737",
+        "Q169470",
+        "Q82955",
+        "Q520549",
+        "Q3951423",
+        "Q2374149",
+        "Q2310145",
+        "Q18805",
+        "Q1622272"
+      ]
+    },
+    {
+      "name": "Henry Fuseli",
+      "dates": "1741–1825",
+      "y": 1741,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Henry Fuseli was a Swiss painter, draughtsman, and writer on art who spent much of his career in Britain.",
+      "url": "https://en.wikipedia.org/wiki/Henry_Fuseli",
+      "_country_qids": [
+        "Q39",
+        "Q145"
+      ],
+      "_occupation_qids": [
+        "Q2079935",
+        "Q644687",
+        "Q483501",
+        "Q1028181",
+        "Q15296811",
+        "Q1792450",
+        "Q1925963",
+        "Q3391743",
+        "Q49757"
+      ]
+    },
+    {
+      "name": "Thomas Jefferson",
+      "dates": "1743–1826",
+      "y": 1743,
+      "roles": [
+        "Ruler",
+        "Writer",
+        "Reformer"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "Thomas Jefferson was a Founding Father and the third president of the United States from 1801 to 1809. Jefferson was the primary author of the Declaration of Independence.",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q4964182",
+        "Q132050",
+        "Q42973",
+        "Q40348",
+        "Q372436",
+        "Q37226",
+        "Q3621491",
+        "Q36180",
+        "Q248577",
+        "Q205375",
+        "Q193391",
+        "Q185351",
+        "Q1662561",
+        "Q15442776",
+        "Q15296811",
+        "Q55630100",
+        "Q7330070",
+        "Q82955"
+      ]
+    },
+    {
+      "name": "Jean-Paul Marat",
+      "dates": "1743–1793",
+      "y": 1743,
+      "roles": [
+        "Reformer",
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Jean-Paul Marat was a French political theorist, physician, and scientist. A journalist and politician during the French Revolution, he was a vigorous defender of the sans-culottes.",
+      "url": "https://en.wikipedia.org/wiki/Jean-Paul_Marat",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q39631",
+        "Q82955",
+        "Q1930187"
+      ]
+    },
+    {
       "name": "Johann Heinrich Pestalozzi",
       "dates": "1746–1827",
       "y": 1746,
@@ -1901,6 +2654,59 @@
       "region": "South Asia",
       "desc": "Sultan of Mysore (1782–1799) who pioneered iron-cased rocket artillery and fiercely resisted British expansion.",
       "url": "https://en.wikipedia.org/wiki/Tipu_Sultan"
+    },
+    {
+      "name": "James Madison",
+      "dates": "1751–1836",
+      "y": 1751,
+      "roles": [
+        "Ruler",
+        "Writer",
+        "Reformer"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "James Madison was an American statesman, diplomat, and Founding Father who served as the fourth president of the United States from 1809 to 1817. He was popularly acclaimed as the \"Father of the Constitution\".",
+      "url": "https://en.wikipedia.org/wiki/James_Madison",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q4964182",
+        "Q40348",
+        "Q36180",
+        "Q193391",
+        "Q12372582",
+        "Q372436"
+      ]
+    },
+    {
+      "name": "James Monroe",
+      "dates": "1758–1831",
+      "y": 1758,
+      "roles": [
+        "Ruler",
+        "Military",
+        "Reformer"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "James Monroe was an American Founding Father who served as the fifth president of the United States from 1817 to 1825. He was the last Founding Father to serve as president.",
+      "url": "https://en.wikipedia.org/wiki/James_Monroe",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q372436",
+        "Q82955",
+        "Q132050",
+        "Q193391",
+        "Q248577",
+        "Q36180",
+        "Q40348",
+        "Q131512"
+      ]
     },
     {
       "name": "Mary Wollstonecraft",
@@ -1928,6 +2734,104 @@
       "url": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte"
     },
     {
+      "name": "Andreas Hofer",
+      "dates": "1767–1810",
+      "y": 1767,
+      "roles": [
+        "Military",
+        "Reformer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Andreas Hofer was a Tyrolean innkeeper and drover who became the leader of the 1809 Tyrolean Rebellion during the War of the Fifth Coalition.",
+      "url": "https://en.wikipedia.org/wiki/Andreas_Hofer",
+      "_country_qids": [
+        "Q153136"
+      ],
+      "_occupation_qids": [
+        "Q30242234",
+        "Q1402561",
+        "Q131512"
+      ]
+    },
+    {
+      "name": "John Quincy Adams",
+      "dates": "1767–1848",
+      "y": 1767,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "John Quincy Adams was the sixth president of the United States, serving from 1825 to 1829. He previously served as the eighth United States secretary of state from 1817 to 1825.",
+      "url": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+      "_country_qids": [
+        "Q258532",
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q121998",
+        "Q18939491",
+        "Q185351",
+        "Q40348",
+        "Q82955",
+        "Q372436",
+        "Q36180",
+        "Q248577",
+        "Q193391"
+      ]
+    },
+    {
+      "name": "Andrew Jackson",
+      "dates": "1767–1845",
+      "y": 1767,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "Andrew Jackson was the seventh president of the United States from 1829 to 1837. He rose to fame as a U.S. Army general.",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q248577",
+        "Q82955",
+        "Q40348",
+        "Q38239859",
+        "Q132050",
+        "Q16533",
+        "Q372436"
+      ]
+    },
+    {
+      "name": "William Henry Harrison",
+      "dates": "1773–1841",
+      "y": 1773,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "William Henry Harrison was the ninth president of the United States from March to April 1841. He died 31 days into his term, making him the shortest serving president and the first president to die in office.",
+      "url": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q189290",
+        "Q132050",
+        "Q193391",
+        "Q248577",
+        "Q372436",
+        "Q82955"
+      ]
+    },
+    {
       "name": "Caspar David Friedrich",
       "dates": "1774–1840",
       "y": 1774,
@@ -1938,6 +2842,30 @@
       "region": "Europe",
       "desc": "German Romantic painter whose landscapes, including Wanderer above the Sea of Fog, express spiritual solitude and the sublime power of nature.",
       "url": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich"
+    },
+    {
+      "name": "Giuseppe Caspar Mezzofanti",
+      "dates": "1774–1849",
+      "y": 1774,
+      "roles": [
+        "Religious",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Giuseppe Gasparo Mezzofanti was an Italian cardinal known for being a hyperpolyglot. He spoke 38 to 50 languages.",
+      "url": "https://en.wikipedia.org/wiki/Giuseppe_Gasparo_Mezzofanti",
+      "_country_qids": [
+        "Q4948",
+        "Q223936"
+      ],
+      "_occupation_qids": [
+        "Q1622272",
+        "Q250867",
+        "Q182436",
+        "Q14467526",
+        "Q3144189"
+      ]
     },
     {
       "name": "François Adrien Boieldieu",
@@ -1973,6 +2901,59 @@
       "era": "Early modern (1500–1800)",
       "desc": "François-Adrien Boieldieu was a French composer, mainly of operas, often called \"the French Mozart\".",
       "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Adrien_Boieldieu"
+    },
+    {
+      "name": "Matthew Gregory Lewis",
+      "dates": "1775–1818",
+      "y": 1775,
+      "roles": [
+        "Ruler",
+        "Explorer",
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Matthew Gregory Lewis was an English novelist and dramatist whose writings are often classified as \"Gothic horror\". He was frequently referred to as \"Monk\" Lewis, because of his 1796 Gothic novel The Monk.",
+      "url": "https://en.wikipedia.org/wiki/Matthew_Gregory_Lewis",
+      "_country_qids": [
+        "Q161885",
+        "Q145"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q214917",
+        "Q333634",
+        "Q49757",
+        "Q36180",
+        "Q6625963"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Antoine-Henri Jomini",
+      "dates": "1779–1869",
+      "y": 1779,
+      "roles": [
+        "Military",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Baron Antoine-Henri Jomini was a Swiss-French military officer who served as a general in French and later in Russian service, and one of the most celebrated writers on the Napoleonic art of war.",
+      "url": "https://en.wikipedia.org/wiki/Antoine-Henri_Jomini",
+      "_country_qids": [
+        "Q39",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q4182927",
+        "Q47064",
+        "Q189290",
+        "Q806798",
+        "Q12806039",
+        "Q201788",
+        "Q1734662"
+      ]
     },
     {
       "name": "Richard Mentor Johnson",
@@ -2020,6 +3001,56 @@
       "region": "Americas"
     },
     {
+      "name": "Martin Van Buren",
+      "dates": "1782–1862",
+      "y": 1782,
+      "roles": [
+        "Ruler",
+        "Reformer"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "Martin Van Buren was the eighth president of the United States, serving from 1837 to 1841. He co-founded the Democratic Party with Andrew Jackson.",
+      "url": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q185351",
+        "Q132050",
+        "Q40348",
+        "Q372436",
+        "Q7330070",
+        "Q36180",
+        "Q248577",
+        "Q193391",
+        "Q82955",
+        "Q121998"
+      ]
+    },
+    {
+      "name": "Zachary Taylor",
+      "dates": "1784–1850",
+      "y": 1784,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "Zachary Taylor was the 12th president of the United States, serving from 1849 until his death in 1850. He was a career officer in the United States Army, rising to major general.",
+      "url": "https://en.wikipedia.org/wiki/Zachary_Taylor",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q372436",
+        "Q38239859",
+        "Q82955",
+        "Q189290"
+      ]
+    },
+    {
       "name": "Alessandro Manzoni",
       "dates": "1785–1873",
       "y": 1785,
@@ -2032,6 +3063,29 @@
       "region": "Europe"
     },
     {
+      "name": "John Tyler",
+      "dates": "1790–1862",
+      "y": 1790,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "John Tyler was the tenth president of the United States, serving from 1841 to 1845. He succeeded to the presidency following Harrison's death 31 days after assuming office.",
+      "url": "https://en.wikipedia.org/wiki/John_Tyler",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q248577",
+        "Q82955",
+        "Q40348",
+        "Q372436",
+        "Q132050"
+      ]
+    },
+    {
       "name": "Giacomo Meyerbeer",
       "dates": "1791–1864",
       "y": 1791,
@@ -2042,6 +3096,30 @@
       "region": "Europe",
       "desc": "German-Jewish opera composer whose grand operas—including Les Huguenots—dominated Parisian stages for decades and influenced later Romantic opera.",
       "url": "https://en.wikipedia.org/wiki/Giacomo_Meyerbeer"
+    },
+    {
+      "name": "James K. Polk",
+      "dates": "1795–1849",
+      "y": 1795,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "James Knox Polk was the 11th president of the United States, serving from 1845 to 1849. He was an advocate of American expansionism and Jacksonian democracy.",
+      "url": "https://en.wikipedia.org/wiki/James_K._Polk",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q40348",
+        "Q132050",
+        "Q185351",
+        "Q55630100",
+        "Q82955",
+        "Q372436"
+      ]
     },
     {
       "name": "Horace Mann",
@@ -2103,6 +3181,57 @@
       "region": "South Asia"
     },
     {
+      "name": "Jeremias Gotthelf",
+      "dates": "1797–1854",
+      "y": 1797,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Albert Bitzius was a Swiss novelist, best known by his pen name of Jeremias Gotthelf.",
+      "url": "https://en.wikipedia.org/wiki/Jeremias_Gotthelf",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q6625963",
+        "Q1234713",
+        "Q1958649",
+        "Q36180",
+        "Q955464"
+      ]
+    },
+    {
+      "name": "Charles Wilkes",
+      "dates": "1798–1877",
+      "y": 1798,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Charles Wilkes was an American naval officer, ship's captain, and explorer. He led the first United States Exploring Expedition (1838–1842).",
+      "url": "https://en.wikipedia.org/wiki/Charles_Wilkes",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q13382749",
+        "Q2083925",
+        "Q2374149",
+        "Q3546255",
+        "Q36180",
+        "Q901402",
+        "Q98544732",
+        "Q132851",
+        "Q10669499",
+        "Q11900058"
+      ],
+      "region": "Americas"
+    },
+    {
       "name": "William Lassell",
       "dates": "1799–1880",
       "y": 1799,
@@ -2152,6 +3281,28 @@
       "region": "Europe"
     },
     {
+      "name": "William Rowan Hamilton",
+      "dates": "1805–1865",
+      "y": 1805,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Sir William Rowan Hamilton was an Irish mathematician, physicist, and astronomer who made numerous major contributions to algebra, classical mechanics, and optics.",
+      "url": "https://en.wikipedia.org/wiki/William_Rowan_Hamilton",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q11063",
+        "Q19350898",
+        "Q170790",
+        "Q169470",
+        "Q1622272"
+      ]
+    },
+    {
       "name": "Matthew Fontaine Maury",
       "dates": "1806–1873",
       "y": 1806,
@@ -2199,6 +3350,28 @@
       "region": "Europe",
       "desc": "French astronomer who predicted the existence and position of Neptune through mathematics alone, prompting its discovery in 1846.",
       "url": "https://en.wikipedia.org/wiki/Urbain_Le_Verrier"
+    },
+    {
+      "name": "Samuel Smiles",
+      "dates": "1812–1904",
+      "y": 1812,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Samuel Smiles was a British author and government reformer. His primary work, Self-Help (1859), promoted thrift and claimed that poverty was caused largely by irresponsible habits.",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Smiles",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q1930187",
+        "Q36180",
+        "Q39631",
+        "Q4964182",
+        "Q864380"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Ivar Andreas Aasen",
@@ -2268,6 +3441,29 @@
       "region": "Europe"
     },
     {
+      "name": "Gottfried Keller",
+      "dates": "1819–1890",
+      "y": 1819,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Gottfried Keller was a Swiss poet and writer of German literature. Best known for his novel Green Henry, he became one of the most popular narrators of literary realism in the late 19th century.",
+      "url": "https://en.wikipedia.org/wiki/Gottfried_Keller",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q8178443",
+        "Q36180",
+        "Q2325255",
+        "Q1028181",
+        "Q6625963"
+      ]
+    },
+    {
       "name": "Florence Nightingale",
       "dates": "1820–1910",
       "y": 1820,
@@ -2291,6 +3487,60 @@
       "url": "https://en.wikipedia.org/wiki/Harriet_Tubman"
     },
     {
+      "name": "Nikolay Danilevsky",
+      "dates": "1822–1885",
+      "y": 1822,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Nikolay Yakovlevich Danilevsky was a Russian naturalist, economist, ethnologist, philosopher, historian and ideologue of pan-Slavism and the Slavophile movement.",
+      "url": "https://en.wikipedia.org/wiki/Nikolay_Danilevsky",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q864503",
+        "Q18805",
+        "Q188094",
+        "Q19829999",
+        "Q201788",
+        "Q2306091",
+        "Q36180",
+        "Q4773904",
+        "Q4964182",
+        "Q6051619"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "William Thomson, 1st Baron Kelvin",
+      "dates": "1824–1907",
+      "y": 1824,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "William Thomson, 1st Baron Kelvin was a Scottish mathematician, mathematical physicist and engineer.",
+      "url": "https://en.wikipedia.org/wiki/Lord_Kelvin",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q11063",
+        "Q1622272",
+        "Q169470",
+        "Q170790",
+        "Q36180",
+        "Q593644",
+        "Q81096",
+        "Q82955"
+      ]
+    },
+    {
       "name": "Dadabhai Naoroji",
       "dates": "1825–1917",
       "y": 1825,
@@ -2302,6 +3552,28 @@
       "region": "South Asia",
       "desc": "Indian political leader, founding member of the Indian National Congress, and the first Indian elected to the British Parliament.",
       "url": "https://en.wikipedia.org/wiki/Dadabhai_Naoroji"
+    },
+    {
+      "name": "Henry Dunant",
+      "dates": "1828–1910",
+      "y": 1828,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Henry Dunant was a Swiss humanitarian, businessman, social activist, and co-founder of the Red Cross. His humanitarian efforts won him the first Nobel Peace Prize in 1901.",
+      "url": "https://en.wikipedia.org/wiki/Henry_Dunant",
+      "_country_qids": [
+        "Q142",
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q131524",
+        "Q215536",
+        "Q4479442",
+        "Q36180"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Asaph Hall",
@@ -2434,6 +3706,49 @@
       "region": "Europe"
     },
     {
+      "name": "Ernesto Teodoro Moneta",
+      "dates": "1833–1918",
+      "y": 1833,
+      "roles": [
+        "Writer",
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "Ernesto Teodoro Moneta was an Italian journalist, nationalist, revolutionary soldier and later a pacifist and Nobel Peace Prize Laureate. He adopted the motto In varietate unitas!",
+      "url": "https://en.wikipedia.org/wiki/Ernesto_Teodoro_Moneta",
+      "_country_qids": [
+        "Q172579"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q47064",
+        "Q1930187",
+        "Q16003550"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Élie Ducommun",
+      "dates": "1833–1906",
+      "y": 1833,
+      "roles": [
+        "Reformer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Élie Ducommun was a Swiss peace activist. He was a Nobel laureate, awarded the 1902 Nobel Peace Prize, which he shared with Charles Albert Gobat.",
+      "url": "https://en.wikipedia.org/wiki/%C3%89lie_Ducommun",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q16323111",
+        "Q188094",
+        "Q1930187",
+        "Q82955"
+      ]
+    },
+    {
       "name": "Wilhelm Steinitz",
       "dates": "1836–1900",
       "y": 1836,
@@ -2518,6 +3833,55 @@
       "region": "Americas"
     },
     {
+      "name": "John Hay",
+      "dates": "1838–1905",
+      "y": 1838,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "region": "Americas",
+      "era": "19th century",
+      "desc": "John Milton Hay was an American statesman and official whose career in government stretched over almost half a century. He served as United States Secretary of State under Presidents William McKinley and Theodore Roosevelt.",
+      "url": "https://en.wikipedia.org/wiki/John_Hay",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q80687",
+        "Q864380",
+        "Q82955",
+        "Q36180",
+        "Q201788",
+        "Q193391",
+        "Q1930187",
+        "Q185351"
+      ]
+    },
+    {
+      "name": "Victoria, Princess Royal",
+      "dates": "1840–1901",
+      "y": 1840,
+      "roles": [
+        "Ruler",
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Victoria, Princess Royal was German Empress and Queen of Prussia as the wife of Frederick III, German Emperor. She was the eldest child of Queen Victoria of the United Kingdom.",
+      "url": "https://en.wikipedia.org/wiki/Victoria%2C_Princess_Royal",
+      "_country_qids": [
+        "Q27306",
+        "Q1206012",
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q1281618",
+        "Q1028181",
+        "Q15296811"
+      ]
+    },
+    {
       "name": "Berthe Morisot",
       "dates": "1841–1895",
       "y": 1841,
@@ -2555,6 +3919,49 @@
       "region": "Europe"
     },
     {
+      "name": "Osman Hamdi Bey",
+      "dates": "1842–1910",
+      "y": 1842,
+      "roles": [
+        "Artist",
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Osman Hamdi Bey was an Ottoman Greek administrator, intellectual, art expert and also a prominent and pioneering painter. He was the Ottoman Empire's first archaeologist and first museologist.",
+      "url": "https://en.wikipedia.org/wiki/Osman_Hamdi_Bey",
+      "_country_qids": [
+        "Q12560"
+      ],
+      "_occupation_qids": [
+        "Q3621491",
+        "Q4773904",
+        "Q1028181",
+        "Q82955",
+        "Q1792450"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Friedrich Miescher",
+      "dates": "1844–1895",
+      "y": 1844,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Johannes Friedrich Miescher was a Swiss physician and biologist. He was the first scientist to isolate nucleic acid in 1869.",
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Miescher",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q2919046",
+        "Q1622272",
+        "Q2055046"
+      ]
+    },
+    {
       "name": "Gabriel Fauré",
       "dates": "1845–1924",
       "y": 1845,
@@ -2565,6 +3972,25 @@
       "region": "Europe",
       "desc": "French composer known for his Requiem, piano nocturnes, and chamber music who shaped the transition from Romanticism to modern French music.",
       "url": "https://en.wikipedia.org/wiki/Gabriel_Faur%C3%A9"
+    },
+    {
+      "name": "Alexander III of Russia",
+      "dates": "1845–1894",
+      "y": 1845,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Alexander III was Emperor of Russia, King of Poland and Grand Duke of Finland from 13 March 1881 until his death in 1894. He was highly reactionary in domestic affairs.",
+      "url": "https://en.wikipedia.org/wiki/Alexander_III_of_Russia",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q10732476",
+        "Q116"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Vasily Surikov",
@@ -2608,6 +4034,45 @@
       "desc": "Italian polymath who formulated the Pareto principle (the 80/20 rule) and made foundational contributions to economics and sociology.",
       "url": "https://en.wikipedia.org/wiki/Vilfredo_Pareto",
       "region": "Europe"
+    },
+    {
+      "name": "Édouard-Henri Avril",
+      "dates": "1849–1928",
+      "y": 1849,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Édouard-Henri Avril was a French painter and commercial artist. Under the pseudonym Paul Avril, he was an illustrator of erotic literature.",
+      "url": "https://en.wikipedia.org/wiki/%C3%89douard-Henri_Avril",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q644687",
+        "Q1028181"
+      ]
+    },
+    {
+      "name": "Henry Louis Le Châtelier",
+      "dates": "1850–1936",
+      "y": 1850,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Henry Louis Le Chatelier was a French chemist who devised Le Chatelier’s principle, used by chemists to predict the effect a changing condition has on a system in chemical equilibrium.",
+      "url": "https://en.wikipedia.org/wiki/Henry_Louis_Le_Chatelier",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q121594",
+        "Q593644",
+        "Q81096"
+      ]
     },
     {
       "name": "Henri Moissan",
@@ -2672,6 +4137,50 @@
       "url": "https://en.wikipedia.org/wiki/Ronald_Ross"
     },
     {
+      "name": "Eugen Bleuler",
+      "dates": "1857–1939",
+      "y": 1857,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Paul Eugen Bleuler was a Swiss psychiatrist and eugenicist most notable for his influence on modern concepts of mental illness. He coined several psychiatric terms including schizophrenia, schizoid, autism, and depth psychology.",
+      "url": "https://en.wikipedia.org/wiki/Eugen_Bleuler",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q39631",
+        "Q1622272",
+        "Q211346"
+      ]
+    },
+    {
+      "name": "Antoni Grabowski",
+      "dates": "1857–1921",
+      "y": 1857,
+      "roles": [
+        "Writer",
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Antoni Grabowski was a Polish chemical engineer, and an activist of the early Esperanto movement. His translations had an influential impact on the development of Esperanto into a language of literature.",
+      "url": "https://en.wikipedia.org/wiki/Antoni_Grabowski",
+      "_country_qids": [
+        "Q207272",
+        "Q27306"
+      ],
+      "_occupation_qids": [
+        "Q7888586",
+        "Q49757",
+        "Q36180",
+        "Q333634",
+        "Q860918"
+      ]
+    },
+    {
       "name": "Christiaan Eijkman",
       "dates": "1858–1930",
       "y": 1858,
@@ -2695,6 +4204,36 @@
         "Q901"
       ],
       "region": "Europe"
+    },
+    {
+      "name": "L. L. Zamenhof",
+      "dates": "1859–1917",
+      "y": 1859,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "L. L. Zamenhof (1859–1917) was the creator of Esperanto, the most widely used constructed international auxiliary language.",
+      "url": "https://en.wikipedia.org/wiki/L._L._Zamenhof",
+      "_country_qids": [
+        "Q696908",
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q14467526",
+        "Q39631",
+        "Q205375",
+        "Q24262584",
+        "Q333634",
+        "Q860918",
+        "Q56810907",
+        "Q551835",
+        "Q49757",
+        "Q12013238",
+        "Q13418253"
+      ]
     },
     {
       "name": "Fatma Aliye Topuz",
@@ -2735,6 +4274,86 @@
       "region": "Europe"
     },
     {
+      "name": "Camille Claudel",
+      "dates": "1864–1943",
+      "y": 1864,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Camille Rosalie Claudel was a French sculptor known for her figurative works in bronze and marble.",
+      "url": "https://en.wikipedia.org/wiki/Camille_Claudel",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q1925963",
+        "Q483501",
+        "Q2079935",
+        "Q1630100",
+        "Q1281618",
+        "Q1028181"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Nikolai Marr",
+      "dates": "1865–1934",
+      "y": 1865,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Nikolai Yakovlevich Marr was a Georgian-born historian and linguist who gained a reputation as a scholar of the Caucasus.",
+      "url": "https://en.wikipedia.org/wiki/Nikolai_Marr",
+      "_country_qids": [
+        "Q8680",
+        "Q34266",
+        "Q15180",
+        "Q2305208"
+      ],
+      "_occupation_qids": [
+        "Q21280575",
+        "Q1731155",
+        "Q36180",
+        "Q3621491",
+        "Q4773904",
+        "Q1622272",
+        "Q14467526",
+        "Q1371378",
+        "Q13418253",
+        "Q860918"
+      ]
+    },
+    {
+      "name": "Sofia Okunevska",
+      "dates": "1865–1926",
+      "y": 1865,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Sofia Okunevska was a Ukrainian physician, educator, feminist, and scholar. She was the first female Doctor of Medicine and the first female physician in Austria-Hungary.",
+      "url": "https://en.wikipedia.org/wiki/Sofia_Okunevska",
+      "_country_qids": [
+        "Q533534",
+        "Q207272",
+        "Q131964",
+        "Q457167"
+      ],
+      "_occupation_qids": [
+        "Q39631",
+        "Q37226",
+        "Q36180",
+        "Q28692502",
+        "Q169470"
+      ]
+    },
+    {
       "name": "Marie Curie",
       "dates": "1867–1934",
       "y": 1867,
@@ -2744,6 +4363,29 @@
       "era": "20th century onward",
       "desc": "Physicist and chemist, pioneer of radioactivity and the first person to win two Nobel Prizes.",
       "url": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    {
+      "name": "Władysław Reymont",
+      "dates": "1867–1925",
+      "y": 1867,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Władysław Stanisław Reymont was a Polish novelist and the laureate of the 1924 Nobel Prize in Literature.",
+      "url": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Reymont",
+      "_country_qids": [
+        "Q207272",
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q6625963",
+        "Q12144794",
+        "Q28389",
+        "Q36180",
+        "Q482980"
+      ]
     },
     {
       "name": "Robert Falcon Scott",
@@ -2883,6 +4525,26 @@
       "region": "Europe"
     },
     {
+      "name": "Maurice Ravel",
+      "dates": "1875–1937",
+      "y": 1875,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Joseph Maurice Ravel was a French composer, pianist and conductor. In the 1920s and 1930s Ravel was internationally regarded as France's greatest living composer.",
+      "url": "https://en.wikipedia.org/wiki/Maurice_Ravel",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q158852",
+        "Q36834",
+        "Q486748"
+      ]
+    },
+    {
       "name": "Francis William Aston",
       "dates": "1877–1945",
       "y": 1877,
@@ -2943,6 +4605,27 @@
       "url": "https://en.wikipedia.org/wiki/Viktor_Dyk"
     },
     {
+      "name": "Joan Gamper",
+      "dates": "1877–1930",
+      "y": 1877,
+      "roles": [
+        "Reformer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Hans Max Gamper-Haessig, commonly known as Joan Gamper, was a Swiss-born football executive and versatile athlete. He founded football clubs in Switzerland and Spain, most notably Barcelona.",
+      "url": "https://en.wikipedia.org/wiki/Joan_Gamper",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q2066131",
+        "Q937857",
+        "Q26481809",
+        "Q43845"
+      ]
+    },
+    {
       "name": "Gustav Stresemann",
       "dates": "1878–1929",
       "y": 1878,
@@ -2999,6 +4682,54 @@
       "region": "Europe"
     },
     {
+      "name": "Marcel Grossmann",
+      "dates": "1878–1936",
+      "y": 1878,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Marcel Grossmann was a Swiss mathematician who was a friend and classmate of Albert Einstein.",
+      "url": "https://en.wikipedia.org/wiki/Marcel_Grossmann",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q1622272",
+        "Q170790"
+      ]
+    },
+    {
+      "name": "Otto Bauer",
+      "dates": "1881–1938",
+      "y": 1881,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Otto Bauer was an Austrian politician who was one of the founders and leading thinkers of the Austromarxists. He served as Foreign Minister of the Republic of German-Austria.",
+      "url": "https://en.wikipedia.org/wiki/Otto_Bauer",
+      "_country_qids": [
+        "Q40"
+      ],
+      "_occupation_qids": [
+        "Q193391",
+        "Q12718544",
+        "Q185351",
+        "Q3242115",
+        "Q36180",
+        "Q482980",
+        "Q486839",
+        "Q4964182",
+        "Q6051619",
+        "Q82955",
+        "Q876864"
+      ]
+    },
+    {
       "name": "Lili Elbe",
       "dates": "1882–1931",
       "y": 1882,
@@ -3009,6 +4740,28 @@
       "desc": "Danish painter and one of the earliest known recipients of gender reassignment surgery.",
       "url": "https://en.wikipedia.org/wiki/Lili_Elbe",
       "region": "Europe"
+    },
+    {
+      "name": "Inayat Khan",
+      "dates": "1882–1927",
+      "y": 1882,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Inayat Khan Rehmat Khan was an Indian professor of musicology, singer, poet, philosopher, writer, and pioneer of the transmission of Sufism to the West.",
+      "url": "https://en.wikipedia.org/wiki/Inayat_Khan",
+      "_country_qids": [
+        "Q129286"
+      ],
+      "_occupation_qids": [
+        "Q639669",
+        "Q4964182",
+        "Q37226",
+        "Q36180",
+        "Q2892720"
+      ],
+      "region": "South Asia"
     },
     {
       "name": "Douglas Fairbanks",
@@ -3023,6 +4776,94 @@
       "url": "https://en.wikipedia.org/wiki/Douglas_Fairbanks"
     },
     {
+      "name": "Amedeo Modigliani",
+      "dates": "1884–1920",
+      "y": 1884,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Amedeo Clemente Modigliani was an Italian painter and sculptor of the École de Paris who worked mainly in France. He is known for portraits and nudes in a modern style.",
+      "url": "https://en.wikipedia.org/wiki/Amedeo_Modigliani",
+      "_country_qids": [
+        "Q172579"
+      ],
+      "_occupation_qids": [
+        "Q15296811",
+        "Q1028181",
+        "Q1281618"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Hermann Rorschach",
+      "dates": "1884–1922",
+      "y": 1884,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Hermann Rorschach was a Swiss psychiatrist and psychoanalyst who developed the famous inkblot test that bears his name.",
+      "url": "https://en.wikipedia.org/wiki/Hermann_Rorschach",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q3410028",
+        "Q211346",
+        "Q1371378"
+      ]
+    },
+    {
+      "name": "Jacques Feyder",
+      "dates": "1885–1948",
+      "y": 1885,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Jacques Feyder was a Belgian film director, screenwriter and actor who worked principally in France. He was associated with the style of poetic realism in French cinema.",
+      "url": "https://en.wikipedia.org/wiki/Jacques_Feyder",
+      "_country_qids": [
+        "Q142",
+        "Q31"
+      ],
+      "_occupation_qids": [
+        "Q33999",
+        "Q3455803",
+        "Q482980",
+        "Q3282637",
+        "Q28389",
+        "Q7042855",
+        "Q10800557",
+        "Q2526255"
+      ]
+    },
+    {
+      "name": "Engelbert Dollfuss",
+      "dates": "1892–1934",
+      "y": 1892,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Engelbert Dollfuss was an Austrian politician and dictator who served as chancellor of Austria between 1932 and 1934.",
+      "url": "https://en.wikipedia.org/wiki/Engelbert_Dollfuss",
+      "_country_qids": [
+        "Q40"
+      ],
+      "_occupation_qids": [
+        "Q193391",
+        "Q82955",
+        "Q47064",
+        "Q40348"
+      ]
+    },
+    {
       "name": "Joachim von Ribbentrop",
       "dates": "1893–1946",
       "y": 1893,
@@ -3033,6 +4874,27 @@
       "region": "Europe",
       "desc": "German politician and diplomat who served as Nazi Germany's Foreign Minister 1938–1945; executed at Nuremberg as a war criminal.",
       "url": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
+    },
+    {
+      "name": "Vicente Huidobro",
+      "dates": "1893–1948",
+      "y": 1893,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Americas",
+      "era": "19th century",
+      "desc": "Vicente García-Huidobro Fernández, known by the pseudonym Vicente Huidobro, was a Chilean poet, writer, editor and literary critic. He was the founder of Creationism.",
+      "url": "https://en.wikipedia.org/wiki/Vicente_Huidobro",
+      "_country_qids": [
+        "Q298"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q36180",
+        "Q214917",
+        "Q1930187"
+      ]
     },
     {
       "name": "Grand Duchess Olga Nikolaevna of Russia",
@@ -3094,1433 +4956,6 @@
       "region": "Europe",
       "desc": "Kazakh machine-gunner in the Red Army who single-handedly held off a German assault near Nevel in 1943, posthumously awarded Hero of the Soviet Union.",
       "url": "https://en.wikipedia.org/wiki/Manshuk_Mametova"
-    },
-    {
-      "name": "Joan Gamper",
-      "dates": "1877–1930",
-      "y": 1877,
-      "roles": [
-        "Reformer"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Hans Max Gamper-Haessig, commonly known as Joan Gamper, was a Swiss-born football executive and versatile athlete. He founded football clubs in Switzerland and Spain, most notably Barcelona.",
-      "url": "https://en.wikipedia.org/wiki/Joan_Gamper",
-      "_country_qids": [
-        "Q39"
-      ],
-      "_occupation_qids": [
-        "Q2066131",
-        "Q937857",
-        "Q26481809",
-        "Q43845"
-      ]
-    },
-    {
-      "name": "Eugen Bleuler",
-      "dates": "1857–1939",
-      "y": 1857,
-      "roles": [
-        "Scientist"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Paul Eugen Bleuler was a Swiss psychiatrist and eugenicist most notable for his influence on modern concepts of mental illness. He coined several psychiatric terms including schizophrenia, schizoid, autism, and depth psychology.",
-      "url": "https://en.wikipedia.org/wiki/Eugen_Bleuler",
-      "_country_qids": [
-        "Q39"
-      ],
-      "_occupation_qids": [
-        "Q39631",
-        "Q1622272",
-        "Q211346"
-      ]
-    },
-    {
-      "name": "Horace Bénédict de Saussure",
-      "dates": "1740–1799",
-      "y": 1740,
-      "roles": [
-        "Scientist",
-        "Explorer"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Horace Bénédict de Saussure was a Genevan geologist, meteorologist, physicist, mountaineer and Alpine explorer, often called the founder of alpinism and modern meteorology.",
-      "url": "https://en.wikipedia.org/wiki/Horace_B%C3%A9n%C3%A9dict_de_Saussure",
-      "_country_qids": [
-        "Q142",
-        "Q23366230"
-      ],
-      "_occupation_qids": [
-        "Q9149093",
-        "Q15623737",
-        "Q169470",
-        "Q82955",
-        "Q520549",
-        "Q3951423",
-        "Q2374149",
-        "Q2310145",
-        "Q18805",
-        "Q1622272"
-      ]
-    },
-    {
-      "name": "Johann Jakob Bodmer",
-      "dates": "1698–1783",
-      "y": 1698,
-      "roles": [
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Johann Jakob Bodmer was a Swiss author, academic, critic and poet.",
-      "url": "https://en.wikipedia.org/wiki/Johann_Jakob_Bodmer",
-      "_country_qids": [
-        "Q39",
-        "Q183"
-      ],
-      "_occupation_qids": [
-        "Q333634",
-        "Q4263842",
-        "Q49757",
-        "Q36180",
-        "Q708492",
-        "Q201788",
-        "Q1930187",
-        "Q13418253"
-      ]
-    },
-    {
-      "name": "Antoine-Henri Jomini",
-      "dates": "1779–1869",
-      "y": 1779,
-      "roles": [
-        "Military",
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Baron Antoine-Henri Jomini was a Swiss-French military officer who served as a general in French and later in Russian service, and one of the most celebrated writers on the Napoleonic art of war.",
-      "url": "https://en.wikipedia.org/wiki/Antoine-Henri_Jomini",
-      "_country_qids": [
-        "Q39",
-        "Q142"
-      ],
-      "_occupation_qids": [
-        "Q36180",
-        "Q4182927",
-        "Q47064",
-        "Q189290",
-        "Q806798",
-        "Q12806039",
-        "Q201788",
-        "Q1734662"
-      ]
-    },
-    {
-      "name": "Marcel Grossmann",
-      "dates": "1878–1936",
-      "y": 1878,
-      "roles": [
-        "Scientist"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Marcel Grossmann was a Swiss mathematician who was a friend and classmate of Albert Einstein.",
-      "url": "https://en.wikipedia.org/wiki/Marcel_Grossmann",
-      "_country_qids": [
-        "Q39"
-      ],
-      "_occupation_qids": [
-        "Q1622272",
-        "Q170790"
-      ]
-    },
-    {
-      "name": "Friedrich Miescher",
-      "dates": "1844–1895",
-      "y": 1844,
-      "roles": [
-        "Scientist"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Johannes Friedrich Miescher was a Swiss physician and biologist. He was the first scientist to isolate nucleic acid in 1869.",
-      "url": "https://en.wikipedia.org/wiki/Friedrich_Miescher",
-      "_country_qids": [
-        "Q39"
-      ],
-      "_occupation_qids": [
-        "Q2919046",
-        "Q1622272",
-        "Q2055046"
-      ]
-    },
-    {
-      "name": "Anne Hutchinson",
-      "dates": "1591–1643",
-      "y": 1591,
-      "roles": [
-        "Religious",
-        "Reformer"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "Anne Hutchinson was an English-born religious figure who was an important participant in the Antinomian Controversy which shook the nascent Massachusetts Bay Colony from 1636 to 1638.",
-      "url": "https://en.wikipedia.org/wiki/Anne_Hutchinson",
-      "_country_qids": [
-        "Q179876"
-      ],
-      "_occupation_qids": [
-        "Q432386",
-        "Q36180",
-        "Q1234713",
-        "Q185196"
-      ]
-    },
-    {
-      "name": "Nikolai Marr",
-      "dates": "1865–1934",
-      "y": 1865,
-      "roles": [
-        "Scientist",
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Nikolai Yakovlevich Marr was a Georgian-born historian and linguist who gained a reputation as a scholar of the Caucasus.",
-      "url": "https://en.wikipedia.org/wiki/Nikolai_Marr",
-      "_country_qids": [
-        "Q8680",
-        "Q34266",
-        "Q15180",
-        "Q2305208"
-      ],
-      "_occupation_qids": [
-        "Q21280575",
-        "Q1731155",
-        "Q36180",
-        "Q3621491",
-        "Q4773904",
-        "Q1622272",
-        "Q14467526",
-        "Q1371378",
-        "Q13418253",
-        "Q860918"
-      ]
-    },
-    {
-      "name": "Ladislaus the Posthumous",
-      "dates": "1440–1457",
-      "y": 1440,
-      "roles": [
-        "Ruler"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Ladislaus the Posthumous, known as Ladislaus V, was Duke of Austria and King of Hungary, Croatia and Bohemia.",
-      "url": "https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous",
-      "_country_qids": [
-        "Q28"
-      ],
-      "_occupation_qids": [
-        "Q1097498"
-      ]
-    },
-    {
-      "name": "Nikephoros I of Constantinople",
-      "dates": "750–828",
-      "y": 750,
-      "roles": [
-        "Religious",
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Nikephoros I was a Byzantine writer and Ecumenical Patriarch of Constantinople from 12 April 806 to 13 March 815.",
-      "url": "https://en.wikipedia.org/wiki/Nikephoros_I_of_Constantinople",
-      "_country_qids": [
-        "Q12544"
-      ],
-      "_occupation_qids": [
-        "Q1423891",
-        "Q171692",
-        "Q916292",
-        "Q36180",
-        "Q201788",
-        "Q212238"
-      ]
-    },
-    {
-      "name": "Victoria, Princess Royal",
-      "dates": "1840–1901",
-      "y": 1840,
-      "roles": [
-        "Ruler",
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Victoria, Princess Royal was German Empress and Queen of Prussia as the wife of Frederick III, German Emperor. She was the eldest child of Queen Victoria of the United Kingdom.",
-      "url": "https://en.wikipedia.org/wiki/Victoria%2C_Princess_Royal",
-      "_country_qids": [
-        "Q27306",
-        "Q1206012",
-        "Q174193"
-      ],
-      "_occupation_qids": [
-        "Q1281618",
-        "Q1028181",
-        "Q15296811"
-      ]
-    },
-    {
-      "name": "Andreas Hofer",
-      "dates": "1767–1810",
-      "y": 1767,
-      "roles": [
-        "Military",
-        "Reformer"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Andreas Hofer was a Tyrolean innkeeper and drover who became the leader of the 1809 Tyrolean Rebellion during the War of the Fifth Coalition.",
-      "url": "https://en.wikipedia.org/wiki/Andreas_Hofer",
-      "_country_qids": [
-        "Q153136"
-      ],
-      "_occupation_qids": [
-        "Q30242234",
-        "Q1402561",
-        "Q131512"
-      ]
-    },
-    {
-      "name": "Vicente Huidobro",
-      "dates": "1893–1948",
-      "y": 1893,
-      "roles": [
-        "Writer"
-      ],
-      "region": "Americas",
-      "era": "19th century",
-      "desc": "Vicente García-Huidobro Fernández, known by the pseudonym Vicente Huidobro, was a Chilean poet, writer, editor and literary critic. He was the founder of Creationism.",
-      "url": "https://en.wikipedia.org/wiki/Vicente_Huidobro",
-      "_country_qids": [
-        "Q298"
-      ],
-      "_occupation_qids": [
-        "Q49757",
-        "Q36180",
-        "Q214917",
-        "Q1930187"
-      ]
-    },
-    {
-      "name": "John Hay",
-      "dates": "1838–1905",
-      "y": 1838,
-      "roles": [
-        "Ruler",
-        "Writer"
-      ],
-      "region": "Americas",
-      "era": "19th century",
-      "desc": "John Milton Hay was an American statesman and official whose career in government stretched over almost half a century. He served as United States Secretary of State under Presidents William McKinley and Theodore Roosevelt.",
-      "url": "https://en.wikipedia.org/wiki/John_Hay",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q80687",
-        "Q864380",
-        "Q82955",
-        "Q36180",
-        "Q201788",
-        "Q193391",
-        "Q1930187",
-        "Q185351"
-      ]
-    },
-    {
-      "name": "Thespis",
-      "dates": "600BCE–560BCE",
-      "y": -600,
-      "roles": [
-        "Artist",
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Ancient (to 500 CE)",
-      "desc": "Thespis was a stage actor in Ancient Greece. According to certain Ancient Greek sources and especially Aristotle, he was the first human to appear on stage as an actor playing a character in a play.",
-      "url": "https://en.wikipedia.org/wiki/Thespis",
-      "_country_qids": [
-        "Q844930"
-      ],
-      "_occupation_qids": [
-        "Q49757",
-        "Q36180",
-        "Q2259451",
-        "Q214917"
-      ]
-    },
-    {
-      "name": "Demosthenes",
-      "dates": "383BCE–321BCE",
-      "y": -383,
-      "roles": [
-        "Ruler",
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Ancient (to 500 CE)",
-      "desc": "Demosthenes was a Greek statesman and orator in ancient Athens. His orations provide insight into the politics and culture of ancient Greece during the 4th century BC.",
-      "url": "https://en.wikipedia.org/wiki/Demosthenes",
-      "_country_qids": [
-        "Q844930"
-      ],
-      "_occupation_qids": [
-        "Q82955",
-        "Q36180",
-        "Q12859263",
-        "Q193391"
-      ]
-    },
-    {
-      "name": "Otto Bauer",
-      "dates": "1881–1938",
-      "y": 1881,
-      "roles": [
-        "Ruler",
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Otto Bauer was an Austrian politician who was one of the founders and leading thinkers of the Austromarxists. He served as Foreign Minister of the Republic of German-Austria.",
-      "url": "https://en.wikipedia.org/wiki/Otto_Bauer",
-      "_country_qids": [
-        "Q40"
-      ],
-      "_occupation_qids": [
-        "Q193391",
-        "Q12718544",
-        "Q185351",
-        "Q3242115",
-        "Q36180",
-        "Q482980",
-        "Q486839",
-        "Q4964182",
-        "Q6051619",
-        "Q82955",
-        "Q876864"
-      ]
-    },
-    {
-      "name": "Engelbert Dollfuss",
-      "dates": "1892–1934",
-      "y": 1892,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Engelbert Dollfuss was an Austrian politician and dictator who served as chancellor of Austria between 1932 and 1934.",
-      "url": "https://en.wikipedia.org/wiki/Engelbert_Dollfuss",
-      "_country_qids": [
-        "Q40"
-      ],
-      "_occupation_qids": [
-        "Q193391",
-        "Q82955",
-        "Q47064",
-        "Q40348"
-      ]
-    },
-    {
-      "name": "L. L. Zamenhof",
-      "dates": "1859–1917",
-      "y": 1859,
-      "roles": [
-        "Writer",
-        "Reformer"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "L. L. Zamenhof (1859–1917) was the creator of Esperanto, the most widely used constructed international auxiliary language.",
-      "url": "https://en.wikipedia.org/wiki/L._L._Zamenhof",
-      "_country_qids": [
-        "Q696908",
-        "Q34266"
-      ],
-      "_occupation_qids": [
-        "Q14467526",
-        "Q39631",
-        "Q205375",
-        "Q24262584",
-        "Q333634",
-        "Q860918",
-        "Q56810907",
-        "Q551835",
-        "Q49757",
-        "Q12013238",
-        "Q13418253"
-      ]
-    },
-    {
-      "name": "Lulach",
-      "dates": "1030–1058",
-      "y": 1030,
-      "roles": [
-        "Ruler"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Lulach mac Gille Coemgáin was King of Alba (Scotland) between 15 August 1057 and 17 March 1058.",
-      "url": "https://en.wikipedia.org/wiki/Lulach",
-      "_country_qids": [
-        "Q230791"
-      ],
-      "_occupation_qids": [
-        "Q82955"
-      ]
-    },
-    {
-      "name": "Giuseppe Caspar Mezzofanti",
-      "dates": "1774–1849",
-      "y": 1774,
-      "roles": [
-        "Religious",
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Giuseppe Gasparo Mezzofanti was an Italian cardinal known for being a hyperpolyglot. He spoke 38 to 50 languages.",
-      "url": "https://en.wikipedia.org/wiki/Giuseppe_Gasparo_Mezzofanti",
-      "_country_qids": [
-        "Q4948",
-        "Q223936"
-      ],
-      "_occupation_qids": [
-        "Q1622272",
-        "Q250867",
-        "Q182436",
-        "Q14467526",
-        "Q3144189"
-      ]
-    },
-    {
-      "name": "Maurice Ravel",
-      "dates": "1875–1937",
-      "y": 1875,
-      "roles": [
-        "Artist"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Joseph Maurice Ravel was a French composer, pianist and conductor. In the 1920s and 1930s Ravel was internationally regarded as France's greatest living composer.",
-      "url": "https://en.wikipedia.org/wiki/Maurice_Ravel",
-      "_country_qids": [
-        "Q142"
-      ],
-      "_occupation_qids": [
-        "Q158852",
-        "Q36834",
-        "Q486748"
-      ]
-    },
-    {
-      "name": "Nicholas II",
-      "dates": "990–1061",
-      "y": 990,
-      "roles": [
-        "Ruler"
-      ],
-      "region": "Europe",
-      "era": "Medieval (500–1500)",
-      "desc": "Nicholas II was Emperor of Russia from 1 November 1894 until his abdication in 1917. He was the last Russian monarch before the Russian Revolution.",
-      "url": "https://en.wikipedia.org/wiki/Nicholas_II",
-      "_country_qids": [
-        "Q3271735"
-      ],
-      "_occupation_qids": [
-        "Q611644",
-        "Q250867",
-        "Q36180"
-      ]
-    },
-    {
-      "name": "Marcus Gavius Apicius",
-      "dates": "24BCE–37",
-      "y": -24,
-      "roles": [
-        "Writer"
-      ],
-      "region": "Europe",
-      "era": "Ancient (to 500 CE)",
-      "desc": "Marcus Gavius Apicius is believed to have been a Roman gourmet and lover of luxury, who lived sometime in the 1st century AD. The Roman cookbook Apicius is often attributed to him.",
-      "url": "https://en.wikipedia.org/wiki/Marcus_Gavius_Apicius",
-      "_country_qids": [
-        "Q1747689"
-      ],
-      "_occupation_qids": [
-        "Q113516626",
-        "Q215536"
-      ]
-    },
-    {
-      "name": "John Adams",
-      "dates": "1735–1826",
-      "y": 1735,
-      "roles": [
-        "Ruler",
-        "Writer",
-        "Reformer"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "John Adams was a Founding Father and the second president of the United States from 1797 to 1801. He was a leader of the American Revolution that achieved independence from Great Britain.",
-      "url": "https://en.wikipedia.org/wiki/John_Adams",
-      "_country_qids": [
-        "Q30",
-        "Q179997"
-      ],
-      "_occupation_qids": [
-        "Q248577",
-        "Q372436",
-        "Q40348",
-        "Q82955",
-        "Q121998",
-        "Q36180",
-        "Q193391",
-        "Q18930007"
-      ]
-    },
-    {
-      "name": "Thomas Jefferson",
-      "dates": "1743–1826",
-      "y": 1743,
-      "roles": [
-        "Ruler",
-        "Writer",
-        "Reformer"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "Thomas Jefferson was a Founding Father and the third president of the United States from 1801 to 1809. Jefferson was the primary author of the Declaration of Independence.",
-      "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q4964182",
-        "Q132050",
-        "Q42973",
-        "Q40348",
-        "Q372436",
-        "Q37226",
-        "Q3621491",
-        "Q36180",
-        "Q248577",
-        "Q205375",
-        "Q193391",
-        "Q185351",
-        "Q1662561",
-        "Q15442776",
-        "Q15296811",
-        "Q55630100",
-        "Q7330070",
-        "Q82955"
-      ]
-    },
-    {
-      "name": "James Madison",
-      "dates": "1751–1836",
-      "y": 1751,
-      "roles": [
-        "Ruler",
-        "Writer",
-        "Reformer"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "James Madison was an American statesman, diplomat, and Founding Father who served as the fourth president of the United States from 1809 to 1817. He was popularly acclaimed as the \"Father of the Constitution\".",
-      "url": "https://en.wikipedia.org/wiki/James_Madison",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q82955",
-        "Q4964182",
-        "Q40348",
-        "Q36180",
-        "Q193391",
-        "Q12372582",
-        "Q372436"
-      ]
-    },
-    {
-      "name": "James Monroe",
-      "dates": "1758–1831",
-      "y": 1758,
-      "roles": [
-        "Ruler",
-        "Military",
-        "Reformer"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "James Monroe was an American Founding Father who served as the fifth president of the United States from 1817 to 1825. He was the last Founding Father to serve as president.",
-      "url": "https://en.wikipedia.org/wiki/James_Monroe",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q372436",
-        "Q82955",
-        "Q132050",
-        "Q193391",
-        "Q248577",
-        "Q36180",
-        "Q40348",
-        "Q131512"
-      ]
-    },
-    {
-      "name": "John Quincy Adams",
-      "dates": "1767–1848",
-      "y": 1767,
-      "roles": [
-        "Ruler",
-        "Writer"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "John Quincy Adams was the sixth president of the United States, serving from 1825 to 1829. He previously served as the eighth United States secretary of state from 1817 to 1825.",
-      "url": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
-      "_country_qids": [
-        "Q258532",
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q121998",
-        "Q18939491",
-        "Q185351",
-        "Q40348",
-        "Q82955",
-        "Q372436",
-        "Q36180",
-        "Q248577",
-        "Q193391"
-      ]
-    },
-    {
-      "name": "Andrew Jackson",
-      "dates": "1767–1845",
-      "y": 1767,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "Andrew Jackson was the seventh president of the United States from 1829 to 1837. He rose to fame as a U.S. Army general.",
-      "url": "https://en.wikipedia.org/wiki/Andrew_Jackson",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q248577",
-        "Q82955",
-        "Q40348",
-        "Q38239859",
-        "Q132050",
-        "Q16533",
-        "Q372436"
-      ]
-    },
-    {
-      "name": "Martin Van Buren",
-      "dates": "1782–1862",
-      "y": 1782,
-      "roles": [
-        "Ruler",
-        "Reformer"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "Martin Van Buren was the eighth president of the United States, serving from 1837 to 1841. He co-founded the Democratic Party with Andrew Jackson.",
-      "url": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q185351",
-        "Q132050",
-        "Q40348",
-        "Q372436",
-        "Q7330070",
-        "Q36180",
-        "Q248577",
-        "Q193391",
-        "Q82955",
-        "Q121998"
-      ]
-    },
-    {
-      "name": "Al-Biruni",
-      "dates": "973–1048",
-      "y": 973,
-      "roles": [
-        "Scientist",
-        "Writer"
-      ],
-      "region": "Middle East",
-      "era": "Medieval (500–1500)",
-      "desc": "Abu Rayhan Muhammad ibn Ahmad al-Biruni was a Khwarazmian Iranic scholar and polymath during the Islamic Golden Age. He has been called the \"Father of Comparative Religion\" and \"Father of modern geodesy\".",
-      "url": "https://en.wikipedia.org/wiki/Al-Biruni",
-      "_country_qids": [
-        "Q12150341"
-      ],
-      "_occupation_qids": [
-        "Q333634",
-        "Q1734662",
-        "Q170790",
-        "Q901402",
-        "Q593644",
-        "Q169470",
-        "Q4964182",
-        "Q4773904",
-        "Q36180",
-        "Q2374149",
-        "Q270141",
-        "Q155647",
-        "Q14467526",
-        "Q11063",
-        "Q10527030",
-        "Q105186",
-        "Q18524037",
-        "Q18805",
-        "Q201788"
-      ]
-    },
-    {
-      "name": "Antoni Grabowski",
-      "dates": "1857–1921",
-      "y": 1857,
-      "roles": [
-        "Writer",
-        "Scientist"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Antoni Grabowski was a Polish chemical engineer, and an activist of the early Esperanto movement. His translations had an influential impact on the development of Esperanto into a language of literature.",
-      "url": "https://en.wikipedia.org/wiki/Antoni_Grabowski",
-      "_country_qids": [
-        "Q207272",
-        "Q27306"
-      ],
-      "_occupation_qids": [
-        "Q7888586",
-        "Q49757",
-        "Q36180",
-        "Q333634",
-        "Q860918"
-      ]
-    },
-    {
-      "name": "William Henry Harrison",
-      "dates": "1773–1841",
-      "y": 1773,
-      "roles": [
-        "Military",
-        "Ruler"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "William Henry Harrison was the ninth president of the United States from March to April 1841. He died 31 days into his term, making him the shortest serving president and the first president to die in office.",
-      "url": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q189290",
-        "Q132050",
-        "Q193391",
-        "Q248577",
-        "Q372436",
-        "Q82955"
-      ]
-    },
-    {
-      "name": "Michael the Brave",
-      "dates": "1558–1601",
-      "y": 1558,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "region": "Europe",
-      "era": "Early modern (1500–1800)",
-      "desc": "Michael the Brave was the Prince of Wallachia, Prince of Moldavia (1600) and de facto ruler of Transylvania (1599–1600). He is considered one of Romania's greatest national heroes.",
-      "url": "https://en.wikipedia.org/wiki/Michael_the_Brave",
-      "_country_qids": [
-        "Q10957559",
-        "Q655621",
-        "Q389004"
-      ],
-      "_occupation_qids": [
-        "Q82955",
-        "Q1097498",
-        "Q275102",
-        "Q116",
-        "Q11545923"
-      ]
-    },
-    {
-      "name": "John Tyler",
-      "dates": "1790–1862",
-      "y": 1790,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "John Tyler was the tenth president of the United States, serving from 1841 to 1845. He succeeded to the presidency following Harrison's death 31 days after assuming office.",
-      "url": "https://en.wikipedia.org/wiki/John_Tyler",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q248577",
-        "Q82955",
-        "Q40348",
-        "Q372436",
-        "Q132050"
-      ]
-    },
-    {
-      "name": "William Rowan Hamilton",
-      "dates": "1805–1865",
-      "y": 1805,
-      "roles": [
-        "Scientist"
-      ],
-      "region": "Europe",
-      "era": "19th century",
-      "desc": "Sir William Rowan Hamilton was an Irish mathematician, physicist, and astronomer who made numerous major contributions to algebra, classical mechanics, and optics.",
-      "url": "https://en.wikipedia.org/wiki/William_Rowan_Hamilton",
-      "_country_qids": [
-        "Q174193"
-      ],
-      "_occupation_qids": [
-        "Q11063",
-        "Q19350898",
-        "Q170790",
-        "Q169470",
-        "Q1622272"
-      ]
-    },
-    {
-      "name": "James K. Polk",
-      "dates": "1795–1849",
-      "y": 1795,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "James Knox Polk was the 11th president of the United States, serving from 1845 to 1849. He was an advocate of American expansionism and Jacksonian democracy.",
-      "url": "https://en.wikipedia.org/wiki/James_K._Polk",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q40348",
-        "Q132050",
-        "Q185351",
-        "Q55630100",
-        "Q82955",
-        "Q372436"
-      ]
-    },
-    {
-      "name": "Zachary Taylor",
-      "dates": "1784–1850",
-      "y": 1784,
-      "roles": [
-        "Military",
-        "Ruler"
-      ],
-      "region": "Americas",
-      "era": "Early modern (1500–1800)",
-      "desc": "Zachary Taylor was the 12th president of the United States, serving from 1849 until his death in 1850. He was a career officer in the United States Army, rising to major general.",
-      "url": "https://en.wikipedia.org/wiki/Zachary_Taylor",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q372436",
-        "Q38239859",
-        "Q82955",
-        "Q189290"
-      ]
-    },
-    {
-      "name": "Menander",
-      "dates": "340BCE–290BCE",
-      "y": -340,
-      "roles": [
-        "Writer"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "desc": "Menander was a Greek playwright and the best-known representative of Athenian New Comedy. He wrote 108 comedies and took the prize at the Lenaia festival eight times.",
-      "url": "https://en.wikipedia.org/wiki/Menander",
-      "_country_qids": [
-        "Q844930"
-      ],
-      "_occupation_qids": [
-        "Q49757",
-        "Q36180",
-        "Q11914886"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Osman Hamdi Bey",
-      "dates": "1842–1910",
-      "y": 1842,
-      "roles": [
-        "Artist",
-        "Ruler"
-      ],
-      "era": "19th century",
-      "desc": "Osman Hamdi Bey was an Ottoman Greek administrator, intellectual, art expert and also a prominent and pioneering painter. He was the Ottoman Empire's first archaeologist and first museologist.",
-      "url": "https://en.wikipedia.org/wiki/Osman_Hamdi_Bey",
-      "_country_qids": [
-        "Q12560"
-      ],
-      "_occupation_qids": [
-        "Q3621491",
-        "Q4773904",
-        "Q1028181",
-        "Q82955",
-        "Q1792450"
-      ],
-      "region": "Middle East"
-    },
-    {
-      "name": "Hypatia",
-      "dates": "360–415",
-      "y": 360,
-      "roles": [
-        "Scientist",
-        "Writer"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "desc": "Hypatia was a Neoplatonist philosopher, astronomer, and mathematician who lived in Alexandria. In Alexandria, Hypatia was a prominent thinker who taught subjects including philosophy and astronomy.",
-      "url": "https://en.wikipedia.org/wiki/Hypatia",
-      "_country_qids": [
-        "Q12544"
-      ],
-      "_occupation_qids": [
-        "Q170790",
-        "Q205375",
-        "Q36180",
-        "Q4964182",
-        "Q11063"
-      ],
-      "region": "Africa"
-    },
-    {
-      "name": "Jean-Baptiste Lully",
-      "dates": "1632–1687",
-      "y": 1632,
-      "roles": [
-        "Artist"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Jean-Baptiste Lully was an Italian-French composer, dancer and instrumentalist, who is considered a master of the French Baroque music style. Best known for his operas, he spent most of his life working in the court of Louis XIV.",
-      "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Lully",
-      "_country_qids": [
-        "Q154849",
-        "Q70972"
-      ],
-      "_occupation_qids": [
-        "Q1259917",
-        "Q16145150",
-        "Q158852",
-        "Q1776724",
-        "Q2490358",
-        "Q33999",
-        "Q36834",
-        "Q37226",
-        "Q1231865",
-        "Q5716684",
-        "Q639669",
-        "Q805221"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Charles Wilkes",
-      "dates": "1798–1877",
-      "y": 1798,
-      "roles": [
-        "Scientist",
-        "Writer"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Charles Wilkes was an American naval officer, ship's captain, and explorer. He led the first United States Exploring Expedition (1838–1842).",
-      "url": "https://en.wikipedia.org/wiki/Charles_Wilkes",
-      "_country_qids": [
-        "Q30"
-      ],
-      "_occupation_qids": [
-        "Q13382749",
-        "Q2083925",
-        "Q2374149",
-        "Q3546255",
-        "Q36180",
-        "Q901402",
-        "Q98544732",
-        "Q132851",
-        "Q10669499",
-        "Q11900058"
-      ],
-      "region": "Americas"
-    },
-    {
-      "name": "Huiyuan",
-      "dates": "334–416",
-      "y": 334,
-      "roles": [
-        "Writer"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "desc": "Huiyuan refers to Lushan Huiyuan (334–416), a Chinese Buddhist monk.",
-      "url": "https://en.wikipedia.org/wiki/Huiyuan",
-      "_country_qids": [
-        "Q29520"
-      ],
-      "_occupation_qids": [
-        "Q854997",
-        "Q333634",
-        "Q4964182",
-        "Q733786",
-        "Q37226"
-      ],
-      "region": "East Asia"
-    },
-    {
-      "name": "Samuel Smiles",
-      "dates": "1812–1904",
-      "y": 1812,
-      "roles": [
-        "Writer"
-      ],
-      "era": "19th century",
-      "desc": "Samuel Smiles was a British author and government reformer. His primary work, Self-Help (1859), promoted thrift and claimed that poverty was caused largely by irresponsible habits.",
-      "url": "https://en.wikipedia.org/wiki/Samuel_Smiles",
-      "_country_qids": [
-        "Q174193"
-      ],
-      "_occupation_qids": [
-        "Q1930187",
-        "Q36180",
-        "Q39631",
-        "Q4964182",
-        "Q864380"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Anne of Great Britain",
-      "dates": "1665–1714",
-      "y": 1665,
-      "roles": [
-        "Military",
-        "Ruler"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Anne of Great Britain may refer to Anne, Queen of Great Britain (1665–1714), who ruled after William III and before the House of Hanover.",
-      "url": "https://en.wikipedia.org/wiki/Anne_of_Great_Britain",
-      "_country_qids": [
-        "Q161885"
-      ],
-      "_occupation_qids": [
-        "Q372436",
-        "Q82955",
-        "Q1097498",
-        "Q116",
-        "Q19643",
-        "Q2478141"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Pushyamitra Shunga",
-      "dates": "300BCE–147BCE",
-      "y": -300,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "desc": "Pushyamitra Shunga was the founder and the first ruler of the Shunga Empire which he established to succeed the Maurya Empire.",
-      "url": "https://en.wikipedia.org/wiki/Pushyamitra_Shunga",
-      "_country_qids": [
-        "Q651377",
-        "Q62943"
-      ],
-      "_occupation_qids": [
-        "Q2304859"
-      ],
-      "region": "South Asia"
-    },
-    {
-      "name": "Sejanus",
-      "dates": "19BCE–31",
-      "y": -19,
-      "roles": [
-        "Ruler",
-        "Military"
-      ],
-      "era": "Ancient (to 500 CE)",
-      "desc": "Lucius Aelius Sejanus was a Roman soldier and confidant of the Roman Emperor Tiberius. He rose to power as prefect of the Praetorian Guard and was executed for treason in AD 31.",
-      "url": "https://en.wikipedia.org/wiki/Sejanus",
-      "_country_qids": [
-        "Q1747689"
-      ],
-      "_occupation_qids": [
-        "Q82955",
-        "Q47064"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Alexander III of Russia",
-      "dates": "1845–1894",
-      "y": 1845,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "19th century",
-      "desc": "Alexander III was Emperor of Russia, King of Poland and Grand Duke of Finland from 13 March 1881 until his death in 1894. He was highly reactionary in domestic affairs.",
-      "url": "https://en.wikipedia.org/wiki/Alexander_III_of_Russia",
-      "_country_qids": [
-        "Q34266"
-      ],
-      "_occupation_qids": [
-        "Q10732476",
-        "Q116"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Inayat Khan",
-      "dates": "1882–1927",
-      "y": 1882,
-      "roles": [
-        "Writer"
-      ],
-      "era": "19th century",
-      "desc": "Inayat Khan Rehmat Khan was an Indian professor of musicology, singer, poet, philosopher, writer, and pioneer of the transmission of Sufism to the West.",
-      "url": "https://en.wikipedia.org/wiki/Inayat_Khan",
-      "_country_qids": [
-        "Q129286"
-      ],
-      "_occupation_qids": [
-        "Q639669",
-        "Q4964182",
-        "Q37226",
-        "Q36180",
-        "Q2892720"
-      ],
-      "region": "South Asia"
-    },
-    {
-      "name": "Empress Meishō",
-      "dates": "1624–1696",
-      "y": 1624,
-      "roles": [
-        "Ruler"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Empress Meishō was the 109th monarch of Japan. Her reign lasted from 1629 to 1643.",
-      "url": "https://en.wikipedia.org/wiki/Empress_Meish%C5%8D",
-      "_country_qids": [
-        "Q17"
-      ],
-      "_occupation_qids": [
-        "Q82955",
-        "Q2478141",
-        "Q116"
-      ],
-      "region": "East Asia"
-    },
-    {
-      "name": "Camille Claudel",
-      "dates": "1864–1943",
-      "y": 1864,
-      "roles": [
-        "Artist"
-      ],
-      "era": "19th century",
-      "desc": "Camille Rosalie Claudel was a French sculptor known for her figurative works in bronze and marble.",
-      "url": "https://en.wikipedia.org/wiki/Camille_Claudel",
-      "_country_qids": [
-        "Q142"
-      ],
-      "_occupation_qids": [
-        "Q1925963",
-        "Q483501",
-        "Q2079935",
-        "Q1630100",
-        "Q1281618",
-        "Q1028181"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Nikolay Danilevsky",
-      "dates": "1822–1885",
-      "y": 1822,
-      "roles": [
-        "Ruler",
-        "Writer"
-      ],
-      "era": "19th century",
-      "desc": "Nikolay Yakovlevich Danilevsky was a Russian naturalist, economist, ethnologist, philosopher, historian and ideologue of pan-Slavism and the Slavophile movement.",
-      "url": "https://en.wikipedia.org/wiki/Nikolay_Danilevsky",
-      "_country_qids": [
-        "Q34266"
-      ],
-      "_occupation_qids": [
-        "Q82955",
-        "Q864503",
-        "Q18805",
-        "Q188094",
-        "Q19829999",
-        "Q201788",
-        "Q2306091",
-        "Q36180",
-        "Q4773904",
-        "Q4964182",
-        "Q6051619"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Ernesto Teodoro Moneta",
-      "dates": "1833–1918",
-      "y": 1833,
-      "roles": [
-        "Writer",
-        "Military"
-      ],
-      "era": "19th century",
-      "desc": "Ernesto Teodoro Moneta was an Italian journalist, nationalist, revolutionary soldier and later a pacifist and Nobel Peace Prize Laureate. He adopted the motto In varietate unitas!",
-      "url": "https://en.wikipedia.org/wiki/Ernesto_Teodoro_Moneta",
-      "_country_qids": [
-        "Q172579"
-      ],
-      "_occupation_qids": [
-        "Q36180",
-        "Q47064",
-        "Q1930187",
-        "Q16003550"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Henry Dunant",
-      "dates": "1828–1910",
-      "y": 1828,
-      "roles": [
-        "Writer"
-      ],
-      "era": "19th century",
-      "desc": "Henry Dunant was a Swiss humanitarian, businessman, social activist, and co-founder of the Red Cross. His humanitarian efforts won him the first Nobel Peace Prize in 1901.",
-      "url": "https://en.wikipedia.org/wiki/Henry_Dunant",
-      "_country_qids": [
-        "Q142",
-        "Q39"
-      ],
-      "_occupation_qids": [
-        "Q131524",
-        "Q215536",
-        "Q4479442",
-        "Q36180"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Amedeo Modigliani",
-      "dates": "1884–1920",
-      "y": 1884,
-      "roles": [
-        "Artist"
-      ],
-      "era": "19th century",
-      "desc": "Amedeo Clemente Modigliani was an Italian painter and sculptor of the École de Paris who worked mainly in France. He is known for portraits and nudes in a modern style.",
-      "url": "https://en.wikipedia.org/wiki/Amedeo_Modigliani",
-      "_country_qids": [
-        "Q172579"
-      ],
-      "_occupation_qids": [
-        "Q15296811",
-        "Q1028181",
-        "Q1281618"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Matthew Gregory Lewis",
-      "dates": "1775–1818",
-      "y": 1775,
-      "roles": [
-        "Ruler",
-        "Explorer",
-        "Writer"
-      ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Matthew Gregory Lewis was an English novelist and dramatist whose writings are often classified as \"Gothic horror\". He was frequently referred to as \"Monk\" Lewis, because of his 1796 Gothic novel The Monk.",
-      "url": "https://en.wikipedia.org/wiki/Matthew_Gregory_Lewis",
-      "_country_qids": [
-        "Q161885",
-        "Q145"
-      ],
-      "_occupation_qids": [
-        "Q82955",
-        "Q214917",
-        "Q333634",
-        "Q49757",
-        "Q36180",
-        "Q6625963"
-      ],
-      "region": "Europe"
-    },
-    {
-      "name": "Philip of Swabia",
-      "dates": "1177–1208",
-      "y": 1177,
-      "roles": [
-        "Reformer"
-      ],
-      "era": "Medieval (500–1500)",
-      "desc": "Philip of Swabia was a member of the House of Hohenstaufen and King of Germany from 1198 until his assassination.",
-      "url": "https://en.wikipedia.org/wiki/Philip_of_Swabia",
-      "_country_qids": [
-        "Q183"
-      ],
-      "_occupation_qids": [
-        "Q611644",
-        "Q250867"
-      ],
-      "region": "Europe"
     }
   ]
 }
