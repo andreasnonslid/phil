@@ -7871,6 +7871,450 @@
         "Q82955"
       ],
       "region": "Americas"
+    },
+    {
+      "name": "Wilfrid Laurier",
+      "dates": "1841–1919",
+      "y": 1841,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Sir Henri Charles Wilfrid Laurier was the seventh prime minister of Canada from 1896 to 1911. The first French Canadian prime minister, his 15-year tenure remains the longest uninterrupted term of …",
+      "tldr": "Sir Henri Charles Wilfrid Laurier was the seventh prime minister of Canada from 1896 to 1911. The first French Canadian prime minister, his 15-year tenure remains the longest uninterrupted term of office among Canadian prime ministers and his nearly 45 years of service in the House of Commons is a record for the House. Laurier is best known for his compromises between English and French Canada.",
+      "url": "https://en.wikipedia.org/wiki/Wilfrid_Laurier",
+      "_country_qids": [
+        "Q16"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q40348",
+        "Q36180",
+        "Q1930187",
+        "Q11774202"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Charles Tupper",
+      "dates": "1821–1915",
+      "y": 1821,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Sir Charles Tupper, 1st Baronet, was a Canadian Father of Confederation who served as the sixth prime minister of Canada from May 1 to July 8, 1896.",
+      "tldr": "Sir Charles Tupper, 1st Baronet, was a Canadian Father of Confederation who served as the sixth prime minister of Canada from May 1 to July 8, 1896. As the premier of Nova Scotia from 1864 to 1867, he led Nova Scotia into Confederation.",
+      "url": "https://en.wikipedia.org/wiki/Charles_Tupper",
+      "_country_qids": [
+        "Q16"
+      ],
+      "_occupation_qids": [
+        "Q40348",
+        "Q39631",
+        "Q193391",
+        "Q82955"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Mackenzie Bowell",
+      "dates": "1823–1917",
+      "y": 1823,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Sir Mackenzie Bowell was the fifth prime minister of Canada, serving from 1894 to 1896.",
+      "tldr": "Sir Mackenzie Bowell was the fifth prime minister of Canada, serving from 1894 to 1896.",
+      "url": "https://en.wikipedia.org/wiki/Mackenzie_Bowell",
+      "_country_qids": [
+        "Q16"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q1930187",
+        "Q175151",
+        "Q1607826",
+        "Q131524"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "John Sparrow David Thompson",
+      "dates": "1845–1894",
+      "y": 1845,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Sir John Sparrow David Thompson was the fourth prime minister of Canada, serving from 1892 until his death in 1894.",
+      "tldr": "Sir John Sparrow David Thompson was the fourth prime minister of Canada, serving from 1892 until his death in 1894. He had previously been fifth premier of Nova Scotia for a brief period in 1882. He is the only post-Confederation provincial premier to become prime minister, as of 2026.",
+      "url": "https://en.wikipedia.org/wiki/John_Sparrow_David_Thompson",
+      "_country_qids": [
+        "Q16"
+      ],
+      "_occupation_qids": [
+        "Q40348",
+        "Q82955",
+        "Q9379869"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "John Abbott",
+      "dates": "1821–1893",
+      "y": 1821,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Sir John Joseph Caldwell Abbott was the third prime minister of Canada, serving from 1891 to 1892. He held office as the leader of the Conservative Party.",
+      "tldr": "Sir John Joseph Caldwell Abbott was the third prime minister of Canada, serving from 1891 to 1892. He held office as the leader of the Conservative Party.",
+      "url": "https://en.wikipedia.org/wiki/John_Abbott",
+      "_country_qids": [
+        "Q16"
+      ],
+      "_occupation_qids": [
+        "Q40348",
+        "Q1622272",
+        "Q723682",
+        "Q82955"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Urraca of León",
+      "dates": "1081–1126",
+      "y": 1081,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Urraca, called the Reckless (La Temeraria), was Queen of León, Castile and Galicia from 1109 until her death. She is considered the first European queen to reign in her own right.",
+      "tldr": "Urraca, called the Reckless (La Temeraria), was Queen of León, Castile and Galicia from 1109 until her death. She claimed the imperial title as suo jure Empress of All Spain and Empress of All Galicia. She is considered to be the first European queen to reign in her own right.",
+      "url": "https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n_and_Castile",
+      "_country_qids": [
+        "Q175276"
+      ],
+      "_occupation_qids": [
+        "Q1097498"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "John A. Macdonald",
+      "dates": "1815–1891",
+      "y": 1815,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Sir John Alexander Macdonald was the first prime minister of Canada, serving from 1867 to 1873 and from 1878 until his death in 1891. He was the dominant figure of Canadian Confederation.",
+      "tldr": "Sir John Alexander Macdonald was the first prime minister of Canada, serving from 1867 to 1873 and from 1878 until his death in 1891. He was the dominant figure of Canadian Confederation, and had a political career that spanned almost half a century.",
+      "url": "https://en.wikipedia.org/wiki/John_A._Macdonald",
+      "_country_qids": [
+        "Q16"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q40348"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Alexander Mackenzie",
+      "dates": "1822–1892",
+      "y": 1822,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Alexander Mackenzie (1822–1892) was the second prime minister of Canada, serving from 1873 to 1878. A journalist and stonemason by trade, he was the first Liberal PM of Canada.",
+      "tldr": "Alexander Mackenzie (1822–1892) was the second prime minister of Canada. He began his career as a stonemason and journalist, entering politics in the 1860s and becoming Liberal Party leader. His government introduced the secret ballot and the Supreme Court of Canada.",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Mackenzie",
+      "_country_qids": [
+        "Q16"
+      ],
+      "_occupation_qids": [
+        "Q131524",
+        "Q82955",
+        "Q43845",
+        "Q36180",
+        "Q328325",
+        "Q1930187",
+        "Q1607826"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Stanislao Cannizzaro",
+      "dates": "1826–1910",
+      "y": 1826,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Stanislao Cannizzaro was an Italian chemist. He is famous for the Cannizzaro reaction and for his influential role in the atomic-weight deliberations of the Karlsruhe Congress in 1860.",
+      "tldr": "Stanislao Cannizzaro was an Italian chemist. He is famous for the Cannizzaro reaction and for his influential role in the atomic-weight deliberations of the Karlsruhe Congress in 1860.",
+      "url": "https://en.wikipedia.org/wiki/Stanislao_Cannizzaro",
+      "_country_qids": [
+        "Q172579"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q593644",
+        "Q1622272"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "John Ambrose Fleming",
+      "dates": "1849–1945",
+      "y": 1849,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Sir John Ambrose Fleming was a British electrical engineer and physicist who invented the thermionic valve (vacuum tube) and established the right-hand rule in physics.",
+      "tldr": "Sir John Ambrose Fleming was a British electrical engineer and physicist. He is known for inventing the vacuum tube radio transmitter—with which the first transatlantic radio transmission was made—and establishing the right-hand rule used in physics.",
+      "url": "https://en.wikipedia.org/wiki/John_Ambrose_Fleming",
+      "_country_qids": [
+        "Q145"
+      ],
+      "_occupation_qids": [
+        "Q205375",
+        "Q1326886",
+        "Q1622272",
+        "Q169470"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Alexander Bestuzhev",
+      "dates": "1797–1837",
+      "y": 1797,
+      "roles": [
+        "Military",
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Alexander Alexandrovich Bestuzhev was a Russian writer and Decembrist who, after the failed revolt, was exiled to the Caucasus where he wrote romantic fiction under the pseudonym Marlinsky.",
+      "tldr": "Alexander Alexandrovich Bestuzhev was a Russian writer and Decembrist. After the Decembrist revolt he was sent into exile to the Caucasus where the Russian Empire was waging war against the Circassians. There writing under the pseudonym Marlinsky he became known as a romantic poet, short story writer and novelist.",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Bestuzhev",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q6430706",
+        "Q12144794",
+        "Q4263842",
+        "Q47064",
+        "Q49757",
+        "Q6051619",
+        "Q36180"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "William Pitt the Younger",
+      "dates": "1759–1806",
+      "y": 1759,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "William Pitt was a British statesman who served as both the last prime minister of Great Britain and the first prime minister of the United Kingdom, holding office twice between 1783 and 1806.",
+      "tldr": "William Pitt was a British statesman who served as the last prime minister of Great Britain from 1783 until the Acts of Union 1800, and the first official prime minister of the United Kingdom from January 1801. He left office in March 1801, but served as prime minister again from 1804 until his death in 1806. He was also Chancellor of the Exchequer for all his time as prime minister.",
+      "url": "https://en.wikipedia.org/wiki/William_Pitt_the_Younger",
+      "_country_qids": [
+        "Q161885"
+      ],
+      "_occupation_qids": [
+        "Q40348",
+        "Q82955",
+        "Q3519259"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Hussein bin Ali",
+      "dates": "1853–1931",
+      "y": 1853,
+      "roles": [
+        "Ruler",
+        "Religious"
+      ],
+      "era": "19th century",
+      "desc": "Hussein bin Ali was Sharif and Emir of Mecca and King of the Hejaz, who launched the Arab Revolt against the Ottoman Empire in 1916 during World War I.",
+      "tldr": "Hussein bin Ali was the Sharif of Mecca from 1908 and King of the Hejaz from 1916 to 1924. He launched the Arab Revolt against Ottoman rule during World War I, with British backing. He sought to establish a unified Arab state but was eventually driven from Arabia by Ibn Saud in 1924.",
+      "url": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+      "_country_qids": [
+        "Q12560",
+        "Q1121819",
+        "Q956357"
+      ],
+      "_occupation_qids": [
+        "Q65997"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Pierre Joseph Bonnaterre",
+      "dates": "1752–1804",
+      "y": 1752,
+      "roles": [
+        "Scientist",
+        "Religious"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Abbé Pierre Joseph Bonnaterre was a French zoologist who contributed to the Tableau encyclopédique et méthodique and was the first scientist to study the feral child Victor of Aveyron.",
+      "tldr": "Abbé Pierre Joseph Bonnaterre was a French zoologist who contributed sections on cetaceans, mammals, birds, reptiles, amphibians, fish, and insects to the Tableau encyclopédique et méthodique. He is also notable as the first scientist to study the feral child Victor of Aveyron.",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Joseph_Bonnaterre",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q18805",
+        "Q2374149",
+        "Q1225716",
+        "Q15450044",
+        "Q864503",
+        "Q42603",
+        "Q4205432",
+        "Q350979",
+        "Q3055126"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Blaise Pascal",
+      "dates": "1623–1662",
+      "y": 1623,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Blaise Pascal was a French mathematician, physicist, inventor, philosopher, and Catholic writer whose work spans projective geometry, probability theory, and Christian apologetics.",
+      "tldr": "Blaise Pascal was a French mathematician, physicist, inventor, philosopher, and Catholic writer. He made major contributions to projective geometry, probability theory, and the design of mechanical calculators. His Pensées remains a landmark of Christian apologetics.",
+      "url": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+      "_country_qids": [
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q1297719",
+        "Q1234713",
+        "Q36180",
+        "Q4964182",
+        "Q2732142",
+        "Q170790",
+        "Q169470"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Xerxes I",
+      "dates": "518BCE–464BCE",
+      "y": -518,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Xerxes I was the fourth King of Kings of the Achaemenid Empire, reigning from 486 BC until his assassination in 465 BC, known for his massive invasion of Greece.",
+      "tldr": "Xerxes I was a Persian ruler who reigned as the fourth King of Kings of the Achaemenid Empire, reigning from 486 BC until his assassination in 465 BC. He was the son of Darius the Great and Atossa, a daughter of Cyrus the Great.",
+      "url": "https://en.wikipedia.org/wiki/Xerxes_I",
+      "_country_qids": [
+        "Q389688"
+      ],
+      "_occupation_qids": [
+        "Q372436"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Verner von Heidenstam",
+      "dates": "1859–1940",
+      "y": 1859,
+      "roles": [
+        "Writer",
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Carl Gustaf Verner von Heidenstam was a Swedish poet and novelist who won the 1916 Nobel Prize in Literature, celebrated for his lyrical evocations of Swedish history and landscape.",
+      "tldr": "Carl Gustaf Verner von Heidenstam was a Swedish poet, novelist and laureate of the 1916 Nobel Prize in Literature. He was a member of the Swedish Academy from 1912. His poems and prose work are filled with a great joy of life, sometimes imbued with a love of Swedish history and scenery, particularly its physical aspects.",
+      "url": "https://en.wikipedia.org/wiki/Verner_von_Heidenstam",
+      "_country_qids": [
+        "Q34"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q36180",
+        "Q1028181"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "María de las Mercedes, Princess of Asturias",
+      "dates": "1880–1904",
+      "y": 1880,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "María de las Mercedes was the eldest child of King Alfonso XII of Spain and heiress presumptive to the Spanish throne, holding the title Princess of Asturias for all 24 years of her life.",
+      "tldr": "María de las Mercedes, Princess of Asturias was the eldest child of King Alfonso XII of Spain and his second wife, Maria Christina of Austria. She was Princess of Asturias, the heiress presumptive to the Crown of Spain, for all 24 years of her life.",
+      "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_de_las_Mercedes%2C_Princess_of_Asturias",
+      "_country_qids": [
+        "Q29"
+      ],
+      "_occupation_qids": [
+        "Q2478141"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Nikolai Ivanovich Lobachevsky",
+      "dates": "1792–1856",
+      "y": 1792,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Nikolai Ivanovich Lobachevsky was a Russian mathematician who pioneered hyperbolic geometry, challenging Euclidean axioms and laying groundwork for non-Euclidean mathematics.",
+      "tldr": "Nikolai Ivanovich Lobachevsky was a Russian mathematician and geometer, known primarily for his work on hyperbolic geometry, otherwise known as Lobachevskian geometry, and also for his fundamental study on Dirichlet integrals, known as the Lobachevsky integral formula.",
+      "url": "https://en.wikipedia.org/wiki/Nikolai_Lobachevsky",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q170790",
+        "Q1622272"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Hatshepsut",
+      "dates": "1506BCE–1457BCE",
+      "y": -1506,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Hatshepsut was the sixth pharaoh of the Eighteenth Dynasty of Egypt, reigning as queen regnant from c. 1479 BC and conducting major trade expeditions to Punt and ambitious building programs.",
+      "tldr": "Hatshepsut was the sixth pharaoh of the Eighteenth Dynasty of Egypt, ruling first as regent, then as queen regnant from c. 1479 BC until c. 1458 BC and the Great Royal Wife of Pharaoh Thutmose II.",
+      "url": "https://en.wikipedia.org/wiki/Hatshepsut",
+      "_country_qids": [
+        "Q11768"
+      ],
+      "_occupation_qids": [
+        "Q372436"
+      ],
+      "region": "Africa"
     }
   ]
 }
