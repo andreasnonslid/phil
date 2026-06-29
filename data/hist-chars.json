@@ -5425,6 +5425,488 @@
         "Q40348"
       ],
       "region": "Americas"
+    },
+    {
+      "name": "Ammonius Hermiae",
+      "dates": "435–517",
+      "y": 435,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Africa",
+      "era": "Ancient (to 500 CE)",
+      "desc": "Ammonius Hermiae was a Greek Neoplatonist philosopher from Alexandria, son of Hermias and Aedesia. He studied under Proclus in Athens and held a public chair in Alexandria from the 470s.",
+      "tldr": "Ammonius Hermiae was a Greek Neoplatonist philosopher from Alexandria, Byzantine Egypt, son of the philosophers Hermias and Aedesia and grandson of Syrianus. He studied under Proclus in Roman Athens before returning to Alexandria, where he held a public chair from the 470s and taught for most of his life. His commentaries on Aristotle were highly influential in later Neoplatonist tradition.",
+      "url": "https://en.wikipedia.org/wiki/Ammonius_Hermiae",
+      "_country_qids": [
+        "Q12544"
+      ],
+      "_occupation_qids": [
+        "Q11063",
+        "Q36180",
+        "Q4964182"
+      ]
+    },
+    {
+      "name": "Francesco Borromini",
+      "dates": "1599–1667",
+      "y": 1599,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Italian Baroque architect from Swiss Ticino who shaped Roman architecture alongside Bernini and Pietro da Cortona.",
+      "tldr": "Francesco Borromini, born Francesco Castelli in the Swiss canton of Ticino, was a leading figure in Roman Baroque architecture alongside Gian Lorenzo Bernini and Pietro da Cortona. His bold use of geometry and dynamic forms broke with Renaissance convention, producing masterpieces such as San Carlo alle Quattro Fontane and Sant'Ivo alla Sapienza in Rome.",
+      "url": "https://en.wikipedia.org/wiki/Francesco_Borromini",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q1281618",
+        "Q1340643",
+        "Q15296811",
+        "Q328325",
+        "Q42973",
+        "Q81096"
+      ]
+    },
+    {
+      "name": "Albrecht von Haller",
+      "dates": "1708–1777",
+      "y": 1708,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Swiss anatomist, physiologist, naturalist, and poet sometimes called “the father of modern physiology.”",
+      "tldr": "Albrecht von Haller was a Swiss anatomist, physiologist, naturalist, encyclopedist, bibliographer and poet, sometimes called “the father of modern physiology.” A pupil of Herman Boerhaave and Jacob Winslow, he made foundational contributions to understanding muscle irritability and nervous sensation. He also wrote celebrated poetry and compiled massive bibliographies of medical and botanical literature.",
+      "url": "https://en.wikipedia.org/wiki/Albrecht_von_Haller",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q49757",
+        "Q82955",
+        "Q774306",
+        "Q10872101",
+        "Q1622272",
+        "Q170790",
+        "Q182436",
+        "Q18805",
+        "Q2055046",
+        "Q2374149",
+        "Q270141",
+        "Q3055126",
+        "Q36180",
+        "Q39631"
+      ]
+    },
+    {
+      "name": "Guillaume Henri Dufour",
+      "dates": "1787–1875",
+      "y": 1787,
+      "roles": [
+        "Military"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Swiss general, structural engineer, and topographer who led the Confederation to victory in 1847 and chaired the First Geneva Convention.",
+      "tldr": "Guillaume Henri Dufour was a Swiss military officer, structural engineer, and topographer who served under Napoleon I. He held the Swiss office of General four times, most notably leading Confederation forces to victory against the Sonderbund in 1847. In 1864 he presided over the First Geneva Convention, which established the International Red Cross.",
+      "url": "https://en.wikipedia.org/wiki/Guillaume_Henri_Dufour",
+      "_country_qids": [
+        "Q23366230",
+        "Q39",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q1734662",
+        "Q47064",
+        "Q131062",
+        "Q13582652"
+      ]
+    },
+    {
+      "name": "James Buchanan",
+      "dates": "1791–1868",
+      "y": 1791,
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Americas",
+      "era": "Early modern (1500–1800)",
+      "desc": "15th president of the United States (1857–1861), the only president never to marry.",
+      "tldr": "James Buchanan Jr. was the 15th president of the United States, serving from 1857 to 1861. He also served as the 17th United States Secretary of State (1845–1849) and represented Pennsylvania in both houses of Congress. His presidency is largely remembered for failing to prevent the secession of Southern states on the eve of the Civil War.",
+      "url": "https://en.wikipedia.org/wiki/James_Buchanan",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q40348",
+        "Q121998",
+        "Q193391",
+        "Q372436",
+        "Q82955"
+      ]
+    },
+    {
+      "name": "Conrad Ferdinand Meyer",
+      "dates": "1825–1898",
+      "y": 1825,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Swiss poet and historical novelist, a master of literary realism best known for narrative ballads like “Die Füße im Feuer.”",
+      "tldr": "Conrad Ferdinand Meyer was a Swiss poet and historical novelist, a master of literary realism who is mainly remembered for stirring narrative ballads like “Die Füße im Feuer.” His novellas, set in the Italian Renaissance and Swiss history, combine psychological depth with precise, restrained prose.",
+      "url": "https://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q49757",
+        "Q12144794"
+      ]
+    },
+    {
+      "name": "Annemarie Schwarzenbach",
+      "dates": "1908–1942",
+      "y": 1908,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "20th century onward",
+      "desc": "Swiss writer, journalist, and photographer whose anti-fascist activism drove her into exile and whose restless travels shaped her literary output.",
+      "tldr": "Annemarie Schwarzenbach was a Swiss writer, journalist, and photographer whose androgynous image suited bohemian Berlin society of the 1930s. Her anti-fascist campaigning forced her into exile, where she became close to the family of Thomas Mann. Her travel writing and novels reflect a life of perpetual movement across Europe, Asia, and the Americas.",
+      "url": "https://en.wikipedia.org/wiki/Annemarie_Schwarzenbach",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q1930187",
+        "Q33231",
+        "Q36180",
+        "Q12356615",
+        "Q49757"
+      ]
+    },
+    {
+      "name": "Isabelle de Charrière",
+      "dates": "1740–1805",
+      "y": 1740,
+      "roles": [
+        "Writer",
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Dutch-Swiss Enlightenment writer and composer known for letters, novels, pamphlets, and music composed in Colombier, Neuchâtel.",
+      "tldr": "Isabelle de Charrière, also known as Belle van Zuylen, was a Dutch and Swiss writer of the Enlightenment who spent the latter half of her life in Colombier, Neuchâtel. She is best known for her letters and novels, but also wrote pamphlets, composed music, and authored plays. She engaged keenly with the society and politics of her time and corresponded with notable contemporaries including James Boswell and Benjamin Constant.",
+      "url": "https://en.wikipedia.org/wiki/Isabelle_de_Charri%C3%A8re",
+      "_country_qids": [
+        "Q170072",
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q6625963",
+        "Q214917",
+        "Q333634",
+        "Q36180",
+        "Q36834",
+        "Q4964182",
+        "Q49757",
+        "Q11774202"
+      ]
+    },
+    {
+      "name": "Jules de Goncourt",
+      "dates": "1830–1870",
+      "y": 1830,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "French writer who co-authored novels and art criticism with his brother Edmond; died at 39 in Paris.",
+      "tldr": "Jules Alfred Huot de Goncourt was a French writer who published books together with his brother Edmond, including novels, art criticism, and journals of Parisian literary life. Born and dying in Paris, Jules died at the age of 39 from a stroke brought on by syphilis. The Goncourt Academy and its literary prize were established in his and his brother's honor.",
+      "url": "https://en.wikipedia.org/wiki/Jules_de_Goncourt",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q6625963",
+        "Q4263842",
+        "Q1792450",
+        "Q18939491",
+        "Q201788",
+        "Q36180"
+      ]
+    },
+    {
+      "name": "Heinrich Wölfflin",
+      "dates": "1864–1945",
+      "y": 1864,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Swiss art historian whose formal principles of style — linear vs. painterly, plane vs. recession — shaped 20th-century art history.",
+      "tldr": "Heinrich Wölfflin was a Swiss art historian, aesthetician, and educator whose objective classifying principles were influential in the development of formal analysis in art history in the early 20th century. He taught at Basel, Berlin, and Munich and formulated paired concepts (e.g. linear vs. painterly, closed vs. open form) that became foundational tools in stylistic analysis.",
+      "url": "https://en.wikipedia.org/wiki/Heinrich_W%C3%B6lfflin",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q201788",
+        "Q1792450",
+        "Q1622272",
+        "Q36180"
+      ]
+    },
+    {
+      "name": "Charles Sturm",
+      "dates": "1803–1855",
+      "y": 1803,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "French mathematician known for Sturm’s theorem, which counts the real roots of a polynomial within an interval.",
+      "tldr": "Jacques Charles François Sturm was a French mathematician who made a significant contribution to equation theory with Sturm’s theorem, an algorithm for counting the distinct real roots of a polynomial within a given interval. He also contributed to differential equations and mathematical physics.",
+      "url": "https://en.wikipedia.org/wiki/Jacques_Charles_Fran%C3%A7ois_Sturm",
+      "_country_qids": [
+        "Q142",
+        "Q23366230",
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q170790",
+        "Q1622272",
+        "Q169470"
+      ]
+    },
+    {
+      "name": "Jakob Steiner",
+      "dates": "1796–1863",
+      "y": 1796,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Swiss mathematician who revolutionized synthetic geometry, developing projective methods without the use of coordinates.",
+      "tldr": "Jakob Steiner was a Swiss mathematician who worked primarily in geometry, revolutionizing synthetic geometry by developing projective methods without coordinates. His work on conic sections, algebraic curves, and inversive geometry earned him a professorship at Berlin and lasting influence in pure mathematics.",
+      "url": "https://en.wikipedia.org/wiki/Jakob_Steiner",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q170790",
+        "Q1622272"
+      ]
+    },
+    {
+      "name": "Albert von Kölliker",
+      "dates": "1817–1905",
+      "y": 1817,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "Swiss anatomist, physiologist, and histologist who co-founded modern histology and established that nerve fibers are extensions of nerve cells.",
+      "tldr": "Albert von Kölliker was a Swiss anatomist, physiologist, and histologist who co-founded modern histology and established that nerve fibers are extensions of nerve cells. He taught at Würzburg for decades and authored influential textbooks on microscopic anatomy that shaped the discipline through the 19th century.",
+      "url": "https://en.wikipedia.org/wiki/Albert_von_K%C3%B6lliker",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q6337803",
+        "Q39631",
+        "Q350979",
+        "Q2552072",
+        "Q2374149",
+        "Q2055046",
+        "Q1622272",
+        "Q10872101"
+      ]
+    },
+    {
+      "name": "Charles Bonnet",
+      "dates": "1720–1793",
+      "y": 1720,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Genevan naturalist and philosophical writer who coined the term phyllotaxis and was among the first to document parthenogenesis in aphids.",
+      "tldr": "Charles Bonnet was a Genevan naturalist and philosophical writer who coined the term phyllotaxis to describe the arrangement of leaves on a plant. He was among the first to observe parthenogenetic reproduction in aphids and established that insects respired through their spiracles. He also wrote influential works on philosophy of nature and soul.",
+      "url": "https://en.wikipedia.org/wiki/Charles_Bonnet",
+      "_country_qids": [
+        "Q23366230"
+      ],
+      "_occupation_qids": [
+        "Q2374149",
+        "Q4964182",
+        "Q36180",
+        "Q350979",
+        "Q3055126"
+      ]
+    },
+    {
+      "name": "Gaspard Bauhin",
+      "dates": "1560–1624",
+      "y": 1560,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Swiss botanist whose Pinax theatri botanici (1623) classified thousands of plants, anticipating Linnaeus’s binomial nomenclature.",
+      "tldr": "Gaspard Bauhin was a Swiss botanist whose Pinax theatri botanici (1623) described thousands of plants and classified them in a manner that draws comparisons to the later binomial nomenclature of Linnaeus. A disciple of the Italian physician Girolamo Mercuriale, he also contributed to human anatomical nomenclature and taught medicine at Basel.",
+      "url": "https://en.wikipedia.org/wiki/Gaspard_Bauhin",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q10872101",
+        "Q1622272",
+        "Q18805",
+        "Q2374149",
+        "Q2487799",
+        "Q39631"
+      ]
+    },
+    {
+      "name": "Charles Ferdinand Ramuz",
+      "dates": "1878–1947",
+      "y": 1878,
+      "roles": [
+        "Writer"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "French-speaking Swiss novelist and poet whose works depict rural Vaud peasant life with austere, rhythmic prose.",
+      "tldr": "Charles Ferdinand Ramuz was a French-speaking Swiss writer whose novels and poems drew on the landscape and peasant life of the Vaud region. His austere, rhythmic prose and focus on collective experience set him apart from Parisian literary trends. He collaborated with Igor Stravinsky on L’Histoire du soldat (1918).",
+      "url": "https://en.wikipedia.org/wiki/Charles_Ferdinand_Ramuz",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q11774202",
+        "Q12144794",
+        "Q36180",
+        "Q49757",
+        "Q8178443"
+      ]
+    },
+    {
+      "name": "Jean-André Deluc",
+      "dates": "1727–1817",
+      "y": 1727,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Geologist, natural philosopher, and meteorologist from Geneva who coined the term ‘geology’ and invented precision instruments for measuring temperature and pressure.",
+      "tldr": "Jean-André Deluc was a geologist, natural philosopher, and meteorologist from the Republic of Geneva who is credited with coining the term ‘geology.’ He devised precision measuring instruments and made important contributions to meteorology and the theory of Earth’s history. He later served as reader to Queen Charlotte of Great Britain.",
+      "url": "https://en.wikipedia.org/wiki/Jean-Andr%C3%A9_Deluc",
+      "_country_qids": [
+        "Q23366230",
+        "Q39",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q18805",
+        "Q2310145",
+        "Q520549"
+      ]
+    },
+    {
+      "name": "Jean-Étienne Liotard",
+      "dates": "1702–1789",
+      "y": 1702,
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Genevan painter and pastellist renowned for strikingly naturalistic portraits and Orientalist scenes painted across Europe and Istanbul.",
+      "tldr": "Jean-Étienne Liotard was a Genevan painter, pastellist, printmaker, art theorist, and art dealer born to exiled French Huguenots. He spent his career in Rome, Istanbul, Paris, Vienna, London, and Amsterdam, and is best known for his detailed, naturalistic portraits in pastel and Orientalist scenes of daily life. His Turkish dress and long beard made him one of the most recognizable artists of the 18th century.",
+      "url": "https://en.wikipedia.org/wiki/Jean-%C3%89tienne_Liotard",
+      "_country_qids": [
+        "Q23366230"
+      ],
+      "_occupation_qids": [
+        "Q15296811",
+        "Q11569986",
+        "Q1028181"
+      ]
+    },
+    {
+      "name": "Salomon Gessner",
+      "dates": "1730–1788",
+      "y": 1730,
+      "roles": [
+        "Writer",
+        "Artist"
+      ],
+      "region": "Europe",
+      "era": "Early modern (1500–1800)",
+      "desc": "Swiss painter, graphic artist, and poet best known for his Idylls; co-founder of the Helvetic Society and first publisher of the Neue Zürcher Zeitung.",
+      "tldr": "Salomon Gessner was a Swiss painter, graphic artist, government official, newspaper publisher, and poet, best known for his Idylls. He was a co-founder of the Helvetic Society and the first publisher and editor of the Neue Zürcher Zeitung. His pastoral poetry was widely translated across Europe and influenced the Romantic movement.",
+      "url": "https://en.wikipedia.org/wiki/Salomon_Gessner",
+      "_country_qids": [
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q13365770",
+        "Q175151",
+        "Q1925963",
+        "Q1930187",
+        "Q2516866",
+        "Q36180",
+        "Q49757",
+        "Q1028181",
+        "Q998550",
+        "Q644687"
+      ]
+    },
+    {
+      "name": "Alphonse Pyramus de Candolle",
+      "dates": "1806–1893",
+      "y": 1806,
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe",
+      "era": "19th century",
+      "desc": "French-Swiss botanist who continued his father’s Prodromus and pioneered phytogeography and the study of plant origins.",
+      "tldr": "Alphonse Louis Pierre Pyramus de Candolle was a French-Swiss botanist, son of the Swiss botanist Augustin Pyramus de Candolle. He continued his father’s monumental Prodromus Systematis Naturalis Regni Vegetabilis and made significant contributions to phytogeography and the scientific study of plant origins and distribution.",
+      "url": "https://en.wikipedia.org/wiki/Alphonse_Pyramus_de_Candolle",
+      "_country_qids": [
+        "Q23366230",
+        "Q142",
+        "Q39"
+      ],
+      "_occupation_qids": [
+        "Q2083925",
+        "Q1622272",
+        "Q98544732",
+        "Q3055126",
+        "Q2374149"
+      ]
     }
   ]
 }
