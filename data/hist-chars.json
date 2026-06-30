@@ -12516,6 +12516,436 @@
         "Q2478141"
       ],
       "region": "Europe"
+    },
+    {
+      "name": "Ferdinand I, Holy Roman Emperor",
+      "dates": "1503–1564",
+      "y": 1503,
+      "era": "Early modern (1500–1800)",
+      "desc": "Ferdinand I was Holy Roman Emperor from 1556, King of Bohemia, Hungary, and Croatia from 1526, and Archduke of Austria from 1521 until his death in 1564. Before his accession as emperor, he ruled t…",
+      "tldr": "Ferdinand I was Holy Roman Emperor from 1556, King of Bohemia, Hungary, and Croatia from 1526, and Archduke of Austria from 1521 until his death in 1564. Before his accession as emperor, he ruled the Austrian hereditary lands of the House of Habsburg in the name of his elder brother, Emperor Charles V, and often served as Charles' representative in developing encouraging relationships with Germ…",
+      "url": "https://en.wikipedia.org/wiki/Ferdinand_I%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q12548"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q116",
+        "Q2478141"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Henry I the Fowler",
+      "dates": "876–936",
+      "y": 876,
+      "era": "Medieval (500–1500)",
+      "desc": "Henry the Fowler was the duke of Saxony from 912 and the king of East Francia from 919 until his death in 936. As the first non-Frankish king of East Francia, he established the Ottonian dynasty of…",
+      "tldr": "Henry the Fowler was the duke of Saxony from 912 and the king of East Francia from 919 until his death in 936. As the first non-Frankish king of East Francia, he established the Ottonian dynasty of kings and emperors, and he is generally considered to be the founder of the medieval German state, known until then as East Francia. An avid hunter, he obtained the epithet \"the Fowler\" because he wa…",
+      "url": "https://en.wikipedia.org/wiki/Henry_the_Fowler",
+      "_country_qids": [
+        "Q153080"
+      ],
+      "_occupation_qids": [
+        "Q2304859"
+      ],
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Camillo Golgi",
+      "dates": "1843–1926",
+      "y": 1843,
+      "era": "19th century",
+      "desc": "Camillo Golgi was an Italian biologist and pathologist who was awarded the 1906 Nobel Prize in Physiology or Medicine for his works on the central nervous system. He studied medicine at the Univers…",
+      "tldr": "Camillo Golgi was an Italian biologist and pathologist who was awarded the 1906 Nobel Prize in Physiology or Medicine for his works on the central nervous system. He studied medicine at the University of Pavia between 1860 and 1868 under the tutelage of Cesare Lombroso. Inspired by pathologist Giulio Bizzozero, he pursued research in the nervous system.",
+      "url": "https://en.wikipedia.org/wiki/Camillo_Golgi",
+      "_country_qids": [
+        "Q2577303",
+        "Q131964",
+        "Q172579"
+      ],
+      "_occupation_qids": [
+        "Q10872101",
+        "Q115784320",
+        "Q901",
+        "Q121594",
+        "Q82955",
+        "Q783906",
+        "Q15839136",
+        "Q1622272",
+        "Q3368718",
+        "Q39631"
+      ],
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Victor Emmanuel III of Italy",
+      "dates": "1869–1947",
+      "y": 1869,
+      "era": "19th century",
+      "desc": "Victor Emmanuel III was King of Italy from 29 July 1900 until his abdication on 9 May 1946. A member of the House of Savoy, he also reigned as Emperor of Ethiopia from 1936 to 1941 and King of the …",
+      "tldr": "Victor Emmanuel III was King of Italy from 29 July 1900 until his abdication on 9 May 1946. A member of the House of Savoy, he also reigned as Emperor of Ethiopia from 1936 to 1941 and King of the Albanians from 1939 to 1943, following the Italian invasions of Ethiopia and Albania. During his reign of nearly 46 years, which began after the assassination of his father Umberto I, the Kingdom of I…",
+      "url": "https://en.wikipedia.org/wiki/Victor_Emmanuel_III",
+      "_country_qids": [
+        "Q38",
+        "Q172579"
+      ],
+      "_occupation_qids": [
+        "Q2304859"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Wilhelm I",
+      "dates": "1797–1888",
+      "y": 1797,
+      "era": "Early modern (1500–1800)",
+      "desc": "Wilhelm I was King of Prussia from 1861 and German Emperor from 1871 until his death in 1888. A member of the House of Hohenzollern, he was the first head of state of a united Germany.",
+      "tldr": "Wilhelm I was King of Prussia from 1861 and German Emperor from 1871 until his death in 1888. A member of the House of Hohenzollern, he was the first head of state of a united Germany. He was regent of Prussia from 1858 to 1861 for his elder brother, King Frederick William IV.",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_I",
+      "_country_qids": [
+        "Q27306",
+        "Q43287"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q116"
+      ],
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Charles VI, Holy Roman Emperor",
+      "dates": "1685–1740",
+      "y": 1685,
+      "era": "Early modern (1500–1800)",
+      "desc": "Charles VI was Holy Roman Emperor and ruler of the Austrian Habsburg monarchy from 1711 until his death, succeeding his elder brother, Joseph I. He unsuccessfully claimed the throne of Spain follow…",
+      "tldr": "Charles VI was Holy Roman Emperor and ruler of the Austrian Habsburg monarchy from 1711 until his death, succeeding his elder brother, Joseph I. He unsuccessfully claimed the throne of Spain following the death of his relative Charles II of Spain. In 1708, he married Elisabeth Christine of Brunswick-Wolfenbüttel, by whom he had his four children: Leopold Johann, Maria Theresa, Maria Anna, and M…",
+      "url": "https://en.wikipedia.org/wiki/Charles_VI%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q29",
+        "Q28"
+      ],
+      "_occupation_qids": [
+        "Q10732476",
+        "Q116"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Anthony van Dyck",
+      "dates": "1599–1641",
+      "y": 1599,
+      "era": "Early modern (1500–1800)",
+      "desc": "Sir Anthony van Dyck was a Flemish Baroque artist, who became the leading court painter in England after success in the Spanish Netherlands and Italy.",
+      "tldr": "Sir Anthony van Dyck was a Flemish Baroque artist, who became the leading court painter in England after success in the Spanish Netherlands and Italy.",
+      "url": "https://en.wikipedia.org/wiki/Anthony_van_Dyck",
+      "_country_qids": [
+        "Q622783"
+      ],
+      "_occupation_qids": [
+        "Q10862983",
+        "Q1028181",
+        "Q15296811",
+        "Q1925963",
+        "Q2079935",
+        "Q214917",
+        "Q333634",
+        "Q3387717",
+        "Q483501",
+        "Q487596",
+        "Q984276"
+      ],
+      "roles": [
+        "Artist"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Porfirio Díaz",
+      "dates": "1830–1915",
+      "y": 1830,
+      "era": "19th century",
+      "desc": "José de la Cruz Porfirio Díaz Mori, commonly known as Porfirio Díaz, was a Mexican army general and politician who was the dictator of Mexico from 1876 until his overthrow in 1911. Seizing power in…",
+      "tldr": "José de la Cruz Porfirio Díaz Mori, commonly known as Porfirio Díaz, was a Mexican army general and politician who was the dictator of Mexico from 1876 until his overthrow in 1911. Seizing power in a military coup, he served as president of Mexico on three occasions, a total of over thirty years, the longest of any Mexican ruler. This period is known as the Porfiriato and has been called a de f…",
+      "url": "https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz",
+      "_country_qids": [
+        "Q96"
+      ],
+      "_occupation_qids": [
+        "Q47064",
+        "Q82955"
+      ],
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Maximilian I",
+      "dates": "1459–1519",
+      "y": 1459,
+      "era": "Medieval (500–1500)",
+      "desc": "Maximilian I may refer to:Maximilian I, Holy Roman Emperor, reigned 1486/93–1519\nMaximilian I, Elector of Bavaria, reigned 1597–1651\nMaximilian I, Prince of Hohenzollern-Sigmaringen (1636-1689)\nMax…",
+      "tldr": "Maximilian I may refer to:Maximilian I, Holy Roman Emperor, reigned 1486/93–1519\nMaximilian I, Elector of Bavaria, reigned 1597–1651\nMaximilian I, Prince of Hohenzollern-Sigmaringen (1636-1689)\nMaximilian I Joseph of Bavaria, reigned 1795–1805 and 1806–1825 \nMaximilian I of Mexico, reigned 1864–1867\nPrince Maximilian Egon I of Fürstenberg",
+      "url": "https://en.wikipedia.org/wiki/Maximilian_I",
+      "_country_qids": [
+        "Q12548"
+      ],
+      "_occupation_qids": [
+        "Q1097498"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Lothair I",
+      "dates": "795–855",
+      "y": 795,
+      "era": "Medieval (500–1500)",
+      "desc": "Lothair I was a 9th-century Emperor of the Carolingian Empire and King of Italy (818–855) and Middle Francia (843–855).",
+      "tldr": "Lothair I was a 9th-century Emperor of the Carolingian Empire and King of Italy (818–855) and Middle Francia (843–855).",
+      "url": "https://en.wikipedia.org/wiki/Lothair_I",
+      "_country_qids": [
+        "Q31929"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q36180"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Empress Elisabeth of Austria",
+      "dates": "1837–1898",
+      "y": 1837,
+      "era": "19th century",
+      "desc": "Elisabeth, nicknamed Sisi, was Empress of Austria and Queen of Hungary from her marriage to Franz Joseph I on 24 April 1854 until her assassination in 1898.",
+      "tldr": "Elisabeth, nicknamed Sisi, was Empress of Austria and Queen of Hungary from her marriage to Franz Joseph I on 24 April 1854 until her assassination in 1898.",
+      "url": "https://en.wikipedia.org/wiki/Empress_Elisabeth_of_Austria",
+      "_country_qids": [
+        "Q131964",
+        "Q154195",
+        "Q533534"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q1511216"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Maximilian II, Holy Roman Emperor",
+      "dates": "1527–1576",
+      "y": 1527,
+      "era": "Early modern (1500–1800)",
+      "desc": "Maximilian II was Holy Roman Emperor from 1564 until his death in 1576. A member of the Austrian House of Habsburg, he was crowned King of Bohemia in Prague on 14 May 1562 and elected King of Germa…",
+      "tldr": "Maximilian II was Holy Roman Emperor from 1564 until his death in 1576. A member of the Austrian House of Habsburg, he was crowned King of Bohemia in Prague on 14 May 1562 and elected King of Germany on 24 November 1562. On 8 September 1563, he was crowned King of Hungary and Croatia in the Hungarian capital Pressburg.",
+      "url": "https://en.wikipedia.org/wiki/Maximilian_II%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q699964"
+      ],
+      "_occupation_qids": [
+        "Q39018"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Empress Matilda",
+      "dates": "1102–1167",
+      "y": 1102,
+      "era": "Medieval (500–1500)",
+      "desc": "Empress Matilda, also known as Empress Maud, was Holy Roman Empress as the consort of Emperor Henry V from 1110 until his death in 1125, and was subsequently a claimant to the English throne, and L…",
+      "tldr": "Empress Matilda, also known as Empress Maud, was Holy Roman Empress as the consort of Emperor Henry V from 1110 until his death in 1125, and was subsequently a claimant to the English throne, and Lady of the English, during the civil war known as the Anarchy. Following the death of her father, King Henry I of England, as his only surviving child and nominated heir, she asserted her right to the…",
+      "url": "https://en.wikipedia.org/wiki/Empress_Matilda",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q477406"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Charles Algernon Parsons",
+      "dates": "1854–1931",
+      "y": 1854,
+      "era": "19th century",
+      "desc": "Sir Charles Algernon Parsons was an Anglo-Irish mechanical engineer and inventor who designed the modern steam turbine in 1884. His invention revolutionised marine propulsion, and he was also the f…",
+      "tldr": "Sir Charles Algernon Parsons was an Anglo-Irish mechanical engineer and inventor who designed the modern steam turbine in 1884. His invention revolutionised marine propulsion, and he was also the founder of C. A.",
+      "url": "https://en.wikipedia.org/wiki/Charles_Algernon_Parsons",
+      "_country_qids": [
+        "Q145",
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q205375",
+        "Q43845",
+        "Q81096"
+      ],
+      "roles": [
+        "Scientist"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Henry VI",
+      "dates": "1165–1197",
+      "y": 1165,
+      "era": "Medieval (500–1500)",
+      "desc": "Henry VI may refer to:Henry VI, Holy Roman Emperor (1165–1197), also king of Germany, Italy, Burgundy and Sicily\nHenry VI, Count Palatine of the Rhine \nHenry VI, Count of Luxembourg \nHenry VI the E…",
+      "tldr": "Henry VI may refer to:Henry VI, Holy Roman Emperor (1165–1197), also king of Germany, Italy, Burgundy and Sicily\nHenry VI, Count Palatine of the Rhine \nHenry VI, Count of Luxembourg \nHenry VI the Elder, Polish duke\nHenry VI, Count of Gorizia (1376–1454)\nHenry VI of England (1421–1471)\nHenry VI (play), a series of three plays by William Shakespeare\nHenry VI, Burgrave of Plauen (1536–1572)\nHeinri…",
+      "url": "https://en.wikipedia.org/wiki/Henry_VI",
+      "_country_qids": [
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q36180"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Frederick III, Holy Roman Emperor",
+      "dates": "1415–1493",
+      "y": 1415,
+      "era": "Medieval (500–1500)",
+      "desc": "Frederick III, Holy Roman Emperor was Holy Roman emperor from 1452 until his death in 1493. He was the penultimate emperor to be crowned by the pope, and the last to be crowned in Rome.",
+      "tldr": "Frederick III, Holy Roman Emperor was Holy Roman emperor from 1452 until his death in 1493. He was the penultimate emperor to be crowned by the pope, and the last to be crowned in Rome. He was the fourth king of the Romans and the first Holy Roman emperor from the House of Habsburg, which was to retain the title with one gap until it was declared at an end by Emperor Francis II, in 1806.",
+      "url": "https://en.wikipedia.org/wiki/Frederick_III%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q12548"
+      ],
+      "_occupation_qids": [
+        "Q2197338",
+        "Q1097498"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Francis I, Holy Roman Emperor",
+      "dates": "1708–1765",
+      "y": 1708,
+      "era": "Early modern (1500–1800)",
+      "desc": "Francis I was Holy Roman Emperor from 1745 to 1765, Archduke of Austria from 1740 to 1765, Duke of Lorraine and Bar from 1729 to 1737, and Grand Duke of Tuscany from 1737 to 1765. He became the rul…",
+      "tldr": "Francis I was Holy Roman Emperor from 1745 to 1765, Archduke of Austria from 1740 to 1765, Duke of Lorraine and Bar from 1729 to 1737, and Grand Duke of Tuscany from 1737 to 1765. He became the ruler of the Holy Roman Empire and Tuscany through his marriage to his second cousin Maria Theresa of Austria, daughter of Emperor Charles VI. Francis was the last non-Habsburg monarch of the Empire.",
+      "url": "https://en.wikipedia.org/wiki/Francis_I%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q699964",
+        "Q155019"
+      ],
+      "_occupation_qids": [
+        "Q43845",
+        "Q2478141",
+        "Q116",
+        "Q82955"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Elisa Bonaparte",
+      "dates": "1777–1820",
+      "y": 1777,
+      "era": "Early modern (1500–1800)",
+      "desc": "Maria Anna Elisa Bonaparte Baciocchi Levoy, better known as Elisa Bonaparte, was an imperial French princess and sister of Napoleon Bonaparte. She was Princess of Lucca and Piombino (1805-1814), Gr…",
+      "tldr": "Maria Anna Elisa Bonaparte Baciocchi Levoy, better known as Elisa Bonaparte, was an imperial French princess and sister of Napoleon Bonaparte. She was Princess of Lucca and Piombino (1805-1814), Grand Duchess of Tuscany (1809-1814) and Countess of Compignano by appointment of her brother.",
+      "url": "https://en.wikipedia.org/wiki/Elisa_Bonaparte",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q15472169"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Jérôme Bonaparte",
+      "dates": "1784–1860",
+      "y": 1784,
+      "era": "Early modern (1500–1800)",
+      "desc": "Jérôme Bonaparte was the youngest brother of Napoleon I who reigned as Jérôme Napoleon I, King of Westphalia, between 1807 and 1813.",
+      "tldr": "Jérôme Bonaparte was the youngest brother of Napoleon I who reigned as Jérôme Napoleon I, King of Westphalia, between 1807 and 1813.",
+      "url": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Bonaparte",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q10669499"
+      ],
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Otto III",
+      "dates": "980–1002",
+      "y": 980,
+      "era": "Medieval (500–1500)",
+      "desc": "Otto III was the Holy Roman emperor and King of Italy from 996 until his death in 1002. A member of the Ottonian dynasty, Otto III was the only son of Emperor Otto II and his wife Theophanu.",
+      "tldr": "Otto III was the Holy Roman emperor and King of Italy from 996 until his death in 1002. A member of the Ottonian dynasty, Otto III was the only son of Emperor Otto II and his wife Theophanu.",
+      "url": "https://en.wikipedia.org/wiki/Otto_III%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q12548"
+      ],
+      "_occupation_qids": [
+        "Q1097498",
+        "Q36180",
+        "Q39018"
+      ],
+      "roles": [
+        "Ruler"
+      ],
+      "region": "Europe"
     }
   ]
 }
