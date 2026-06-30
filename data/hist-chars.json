@@ -2594,9 +2594,19 @@
       "roles": [
         "Explorer"
       ],
-      "era": "Early modern (1500–1800)",
-      "desc": "Portuguese explorer who organised the first expedition to circumnavigate the globe.",
-      "url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan"
+      "era": "Medieval (500–1500)",
+      "desc": "Ferdinand Magellan was a Portuguese explorer best known for planning and leading the 1519–1522 Spanish expedition to the East Indies. During this expedition, he became the first European to encount…",
+      "tldr": "Ferdinand Magellan was a Portuguese explorer best known for planning and leading the 1519–1522 Spanish expedition to the East Indies. During this expedition, he became the first European to encounter the Strait of Magellan, performed the first European crossing of the Pacific Ocean, and made the first known European contact with the Philippines. Magellan himself was killed in battle in the Phil…",
+      "url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
+      "_country_qids": [
+        "Q45670"
+      ],
+      "_occupation_qids": [
+        "Q12038843",
+        "Q11900058",
+        "Q45199"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Martin Luther",
@@ -12057,6 +12067,455 @@
         "Q2079935",
         "Q33231"
       ]
+    },
+    {
+      "name": "Zewditu I of Ethiopia",
+      "dates": "1876–1930",
+      "y": 1876,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Zewditu was Empress of Ethiopia from 1916 until her death in 1930. She officially adopted the regnal name \"Zewditu\" at the beginning of her reign, which was triggered by the dethroning of Lij Iyasu…",
+      "tldr": "Zewditu was Empress of Ethiopia from 1916 until her death in 1930. She officially adopted the regnal name \"Zewditu\" at the beginning of her reign, which was triggered by the dethroning of Lij Iyasu in 1916. Her coronation was held on February 11, 1917, in the Cathedral of St.",
+      "url": "https://en.wikipedia.org/wiki/Zewditu",
+      "_country_qids": [
+        "Q115"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q39018"
+      ],
+      "region": "Africa"
+    },
+    {
+      "name": "Mikheil Javakhishvili",
+      "dates": "1880–1937",
+      "y": 1880,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Mikheil Javakhishvili was a Georgian and Soviet novelist who is regarded as one of the top twentieth-century Georgian writers. His first story appeared in 1903, but then the writer lapsed into a lo…",
+      "tldr": "Mikheil Javakhishvili was a Georgian and Soviet novelist who is regarded as one of the top twentieth-century Georgian writers. His first story appeared in 1903, but then the writer lapsed into a long pause before returning to writing in the early 1920s. His recalcitrance to the Soviet ideological pressure cost him life: he was executed during the Great Purge and his writings were banned for nea…",
+      "url": "https://en.wikipedia.org/wiki/Mikheil_Javakhishvili",
+      "_country_qids": [
+        "Q245160",
+        "Q34266",
+        "Q15180"
+      ],
+      "_occupation_qids": [
+        "Q12144794",
+        "Q36180"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Robert Brasillach",
+      "dates": "1909–1945",
+      "y": 1909,
+      "roles": [
+        "Writer"
+      ],
+      "era": "20th century onward",
+      "desc": "Robert Brasillach was a French author and journalist. He was the editor of Je suis partout, a nationalist newspaper which advocated fascist movements and supported Jacques Doriot.",
+      "tldr": "Robert Brasillach was a French author and journalist. He was the editor of Je suis partout, a nationalist newspaper which advocated fascist movements and supported Jacques Doriot. After the liberation of France in 1944, he was executed following a trial and Charles de Gaulle's express refusal to grant him a pardon.",
+      "url": "https://en.wikipedia.org/wiki/Robert_Brasillach",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q1930187",
+        "Q333634",
+        "Q36180",
+        "Q4220892",
+        "Q4263842",
+        "Q49757"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Bruno Schulz",
+      "dates": "1892–1942",
+      "y": 1892,
+      "roles": [
+        "Writer",
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Bruno Schulz was a Polish-Jewish writer, literary critic, visual artist, and art teacher.",
+      "tldr": "Bruno Schulz was a Polish-Jewish writer, literary critic, visual artist, and art teacher.",
+      "url": "https://en.wikipedia.org/wiki/Bruno_Schulz",
+      "_country_qids": [
+        "Q207272",
+        "Q457167",
+        "Q28513",
+        "Q243610"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q1925963",
+        "Q1028181",
+        "Q4263842",
+        "Q15296811"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Catherine Cornaro",
+      "dates": "1454–1510",
+      "y": 1454,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Catherine Cornaro was the last monarch of the Kingdom of Cyprus, also holding the titles of Queen of Jerusalem and Queen of Armenia. She became queen consort of Cyprus by marriage to James II of Cy…",
+      "tldr": "Catherine Cornaro was the last monarch of the Kingdom of Cyprus, also holding the titles of Queen of Jerusalem and Queen of Armenia. She became queen consort of Cyprus by marriage to James II of Cyprus, and then regent of Cyprus during the minority of her son James III of Cyprus in 1473–1474, and finally queen regnant of Cyprus upon his death. She reigned from 26 August 1474 to 26 February 1489…",
+      "url": "https://en.wikipedia.org/wiki/Catherine_Cornaro",
+      "_country_qids": [
+        "Q4948"
+      ],
+      "_occupation_qids": [
+        "Q19643"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Vladimir the Great",
+      "dates": "956–1015",
+      "y": 956,
+      "roles": [
+        "Ruler",
+        "Religious"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Vladimir I Sviatoslavich or Volodymyr I Sviatoslavych, given the epithet \"the Great\", was Prince of Novgorod from 970 and Grand Prince of Kiev from 978 until his death in 1015. The Catholic Church …",
+      "tldr": "Vladimir I Sviatoslavich or Volodymyr I Sviatoslavych, given the epithet \"the Great\", was Prince of Novgorod from 970 and Grand Prince of Kiev from 978 until his death in 1015. The Catholic Church and the Eastern Orthodox Church both canonised him as Saint Vladimir.",
+      "url": "https://en.wikipedia.org/wiki/Vladimir_the_Great",
+      "_country_qids": [
+        "Q1108445"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "José Rizal",
+      "dates": "1861–1896",
+      "y": 1861,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "era": "19th century",
+      "desc": "José Protasio Rizal Mercado y Alonso Realonda was a Filipino nationalist, writer, and polymath active at the end of the Spanish colonial period of the Philippines. He is popularly considered a nati…",
+      "tldr": "José Protasio Rizal Mercado y Alonso Realonda was a Filipino nationalist, writer, and polymath active at the end of the Spanish colonial period of the Philippines. He is popularly considered a national hero of the Philippines, although no official proclamation formally declares him as such. An ophthalmologist by profession, Rizal became a writer and a key member of the Filipino Propaganda Movem…",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal",
+      "_country_qids": [
+        "Q2721139",
+        "Q928"
+      ],
+      "_occupation_qids": [
+        "Q3242115",
+        "Q16351788",
+        "Q333634",
+        "Q36180",
+        "Q39631",
+        "Q49757",
+        "Q6625963",
+        "Q774306",
+        "Q82955",
+        "Q9363889",
+        "Q1028181",
+        "Q11499147",
+        "Q12013238",
+        "Q140197632",
+        "Q14467526",
+        "Q270141"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Alexander Griboyedov",
+      "dates": "1795–1829",
+      "y": 1795,
+      "roles": [
+        "Writer",
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Alexander Sergeyevich Griboyedov was a Russian diplomat, playwright, poet, and composer. His one notable work is the 1823 verse comedy Woe from Wit.",
+      "tldr": "Alexander Sergeyevich Griboyedov was a Russian diplomat, playwright, poet, and composer. His one notable work is the 1823 verse comedy Woe from Wit. He was Russia's ambassador to Qajar Persia, where he and all the embassy staff were massacred by an angry mob in the aftermath of the ratification of the Treaty of Turkmenchay (1828), which confirmed the cession to Russia of Persia's northern terri…",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Griboyedov",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q214917",
+        "Q27044075",
+        "Q36180",
+        "Q36834",
+        "Q486748",
+        "Q49757",
+        "Q193391",
+        "Q639669"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Manuel L. Quezon",
+      "dates": "1878–1944",
+      "y": 1878,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "Manuel Luis Quezon y Molina, also known by his initials MLQ, was a Filipino lawyer, statesman, soldier, and politician who served as the second president of the Philippines from 1935 until his deat…",
+      "tldr": "Manuel Luis Quezon y Molina, also known by his initials MLQ, was a Filipino lawyer, statesman, soldier, and politician who served as the second president of the Philippines from 1935 until his death in 1944. He was the first Filipino to head a government of the entire Philippines and is considered the second president of the Philippines after Emilio Aguinaldo (1899–1901), whom Quezon defeated i…",
+      "url": "https://en.wikipedia.org/wiki/Manuel_L._Quezon",
+      "_country_qids": [
+        "Q928"
+      ],
+      "_occupation_qids": [
+        "Q40348",
+        "Q82955"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Amrita Sher-Gil",
+      "dates": "1913–1941",
+      "y": 1913,
+      "roles": [
+        "Artist"
+      ],
+      "era": "20th century onward",
+      "desc": "Amrita Sher-Gil was a Hungarian–Indian painter. She has been called \"one of the greatest avant-garde women artists of the early 20th century\" and a pioneer in modern Indian art.",
+      "tldr": "Amrita Sher-Gil was a Hungarian–Indian painter. She has been called \"one of the greatest avant-garde women artists of the early 20th century\" and a pioneer in modern Indian art. Drawn to painting from an early age, Sher-Gil started formal lessons at the age of eight.",
+      "url": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil",
+      "_country_qids": [
+        "Q129286"
+      ],
+      "_occupation_qids": [
+        "Q1028181"
+      ],
+      "region": "South Asia"
+    },
+    {
+      "name": "Ottokar II of Bohemia",
+      "dates": "1233–1278",
+      "y": 1233,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Ottokar II, the Iron and Golden King, was a member of the Přemyslid dynasty who reigned as King of Bohemia from 1253 until his death in 1278. He also held the titles of Margrave of Moravia from 124…",
+      "tldr": "Ottokar II, the Iron and Golden King, was a member of the Přemyslid dynasty who reigned as King of Bohemia from 1253 until his death in 1278. He also held the titles of Margrave of Moravia from 1247, Duke of Austria from 1251, and Duke of Styria from 1260, as well as Duke of Carinthia and landgrave of Carniola from 1269.",
+      "url": "https://en.wikipedia.org/wiki/Ottokar_II_of_Bohemia",
+      "_country_qids": [
+        "Q42585"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Camille Saint-Saëns",
+      "dates": "1835–1921",
+      "y": 1835,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Charles-Camille Saint-Saëns was a French composer, organist, conductor and pianist of the Romantic era. His best-known works include Introduction and Rondo Capriccioso (1863), the Second Piano Conc…",
+      "tldr": "Charles-Camille Saint-Saëns was a French composer, organist, conductor and pianist of the Romantic era. His best-known works include Introduction and Rondo Capriccioso (1863), the Second Piano Concerto (1868), the First Cello Concerto (1872), Danse macabre (1874), the opera Samson and Delilah (1877), the Third Violin Concerto (1880), the Third (\"Organ\") Symphony (1886) and The Carnival of the A…",
+      "url": "https://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q14915627",
+        "Q1350157",
+        "Q118865",
+        "Q765778",
+        "Q486748",
+        "Q36834",
+        "Q2675537",
+        "Q158852"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "E. T. A. Hoffmann",
+      "dates": "1776–1822",
+      "y": 1776,
+      "roles": [
+        "Writer",
+        "Artist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Ernst Theodor Amadeus Hoffmann was a German Romantic author of fantasy and gothic horror, a jurist, composer, music critic and artist. His short story \"The Sandman\" is seen as a pioneering work of …",
+      "tldr": "Ernst Theodor Amadeus Hoffmann was a German Romantic author of fantasy and gothic horror, a jurist, composer, music critic and artist. His short story \"The Sandman\" is seen as a pioneering work of horror fiction, while his novella Mademoiselle de Scuderi is regarded as one of the earliest examples of crime fiction.",
+      "url": "https://en.wikipedia.org/wiki/E._T._A._Hoffmann",
+      "_country_qids": [
+        "Q27306",
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q185351",
+        "Q215793",
+        "Q18939491",
+        "Q18844224",
+        "Q15296811",
+        "Q16533",
+        "Q158852",
+        "Q28389",
+        "Q3455803",
+        "Q6625963",
+        "Q6430706",
+        "Q49757",
+        "Q4853732",
+        "Q36180",
+        "Q3658608",
+        "Q36834",
+        "Q4421425",
+        "Q1350157",
+        "Q140310684",
+        "Q1028181"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Leopold I, Holy Roman Emperor",
+      "dates": "1640–1705",
+      "y": 1640,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Leopold I was Holy Roman Emperor, King of Germany, King of Hungary, Croatia and Bohemia. The second son of Ferdinand III, Holy Roman Emperor, by his first wife, Maria Anna of Spain, Leopold became …",
+      "tldr": "Leopold I was Holy Roman Emperor, King of Germany, King of Hungary, Croatia and Bohemia. The second son of Ferdinand III, Holy Roman Emperor, by his first wife, Maria Anna of Spain, Leopold became heir apparent in 1654 after the death of his elder brother Ferdinand IV, King of the Romans. Elected in 1658, Leopold ruled the Holy Roman Empire until his death in 1705, becoming the second-longest-r…",
+      "url": "https://en.wikipedia.org/wiki/Leopold_I%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q12548",
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q36834"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Otto II",
+      "dates": "955–983",
+      "y": 955,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Otto II, called the Red, was Holy Roman Emperor from 973 until his death in 983. A member of the Ottonian dynasty, Otto II was the youngest and sole surviving son of Otto the Great and Adelaide of …",
+      "tldr": "Otto II, called the Red, was Holy Roman Emperor from 973 until his death in 983. A member of the Ottonian dynasty, Otto II was the youngest and sole surviving son of Otto the Great and Adelaide of Italy.",
+      "url": "https://en.wikipedia.org/wiki/Otto_II%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q12548"
+      ],
+      "_occupation_qids": [
+        "Q39018",
+        "Q36180"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Santiago Ramón y Cajal",
+      "dates": "1852–1934",
+      "y": 1852,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Santiago Ramón y Cajal was a Spanish neuroscientist, pathologist, and histologist specialising in neuroanatomy, and the central nervous system. He and Camillo Golgi received the Nobel Prize in Phys…",
+      "tldr": "Santiago Ramón y Cajal was a Spanish neuroscientist, pathologist, and histologist specialising in neuroanatomy, and the central nervous system. He and Camillo Golgi received the Nobel Prize in Physiology or Medicine in 1906. Ramón y Cajal was the first Spaniard to win a scientific Nobel Prize.",
+      "url": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal",
+      "_country_qids": [
+        "Q29"
+      ],
+      "_occupation_qids": [
+        "Q11774202",
+        "Q1622272",
+        "Q1650915",
+        "Q2552072",
+        "Q33231",
+        "Q3368718",
+        "Q10872101",
+        "Q39631",
+        "Q593644",
+        "Q783906",
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Ferdinand III, Holy Roman Emperor",
+      "dates": "1608–1657",
+      "y": 1608,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Ferdinand III was Archduke of Austria, King of Hungary and Croatia from 1625, King of Bohemia from 1627 and Holy Roman Emperor from 1637 to his death.",
+      "tldr": "Ferdinand III was Archduke of Austria, King of Hungary and Croatia from 1625, King of Bohemia from 1627 and Holy Roman Emperor from 1637 to his death.",
+      "url": "https://en.wikipedia.org/wiki/Ferdinand_III%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q28",
+        "Q12548"
+      ],
+      "_occupation_qids": [
+        "Q36834",
+        "Q116"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Emperor Rudolf II",
+      "dates": "1552–1612",
+      "y": 1552,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Rudolf II was Holy Roman Emperor (1576–1612), King of Hungary and Croatia, King of Bohemia (1575–1608/1611) and Archduke of Austria (1576–1608). He was a member of the House of Habsburg.",
+      "tldr": "Rudolf II was Holy Roman Emperor (1576–1612), King of Hungary and Croatia, King of Bohemia (1575–1608/1611) and Archduke of Austria (1576–1608). He was a member of the House of Habsburg.",
+      "url": "https://en.wikipedia.org/wiki/Rudolf_II%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q153136",
+        "Q12548"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q82955",
+        "Q10732476"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Ferdinand II, Holy Roman Emperor",
+      "dates": "1578–1637",
+      "y": 1578,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Ferdinand II was Holy Roman Emperor, King of Bohemia, Hungary, and Croatia from 1619 until his death in 1637. He was the son of Archduke Charles II of Inner Austria and Maria of Bavaria, who were d…",
+      "tldr": "Ferdinand II was Holy Roman Emperor, King of Bohemia, Hungary, and Croatia from 1619 until his death in 1637. He was the son of Archduke Charles II of Inner Austria and Maria of Bavaria, who were devout Catholics. In 1590, when Ferdinand was 11 years old, they sent him to study at the Jesuits' college in Ingolstadt because they wanted to isolate him from the Lutheran nobles.",
+      "url": "https://en.wikipedia.org/wiki/Ferdinand_II%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q2478141"
+      ],
+      "region": "Europe"
     }
   ]
 }
