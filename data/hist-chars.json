@@ -11154,6 +11154,447 @@
         "Q483501"
       ],
       "region": "Europe"
+    },
+    {
+      "name": "Trajan",
+      "dates": "53–117",
+      "y": 53,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Trajan was a Roman emperor from AD 98 to 117, remembered as the second of the Five Good Emperors of the Nerva–Antonine dynasty. He was a philanthropic ruler and a successful soldier-emperor who pre…",
+      "tldr": "Trajan was a Roman emperor from AD 98 to 117, remembered as the second of the Five Good Emperors of the Nerva–Antonine dynasty. He was a philanthropic ruler and a successful soldier-emperor who presided over one of the greatest military expansions in Roman history, during which, by the time of his death, the Roman Empire reached its maximum territorial extent. He was given the title of optimus …",
+      "url": "https://en.wikipedia.org/wiki/Trajan",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q372436",
+        "Q82955",
+        "Q189290"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Hadrian",
+      "dates": "76–138",
+      "y": 76,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Hadrian was Roman emperor from 117 to 138. His form of address as Roman emperor was Imperator Caesar Traianus Hadrianus Augustus.",
+      "tldr": "Hadrian was Roman emperor from 117 to 138. His form of address as Roman emperor was Imperator Caesar Traianus Hadrianus Augustus. Hadrian was born in Italica, in the present-day Andalusian province of Seville in southern Spain, an Italic settlement in Hispania Baetica; his gens Aelia came from the town of Hadria in eastern Italy.",
+      "url": "https://en.wikipedia.org/wiki/Hadrian",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q2304859",
+        "Q47064",
+        "Q49757",
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "William Herschel",
+      "dates": "1738–1822",
+      "y": 1738,
+      "roles": [
+        "Artist",
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Frederick William Herschel was a German–British astronomer and composer. He frequently collaborated with his younger sister and fellow astronomer Caroline Herschel.",
+      "tldr": "Frederick William Herschel was a German–British astronomer and composer. He frequently collaborated with his younger sister and fellow astronomer Caroline Herschel. Born in the Electorate of Hanover, he followed his father into the military band of Hanover, before emigrating to Britain in 1757 at the age of 19.",
+      "url": "https://en.wikipedia.org/wiki/William_Herschel",
+      "_country_qids": [
+        "Q164079",
+        "Q174193",
+        "Q161885"
+      ],
+      "_occupation_qids": [
+        "Q639669",
+        "Q36834",
+        "Q11063",
+        "Q16003954",
+        "Q169470"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "John Frederick William Herschel",
+      "dates": "1792–1871",
+      "y": 1792,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Sir John Frederick William Herschel, 1st Baronet was an English polymath active as a mathematician, astronomer, chemist, inventor and experimental photographer who invented the blueprint and did bo…",
+      "tldr": "Sir John Frederick William Herschel, 1st Baronet was an English polymath active as a mathematician, astronomer, chemist, inventor and experimental photographer who invented the blueprint and did botanical work.",
+      "url": "https://en.wikipedia.org/wiki/John_Herschel",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q170790",
+        "Q33231",
+        "Q36180",
+        "Q593644",
+        "Q169470",
+        "Q11063"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Giovanni Schiaparelli",
+      "dates": "1835–1910",
+      "y": 1835,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Giovanni Virginio Schiaparelli was an Italian astronomer and science historian. Schiaparelli established the Martian system of nomenclature still in use today; before him, features of the planet bo…",
+      "tldr": "Giovanni Virginio Schiaparelli was an Italian astronomer and science historian. Schiaparelli established the Martian system of nomenclature still in use today; before him, features of the planet bore the names of contemporary astronomers, similar to the lunar map of van Langren that preceded that of Hevelius.",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Schiaparelli",
+      "_country_qids": [
+        "Q172579"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q29956970",
+        "Q170790",
+        "Q11063"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Antoninus Pius",
+      "dates": "86–161",
+      "y": 86,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Titus Aelius Hadrianus Antoninus Pius was Roman emperor from AD 138 to 161. He was the fourth of the Five Good Emperors from the Nerva–Antonine dynasty and also the fourth of the six adoptive emper…",
+      "tldr": "Titus Aelius Hadrianus Antoninus Pius was Roman emperor from AD 138 to 161. He was the fourth of the Five Good Emperors from the Nerva–Antonine dynasty and also the fourth of the six adoptive emperors.",
+      "url": "https://en.wikipedia.org/wiki/Antoninus_Pius",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Eusebius of Caesarea",
+      "dates": "265–340",
+      "y": 265,
+      "roles": [
+        "Writer",
+        "Religious"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Eusebius of Caesarea, also known as Eusebius Pamphilius, was a historian of Christianity, exegete, and Christian polemicist from the Roman province of Syria Palaestina. In about AD 314 he became th…",
+      "tldr": "Eusebius of Caesarea, also known as Eusebius Pamphilius, was a historian of Christianity, exegete, and Christian polemicist from the Roman province of Syria Palaestina. In about AD 314 he became the bishop of Caesarea Palaestina.",
+      "url": "https://en.wikipedia.org/wiki/Eusebius",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q19340487",
+        "Q29182",
+        "Q36180",
+        "Q201788",
+        "Q1743122",
+        "Q1234713"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Marcus Aurelius",
+      "dates": "121–180",
+      "y": 121,
+      "roles": [
+        "Writer",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Marcus Aurelius Antoninus was Roman emperor from 161 to 180 and a Stoic philosopher. He was a member of the Nerva–Antonine dynasty, the last of the rulers later known as the Five Good Emperors and …",
+      "tldr": "Marcus Aurelius Antoninus was Roman emperor from 161 to 180 and a Stoic philosopher. He was a member of the Nerva–Antonine dynasty, the last of the rulers later known as the Five Good Emperors and the last emperor of the Pax Romana, an age of relative peace, calm, and stability for the Roman Empire lasting from 27 BC to 180 AD. He served as Roman consul in 140, 145, and 161.",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q116",
+        "Q82955",
+        "Q4964182"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Taejong of Joseon",
+      "dates": "1367–1422",
+      "y": 1367,
+      "roles": [
+        "Ruler",
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Taejong, personal name Yi Pangwŏn, was the third monarch of Joseon and the father of Sejong the Great. The fifth son of King Taejo, the founder of the dynasty, he was himself a major contributor to…",
+      "tldr": "Taejong, personal name Yi Pangwŏn, was the third monarch of Joseon and the father of Sejong the Great. The fifth son of King Taejo, the founder of the dynasty, he was himself a major contributor toward the establishment of the new regime. He ascended to the throne upon the abdication of his elder brother, King Jeongjong.",
+      "url": "https://en.wikipedia.org/wiki/Taejong_of_Joseon",
+      "_country_qids": [
+        "Q28208",
+        "Q28179"
+      ],
+      "_occupation_qids": [
+        "Q1097498",
+        "Q382887"
+      ],
+      "region": "East Asia"
+    },
+    {
+      "name": "Johannes Ockeghem",
+      "dates": "1410–1497",
+      "y": 1410,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Johannes Ockeghem was a Franco-Flemish composer and singer of early Renaissance music. Ockeghem was a significant European composer in the period between Guillaume Du Fay and Josquin des Prez, and …",
+      "tldr": "Johannes Ockeghem was a Franco-Flemish composer and singer of early Renaissance music. Ockeghem was a significant European composer in the period between Guillaume Du Fay and Josquin des Prez, and he was—with his colleague Antoine Busnois—a prominent European composer in the second half of the 15th century. He was an important proponent of the early Franco-Flemish School.",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Ockeghem",
+      "_country_qids": [
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q36834"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Sviatopolk II of Kiev",
+      "dates": "1050–1113",
+      "y": 1050,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Sviatopolk II Iziaslavich was Grand Prince of Kiev from 1093 to 1113. He was not a popular prince, and his reign was marked by incessant rivalry with his cousin Vladimir Monomakh.",
+      "tldr": "Sviatopolk II Iziaslavich was Grand Prince of Kiev from 1093 to 1113. He was not a popular prince, and his reign was marked by incessant rivalry with his cousin Vladimir Monomakh.",
+      "url": "https://en.wikipedia.org/wiki/Sviatopolk_II_of_Kiev",
+      "_country_qids": [
+        "Q1108445"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Josquin des Prez",
+      "dates": "1440–1521",
+      "y": 1440,
+      "roles": [
+        "Artist"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Josquin Lebloitte dit des Prez was a composer of Renaissance music, who is variously described as French or Franco-Flemish. Considered one of the greatest composers of the Renaissance, he was a cen…",
+      "tldr": "Josquin Lebloitte dit des Prez was a composer of Renaissance music, who is variously described as French or Franco-Flemish. Considered one of the greatest composers of the Renaissance, he was a central figure of the Franco-Flemish School and had a profound influence on the music of 16th-century Europe. Building on the work of his predecessors like Johannes Ockeghem, he developed a complex style…",
+      "url": "https://en.wikipedia.org/wiki/Josquin_des_Prez",
+      "_country_qids": [
+        "Q142",
+        "Q1031430"
+      ],
+      "_occupation_qids": [
+        "Q36834"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Lucius Verus",
+      "dates": "130–169",
+      "y": 130,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Lucius Aurelius Verus was Roman emperor from 161 until his death in 169, alongside his adoptive brother Marcus Aurelius. He was a member of the Nerva–Antonine dynasty.",
+      "tldr": "Lucius Aurelius Verus was Roman emperor from 161 until his death in 169, alongside his adoptive brother Marcus Aurelius. He was a member of the Nerva–Antonine dynasty. Verus' succession together with Marcus Aurelius marked the first time that the Roman Empire was ruled by more than one emperor simultaneously, an increasingly common occurrence in the later history of the Empire.",
+      "url": "https://en.wikipedia.org/wiki/Lucius_Verus",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Commodus",
+      "dates": "161–192",
+      "y": 161,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Commodus was Roman emperor from 177 to 192, first serving as nominal co-emperor under his father Marcus Aurelius and then ruling alone from 180. Commodus's sole reign is commonly thought to mark th…",
+      "tldr": "Commodus was Roman emperor from 177 to 192, first serving as nominal co-emperor under his father Marcus Aurelius and then ruling alone from 180. Commodus's sole reign is commonly thought to mark the end of the Pax Romana, a golden age of peace and prosperity in the history of the Roman Empire.",
+      "url": "https://en.wikipedia.org/wiki/Commodus",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q1097498"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Lysander",
+      "dates": "401BCE–394BCE",
+      "y": -401,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Lysander was a Spartan commander and statesman who was one of the leading military and political leaders of Sparta during the Peloponnesian Wars. He destroyed the Athenian fleet at the Battle of Ae…",
+      "tldr": "Lysander was a Spartan commander and statesman who was one of the leading military and political leaders of Sparta during the Peloponnesian Wars. He destroyed the Athenian fleet at the Battle of Aegospotami in 405 BC, forcing Athens to capitulate and bringing the Peloponnesian Wars to an end. He then played a key role in Sparta's domination of Greece for the next decade until his death at the B…",
+      "url": "https://en.wikipedia.org/wiki/Lysander",
+      "_country_qids": [
+        "Q5690"
+      ],
+      "_occupation_qids": [
+        "Q47064",
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Pertinax",
+      "dates": "126–193",
+      "y": 126,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Publius Helvius Pertinax was Roman emperor for the first three months of 193, succeeding Commodus and becoming the first ruler of the turbulent Year of the Five Emperors.",
+      "tldr": "Publius Helvius Pertinax was Roman emperor for the first three months of 193, succeeding Commodus and becoming the first ruler of the turbulent Year of the Five Emperors.",
+      "url": "https://en.wikipedia.org/wiki/Pertinax",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q47064",
+        "Q4991371",
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Didius Julianus",
+      "dates": "133–193",
+      "y": 133,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Marcus Didius Julianus was Roman emperor from March to June 193, during the Year of the Five Emperors. He is known for having purchased the title of emperor in an auction run by the Praetorian Guard.",
+      "tldr": "Marcus Didius Julianus was Roman emperor from March to June 193, during the Year of the Five Emperors. He is known for having purchased the title of emperor in an auction run by the Praetorian Guard. His reign is a common delineation in the decline and fall of the Roman Empire.",
+      "url": "https://en.wikipedia.org/wiki/Didius_Julianus",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q47064"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Septimius Severus",
+      "dates": "146–211",
+      "y": 146,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Lucius Septimius Severus was Roman emperor from 193 to 211. He was born in Leptis Magna, Libya, in the Roman province of Africa.",
+      "tldr": "Lucius Septimius Severus was Roman emperor from 193 to 211. He was born in Leptis Magna, Libya, in the Roman province of Africa. As a young man, he advanced through the customary succession of offices under the reigns of Marcus Aurelius and Commodus.",
+      "url": "https://en.wikipedia.org/wiki/Septimius_Severus",
+      "_country_qids": [
+        "Q1747689"
+      ],
+      "_occupation_qids": [
+        "Q39018",
+        "Q47064",
+        "Q82955"
+      ],
+      "region": "Africa"
+    },
+    {
+      "name": "Zayd ibn Ali",
+      "dates": "695–740",
+      "y": 695,
+      "roles": [
+        "Religious",
+        "Reformer"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Zayd ibn ʿAlī, also spelled Zaid, was the son of Ali ibn al-Husayn Zayn al-Abidin, and great-grandson of Ali ibn Abi Talib. He led an unsuccessful revolt against the Umayyad Caliphate, in which he …",
+      "tldr": "Zayd ibn ʿAlī, also spelled Zaid, was the son of Ali ibn al-Husayn Zayn al-Abidin, and great-grandson of Ali ibn Abi Talib. He led an unsuccessful revolt against the Umayyad Caliphate, in which he died. The event gave rise to the Zaydiyya sect of Shia Islam, which holds him as the next Imam after his father Ali ibn al-Husayn Zayn al-Abidin.",
+      "url": "https://en.wikipedia.org/wiki/Zayd_ibn_Ali",
+      "_country_qids": [
+        "Q8575586"
+      ],
+      "_occupation_qids": [
+        "Q1999841",
+        "Q3242115",
+        "Q12912932",
+        "Q125482",
+        "Q1234713",
+        "Q1172458"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Bolesław Prus",
+      "dates": "1847–1912",
+      "y": 1847,
+      "roles": [
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Aleksander Głowacki, better known by his pen name Bolesław Prus, was a Polish journalist, novelist, a leading figure in the history of Polish literature and philosophy, and a distinctive voice in w…",
+      "tldr": "Aleksander Głowacki, better known by his pen name Bolesław Prus, was a Polish journalist, novelist, a leading figure in the history of Polish literature and philosophy, and a distinctive voice in world literature.",
+      "url": "https://en.wikipedia.org/wiki/Boles%C5%82aw_Prus",
+      "_country_qids": [
+        "Q36",
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q1930187",
+        "Q36180",
+        "Q12144794",
+        "Q4263842",
+        "Q4964182",
+        "Q6051619",
+        "Q6625963",
+        "Q15949613"
+      ],
+      "region": "Europe"
     }
   ]
 }
