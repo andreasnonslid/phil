@@ -370,6 +370,159 @@
       "period": "Medieval (500–1500)",
       "desc": "Harald Hardrada and Tostig Godwinson's defeat of the Northern Earls near York, days before Stamford Bridge.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Fulford"
+    },
+    {
+      "name": "Battle of Worcester",
+      "dates": "1651",
+      "y": 1651,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Oliver Cromwell's Parliamentarian army defeated Charles II's Royalist forces at Worcester, ending the Wars of the Three Kingdoms.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Worcester"
+    },
+    {
+      "name": "Union of Krewo",
+      "dates": "1385",
+      "y": 1385,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Grand Duke Jogaila of Lithuania pledged to marry Queen Jadwiga of Poland, laying the groundwork for a Polish-Lithuanian union.",
+      "url": "https://en.wikipedia.org/wiki/Union_of_Krewo"
+    },
+    {
+      "name": "Battle of Alcácer Quibir",
+      "dates": "1578",
+      "y": 1578,
+      "region": "Africa",
+      "period": "Early modern (1500–1800)",
+      "desc": "Portuguese forces under King Sebastian were destroyed by a Moroccan army near Ksar-el-Kebir, ending Portugal's independent monarchy.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Alc%C3%A1cer_Quibir"
+    },
+    {
+      "name": "Battle of Rorke's Drift",
+      "dates": "1879",
+      "y": 1879,
+      "region": "Africa",
+      "period": "19th century",
+      "desc": "A small British garrison defended a mission station against a much larger Zulu force during the Anglo-Zulu War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Rorke%27s_Drift"
+    },
+    {
+      "name": "Battle of Mons Graupius",
+      "dates": "83",
+      "y": 83,
+      "region": "Europe",
+      "period": "Ancient (to 500 CE)",
+      "desc": "Roman forces under Agricola defeated a Caledonian army in what is now Scotland, per Tacitus's account.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mons_Graupius"
+    },
+    {
+      "name": "Battle of Ad Decimum",
+      "dates": "533",
+      "y": 533,
+      "region": "Africa",
+      "period": "Medieval (500–1500)",
+      "desc": "Byzantine general Belisarius defeated the Vandal army near Carthage, opening the reconquest of North Africa.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Ad_Decimum"
+    },
+    {
+      "name": "Great Molasses Flood",
+      "dates": "1919",
+      "y": 1919,
+      "region": "Americas",
+      "period": "20th century onward",
+      "desc": "A ruptured storage tank released a wave of molasses through Boston's North End, killing 21 people.",
+      "url": "https://en.wikipedia.org/wiki/Great_Molasses_Flood"
+    },
+    {
+      "name": "Battle of Princeton",
+      "dates": "1777",
+      "y": 1777,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "George Washington's forces defeated a British rearguard at Princeton, New Jersey, boosting American morale after Trenton.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Princeton"
+    },
+    {
+      "name": "Battle of the Camel",
+      "dates": "656",
+      "y": 656,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Caliph Ali defeated a rebel coalition led by Aisha, Talha, and Zubayr outside Basra, in the first civil war of Islam.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Camel"
+    },
+    {
+      "name": "Vandalic War",
+      "dates": "533",
+      "y": 533,
+      "region": "Africa",
+      "period": "Medieval (500–1500)",
+      "desc": "Byzantine forces under Justinian I reconquered North Africa from the Vandal Kingdom.",
+      "url": "https://en.wikipedia.org/wiki/Vandalic_War"
+    },
+    {
+      "name": "Battle of Omdurman",
+      "dates": "1898",
+      "y": 1898,
+      "region": "Africa",
+      "period": "19th century",
+      "desc": "Anglo-Egyptian forces under Kitchener crushed the Mahdist army near Omdurman, Sudan, cementing British control of the region.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Omdurman"
+    },
+    {
+      "name": "Battle of Mons Lactarius",
+      "dates": "552",
+      "y": 552,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Byzantine forces defeated the Ostrogoths near Mount Vesuvius, ending organized Gothic resistance in Italy.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mons_Lactarius"
+    },
+    {
+      "name": "Battle of Annual",
+      "dates": "1921",
+      "y": 1921,
+      "region": "Africa",
+      "period": "20th century onward",
+      "desc": "Riffian Berber forces inflicted a catastrophic defeat on the Spanish Army in northeastern Morocco, triggering political crisis in Spain.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Annual"
+    },
+    {
+      "name": "Smolensk War",
+      "dates": "1632",
+      "y": 1632,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Polish–Lithuanian Commonwealth fought Muscovy over control of Smolensk.",
+      "url": "https://en.wikipedia.org/wiki/Smolensk_War"
+    },
+    {
+      "name": "Battle of Formigny",
+      "dates": "1450",
+      "y": 1450,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "A decisive French victory over England near Formigny hastened the end of the Hundred Years' War in Normandy.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Formigny"
+    },
+    {
+      "name": "Battle of Wake Island",
+      "dates": "1941",
+      "y": 1941,
+      "region": "Oceania",
+      "period": "20th century onward",
+      "desc": "Japanese forces captured the American-held Pacific atoll of Wake Island after a fierce two-week defense.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Wake_Island"
+    },
+    {
+      "name": "Battles of Kawanakajima",
+      "dates": "1553",
+      "y": 1553,
+      "region": "East Asia",
+      "period": "Early modern (1500–1800)",
+      "desc": "Takeda Shingen and Uesugi Kenshin fought a series of inconclusive battles for control of the Kawanakajima plain in Sengoku-era Japan.",
+      "url": "https://en.wikipedia.org/wiki/Battles_of_Kawanakajima"
     }
   ]
 }
