@@ -190,6 +190,186 @@
       "period": "20th century onward",
       "desc": "First crewed landing on the Moon, by the United States' Apollo programme.",
       "url": "https://en.wikipedia.org/wiki/Apollo_11"
+    },
+    {
+      "name": "Siege of Van",
+      "dates": "1915",
+      "y": 1915,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Defense of Van (1915), the Armenian population's self-defense against Ottoman forces during the Armenian genocide.",
+      "url": "https://en.wikipedia.org/wiki/Defense_of_Van"
+    },
+    {
+      "name": "Battle of Fahl",
+      "dates": "635",
+      "y": 635,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Major battle in the Muslim conquest of Byzantine Syria, fought by Rashidun Caliphate forces near Pella (Fahl).",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Fahl"
+    },
+    {
+      "name": "Polish–Muscovite War",
+      "dates": "1605",
+      "y": 1605,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Polish–Muscovite War (1605–18), a conflict between the Polish–Lithuanian Commonwealth and the Tsardom of Russia.",
+      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Muscovite_War"
+    },
+    {
+      "name": "Treaty of Hünkâr İskelesi",
+      "dates": "1833",
+      "y": 1833,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Treaty between the Russian Empire and the Ottoman Empire establishing a mutual defence alliance.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_H%C3%BCnk%C3%A2r_%C4%B0skelesi"
+    },
+    {
+      "name": "Battle of Madagascar",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Africa",
+      "period": "20th century onward",
+      "desc": "Allied campaign to capture the Vichy French-controlled island of Madagascar during World War II.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Madagascar"
+    },
+    {
+      "name": "Battle of Guandu",
+      "dates": "200",
+      "y": 200,
+      "region": "East Asia",
+      "period": "Ancient (to 500 CE)",
+      "desc": "Cao Cao's decisive victory over Yuan Shao's larger forces, a turning point of the late Eastern Han dynasty.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Guandu"
+    },
+    {
+      "name": "Battle of Puebla",
+      "dates": "1862",
+      "y": 1862,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Mexican victory over French forces at Puebla during the second French intervention in Mexico.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Puebla"
+    },
+    {
+      "name": "Battle of Auray",
+      "dates": "1364",
+      "y": 1364,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Decisive confrontation of the Breton War of Succession, part of the Hundred Years' War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Auray"
+    },
+    {
+      "name": "Pig War",
+      "dates": "1859",
+      "y": 1859,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Largely bloodless 1859 border confrontation between the United States and the British Colony of Vancouver Island.",
+      "url": "https://en.wikipedia.org/wiki/Pig_War"
+    },
+    {
+      "name": "Siege of Vicksburg",
+      "dates": "1863",
+      "y": 1863,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Final major military action of the Vicksburg campaign, ending in a decisive Union victory in the American Civil War.",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Vicksburg"
+    },
+    {
+      "name": "Battle of Los Angeles",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Americas",
+      "period": "20th century onward",
+      "desc": "A rumored 1942 Japanese air attack on Los Angeles triggered an anti-aircraft artillery barrage over the city.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Los_Angeles"
+    },
+    {
+      "name": "Battle of Rivoli",
+      "dates": "1797",
+      "y": 1797,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Napoleon's decisive defeat of Austrian forces near Rivoli, the climax of the Italian campaign of 1796–97.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Rivoli"
+    },
+    {
+      "name": "King William's War",
+      "dates": "1688",
+      "y": 1688,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "North American theater of the Nine Years' War, fought between New France and New England and their Native allies.",
+      "url": "https://en.wikipedia.org/wiki/King_William%27s_War"
+    },
+    {
+      "name": "Battle of Smolensk",
+      "dates": "1812",
+      "y": 1812,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Battle of Smolensk (1812), fought during Napoleon's invasion of Russia.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Smolensk"
+    },
+    {
+      "name": "Battle of Vaslui",
+      "dates": "1475",
+      "y": 1475,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Stephen III of Moldavia's victory over Ottoman forces near Vaslui in 1475.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Vaslui"
+    },
+    {
+      "name": "Battle of Maipú",
+      "dates": "1818",
+      "y": 1818,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Decisive Patriot victory over Spanish royalists near Santiago, completing Chile's independence.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Maip%C3%BA"
+    },
+    {
+      "name": "Battle of Yamen",
+      "dates": "1279",
+      "y": 1279,
+      "region": "East Asia",
+      "period": "Medieval (500–1500)",
+      "desc": "Naval battle marking the last stand of the Song dynasty against the invading Yuan dynasty forces.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Yamen"
+    },
+    {
+      "name": "Battle of Neerwinden",
+      "dates": "1793",
+      "y": 1793,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Battle of Neerwinden (1793), a French defeat to Austrian forces during the War of the First Coalition.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Neerwinden"
+    },
+    {
+      "name": "Siege of Bursa",
+      "dates": "1317",
+      "y": 1317,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Long Ottoman siege that ended in the capture of Bursa (Prusa) in 1326, an early Ottoman conquest.",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Bursa"
+    },
+    {
+      "name": "Battle of Fulford",
+      "dates": "1066",
+      "y": 1066,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Harald Hardrada and Tostig Godwinson's defeat of the Northern Earls near York, days before Stamford Bridge.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Fulford"
     }
   ]
 }
