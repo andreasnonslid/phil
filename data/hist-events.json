@@ -5,11 +5,19 @@
     "kicker": "A timeline reference · {n} events",
     "itemNoun": "events",
     "itemNounSingular": "event",
-    "searchKeys": ["name", "desc", "region"],
+    "searchKeys": [
+      "name",
+      "desc",
+      "region"
+    ],
     "timelineLaneFilterId": "region",
     "cardTags": [
-      { "id": "region" },
-      { "id": "period" }
+      {
+        "id": "region"
+      },
+      {
+        "id": "period"
+      }
     ],
     "filters": [
       {
@@ -54,9 +62,18 @@
       }
     ],
     "sorts": [
-      ["old", "Chronological"],
-      ["new", "Reverse chronological"],
-      ["az", "Alphabetical"]
+      [
+        "old",
+        "Chronological"
+      ],
+      [
+        "new",
+        "Reverse chronological"
+      ],
+      [
+        "az",
+        "Alphabetical"
+      ]
     ],
     "defaultSort": "old",
     "yearKey": "y",
@@ -1738,6 +1755,177 @@
       "period": "19th century",
       "desc": "Napoleon's forces broke through a Spanish mountain pass defense on the road to Madrid during the Peninsular War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Somosierra"
+    },
+    {
+      "name": "Battle of Narva",
+      "dates": "1700",
+      "y": 1700,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Swedish victory over a much larger Russian army at the outset of the Great Northern War in Estonia.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Narva"
+    },
+    {
+      "name": "Treaty of Rapallo",
+      "dates": "1922",
+      "y": 1922,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Agreement between Weimar Germany and Soviet Russia restoring diplomatic relations and renouncing wartime claims.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Rapallo"
+    },
+    {
+      "name": "Battle of Sedan",
+      "dates": "1870",
+      "y": 1870,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Decisive Prussian victory that captured Napoleon III and effectively ended the Franco-Prussian War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Sedan"
+    },
+    {
+      "name": "Jay's Treaty",
+      "dates": "1794",
+      "y": 1794,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "Agreement easing lingering tensions between the United States and Great Britain after the Revolutionary War.",
+      "url": "https://en.wikipedia.org/wiki/Jay_Treaty"
+    },
+    {
+      "name": "War of the Bavarian Succession",
+      "dates": "1778",
+      "y": 1778,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Largely bloodless conflict between Austria and Prussia over the succession to the Bavarian throne.",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Bavarian_Succession"
+    },
+    {
+      "name": "Third Battle of Kharkov",
+      "dates": "1943",
+      "y": 1943,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "German counteroffensive that recaptured the Ukrainian city of Kharkov after the Soviet victory at Stalingrad.",
+      "url": "https://en.wikipedia.org/wiki/Third_Battle_of_Kharkov"
+    },
+    {
+      "name": "Northern Seven Years' War",
+      "dates": "1570",
+      "y": 1570,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Baltic conflict between Denmark-Norway and Sweden, ended by the Treaty of Stettin.",
+      "url": "https://en.wikipedia.org/wiki/Northern_Seven_Years%27_War"
+    },
+    {
+      "name": "Battle of Ulm",
+      "dates": "1805",
+      "y": 1805,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Napoleon's maneuvers forced the surrender of an Austrian army without a major battle, opening the road to Vienna.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Ulm"
+    },
+    {
+      "name": "Battle of Legnica",
+      "dates": "1241",
+      "y": 1241,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Mongol forces defeated a coalition of Polish and allied knights during the Mongol invasion of Europe.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Legnica"
+    },
+    {
+      "name": "Russo-Japanese War",
+      "dates": "1904",
+      "y": 1904,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "Conflict between the Russian and Japanese empires over Manchuria and Korea, won decisively by Japan.",
+      "url": "https://en.wikipedia.org/wiki/Russo-Japanese_War"
+    },
+    {
+      "name": "Treaty of Meerssen",
+      "dates": "870",
+      "y": 870,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Partition of the Carolingian Middle Kingdom between the East and West Frankish rulers.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Meerssen"
+    },
+    {
+      "name": "Demyansk Pocket",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "German forces encircled by the Red Army near Demyansk were resupplied by air for months during WWII.",
+      "url": "https://en.wikipedia.org/wiki/Demyansk_Pocket"
+    },
+    {
+      "name": "Battle of Ramillies",
+      "dates": "1706",
+      "y": 1706,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Marlborough's victory over France secured much of the Spanish Netherlands during the War of the Spanish Succession.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Ramillies"
+    },
+    {
+      "name": "First Battle of El Alamein",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Africa",
+      "period": "20th century onward",
+      "desc": "Allied forces halted the Axis advance into Egypt during the North African campaign of WWII.",
+      "url": "https://en.wikipedia.org/wiki/First_Battle_of_El_Alamein"
+    },
+    {
+      "name": "Battle of Kiev",
+      "dates": "1941",
+      "y": 1941,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "German encirclement of Soviet forces around Kyiv produced one of the largest encirclements of WWII.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kyiv"
+    },
+    {
+      "name": "Battle of Hürtgen Forest",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Prolonged and costly Allied campaign in a forested region of Germany near the Belgian border during WWII.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_H%C3%BCrtgen_Forest"
+    },
+    {
+      "name": "Treaty of Rastatt",
+      "dates": "1714",
+      "y": 1714,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Peace agreement between France and Austria that concluded the War of the Spanish Succession.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Rastatt"
+    },
+    {
+      "name": "Potsdam Declaration",
+      "dates": "1945",
+      "y": 1945,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Allied ultimatum issued from Potsdam demanding Japan's unconditional surrender to end WWII.",
+      "url": "https://en.wikipedia.org/wiki/Potsdam_Declaration"
+    },
+    {
+      "name": "Ottoman–Safavid War",
+      "dates": "1623",
+      "y": 1623,
+      "region": "Middle East",
+      "period": "Early modern (1500–1800)",
+      "desc": "Conflict between the Ottoman and Safavid empires over control of Iraq and the Caucasus.",
+      "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_Wars"
     }
   ]
 }
