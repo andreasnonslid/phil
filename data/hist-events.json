@@ -2412,6 +2412,186 @@
       "period": "20th century onward",
       "desc": "Largest amphibious assault of the Pacific War, resulting in massive casualties as Allied forces took the island of Okinawa.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Okinawa"
+    },
+    {
+      "name": "Operation Pedestal",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "British convoy operation that fought through heavy Axis air and naval attacks to resupply besieged Malta.",
+      "url": "https://en.wikipedia.org/wiki/Operation_Pedestal"
+    },
+    {
+      "name": "Battle of Eniwetok",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Oceania",
+      "period": "20th century onward",
+      "desc": "US forces captured Eniwetok Atoll from Japanese defenders, securing a key base in the Marshall Islands.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Eniwetok"
+    },
+    {
+      "name": "Battle of Yarmouk",
+      "dates": "636",
+      "y": 636,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Decisive Rashidun Caliphate victory over the Byzantine Empire that opened the Levant to Muslim conquest.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Yarmuk"
+    },
+    {
+      "name": "General Agreement on Tariffs and Trade",
+      "dates": "1947",
+      "y": 1947,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Multilateral treaty signed in Geneva to reduce tariffs and promote international trade, later evolving into the WTO.",
+      "url": "https://en.wikipedia.org/wiki/General_Agreement_on_Tariffs_and_Trade"
+    },
+    {
+      "name": "Anglo-Nepalese War",
+      "dates": "1814",
+      "y": 1814,
+      "region": "South Asia",
+      "period": "19th century",
+      "desc": "Conflict between the British East India Company and the Gurkha Kingdom of Nepal that redrew the Himalayan frontier.",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Nepalese_War"
+    },
+    {
+      "name": "Ingrian War",
+      "dates": "1610",
+      "y": 1610,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Swedish-Russian conflict over control of Ingria and northwestern Russia during Russia's Time of Troubles.",
+      "url": "https://en.wikipedia.org/wiki/Ingrian_War"
+    },
+    {
+      "name": "Livonian Crusade",
+      "dates": "1198",
+      "y": 1198,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Baltic campaigns by German and Danish crusaders to conquer and Christianize the pagan peoples of Livonia and Estonia.",
+      "url": "https://en.wikipedia.org/wiki/Livonian_Crusade"
+    },
+    {
+      "name": "Battle of Dyrrhachium",
+      "dates": "1081",
+      "y": 1081,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Norman victory over the Byzantine Empire on the Adriatic coast that opened Robert Guiscard's campaign into the Balkans.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium"
+    },
+    {
+      "name": "Akkerman Convention",
+      "dates": "1826",
+      "y": 1826,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Treaty between the Russian and Ottoman Empires settling disputes over Serbia and the Danubian Principalities.",
+      "url": "https://en.wikipedia.org/wiki/Akkerman_Convention"
+    },
+    {
+      "name": "Battle of Megiddo",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Middle East",
+      "period": "20th century onward",
+      "desc": "Decisive British-led offensive in Palestine that shattered Ottoman forces and hastened the empire's collapse.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Megiddo"
+    },
+    {
+      "name": "Battle of Manzikert",
+      "dates": "1071",
+      "y": 1071,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Seljuk victory over the Byzantine Empire that opened Anatolia to Turkish settlement.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Manzikert"
+    },
+    {
+      "name": "Battle of Jaffa",
+      "dates": "1192",
+      "y": 1192,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Richard the Lionheart's defense of Jaffa against Saladin during the Third Crusade.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Jaffa"
+    },
+    {
+      "name": "Battle of Vienna",
+      "dates": "1683",
+      "y": 1683,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Coalition victory that broke the Ottoman siege of Vienna and halted Ottoman expansion into Central Europe.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Vienna"
+    },
+    {
+      "name": "Armenian–Azerbaijani War",
+      "dates": "1920",
+      "y": 1920,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Territorial conflict between the newly independent Armenian and Azerbaijani republics after the Russian Empire's collapse.",
+      "url": "https://en.wikipedia.org/wiki/Armenian%E2%80%93Azerbaijani_war"
+    },
+    {
+      "name": "Battle of Poitiers",
+      "dates": "1356",
+      "y": 1356,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Major English victory during the Hundred Years' War in which King John II of France was captured.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Poitiers"
+    },
+    {
+      "name": "Night attack at Târgoviște",
+      "dates": "1462",
+      "y": 1462,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Surprise nighttime assault by Vlad the Impaler on the Ottoman army encamped in Wallachia.",
+      "url": "https://en.wikipedia.org/wiki/Night_attack_at_T%C3%A2rgovi%C8%99te"
+    },
+    {
+      "name": "Operation Faustschlag",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "German offensive against Soviet Russia that forced the Bolsheviks to accept the Treaty of Brest-Litovsk.",
+      "url": "https://en.wikipedia.org/wiki/Operation_Faustschlag"
+    },
+    {
+      "name": "Battle of Chains",
+      "dates": "633",
+      "y": 633,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Early Rashidun victory under Khalid ibn al-Walid over Sasanian forces in Mesopotamia.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Chains"
+    },
+    {
+      "name": "Battle of Stamford Bridge",
+      "dates": "1066",
+      "y": 1066,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "King Harold II's victory over Norwegian invaders in England, ending Viking claims to the English throne.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge"
+    },
+    {
+      "name": "Battle of Plassey",
+      "dates": "1757",
+      "y": 1757,
+      "region": "South Asia",
+      "period": "Early modern (1500–1800)",
+      "desc": "British East India Company victory over the Nawab of Bengal that established British colonial control in India.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Plassey"
     }
   ]
 }
