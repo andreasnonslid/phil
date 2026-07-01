@@ -12946,6 +12946,481 @@
         "Ruler"
       ],
       "region": "Europe"
+    },
+    {
+      "name": "Lucien Bonaparte",
+      "dates": "1775–1840",
+      "y": 1775,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Lucien Bonaparte, 1st Prince of Canino and Musignano, was a French politician and diplomat of the French Revolution and the Consulate. He served as Minister of the Interior from 1799 to 1800 and as…",
+      "tldr": "Lucien Bonaparte, 1st Prince of Canino and Musignano, was a French politician and diplomat of the French Revolution and the Consulate. He served as Minister of the Interior from 1799 to 1800 and as the president of the Council of Five Hundred in 1799.",
+      "url": "https://en.wikipedia.org/wiki/Lucien_Bonaparte",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q3243461",
+        "Q82955",
+        "Q36180",
+        "Q193391"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Richard Wagner",
+      "dates": "1813–1883",
+      "y": 1813,
+      "roles": [
+        "Artist",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Wilhelm Richard Wagner was a German composer, theatre director, essayist, and conductor, best known for his operas, although his mature works are often referred to as music dramas. Unlike most comp…",
+      "tldr": "Wilhelm Richard Wagner was a German composer, theatre director, essayist, and conductor, best known for his operas, although his mature works are often referred to as music dramas. Unlike most composers, Wagner wrote both the libretti and the music for all of his stage works. He first achieved recognition with works in the Romantic tradition of Carl Maria von Weber and Giacomo Meyerbeer, but re…",
+      "url": "https://en.wikipedia.org/wiki/Richard_Wagner",
+      "_country_qids": [
+        "Q153015"
+      ],
+      "_occupation_qids": [
+        "Q8178443",
+        "Q11774202",
+        "Q49757",
+        "Q486748",
+        "Q36834",
+        "Q36180",
+        "Q3387717",
+        "Q18939491",
+        "Q18814623",
+        "Q158852",
+        "Q1350157"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Charles the Bold",
+      "dates": "1433–1477",
+      "y": 1433,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Charles the Bold, also called the Rash, was Duke of Burgundy from 1467 to 1477. A member of the House of Valois-Burgundy, he was the only surviving legitimate son of Philip the Good and his third w…",
+      "tldr": "Charles the Bold, also called the Rash, was Duke of Burgundy from 1467 to 1477. A member of the House of Valois-Burgundy, he was the only surviving legitimate son of Philip the Good and his third wife, Isabella of Portugal. As heir and as ruler, Charles vied for power and influence with rivals such as his overlord, King Louis XI of France.",
+      "url": "https://en.wikipedia.org/wiki/Charles_the_Bold",
+      "_country_qids": [
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q2197338",
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Grand Duchess Anastasia Nikolaevna of Russia",
+      "dates": "1901–1918",
+      "y": 1901,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "20th century onward",
+      "desc": "Grand Duchess Anastasia Nikolaevna of Russia was the youngest daughter of Tsar Nicholas II, the last sovereign of Imperial Russia, and his wife, Tsarina Alexandra Feodorovna.",
+      "tldr": "Grand Duchess Anastasia Nikolaevna of Russia was the youngest daughter of Tsar Nicholas II, the last sovereign of Imperial Russia, and his wife, Tsarina Alexandra Feodorovna.",
+      "url": "https://en.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q2478141"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Juan Gris",
+      "dates": "1887–1927",
+      "y": 1887,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "José Victoriano González-Pérez , better known as Juan Gris, was a Spanish painter born in Madrid who lived and worked in France for most of his active period. Closely connected to the innovative ar…",
+      "tldr": "José Victoriano González-Pérez , better known as Juan Gris, was a Spanish painter born in Madrid who lived and worked in France for most of his active period. Closely connected to the innovative artistic genre Cubism, his works are among the movement's most distinctive.",
+      "url": "https://en.wikipedia.org/wiki/Juan_Gris",
+      "_country_qids": [
+        "Q29"
+      ],
+      "_occupation_qids": [
+        "Q644687",
+        "Q3391743",
+        "Q2707485",
+        "Q2079935",
+        "Q15296811",
+        "Q483501",
+        "Q1281618",
+        "Q1028181",
+        "Q11569986"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Joachim Murat",
+      "dates": "1767–1815",
+      "y": 1767,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Joachim Murat was a French Army officer and statesman who served during the French Revolutionary and Napoleonic Wars. Under the French Empire he received the military titles of Marshal of the Empir…",
+      "tldr": "Joachim Murat was a French Army officer and statesman who served during the French Revolutionary and Napoleonic Wars. Under the French Empire he received the military titles of Marshal of the Empire and Admiral of France. He was the first Prince Murat, Grand Duke of Berg from 1806 to 1808, and King of Naples as Joachim-Napoleon from 1808 to 1815.",
+      "url": "https://en.wikipedia.org/wiki/Joachim_Murat",
+      "_country_qids": [
+        "Q249428",
+        "Q173065",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q189290",
+        "Q47064",
+        "Q82955",
+        "Q111837"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Olive Schreiner",
+      "dates": "1855–1920",
+      "y": 1855,
+      "roles": [
+        "Writer",
+        "Reformer"
+      ],
+      "era": "19th century",
+      "desc": "Olive Schreiner was a South African author, anti-war campaigner and intellectual. She is best remembered today for her novel The Story of an African Farm (1883), which has been highly acclaimed.",
+      "tldr": "Olive Schreiner was a South African author, anti-war campaigner and intellectual. She is best remembered today for her novel The Story of an African Farm (1883), which has been highly acclaimed. It deals boldly with such contemporary issues as agnosticism, existential independence, individualism, the professional aspirations of women, and the elemental nature of life on the colonial frontier.",
+      "url": "https://en.wikipedia.org/wiki/Olive_Schreiner",
+      "_country_qids": [
+        "Q258"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q34074720",
+        "Q2306091"
+      ],
+      "region": "Africa"
+    },
+    {
+      "name": "Robert Louis Stevenson",
+      "dates": "1850–1894",
+      "y": 1850,
+      "roles": [
+        "Writer",
+        "Explorer"
+      ],
+      "era": "19th century",
+      "desc": "Robert Louis Stevenson was a Scottish novelist, essayist, poet and travel writer. He is best known for the novels Treasure Island (1883), Strange Case of Dr Jekyll and Mr Hyde (1886), and Kidnapped…",
+      "tldr": "Robert Louis Stevenson was a Scottish novelist, essayist, poet and travel writer. He is best known for the novels Treasure Island (1883), Strange Case of Dr Jekyll and Mr Hyde (1886), and Kidnapped (1886) and for the poetry collection A Child's Garden of Verses (1885).",
+      "url": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson",
+      "_country_qids": [
+        "Q174193",
+        "Q145"
+      ],
+      "_occupation_qids": [
+        "Q753110",
+        "Q11774202",
+        "Q15949613",
+        "Q1930187",
+        "Q214917",
+        "Q36180",
+        "Q4853732",
+        "Q6625963",
+        "Q49757"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Anne of Austria",
+      "dates": "1601–1666",
+      "y": 1601,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Anne of Austria was Queen of France from 1615 to 1643 by marriage to King Louis XIII. She was also Queen of Navarre until the kingdom's annexation into the French crown in 1620.",
+      "tldr": "Anne of Austria was Queen of France from 1615 to 1643 by marriage to King Louis XIII. She was also Queen of Navarre until the kingdom's annexation into the French crown in 1620. After her husband's death, Anne was regent to her son Louis XIV during his minority until 1651.",
+      "url": "https://en.wikipedia.org/wiki/Anne_of_Austria",
+      "_country_qids": [
+        "Q45670",
+        "Q29",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q19643"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Christian IX of Denmark",
+      "dates": "1818–1906",
+      "y": 1818,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Christian IX was King of Denmark from 15 November 1863 until his death in 1906. From 1863 to 1864, he was concurrently Duke of Schleswig, Holstein and Lauenburg.",
+      "tldr": "Christian IX was King of Denmark from 15 November 1863 until his death in 1906. From 1863 to 1864, he was concurrently Duke of Schleswig, Holstein and Lauenburg. He became one of the most influential monarchs of 19th-century Europe through the dynastic marriages of his children, earning the nickname \"Father-in-law of Europe\".",
+      "url": "https://en.wikipedia.org/wiki/Christian_IX",
+      "_country_qids": [
+        "Q756617"
+      ],
+      "_occupation_qids": [
+        "Q189290",
+        "Q116"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Leopold II, Holy Roman Emperor",
+      "dates": "1747–1792",
+      "y": 1747,
+      "roles": [
+        "Ruler",
+        "Reformer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Leopold II was the penultimate Holy Roman Emperor, as well as King of Hungary, Croatia and Bohemia, and Archduke of Austria from 1790 to 1792, and Grand Duke of Tuscany from 1765 to 1790. He was a …",
+      "tldr": "Leopold II was the penultimate Holy Roman Emperor, as well as King of Hungary, Croatia and Bohemia, and Archduke of Austria from 1790 to 1792, and Grand Duke of Tuscany from 1765 to 1790. He was a son of Empress Maria Theresa and Emperor Francis I, and the brother of Queen Marie Antoinette of France, Queen Maria Carolina, Duchess Maria Amalia of Parma, and Emperor Joseph II. Leopold was a moder…",
+      "url": "https://en.wikipedia.org/wiki/Leopold_II%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q12548"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Vidkun Quisling",
+      "dates": "1887–1945",
+      "y": 1887,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Vidkun Abraham Lauritz Jonssøn Quisling was a Norwegian military officer, politician and Nazi collaborator who headed the puppet government of Norway during the country's occupation by Nazi Germany…",
+      "tldr": "Vidkun Abraham Lauritz Jonssøn Quisling was a Norwegian military officer, politician and Nazi collaborator who headed the puppet government of Norway during the country's occupation by Nazi Germany during World War II.",
+      "url": "https://en.wikipedia.org/wiki/Vidkun_Quisling",
+      "_country_qids": [
+        "Q20"
+      ],
+      "_occupation_qids": [
+        "Q102249165",
+        "Q189290",
+        "Q4991371",
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Thomas Carlyle",
+      "dates": "1795–1881",
+      "y": 1795,
+      "roles": [
+        "Writer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Thomas Carlyle was a Scottish essayist, historian and philosopher. Known as the \"sage of Chelsea\", his writings strongly influenced the intellectual and artistic culture of the Victorian era.",
+      "tldr": "Thomas Carlyle was a Scottish essayist, historian and philosopher. Known as the \"sage of Chelsea\", his writings strongly influenced the intellectual and artistic culture of the Victorian era.",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Carlyle",
+      "_country_qids": [
+        "Q161885",
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q37226",
+        "Q6625963",
+        "Q36180",
+        "Q4263842",
+        "Q4964182",
+        "Q901",
+        "Q201788",
+        "Q333634",
+        "Q170790",
+        "Q13570226",
+        "Q14467526",
+        "Q11774202"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "José Batlle y Ordóñez",
+      "dates": "1856–1929",
+      "y": 1856,
+      "roles": [
+        "Ruler",
+        "Reformer"
+      ],
+      "era": "19th century",
+      "desc": "José Pablo Torcuato Batlle y Ordóñez, nicknamed Don Pepe, was a prominent Uruguayan politician who served two terms as President of Uruguay for the Colorado Party. The son of a former president, he…",
+      "tldr": "José Pablo Torcuato Batlle y Ordóñez, nicknamed Don Pepe, was a prominent Uruguayan politician who served two terms as President of Uruguay for the Colorado Party. The son of a former president, he introduced his political system, Batllism, to South America and modernized Uruguay through his creation of extensive welfare state reforms.",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Batlle_y_Ord%C3%B3%C3%B1ez",
+      "_country_qids": [
+        "Q77"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Otto IV, Holy Roman Emperor",
+      "dates": "1175–1218",
+      "y": 1175,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Otto IV was the Holy Roman Emperor from 1209 until his death in 1218.",
+      "tldr": "Otto IV was the Holy Roman Emperor from 1209 until his death in 1218.",
+      "url": "https://en.wikipedia.org/wiki/Otto_IV%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Mehmed V",
+      "dates": "1844–1918",
+      "y": 1844,
+      "roles": [
+        "Ruler",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Mehmed V Reşâd was the penultimate sultan of the Ottoman Empire from 1909 to 1918. Mehmed V reigned as a constitutional monarch.",
+      "tldr": "Mehmed V Reşâd was the penultimate sultan of the Ottoman Empire from 1909 to 1918. Mehmed V reigned as a constitutional monarch. He had little influence over government affairs and his ministries showed little regard for the Ottoman constitution.",
+      "url": "https://en.wikipedia.org/wiki/Mehmed_V",
+      "_country_qids": [
+        "Q12560"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q1097498"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Abdülaziz",
+      "dates": "1830–1876",
+      "y": 1830,
+      "roles": [
+        "Ruler",
+        "Writer",
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Abdulaziz was the sultan of the Ottoman Empire from 25 June 1861 to 30 May 1876, when he was overthrown in a government coup. He was a son of Sultan Mahmud II and succeeded his brother Abdulmejid I…",
+      "tldr": "Abdulaziz was the sultan of the Ottoman Empire from 25 June 1861 to 30 May 1876, when he was overthrown in a government coup. He was a son of Sultan Mahmud II and succeeded his brother Abdulmejid I in 1861.",
+      "url": "https://en.wikipedia.org/wiki/Abdulaziz",
+      "_country_qids": [
+        "Q12560"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q1097498",
+        "Q36834",
+        "Q43292"
+      ],
+      "region": "Middle East"
+    },
+    {
+      "name": "Richard Owen",
+      "dates": "1804–1892",
+      "y": 1804,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Sir Richard Owen was an English biologist, comparative anatomist and palaeontologist. Owen is generally considered to have been an outstanding naturalist with a remarkable gift for interpreting fos…",
+      "tldr": "Sir Richard Owen was an English biologist, comparative anatomist and palaeontologist. Owen is generally considered to have been an outstanding naturalist with a remarkable gift for interpreting fossils.",
+      "url": "https://en.wikipedia.org/wiki/Richard_Owen",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q10872101",
+        "Q864503",
+        "Q774306",
+        "Q674426",
+        "Q36180",
+        "Q350979",
+        "Q21272406",
+        "Q18805",
+        "Q1662561",
+        "Q1622272",
+        "Q105186"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Paul Signac",
+      "dates": "1863–1935",
+      "y": 1863,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Paul Victor Jules Signac was a French Neo-Impressionist painter who, with Georges Seurat, helped develop the artistic technique Pointillism.",
+      "tldr": "Paul Victor Jules Signac was a French Neo-Impressionist painter who, with Georges Seurat, helped develop the artistic technique Pointillism.",
+      "url": "https://en.wikipedia.org/wiki/Paul_Signac",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q11569986",
+        "Q2079935",
+        "Q1925963",
+        "Q15296811",
+        "Q1028181"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Béla Kun",
+      "dates": "1886–1938",
+      "y": 1886,
+      "roles": [
+        "Ruler",
+        "Reformer"
+      ],
+      "era": "19th century",
+      "desc": "Béla Kun was a Hungarian communist revolutionary and politician who in 1919 governed the Hungarian Soviet Republic.",
+      "tldr": "Béla Kun was a Hungarian communist revolutionary and politician who in 1919 governed the Hungarian Soviet Republic.",
+      "url": "https://en.wikipedia.org/wiki/B%C3%A9la_Kun",
+      "_country_qids": [
+        "Q15180",
+        "Q28"
+      ],
+      "_occupation_qids": [
+        "Q482980",
+        "Q881836",
+        "Q1930187",
+        "Q193391",
+        "Q28528560",
+        "Q3242115",
+        "Q82955"
+      ],
+      "region": "Europe"
     }
   ]
 }
