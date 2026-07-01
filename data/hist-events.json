@@ -1018,6 +1018,186 @@
       "period": "Early modern (1500–1800)",
       "desc": "War between the Polish-Lithuanian Commonwealth and the Russian Empire under Catherine the Great, allied with the Targowica Confederation.",
       "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_of_1792"
+    },
+    {
+      "name": "Battle of Muret",
+      "dates": "1213",
+      "y": 1213,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Simon de Montfort's small force of French crusaders routed a much larger army of Aragonese and Occitan lords, the decisive battle of the Albigensian Crusade.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Muret"
+    },
+    {
+      "name": "Italian War of 1494–1495",
+      "dates": "1494",
+      "y": 1494,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Charles VIII of France invaded Italy to press his claim to Naples, opening decades of Italian Wars among France, Spain, and the Holy Roman Empire.",
+      "url": "https://en.wikipedia.org/wiki/Italian_War_of_1494%E2%80%931495"
+    },
+    {
+      "name": "Battle of Appomattox Court House",
+      "dates": "1865",
+      "y": 1865,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Confederate general Robert E. Lee surrendered the Army of Northern Virginia to Union forces, effectively ending the American Civil War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Appomattox_Court_House"
+    },
+    {
+      "name": "1893 Franco-Siamese crisis",
+      "dates": "1893",
+      "y": 1893,
+      "region": "South Asia",
+      "period": "19th century",
+      "desc": "A French gunboat standoff and ultimatum forced Siam to cede territory east of the Mekong, cementing French colonial control of Indochina.",
+      "url": "https://en.wikipedia.org/wiki/1893_Franco-Siamese_crisis"
+    },
+    {
+      "name": "Battle of Talikota",
+      "dates": "1565",
+      "y": 1565,
+      "region": "South Asia",
+      "period": "Early modern (1500–1800)",
+      "desc": "An alliance of Deccan sultanates crushed the Vijayanagara Empire, triggering the eventual collapse of the last great Hindu empire of southern India.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Talikota"
+    },
+    {
+      "name": "First Anglo-Maratha War",
+      "dates": "1775",
+      "y": 1775,
+      "region": "South Asia",
+      "period": "Early modern (1500–1800)",
+      "desc": "The British East India Company's first war with the Maratha Empire ended inconclusively after years of fighting across western India.",
+      "url": "https://en.wikipedia.org/wiki/First_Anglo-Maratha_War"
+    },
+    {
+      "name": "Battle of Köse Dağ",
+      "dates": "1243",
+      "y": 1243,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "A Mongol army decisively defeated the Seljuk Sultanate of Rum in eastern Anatolia, reducing the sultanate to Mongol vassalage.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_K%C3%B6se_Da%C4%9F"
+    },
+    {
+      "name": "Battle of Bailén",
+      "dates": "1808",
+      "y": 1808,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Spanish forces forced the surrender of a French army corps, the first open-field defeat of a Napoleonic army and a spark for anti-French resistance.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bail%C3%A9n"
+    },
+    {
+      "name": "Battle of Strasbourg",
+      "dates": "357",
+      "y": 357,
+      "region": "Europe",
+      "period": "Ancient (to 500 CE)",
+      "desc": "Roman forces under Julian defeated the Alamanni confederation near modern Strasbourg, securing the Rhine frontier.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Strasbourg"
+    },
+    {
+      "name": "Battle of Jerusalem",
+      "dates": "1917",
+      "y": 1917,
+      "region": "Middle East",
+      "period": "20th century onward",
+      "desc": "British Empire forces captured Jerusalem from the Ottoman Empire during World War I's Sinai and Palestine campaign.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Jerusalem"
+    },
+    {
+      "name": "War of the Sixth Coalition",
+      "dates": "1814",
+      "y": 1814,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "A coalition of European powers defeated Napoleonic France and forced Napoleon's abdication and exile to Elba.",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Sixth_Coalition"
+    },
+    {
+      "name": "Reconquest of Constantinople",
+      "dates": "1261",
+      "y": 1261,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Nicaean forces recaptured Constantinople from the Latin Empire, restoring the Byzantine Empire under the Palaiologos dynasty.",
+      "url": "https://en.wikipedia.org/wiki/Reconquest_of_Constantinople"
+    },
+    {
+      "name": "Battle of Velbazhd",
+      "dates": "1330",
+      "y": 1330,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Serbian forces defeated the Bulgarian Empire near Velbazhd, shifting the balance of power in the Balkans toward Serbia.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Velbazhd"
+    },
+    {
+      "name": "Kashmir conflict",
+      "dates": "1947",
+      "y": 1947,
+      "region": "South Asia",
+      "period": "20th century onward",
+      "desc": "A territorial dispute between India and Pakistan over the former princely state of Jammu and Kashmir, ongoing since the 1947 partition of India.",
+      "url": "https://en.wikipedia.org/wiki/Kashmir_conflict"
+    },
+    {
+      "name": "Battle of the Tenaru",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Oceania",
+      "period": "20th century onward",
+      "desc": "Allied ground forces repelled a Japanese assault on Guadalcanal, the first major Japanese land offensive of the Pacific campaign.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Tenaru"
+    },
+    {
+      "name": "Battle of Mons",
+      "dates": "1914",
+      "y": 1914,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The British Expeditionary Force's first major engagement of World War I against the advancing German army in Belgium.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mons"
+    },
+    {
+      "name": "Torstenson War",
+      "dates": "1643",
+      "y": 1643,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Sweden defeated Denmark–Norway in a conflict tied to the wider Thirty Years' War, boosting Swedish power in the Baltic.",
+      "url": "https://en.wikipedia.org/wiki/Torstenson_War"
+    },
+    {
+      "name": "Russo-Persian War of 1826–28",
+      "dates": "1826",
+      "y": 1826,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Russia's final war with Qajar Iran ended in Persian territorial losses in the South Caucasus under the Treaty of Turkmenchay.",
+      "url": "https://en.wikipedia.org/wiki/Russo-Persian_War_%281826%E2%80%931828%29"
+    },
+    {
+      "name": "Battle of Abritus",
+      "dates": "251",
+      "y": 251,
+      "region": "Europe",
+      "period": "Ancient (to 500 CE)",
+      "desc": "A federation of Gothic tribes defeated the Roman army and killed Emperor Decius, the first Roman emperor to die in battle against a foreign enemy.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Abritus"
+    },
+    {
+      "name": "Battle of Cajamarca",
+      "dates": "1532",
+      "y": 1532,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "Francisco Pizarro's small Spanish force ambushed and captured the Inca ruler Atahualpa, opening the Spanish conquest of the Inca Empire.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Cajamarca"
     }
   ]
 }
