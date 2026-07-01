@@ -13867,6 +13867,453 @@
         "Q1234713"
       ],
       "region": "Europe"
+    },
+    {
+      "name": "Pierre Laval",
+      "dates": "1883–1945",
+      "y": 1883,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Pierre Jean Marie Laval was a French politician. He served as Prime Minister of France three times: 1931–1932 and 1935–1936 during the Third Republic, and 1942–1944 during Vichy France.",
+      "tldr": "Pierre Jean Marie Laval was a French politician. He served as Prime Minister of France three times: 1931–1932 and 1935–1936 during the Third Republic, and 1942–1944 during Vichy France. After the war, Laval was tried as a Nazi collaborator and executed for treason.",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Laval",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q185351",
+        "Q40348"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Maria-Letizia Bonaparte",
+      "dates": "1750–1836",
+      "y": 1750,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Maria-Letizia Bonaparte, commonly known as Letizia Bonaparte, was a Corsican noblewoman and the matriarch of the House of Bonaparte, as the mother of Napoleon I, Emperor of the French. Due to her s…",
+      "tldr": "Maria-Letizia Bonaparte, commonly known as Letizia Bonaparte, was a Corsican noblewoman and the matriarch of the House of Bonaparte, as the mother of Napoleon I, Emperor of the French. Due to her status as the Emperor's mother, she was granted the title \"Madame Mère\".",
+      "url": "https://en.wikipedia.org/wiki/Letizia_Bonaparte",
+      "_country_qids": [
+        "Q174306",
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q2478141"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Ion Antonescu",
+      "dates": "1882–1946",
+      "y": 1882,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "Ion Antonescu was a Romanian military officer and marshal who presided over two successive wartime dictatorships as Prime Minister and Conducător during most of World War II. Having been responsibl…",
+      "tldr": "Ion Antonescu was a Romanian military officer and marshal who presided over two successive wartime dictatorships as Prime Minister and Conducător during most of World War II. Having been responsible for facilitating the Holocaust in Romania, he was overthrown in 1944, before being tried for war crimes and executed two years later in 1946.",
+      "url": "https://en.wikipedia.org/wiki/Ion_Antonescu",
+      "_country_qids": [
+        "Q203493"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q47064",
+        "Q193391"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Catherine I of Russia",
+      "dates": "1684–1727",
+      "y": 1684,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Catherine I was Empress of Russia from 8 February 1725 until her death in 1727. She was previously empress consort of Russia from 1721 to 1725 as the second wife of Peter the Great, and tsaritsa co…",
+      "tldr": "Catherine I was Empress of Russia from 8 February 1725 until her death in 1727. She was previously empress consort of Russia from 1721 to 1725 as the second wife of Peter the Great, and tsaritsa consort from 1712 to 1721.",
+      "url": "https://en.wikipedia.org/wiki/Catherine_I_of_Russia",
+      "_country_qids": [
+        "Q186096",
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q44356"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Alexandra Feodorovna (Alix of Hesse)",
+      "dates": "1872–1918",
+      "y": 1872,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Alexandra Feodorovna was the last empress of Russia as the consort of Nicholas II from their marriage on 26 November [O.S. 14 November] 1894 until his forced abdication on 15 March [O.S.",
+      "tldr": "Alexandra Feodorovna was the last empress of Russia as the consort of Nicholas II from their marriage on 26 November [O.S. 14 November] 1894 until his forced abdication on 15 March [O.S. 2 March] 1917.",
+      "url": "https://en.wikipedia.org/wiki/Alexandra_Feodorovna_%28Alix_of_Hesse%29",
+      "_country_qids": [
+        "Q1206012",
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q5784340",
+        "Q1028181",
+        "Q186360",
+        "Q477406"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Constantine I of Greece",
+      "dates": "1868–1923",
+      "y": 1868,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "Constantine I was King of Greece from 18 March 1913 to 11 June 1917 and again from 19 December 1920 to 27 September 1922. The eldest son of George I of Greece, he succeeded to the throne following …",
+      "tldr": "Constantine I was King of Greece from 18 March 1913 to 11 June 1917 and again from 19 December 1920 to 27 September 1922. The eldest son of George I of Greece, he succeeded to the throne following his father's assassination in 1913.",
+      "url": "https://en.wikipedia.org/wiki/Constantine_I_of_Greece",
+      "_country_qids": [
+        "Q41"
+      ],
+      "_occupation_qids": [
+        "Q2304859"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Geiseric",
+      "dates": "389–477",
+      "y": 389,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Gaiseric, also known as Geiseric or Genseric was king of the Vandals and Alans from 428 to 477 AD. He ruled over the Vandal kingdom and migrated the kingdom to North Africa, playing a key role in t…",
+      "tldr": "Gaiseric, also known as Geiseric or Genseric was king of the Vandals and Alans from 428 to 477 AD. He ruled over the Vandal kingdom and migrated the kingdom to North Africa, playing a key role in the decline of the Western Roman Empire during the 5th century.",
+      "url": "https://en.wikipedia.org/wiki/Gaiseric",
+      "_country_qids": [
+        "Q10416611"
+      ],
+      "_occupation_qids": [
+        "Q2304859"
+      ],
+      "region": "Africa"
+    },
+    {
+      "name": "Wenceslaus IV of Bohemia",
+      "dates": "1361–1419",
+      "y": 1361,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Wenceslaus IV was King of Bohemia from 1378 until his death in 1419 and King of the Romans and King of Germany from 1376 until he was deposed in 1400. As he belonged to the House of Luxembourg, he …",
+      "tldr": "Wenceslaus IV was King of Bohemia from 1378 until his death in 1419 and King of the Romans and King of Germany from 1376 until he was deposed in 1400. As he belonged to the House of Luxembourg, he was also Duke of Luxembourg as Wenceslaus II from 1383 to 1388.",
+      "url": "https://en.wikipedia.org/wiki/Wenceslaus_IV_of_Bohemia",
+      "_country_qids": [
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q2197338"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Matthias, Holy Roman Emperor",
+      "dates": "1557–1619",
+      "y": 1557,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Matthias was Holy Roman Emperor from 1612 to 1619, Archduke of Austria from 1608 to 1619, King of Hungary and Croatia from 1608 to 1618 and King of Bohemia from 1611 to 1617. His personal motto was…",
+      "tldr": "Matthias was Holy Roman Emperor from 1612 to 1619, Archduke of Austria from 1608 to 1619, King of Hungary and Croatia from 1608 to 1618 and King of Bohemia from 1611 to 1617. His personal motto was Concordia lumine maior.",
+      "url": "https://en.wikipedia.org/wiki/Matthias%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q12548"
+      ],
+      "_occupation_qids": [
+        "Q3243461",
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "August Krogh",
+      "dates": "1874–1949",
+      "y": 1874,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Schack August Steenberg Krogh was a Danish professor at the department of zoophysiology at the University of Copenhagen from 1916 to 1945. He contributed a number of fundamental discoveries within …",
+      "tldr": "Schack August Steenberg Krogh was a Danish professor at the department of zoophysiology at the University of Copenhagen from 1916 to 1945. He contributed a number of fundamental discoveries within several fields of physiology, and is famous for developing Krogh's principle.",
+      "url": "https://en.wikipedia.org/wiki/August_Krogh",
+      "_country_qids": [
+        "Q756617"
+      ],
+      "_occupation_qids": [
+        "Q39631",
+        "Q1231865",
+        "Q1622272",
+        "Q18805",
+        "Q2055046",
+        "Q350979"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Friedrich Wilhelm II of Prussia",
+      "dates": "1744–1797",
+      "y": 1744,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Frederick William II was King of Prussia from 1786 until his death in 1797. He was also Prince-elector of Brandenburg and Prince of Neuchâtel.",
+      "tldr": "Frederick William II was King of Prussia from 1786 until his death in 1797. He was also Prince-elector of Brandenburg and Prince of Neuchâtel.",
+      "url": "https://en.wikipedia.org/wiki/Frederick_William_II_of_Prussia",
+      "_country_qids": [
+        "Q27306"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Tiye",
+      "dates": "1397BCE–1337BCE",
+      "y": -1397,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Tiye was the Great Royal Wife of the Egyptian pharaoh Amenhotep III, mother of pharaoh Akhenaten and grandmother of pharaoh Tutankhamun; her parents were Yuya and Thuya. In 2010, DNA analysis confi…",
+      "tldr": "Tiye was the Great Royal Wife of the Egyptian pharaoh Amenhotep III, mother of pharaoh Akhenaten and grandmother of pharaoh Tutankhamun; her parents were Yuya and Thuya. In 2010, DNA analysis confirmed her as the mummy known as \"The Elder Lady\" found in the tomb of Amenhotep II (KV35) in 1898.",
+      "url": "https://en.wikipedia.org/wiki/Tiye",
+      "_country_qids": [
+        "Q11768"
+      ],
+      "_occupation_qids": [
+        "Q5784340"
+      ],
+      "region": "Africa"
+    },
+    {
+      "name": "El Lissitzky",
+      "dates": "1890–1941",
+      "y": 1890,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "El Lissitzky was a Russian and Soviet artist, active as a painter, illustrator, designer, printmaker, photographer, and architect. He was an important figure of the avant-garde, helping develop sup…",
+      "tldr": "El Lissitzky was a Russian and Soviet artist, active as a painter, illustrator, designer, printmaker, photographer, and architect. He was an important figure of the avant-garde, helping develop suprematism with his mentor, Kazimir Malevich, and designing numerous exhibition displays and propaganda works for the Soviet Union.",
+      "url": "https://en.wikipedia.org/wiki/El_Lissitzky",
+      "_country_qids": [
+        "Q34266",
+        "Q15180"
+      ],
+      "_occupation_qids": [
+        "Q1028181",
+        "Q37226",
+        "Q1229025",
+        "Q627325",
+        "Q1281618",
+        "Q5322166",
+        "Q15296811",
+        "Q1925963",
+        "Q33231",
+        "Q3391743",
+        "Q483501",
+        "Q42973",
+        "Q354034"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Prince Albert of Saxe-Coburg and Gotha",
+      "dates": "1819–1861",
+      "y": 1819,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Prince Albert of Saxe-Coburg and Gotha was the husband of Queen Victoria and consort of the British monarch from their marriage on 10 February 1840 until his death in 1861. Victoria granted him the…",
+      "tldr": "Prince Albert of Saxe-Coburg and Gotha was the husband of Queen Victoria and consort of the British monarch from their marriage on 10 February 1840 until his death in 1861. Victoria granted him the title Prince Consort in 1857.",
+      "url": "https://en.wikipedia.org/wiki/Prince_Albert_of_Saxe-Coburg_and_Gotha",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q765778",
+        "Q639669",
+        "Q5784340",
+        "Q177220",
+        "Q158852",
+        "Q1028181"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Conrad II",
+      "dates": "990–1039",
+      "y": 990,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Conrad II, also known as Conrad the Elder and Conrad the Salic, was the emperor of the Holy Roman Empire from 1027 until his death in 1039. The first of a succession of four Salian emperors, who re…",
+      "tldr": "Conrad II, also known as Conrad the Elder and Conrad the Salic, was the emperor of the Holy Roman Empire from 1027 until his death in 1039. The first of a succession of four Salian emperors, who reigned for one century until 1125, Conrad ruled the kingdoms of Germany, Italy and Burgundy.",
+      "url": "https://en.wikipedia.org/wiki/Conrad_II%2C_Holy_Roman_Emperor",
+      "_country_qids": [
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q2304859"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Alexandra of Denmark",
+      "dates": "1844–1925",
+      "y": 1844,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Alexandra of Denmark was Queen of the United Kingdom and the British Dominions, and Empress of India, from 22 January 1901 to 6 May 1910 as the wife of King Edward VII.",
+      "tldr": "Alexandra of Denmark was Queen of the United Kingdom and the British Dominions, and Empress of India, from 22 January 1901 to 6 May 1910 as the wife of King Edward VII.",
+      "url": "https://en.wikipedia.org/wiki/Alexandra_of_Denmark",
+      "_country_qids": [
+        "Q756617"
+      ],
+      "_occupation_qids": [
+        "Q33231",
+        "Q1028181",
+        "Q2478141"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Georges Méliès",
+      "dates": "1861–1938",
+      "y": 1861,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Marie-Georges-Jean Méliès was a French filmmaker, actor, magician, and toymaker. He led many technical and narrative developments in the early days of cinema, primarily in the fantasy and science f…",
+      "tldr": "Marie-Georges-Jean Méliès was a French filmmaker, actor, magician, and toymaker. He led many technical and narrative developments in the early days of cinema, primarily in the fantasy and science fiction genres. Méliès rose to prominence creating \"trick films\" and became well known for his innovative use of special effects, popularizing such techniques as substitution splices, multiple exposure…",
+      "url": "https://en.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q10800557",
+        "Q13235160",
+        "Q7042855",
+        "Q1414443",
+        "Q15296811",
+        "Q15855449",
+        "Q222344",
+        "Q2526255",
+        "Q266569",
+        "Q28389",
+        "Q3282637",
+        "Q33999",
+        "Q3455803"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Edvard Beneš",
+      "dates": "1884–1948",
+      "y": 1884,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Edvard Beneš was a Czech politician and statesman who served as the president of Czechoslovakia from 1935 to 1938, and again from 1939 to 1948. During the first six years of his second stint, he le…",
+      "tldr": "Edvard Beneš was a Czech politician and statesman who served as the president of Czechoslovakia from 1935 to 1938, and again from 1939 to 1948. During the first six years of his second stint, he led the Czechoslovak government-in-exile during World War II.",
+      "url": "https://en.wikipedia.org/wiki/Edvard_Bene%C5%A1",
+      "_country_qids": [
+        "Q28513",
+        "Q33946"
+      ],
+      "_occupation_qids": [
+        "Q1569495",
+        "Q193391",
+        "Q937857",
+        "Q83307",
+        "Q2285706",
+        "Q2306091",
+        "Q248577",
+        "Q37226",
+        "Q482980",
+        "Q7330070",
+        "Q82955",
+        "Q1622272"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Ramesses II",
+      "dates": "1302BCE–1212BCE",
+      "y": -1302,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Ramesses II, commonly known as Ramesses the Great, was the third pharaoh of the Nineteenth Dynasty of Egypt. Ramesses II is often regarded as the greatest, most celebrated, and most powerful pharao…",
+      "tldr": "Ramesses II, commonly known as Ramesses the Great, was the third pharaoh of the Nineteenth Dynasty of Egypt. Ramesses II is often regarded as the greatest, most celebrated, and most powerful pharaoh of the New Kingdom, which itself was the most powerful period of ancient Egypt. He is also widely considered one of ancient Egypt's most successful warrior pharaohs, conducting no fewer than 15 mili…",
+      "url": "https://en.wikipedia.org/wiki/Ramesses_II",
+      "_country_qids": [
+        "Q11768"
+      ],
+      "_occupation_qids": [
+        "Q372436",
+        "Q37110"
+      ],
+      "region": "Africa"
+    },
+    {
+      "name": "Isoroku Yamamoto",
+      "dates": "1884–1943",
+      "y": 1884,
+      "roles": [
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "Isoroku Yamamoto  was an admiral of the Imperial Japanese Navy (IJN) and the commander of the Combined Fleet during World War II. He commanded the fleet from 1939 until his death in 1943, overseein…",
+      "tldr": "Isoroku Yamamoto  was an admiral of the Imperial Japanese Navy (IJN) and the commander of the Combined Fleet during World War II. He commanded the fleet from 1939 until his death in 1943, overseeing the start of the Pacific War in 1941 and Japan's initial successes and defeats before his plane was shot down by U.S. fighter aircraft over New Guinea.",
+      "url": "https://en.wikipedia.org/wiki/Isoroku_Yamamoto",
+      "_country_qids": [
+        "Q17"
+      ],
+      "_occupation_qids": [
+        "Q189290",
+        "Q132851"
+      ],
+      "region": "East Asia"
     }
   ]
 }
