@@ -14750,6 +14750,435 @@
         "Q4964182"
       ],
       "region": "East Asia"
+    },
+    {
+      "name": "Rudolf, Crown Prince of Austria",
+      "dates": "1858–1889",
+      "y": 1858,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "Rudolf, Crown Prince of Austria was the only son and third child of Emperor Franz Joseph I and Empress Elisabeth of Austria. He was heir apparent to the imperial throne of the Austro-Hungarian Empi…",
+      "tldr": "Rudolf, Crown Prince of Austria was the only son and third child of Emperor Franz Joseph I and Empress Elisabeth of Austria. He was heir apparent to the imperial throne of the Austro-Hungarian Empire from birth. In 1889, he died in a suicide pact with his mistress Baroness Mary Vetsera at the Mayerling hunting lodge.",
+      "url": "https://en.wikipedia.org/wiki/Rudolf%2C_Crown_Prince_of_Austria",
+      "_country_qids": [
+        "Q131964",
+        "Q533534"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q189290",
+        "Q18805"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "George II of Greece",
+      "dates": "1890–1947",
+      "y": 1890,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "George II was King of Greece from 27 September 1922 until 25 March 1924, and again from 25 November 1935 until his death on 1 April 1947.",
+      "tldr": "George II was King of Greece from 27 September 1922 until 25 March 1924, and again from 25 November 1935 until his death on 1 April 1947.",
+      "url": "https://en.wikipedia.org/wiki/George_II_of_Greece",
+      "_country_qids": [
+        "Q41"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Henry III",
+      "dates": "1016–1056",
+      "y": 1016,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Henry III may refer to: Henry III, Holy Roman Emperor (1017–1056); King Henry III of Castile (1379–1406); King Henry III of England (1207–1272); and other medieval monarchs sharing the name.",
+      "tldr": "Henry III may refer to Henry III, Holy Roman Emperor (1017–1056), King Henry III of Castile (1379–1406), King Henry III of England (1207–1272), King Henry III of France (1551–1589), King Henry III of Navarre (1553–1610), and several other medieval and early modern rulers who shared the regnal name.",
+      "url": "https://en.wikipedia.org/wiki/Henry_III",
+      "_country_qids": [
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q39018",
+        "Q2478141"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Lisa del Giocondo",
+      "dates": "1479–1542",
+      "y": 1479,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Lisa del Giocondo was an Italian noblewoman and member of the Gherardini family of Florence and Tuscany. Her name was given to the Mona Lisa, her portrait commissioned by her husband and painted by…",
+      "tldr": "Lisa del Giocondo was an Italian noblewoman and member of the Gherardini family of Florence and Tuscany. Her name was given to the Mona Lisa, her portrait commissioned by her husband and painted by Leonardo da Vinci in the Italian Renaissance.",
+      "url": "https://en.wikipedia.org/wiki/Lisa_del_Giocondo",
+      "_country_qids": [
+        "Q2044"
+      ],
+      "_occupation_qids": [
+        "Q4610556"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Ion C. Brătianu",
+      "dates": "1821–1891",
+      "y": 1821,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Ion Constantin Brătianu was one of the major political figures of 19th-century Romania. He was the son of Dincă Brătianu and the younger brother of Dumitru Brătianu, as well as the father of Ion I.",
+      "tldr": "Ion Constantin Brătianu was one of the major political figures of 19th-century Romania. He was the son of Dincă Brătianu and the younger brother of Dumitru Brătianu, as well as the father of Ion I. C.",
+      "url": "https://en.wikipedia.org/wiki/Ion_C._Br%C4%83tianu",
+      "_country_qids": [
+        "Q218"
+      ],
+      "_occupation_qids": [
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Sophie, Duchess of Hohenberg",
+      "dates": "1868–1914",
+      "y": 1868,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "19th century",
+      "desc": "Sophie, Duchess of Hohenberg was the wife of Archduke Franz Ferdinand of Austria, the heir to the Austro-Hungarian throne. Their assassination in Sarajevo sparked a series of events that led, four …",
+      "tldr": "Sophie, Duchess of Hohenberg was the wife of Archduke Franz Ferdinand of Austria, the heir to the Austro-Hungarian throne. Their assassination in Sarajevo sparked a series of events that led, four weeks later, to World War I.",
+      "url": "https://en.wikipedia.org/wiki/Sophie%2C_Duchess_of_Hohenberg",
+      "_country_qids": [
+        "Q533534"
+      ],
+      "_occupation_qids": [
+        "Q33231",
+        "Q715222"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Władysław Sikorski",
+      "dates": "1881–1943",
+      "y": 1881,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "19th century",
+      "desc": "Władysław Eugeniusz Sikorski was a Polish military and political leader. Before World War I, Sikorski established and participated in several underground organizations that promoted the cause of Po…",
+      "tldr": "Władysław Eugeniusz Sikorski was a Polish military and political leader. Before World War I, Sikorski established and participated in several underground organizations that promoted the cause of Polish independence. He fought with distinction in the Polish Legions during World War I, and later in the newly created Polish Army during the Polish–Soviet War of 1919–1921.",
+      "url": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Sikorski",
+      "_country_qids": [
+        "Q36"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q47064",
+        "Q2285706"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Elias Lönnrot",
+      "dates": "1802–1884",
+      "y": 1802,
+      "roles": [
+        "Scientist",
+        "Writer"
+      ],
+      "era": "19th century",
+      "desc": "Elias Lönnrot was a Finnish polymath, physician, philosopher, poet, musician, linguist, journalist, philologist and collector of traditional Finnish oral poetry. He is best known for synthesizing t…",
+      "tldr": "Elias Lönnrot was a Finnish polymath, physician, philosopher, poet, musician, linguist, journalist, philologist and collector of traditional Finnish oral poetry. He is best known for synthesizing the Finnish national epic, Kalevala from short ballads and lyric poems he gathered from Finnish oral tradition during several field expeditions in Finland, Russian Karelia, the Kola Peninsula and Baltic regions.",
+      "url": "https://en.wikipedia.org/wiki/Elias_L%C3%B6nnrot",
+      "_country_qids": [
+        "Q34",
+        "Q62633"
+      ],
+      "_occupation_qids": [
+        "Q551835",
+        "Q2374149",
+        "Q1231865",
+        "Q13418253",
+        "Q13424456",
+        "Q14467526",
+        "Q14972848",
+        "Q17167049",
+        "Q3075052",
+        "Q3243461",
+        "Q36180",
+        "Q39631",
+        "Q49757"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Joseph Louis Gay-Lussac",
+      "dates": "1778–1850",
+      "y": 1778,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Joseph Louis Gay-Lussac was a French chemist and physicist. He is known mostly for his discovery that water is made of two parts hydrogen and one part oxygen by volume, for two laws related to gase…",
+      "tldr": "Joseph Louis Gay-Lussac was a French chemist and physicist. He is known mostly for his discovery that water is made of two parts hydrogen and one part oxygen by volume, for two laws related to gases, and for his work on alcohol–water mixtures, which led to the degrees Gay-Lussac used to measure alcoholic beverages in many countries.",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac",
+      "_country_qids": [
+        "Q142"
+      ],
+      "_occupation_qids": [
+        "Q81096",
+        "Q169470",
+        "Q1622272",
+        "Q593644",
+        "Q2824523",
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Ramesses IV",
+      "dates": "1200BCE–1155BCE",
+      "y": -1200,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Usermaatre Heqamaatre Setepenamun Ramesses IV was the third pharaoh of the Twentieth Dynasty of the New Kingdom of Ancient Egypt. He was the second son of Ramesses III and became crown prince when …",
+      "tldr": "Usermaatre Heqamaatre Setepenamun Ramesses IV was the third pharaoh of the Twentieth Dynasty of the New Kingdom of Ancient Egypt. He was the second son of Ramesses III and became crown prince when his elder brother Amenherkhepshef died aged 15 in 1164 BC, when Ramesses was only 12 years old. His promotion to crown prince is suggested by his appearance in a scene of the festival of Min at the Ramesseum.",
+      "url": "https://en.wikipedia.org/wiki/Ramesses_IV",
+      "_country_qids": [
+        "Q11768"
+      ],
+      "_occupation_qids": [
+        "Q372436"
+      ],
+      "region": "Africa"
+    },
+    {
+      "name": "Jean Le Rond d'Alembert",
+      "dates": "1717–1783",
+      "y": 1717,
+      "roles": [
+        "Writer",
+        "Scientist"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Jean Le Rond d'Alembert was a French mathematician, physicist, philosopher, and music theorist. Until 1759 he was, together with Denis Diderot, a co-editor of the Encyclopédie.",
+      "tldr": "Jean Le Rond d'Alembert was a French mathematician, physicist, philosopher, and music theorist. Until 1759 he was, together with Denis Diderot, a co-editor of the Encyclopédie. His most famous achievements include the wave equation, also known as d'Alembert's equation, and D'Alembert's formula for solving said equation.",
+      "url": "https://en.wikipedia.org/wiki/Jean_Le_Rond_d%27Alembert",
+      "_country_qids": [
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q744738",
+        "Q61996872",
+        "Q58968",
+        "Q4964182",
+        "Q81096",
+        "Q11063",
+        "Q14972848",
+        "Q14915627",
+        "Q333634",
+        "Q170790",
+        "Q16031530",
+        "Q169470"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Josiah Willard Gibbs",
+      "dates": "1839–1903",
+      "y": 1839,
+      "roles": [
+        "Scientist"
+      ],
+      "era": "19th century",
+      "desc": "Josiah Willard Gibbs was an American mechanical engineer and scientist who made fundamental theoretical contributions to physics, chemistry, and mathematics. His work on the applications of thermod…",
+      "tldr": "Josiah Willard Gibbs was an American mechanical engineer and scientist who made fundamental theoretical contributions to physics, chemistry, and mathematics. His work on the applications of thermodynamics was instrumental in transforming physical chemistry into a rigorous deductive science. Together with James Clerk Maxwell and Ludwig Boltzmann, he created statistical mechanics, explaining the …",
+      "url": "https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q27067722",
+        "Q1622272",
+        "Q169470",
+        "Q170790",
+        "Q81096",
+        "Q7783170",
+        "Q19350898",
+        "Q593644"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Ben Turpin",
+      "dates": "1869–1940",
+      "y": 1869,
+      "roles": [
+        "Artist"
+      ],
+      "era": "19th century",
+      "desc": "Bernard \"Ben\" Turpin was an American comedian and actor, best remembered for his work in silent films. His trademarks were his cross-eyed appearance and adeptness at vigorous physical comedy.",
+      "tldr": "Bernard \"Ben\" Turpin was an American comedian and actor, best remembered for his work in silent films. His trademarks were his cross-eyed appearance and adeptness at vigorous physical comedy. A sometime vaudeville performer, he was \"discovered\" for film while working as the janitor for Essanay Studios in Chicago.",
+      "url": "https://en.wikipedia.org/wiki/Ben_Turpin",
+      "_country_qids": [
+        "Q30"
+      ],
+      "_occupation_qids": [
+        "Q245068",
+        "Q10800557"
+      ],
+      "region": "Americas"
+    },
+    {
+      "name": "Anna Petrovna of Russia",
+      "dates": "1708–1728",
+      "y": 1708,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Grand Duchess Anna Petrovna of Russia was the eldest daughter of Emperor Peter I of Russia and Empress Catherine I. Her younger sister, Empress Elizabeth, ruled between 1741 and 1762.",
+      "tldr": "Grand Duchess Anna Petrovna of Russia was the eldest daughter of Emperor Peter I of Russia and Empress Catherine I. Her younger sister, Empress Elizabeth, ruled between 1741 and 1762. While a potential heir in the reign of her nephew Peter II, she never acceded to the throne due to political reasons.",
+      "url": "https://en.wikipedia.org/wiki/Grand_Duchess_Anna_Petrovna_of_Russia",
+      "_country_qids": [
+        "Q186096",
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q2478141"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Meritaten",
+      "dates": "1400BCE–1400BCE",
+      "y": -1400,
+      "roles": [
+        "Ruler"
+      ],
+      "era": "Ancient (to 500 CE)",
+      "desc": "Meritaten, also spelled Merytaten, Meritaton or Meryetaten, was an ancient Egyptian royal woman of the Eighteenth Dynasty of Egypt. Her name means \"She who is beloved of Aten\"; Aten being the sun-d…",
+      "tldr": "Meritaten, also spelled Merytaten, Meritaton or Meryetaten, was an ancient Egyptian royal woman of the Eighteenth Dynasty of Egypt. Her name means \"She who is beloved of Aten\"; Aten being the sun-deity whom her father, Pharaoh Akhenaten, worshipped. She held several titles, performing official roles for her father and becoming the Great Royal Wife to Pharaoh Smenkhkare, who may have been a brother.",
+      "url": "https://en.wikipedia.org/wiki/Meritaten",
+      "_country_qids": [
+        "Q11768"
+      ],
+      "_occupation_qids": [
+        "Q719039"
+      ],
+      "region": "Africa"
+    },
+    {
+      "name": "Joseph Banks",
+      "dates": "1743–1820",
+      "y": 1743,
+      "roles": [
+        "Scientist",
+        "Explorer"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Sir Joseph Banks, 1st Baronet was an English naturalist, botanist, and patron of the natural sciences.",
+      "tldr": "Sir Joseph Banks, 1st Baronet was an English naturalist, botanist, and patron of the natural sciences.",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Banks",
+      "_country_qids": [
+        "Q174193"
+      ],
+      "_occupation_qids": [
+        "Q10498147",
+        "Q18805",
+        "Q2083925",
+        "Q2374149",
+        "Q3621491",
+        "Q98544732"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Joseph Radetzky von Radetz",
+      "dates": "1766–1858",
+      "y": 1766,
+      "roles": [
+        "Military",
+        "Ruler"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Johann Josef Wenzel Anton Franz Karl, Graf Radetzky von Radetz was a Czech nobleman and Austrian field marshal. He served as chief of the general staff in the Habsburg monarchy during the later per…",
+      "tldr": "Johann Josef Wenzel Anton Franz Karl, Graf Radetzky von Radetz was a Czech nobleman and Austrian field marshal. He served as chief of the general staff in the Habsburg monarchy during the later period of the Napoleonic Wars and contributed to the Trachenberg Plan and the Leipzig Campaign, which led to the Battle of Leipzig. Afterwards, he embarked on military reforms of the Austrian army.",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Radetzky_von_Radetz",
+      "_country_qids": [
+        "Q131964"
+      ],
+      "_occupation_qids": [
+        "Q7820253",
+        "Q189290",
+        "Q47064",
+        "Q1402561",
+        "Q82955"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Gebhard Leberecht von Blücher",
+      "dates": "1742–1819",
+      "y": 1742,
+      "roles": [
+        "Military"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Gebhard Leberecht von Blücher, Graf (count), later elevated to Fürst (prince) von Wahlstatt, was a Prussian Generalfeldmarschall. He earned his greatest recognition after leading his army against N…",
+      "tldr": "Gebhard Leberecht von Blücher, Graf (count), later elevated to Fürst (prince) von Wahlstatt, was a Prussian Generalfeldmarschall. He earned his greatest recognition after leading his army against Napoleon at the Battle of Leipzig in 1813 and the Battle of Waterloo in 1815.",
+      "url": "https://en.wikipedia.org/wiki/Gebhard_Leberecht_von_Bl%C3%BCcher",
+      "_country_qids": [
+        "Q27306",
+        "Q34"
+      ],
+      "_occupation_qids": [
+        "Q189290",
+        "Q11545923",
+        "Q131512"
+      ],
+      "region": "Europe"
+    },
+    {
+      "name": "Albrecht von Wallenstein",
+      "dates": "1583–1634",
+      "y": 1583,
+      "roles": [
+        "Ruler",
+        "Military"
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Albrecht Wenzel Eusebius von Wallenstein, Duke of Friedland, also von Waldstein, was a Bohemian military leader, statesman and a major figure of the Thirty Years' War, fighting on the Catholic side…",
+      "tldr": "Albrecht Wenzel Eusebius von Wallenstein, Duke of Friedland, also von Waldstein, was a Bohemian military leader, statesman and a major figure of the Thirty Years' War, fighting on the Catholic side as supreme commander of the armies of Holy Roman Emperor Ferdinand II. His successful martial career made him one of the richest and most influential men in the Holy Roman Empire by the time of his death.",
+      "url": "https://en.wikipedia.org/wiki/Albrecht_von_Wallenstein",
+      "_country_qids": [
+        "Q42585"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q189290",
+        "Q1402561"
+      ],
+      "region": "Europe"
     }
   ]
 }
