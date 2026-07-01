@@ -2079,6 +2079,186 @@
       "period": "19th century",
       "desc": "Peninsular War battle in which Anglo-Spanish forces under Wellington fought Napoleon's army to a costly standstill in Spain.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Talavera"
+    },
+    {
+      "name": "Second Sino-Japanese War",
+      "dates": "1937",
+      "y": 1937,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "Major war between the Republic of China and the Empire of Japan that began in 1937 and later merged into the Pacific theatre of World War II.",
+      "url": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War"
+    },
+    {
+      "name": "Armistice of 22 June 1940",
+      "dates": "1940",
+      "y": 1940,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Agreement signed at Compiègne ending the Battle of France, dividing the country into a German-occupied zone and unoccupied Vichy France.",
+      "url": "https://en.wikipedia.org/wiki/Armistice_of_22_June_1940"
+    },
+    {
+      "name": "Battle of Kunersdorf",
+      "dates": "1759",
+      "y": 1759,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Decisive Austro-Russian victory over Prussia's Frederick the Great during the Seven Years' War, among his worst defeats.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kunersdorf"
+    },
+    {
+      "name": "Battle of Tours",
+      "dates": "732",
+      "y": 732,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Frankish and Burgundian forces under Charles Martel halted an Umayyad invasion force in western France.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tours"
+    },
+    {
+      "name": "Battle of the Bismarck Sea",
+      "dates": "1943",
+      "y": 1943,
+      "region": "Oceania",
+      "period": "20th century onward",
+      "desc": "Allied aircraft destroyed a Japanese troop convoy bound for New Guinea, crippling Japan's ability to reinforce the Pacific front.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bismarck_Sea"
+    },
+    {
+      "name": "Battle of Dresden",
+      "dates": "1813",
+      "y": 1813,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Napoleon's last major victory on German soil, fought against the Sixth Coalition.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Dresden"
+    },
+    {
+      "name": "Battle of Tinian",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Oceania",
+      "period": "20th century onward",
+      "desc": "US forces captured the Mariana Islands island of Tinian from Japan; it later served as the launch site for the atomic bomb missions.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tinian"
+    },
+    {
+      "name": "Slovak–Hungarian War",
+      "dates": "1939",
+      "y": 1939,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Brief border conflict between the newly independent Slovak state and Hungary over territory in eastern Slovakia.",
+      "url": "https://en.wikipedia.org/wiki/Slovak%E2%80%93Hungarian_War"
+    },
+    {
+      "name": "Altmark Incident",
+      "dates": "1940",
+      "y": 1940,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A British destroyer boarded the German supply ship Altmark in Norwegian waters to free Allied prisoners of war.",
+      "url": "https://en.wikipedia.org/wiki/Altmark_incident"
+    },
+    {
+      "name": "First Balkan War",
+      "dates": "1912",
+      "y": 1912,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Balkan League states defeated the Ottoman Empire, stripping it of nearly all its remaining European territory.",
+      "url": "https://en.wikipedia.org/wiki/First_Balkan_War"
+    },
+    {
+      "name": "Battle of Mohács",
+      "dates": "1526",
+      "y": 1526,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Ottoman forces crushed the Kingdom of Hungary, killing its king and opening the way for Ottoman expansion into central Europe.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs"
+    },
+    {
+      "name": "Treaty of Devol",
+      "dates": "1108",
+      "y": 1108,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Agreement between Bohemond I of Antioch and Byzantine Emperor Alexios I, subordinating the Principality of Antioch to Byzantium.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Devol"
+    },
+    {
+      "name": "First Sino-Japanese War",
+      "dates": "1894",
+      "y": 1894,
+      "region": "East Asia",
+      "period": "19th century",
+      "desc": "War between Qing China and Meiji Japan over influence in Korea, ending in a decisive Japanese victory.",
+      "url": "https://en.wikipedia.org/wiki/First_Sino-Japanese_War"
+    },
+    {
+      "name": "Battle of Shiroyama",
+      "dates": "1877",
+      "y": 1877,
+      "region": "East Asia",
+      "period": "19th century",
+      "desc": "Final battle of the Satsuma Rebellion in Japan, in which imperial forces crushed Saigō Takamori's samurai rebels.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Shiroyama"
+    },
+    {
+      "name": "Pontiac's War",
+      "dates": "1763",
+      "y": 1763,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "A confederation of Native American tribes fought British forces across the Great Lakes region after the French and Indian War.",
+      "url": "https://en.wikipedia.org/wiki/Pontiac%27s_War"
+    },
+    {
+      "name": "French invasion of Russia",
+      "dates": "1812",
+      "y": 1812,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Napoleon's catastrophic campaign into Russia devastated the Grande Armée and marked a turning point in his downfall.",
+      "url": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+    },
+    {
+      "name": "Battle of Río Salado",
+      "dates": "1340",
+      "y": 1340,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Christian Castilian and Portuguese forces defeated a Marinid-Nasrid invasion, ending major Muslim offensives on the Iberian Peninsula.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_R%C3%ADo_Salado"
+    },
+    {
+      "name": "Battle of Kosovo",
+      "dates": "1389",
+      "y": 1389,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Clash between Serbian and Ottoman forces in Kosovo that became a foundational event in Serbian national memory.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kosovo"
+    },
+    {
+      "name": "Battle of Iwo Jima",
+      "dates": "1945",
+      "y": 1945,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "Brutal US Marine assault to capture the island from Japan, immortalized by the flag-raising on Mount Suribachi.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Iwo_Jima"
+    },
+    {
+      "name": "Treaty of Tordesillas",
+      "dates": "1494",
+      "y": 1494,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Agreement between Spain and Portugal dividing newly discovered lands outside Europe along a meridian in the Atlantic.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas"
     }
   ]
 }
