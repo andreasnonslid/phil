@@ -1558,6 +1558,186 @@
       "period": "20th century onward",
       "desc": "A defensive military alliance between Germany, Italy, and Japan signed in Berlin, later joined by several other Axis states.",
       "url": "https://en.wikipedia.org/wiki/Tripartite_Pact"
+    },
+    {
+      "name": "Battle of Crete",
+      "dates": "1941",
+      "y": 1941,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "German airborne invasion of Crete in May 1941, the first major airborne invasion in military history.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Crete"
+    },
+    {
+      "name": "Second Battle of El Alamein",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Africa",
+      "period": "20th century onward",
+      "desc": "Allied victory in Egypt that halted the Axis advance in North Africa and marked a turning point in the desert campaign.",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_El_Alamein"
+    },
+    {
+      "name": "Austro-Prussian War",
+      "dates": "1866",
+      "y": 1866,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Short war in which Prussia defeated Austria, ending Austrian dominance in Germany and paving the way for Prussian-led unification.",
+      "url": "https://en.wikipedia.org/wiki/Austro-Prussian_War"
+    },
+    {
+      "name": "Battle of Tannenberg",
+      "dates": "1914",
+      "y": 1914,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Decisive German victory over the Russian army in East Prussia during the opening weeks of World War I.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tannenberg"
+    },
+    {
+      "name": "Battle of Angaur",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Oceania",
+      "period": "20th century onward",
+      "desc": "U.S. Army assault on the Japanese-held island of Angaur in Palau during the Pacific War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Angaur"
+    },
+    {
+      "name": "Battle of Spotsylvania Court House",
+      "dates": "1864",
+      "y": 1864,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Bloody two-week clash between Grant's and Lee's armies in Virginia during the American Civil War's Overland Campaign.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Spotsylvania_Court_House"
+    },
+    {
+      "name": "Hispano-Moroccan War",
+      "dates": "1859",
+      "y": 1859,
+      "region": "Africa",
+      "period": "19th century",
+      "desc": "Spanish military campaign against Morocco fought around Ceuta, resulting in expanded Spanish territory in North Africa.",
+      "url": "https://en.wikipedia.org/wiki/List_of_Spanish_colonial_wars_in_Morocco"
+    },
+    {
+      "name": "Battle of Berlin",
+      "dates": "1945",
+      "y": 1945,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Final major Soviet offensive of World War II in Europe, culminating in the fall of the German capital and Hitler's suicide.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Berlin"
+    },
+    {
+      "name": "Munich agreement",
+      "dates": "1938",
+      "y": 1938,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Agreement by Britain, France, Germany, and Italy permitting Nazi annexation of the Sudetenland, widely seen as a failed act of appeasement.",
+      "url": "https://en.wikipedia.org/wiki/Munich_Agreement"
+    },
+    {
+      "name": "Battle of Jena–Auerstedt",
+      "dates": "1806",
+      "y": 1806,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Napoleon's twin victories over Prussia that shattered the Prussian army and led to French occupation of Prussia.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Jena%E2%80%93Auerstedt"
+    },
+    {
+      "name": "New Zealand Wars",
+      "dates": "1845",
+      "y": 1845,
+      "region": "Oceania",
+      "period": "19th century",
+      "desc": "Series of conflicts between the British Crown and Māori iwi over land and sovereignty in colonial New Zealand.",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Wars"
+    },
+    {
+      "name": "Battle of Blenheim",
+      "dates": "1704",
+      "y": 1704,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Decisive Allied victory over French and Bavarian forces during the War of the Spanish Succession, fought in Bavaria.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Blenheim"
+    },
+    {
+      "name": "French and Indian War",
+      "dates": "1754",
+      "y": 1754,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "North American theater of the Seven Years' War, fought between Britain and France, with Native American allies, for colonial control.",
+      "url": "https://en.wikipedia.org/wiki/French_and_Indian_War"
+    },
+    {
+      "name": "Lapland War",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Conflict in which Finland fought to expel German troops from Finnish Lapland after Finland's armistice with the Soviet Union.",
+      "url": "https://en.wikipedia.org/wiki/Lapland_War"
+    },
+    {
+      "name": "Battle of Königgrätz",
+      "dates": "1866",
+      "y": 1866,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Decisive Prussian victory over Austria in Bohemia that effectively ended the Austro-Prussian War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_K%C3%B6niggr%C3%A4tz"
+    },
+    {
+      "name": "Second Schleswig War",
+      "dates": "1864",
+      "y": 1864,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "War in which Prussia and Austria defeated Denmark, securing the duchies of Schleswig and Holstein for the German states.",
+      "url": "https://en.wikipedia.org/wiki/Second_Schleswig_War"
+    },
+    {
+      "name": "Battle of Seven Pines",
+      "dates": "1862",
+      "y": 1862,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Inconclusive but bloody Civil War battle near Richmond, Virginia, notable for wounding Confederate general Joseph Johnston.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Seven_Pines"
+    },
+    {
+      "name": "Siege of Budapest",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Prolonged Soviet siege that captured the Hungarian capital from German and Hungarian forces in the closing months of World War II.",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Budapest"
+    },
+    {
+      "name": "Second Battle of Kharkov",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "German victory that encircled and destroyed several Soviet armies attempting to retake Kharkiv in eastern Ukraine.",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Kharkov"
+    },
+    {
+      "name": "Battle of Somosierra",
+      "dates": "1808",
+      "y": 1808,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Napoleon's forces broke through a Spanish mountain pass defense on the road to Madrid during the Peninsular War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Somosierra"
     }
   ]
 }
