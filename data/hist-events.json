@@ -2952,6 +2952,168 @@
       "period": "Early modern (1500–1800)",
       "desc": "A Prussian victory over Austrian forces early in the Seven Years' War, followed by a costly Prussian siege of the Bohemian capital.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Prague"
+    },
+    {
+      "name": "Battle of Rovine",
+      "dates": "1395",
+      "y": 1395,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Wallachian prince Mircea the Elder repelled an Ottoman invasion force, delaying the Ottoman conquest of Wallachia.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Rovine"
+    },
+    {
+      "name": "Battle of Brunanburh",
+      "dates": "937",
+      "y": 937,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "King Æthelstan's army crushed a coalition of Scots, Vikings, and Strathclyde Britons, a defining moment in English unification.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Brunanburh"
+    },
+    {
+      "name": "Anglo-Dutch Treaty of 1824",
+      "dates": "1824",
+      "y": 1824,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Britain and the Netherlands divided their colonial spheres of influence in the Malay Archipelago along the Strait of Malacca.",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Dutch_Treaty_of_1824"
+    },
+    {
+      "name": "Treaty of Batum",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Ottoman Empire imposed a peace settlement on the newly independent South Caucasus republics of Armenia, Georgia, and Azerbaijan.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Batum"
+    },
+    {
+      "name": "Anglo-Zulu War",
+      "dates": "1879",
+      "y": 1879,
+      "region": "Africa",
+      "period": "19th century",
+      "desc": "Britain invaded the Zulu Kingdom in southern Africa, suffering a stunning early defeat at Isandlwana before conquering Zululand.",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Zulu_War"
+    },
+    {
+      "name": "Battle of Wadi al-Khaznadar",
+      "dates": "1299",
+      "y": 1299,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Mongol Ilkhanate forces under Ghazan Khan defeated the Mamluk Sultanate near Homs, Syria.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Wadi_al-Khaznadar"
+    },
+    {
+      "name": "Battle of the Gates of Trajan",
+      "dates": "986",
+      "y": 986,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Bulgarian forces under Tsar Samuel ambushed and destroyed a Byzantine army in the mountains of eastern Bulgaria.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Gates_of_Trajan"
+    },
+    {
+      "name": "Treaty of Craiova",
+      "dates": "1940",
+      "y": 1940,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Romania ceded Southern Dobruja to Bulgaria under pressure from Nazi Germany and the Soviet Union.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Craiova"
+    },
+    {
+      "name": "Battle of Hunayn",
+      "dates": "630",
+      "y": 630,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Muhammad's Muslim army defeated the Hawazin and Thaqif tribes near Mecca, securing control of the Arabian Peninsula's holy cities.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Hunayn"
+    },
+    {
+      "name": "Battle of Edington",
+      "dates": "878",
+      "y": 878,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "King Alfred the Great of Wessex decisively defeated the Great Heathen Army of Danish Vikings, securing Anglo-Saxon England's survival.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Edington"
+    },
+    {
+      "name": "Morean War",
+      "dates": "1684",
+      "y": 1684,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Venice and its Holy League allies fought the Ottoman Empire for control of the Peloponnese peninsula in Greece.",
+      "url": "https://en.wikipedia.org/wiki/Morean_War"
+    },
+    {
+      "name": "Battle of Karánsebes",
+      "dates": "1788",
+      "y": 1788,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Austrian army units mistakenly attacked each other in a chaotic nighttime panic during the Austro-Turkish War, inflicting heavy self-caused casualties.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kar%C3%A1nsebes"
+    },
+    {
+      "name": "Williamite War in Ireland",
+      "dates": "1689",
+      "y": 1689,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Supporters of deposed King James II fought forces loyal to William of Orange for control of Ireland and the English throne.",
+      "url": "https://en.wikipedia.org/wiki/Williamite_War_in_Ireland"
+    },
+    {
+      "name": "Iberian War",
+      "dates": "526",
+      "y": 526,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The Byzantine and Sasanian Persian empires fought for control of the Caucasian kingdom of Iberia, in modern-day Georgia.",
+      "url": "https://en.wikipedia.org/wiki/Iberian_War"
+    },
+    {
+      "name": "Byzantine–Sassanid War of 602–628",
+      "dates": "602",
+      "y": 602,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The last and most devastating war between the Byzantine and Sasanian Persian empires ended in a decisive Byzantine victory that exhausted both sides before the Arab conquests.",
+      "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628"
+    },
+    {
+      "name": "Mongol invasion of Central Asia",
+      "dates": "1216",
+      "y": 1216,
+      "region": "East Asia",
+      "period": "Medieval (500–1500)",
+      "desc": "Genghis Khan's Mongol armies destroyed the Khwarezmian Empire, conquering Transoxiana and Persia's eastern territories.",
+      "url": "https://en.wikipedia.org/wiki/Mongol_campaigns_in_Central_Asia"
+    },
+    {
+      "name": "Second Battle of Ypres",
+      "dates": "1915",
+      "y": 1915,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "German forces used chlorine gas for the first time on the Western Front in an assault on Allied lines near Ypres, Belgium.",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Ypres"
+    },
+    {
+      "name": "Second Battle of Bull Run",
+      "dates": "1862",
+      "y": 1862,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Confederate forces under Robert E. Lee and Stonewall Jackson decisively defeated the Union Army of Virginia near Manassas, Virginia.",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Bull_Run"
     }
   ]
 }
