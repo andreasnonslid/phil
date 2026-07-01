@@ -2772,6 +2772,186 @@
       "period": "Medieval (500–1500)",
       "desc": "An Ottoman army under Bayezid I crushed a large European crusading force near the Danube, ending hopes of relieving Christian rule in the Balkans.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Nicopolis"
+    },
+    {
+      "name": "War of the Polish Succession",
+      "dates": "1733",
+      "y": 1733,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A European conflict over the Polish throne, fought mainly in Italy and the Rhineland, pitting France and Spain against Austria and Russia.",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Polish_Succession"
+    },
+    {
+      "name": "Philippine–American War",
+      "dates": "1899",
+      "y": 1899,
+      "region": "South Asia",
+      "period": "19th century",
+      "desc": "An armed conflict between the First Philippine Republic and the United States following the Spanish-American War, resulting in American colonial rule of the islands.",
+      "url": "https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War"
+    },
+    {
+      "name": "Turkish Abductions",
+      "dates": "1627",
+      "y": 1627,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Barbary corsairs from North Africa raided Iceland, killing dozens and carrying several hundred captives into slavery in Algiers.",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Abductions"
+    },
+    {
+      "name": "Second Boer War",
+      "dates": "1899",
+      "y": 1899,
+      "region": "Africa",
+      "period": "19th century",
+      "desc": "A war between the British Empire and the Boer republics of the Transvaal and Orange Free State for control of southern Africa's goldfields.",
+      "url": "https://en.wikipedia.org/wiki/Second_Boer_War"
+    },
+    {
+      "name": "Union of Utrecht",
+      "dates": "1579",
+      "y": 1579,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "An alliance of northern Dutch provinces against Spanish rule that laid the constitutional foundation for the Dutch Republic.",
+      "url": "https://en.wikipedia.org/wiki/Union_of_Utrecht"
+    },
+    {
+      "name": "Berne Convention for the Protection of Literary and Artistic Works",
+      "dates": "1880",
+      "y": 1880,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "An international agreement establishing mutual recognition of copyright between signatory nations, negotiated in Berne, Switzerland.",
+      "url": "https://en.wikipedia.org/wiki/Berne_Convention"
+    },
+    {
+      "name": "Marco Polo Bridge incident",
+      "dates": "1937",
+      "y": 1937,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "A clash between Chinese and Japanese troops near Beijing that escalated into full-scale war between China and Japan.",
+      "url": "https://en.wikipedia.org/wiki/Marco_Polo_Bridge_incident"
+    },
+    {
+      "name": "Battle of Las Navas de Tolosa",
+      "dates": "1212",
+      "y": 1212,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "A coalition of Christian Iberian kingdoms decisively defeated the Almohad Caliphate, a turning point in the Reconquista.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Las_Navas_de_Tolosa"
+    },
+    {
+      "name": "Soviet–Japanese War",
+      "dates": "1945",
+      "y": 1945,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "The Soviet Union's invasion of Japanese-held Manchuria, Korea, and the Kuril Islands in the final days of World War II.",
+      "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Japanese_War"
+    },
+    {
+      "name": "First Battle of Bull Run",
+      "dates": "1861",
+      "y": 1861,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The first major land battle of the American Civil War, ending in a Confederate victory near Manassas, Virginia.",
+      "url": "https://en.wikipedia.org/wiki/First_Battle_of_Bull_Run"
+    },
+    {
+      "name": "Treaty of the Pyrenees",
+      "dates": "1659",
+      "y": 1659,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A peace treaty ending the Franco-Spanish War and establishing the modern border between France and Spain along the Pyrenees.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_the_Pyrenees"
+    },
+    {
+      "name": "Battle of the Ardennes",
+      "dates": "1914",
+      "y": 1914,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "An early clash of World War I in which French and German armies fought inconclusively in the forested Ardennes region.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Ardennes"
+    },
+    {
+      "name": "War of the Quadruple Alliance",
+      "dates": "1718",
+      "y": 1718,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Britain, France, Austria, and the Dutch Republic united to check Spanish expansion in Italy under Cardinal Alberoni's foreign policy.",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance"
+    },
+    {
+      "name": "Brusilov Offensive",
+      "dates": "1916",
+      "y": 1916,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A massive Russian offensive against Austro-Hungarian forces on the Eastern Front, one of the most successful Allied operations of World War I.",
+      "url": "https://en.wikipedia.org/wiki/Brusilov_offensive"
+    },
+    {
+      "name": "Battle of Bosworth Field",
+      "dates": "1485",
+      "y": 1485,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Henry Tudor defeated and killed Richard III, ending the Wars of the Roses and founding the Tudor dynasty.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"
+    },
+    {
+      "name": "Battle of Bannockburn",
+      "dates": "1314",
+      "y": 1314,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Robert the Bruce's Scottish forces decisively defeated the English army of Edward II, securing Scottish independence.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bannockburn"
+    },
+    {
+      "name": "Chaco War",
+      "dates": "1932",
+      "y": 1932,
+      "region": "Americas",
+      "period": "20th century onward",
+      "desc": "A brutal war between Bolivia and Paraguay over the arid Gran Chaco region, the deadliest interstate conflict in 20th-century South America.",
+      "url": "https://en.wikipedia.org/wiki/Chaco_War"
+    },
+    {
+      "name": "Battle of Rymnik",
+      "dates": "1789",
+      "y": 1789,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A decisive Russo-Austrian victory over Ottoman forces during the Russo-Turkish War, led by Alexander Suvorov.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Rymnik"
+    },
+    {
+      "name": "Greco-Italian War",
+      "dates": "1940",
+      "y": 1940,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Fascist Italy's invasion of Greece, which was repelled by Greek forces and drew Nazi Germany into the Balkan campaign.",
+      "url": "https://en.wikipedia.org/wiki/Greco-Italian_War"
+    },
+    {
+      "name": "Battle of Prague",
+      "dates": "1757",
+      "y": 1757,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A Prussian victory over Austrian forces early in the Seven Years' War, followed by a costly Prussian siege of the Bohemian capital.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Prague"
     }
   ]
 }
