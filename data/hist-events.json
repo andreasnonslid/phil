@@ -838,6 +838,186 @@
       "period": "20th century onward",
       "desc": "One of the largest and bloodiest battles of the First World War, fought by British and French forces against Germany along the Somme in 1916.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
+    },
+    {
+      "name": "Battle of Chickamauga",
+      "dates": "1863",
+      "y": 1863,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Confederate victory over Union forces in northwest Georgia, the most significant Union defeat in the war's Western Theater.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Chickamauga"
+    },
+    {
+      "name": "Battle of Inab",
+      "dates": "1149",
+      "y": 1149,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Zengid forces under Nur al-Din Zengi destroyed the army of Prince Raymond of Antioch during the Second Crusade, killing Raymond.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Inab"
+    },
+    {
+      "name": "Battle of Ourique",
+      "dates": "1139",
+      "y": 1139,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Portuguese forces under Afonso Henriques defeated an Almoravid army, a battle later mythologized as founding the Kingdom of Portugal.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Ourique"
+    },
+    {
+      "name": "Indonesian National Revolution",
+      "dates": "1945",
+      "y": 1945,
+      "region": "South Asia",
+      "period": "20th century onward",
+      "desc": "Armed and diplomatic struggle between the Republic of Indonesia and the Dutch Empire following Indonesia's 1945 declaration of independence.",
+      "url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution"
+    },
+    {
+      "name": "Battle of Fei River",
+      "dates": "383",
+      "y": 383,
+      "region": "East Asia",
+      "period": "Ancient (to 500 CE)",
+      "desc": "Heavily outnumbered Eastern Jin forces decisively defeated the Former Qin dynasty on the Fei River, ending Fu Jian's bid to unify China.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Fei_River"
+    },
+    {
+      "name": "Treaty of Brétigny",
+      "dates": "1360",
+      "y": 1360,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Treaty between Edward III of England and John II of France that ended the first phase of the Hundred Years' War.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny"
+    },
+    {
+      "name": "Battle of Tewkesbury",
+      "dates": "1471",
+      "y": 1471,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Decisive Yorkist victory over Lancastrian forces in the Wars of the Roses, killing the Lancastrian heir Edward of Westminster.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury"
+    },
+    {
+      "name": "Battle of Evesham",
+      "dates": "1265",
+      "y": 1265,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Future King Edward I defeated and killed rebel baron Simon de Montfort, ending the Second Barons' War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Evesham"
+    },
+    {
+      "name": "Battle of Austerlitz",
+      "dates": "1805",
+      "y": 1805,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Napoleon's decisive victory over the combined Russian and Austrian armies, among the most significant engagements of the Napoleonic Wars.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Austerlitz"
+    },
+    {
+      "name": "Battle of Lyndanisse",
+      "dates": "1219",
+      "y": 1219,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Danish forces defeated Estonian tribes during the Northern Crusades, allowing King Valdemar II to claim northern Estonia.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lyndanisse"
+    },
+    {
+      "name": "Battle of Aljubarrota",
+      "dates": "1385",
+      "y": 1385,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Portuguese forces under John I decisively defeated Castile, securing Portuguese independence and John's claim to the throne.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Aljubarrota"
+    },
+    {
+      "name": "Third Anglo-Dutch War",
+      "dates": "1672",
+      "y": 1672,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Naval conflict between the Dutch Republic and an England allied with France, part of the wider Franco-Dutch War.",
+      "url": "https://en.wikipedia.org/wiki/Third_Anglo-Dutch_War"
+    },
+    {
+      "name": "Treaty of Verdun",
+      "dates": "843",
+      "y": 843,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Division of the Carolingian Empire among the three surviving sons of Louis the Pious, ending the Carolingian civil war.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Verdun"
+    },
+    {
+      "name": "Ridda Wars",
+      "dates": "632",
+      "y": 632,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Campaigns launched by Caliph Abu Bakr against rebellious Arabian tribes following the death of Muhammad, consolidating the Rashidun Caliphate.",
+      "url": "https://en.wikipedia.org/wiki/Ridda_Wars"
+    },
+    {
+      "name": "1920 Haiyuan earthquake",
+      "dates": "1920",
+      "y": 1920,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "A catastrophic magnitude earthquake struck Haiyuan County in northwest China, one of the deadliest in history.",
+      "url": "https://en.wikipedia.org/wiki/1920_Haiyuan_earthquake"
+    },
+    {
+      "name": "1908 Messina earthquake",
+      "dates": "1908",
+      "y": 1908,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A devastating earthquake and tsunami struck the Strait of Messina in southern Italy, killing around 120,000 people.",
+      "url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake"
+    },
+    {
+      "name": "365 Crete earthquake",
+      "dates": "365",
+      "y": 365,
+      "region": "Europe",
+      "period": "Ancient (to 500 CE)",
+      "desc": "A massive undersea earthquake near Crete caused widespread destruction and tsunamis across the eastern Mediterranean.",
+      "url": "https://en.wikipedia.org/wiki/365_Crete_earthquake"
+    },
+    {
+      "name": "Winter War",
+      "dates": "1939",
+      "y": 1939,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Soviet Union invaded Finland, which despite being outmatched inflicted heavy losses before the Moscow Peace Treaty ended the war.",
+      "url": "https://en.wikipedia.org/wiki/Winter_War"
+    },
+    {
+      "name": "Warsaw Convention",
+      "dates": "1929",
+      "y": 1929,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "International convention regulating airline liability for international carriage of passengers, baggage, and cargo.",
+      "url": "https://en.wikipedia.org/wiki/Warsaw_Convention"
+    },
+    {
+      "name": "Polish–Russian War of 1792",
+      "dates": "1792",
+      "y": 1792,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "War between the Polish-Lithuanian Commonwealth and the Russian Empire under Catherine the Great, allied with the Targowica Confederation.",
+      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_of_1792"
     }
   ]
 }
