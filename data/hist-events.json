@@ -1198,6 +1198,186 @@
       "period": "Early modern (1500–1800)",
       "desc": "Francisco Pizarro's small Spanish force ambushed and captured the Inca ruler Atahualpa, opening the Spanish conquest of the Inca Empire.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Cajamarca"
+    },
+    {
+      "name": "Battle of Chacabuco",
+      "dates": "1817",
+      "y": 1817,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The Army of the Andes under José de San Martín defeated Spanish royalist forces near Santiago, a decisive early victory in the Chilean War of Independence.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Chacabuco"
+    },
+    {
+      "name": "Battle of the Wilderness",
+      "dates": "1864",
+      "y": 1864,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Opening battle of Ulysses S. Grant's 1864 Overland Campaign against Robert E. Lee, fought in dense Virginia woodland during the American Civil War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Wilderness"
+    },
+    {
+      "name": "Battle of Adrianople",
+      "dates": "378",
+      "y": 378,
+      "region": "Europe",
+      "period": "Ancient (to 500 CE)",
+      "desc": "Gothic rebels under Fritigern annihilated a Roman army and killed Emperor Valens near Adrianople, a catastrophic defeat for the Eastern Roman Empire.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Adrianople"
+    },
+    {
+      "name": "Battle of Barnet",
+      "dates": "1471",
+      "y": 1471,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Decisive Yorkist victory over Lancastrian forces in the Wars of the Roses that helped secure the English throne for Edward IV.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Barnet"
+    },
+    {
+      "name": "War of the League of Cognac",
+      "dates": "1526",
+      "y": 1526,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Habsburg forces under Charles V fought an Italian alliance including France, the Papacy, and Venice for control of Italy from 1526 to 1530.",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_League_of_Cognac"
+    },
+    {
+      "name": "Battle of Castle Itter",
+      "dates": "1945",
+      "y": 1945,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "American, German, and French prisoners jointly defended an Austrian castle against the Waffen-SS in one of the final actions of World War II in Europe.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Castle_Itter"
+    },
+    {
+      "name": "Battle of Maldon",
+      "dates": "991",
+      "y": 991,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Viking raiders defeated an Anglo-Saxon force led by Earl Byrhtnoth near Maldon in Essex, later commemorated in an Old English poem.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Maldon"
+    },
+    {
+      "name": "Treaty on the Creation of the Union of Soviet Socialist Republics",
+      "dates": "1922",
+      "y": 1922,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Declaration and treaty formally establishing the Union of Soviet Socialist Republics, centralising several Soviet republics under a Moscow-based federal government.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_on_the_Creation_of_the_Union_of_Soviet_Socialist_Republics"
+    },
+    {
+      "name": "Franco-Turkish War",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Also known as the Cilicia Campaign, a conflict between France and Turkish nationalist forces from 1918 to 1921 in the aftermath of World War I.",
+      "url": "https://en.wikipedia.org/wiki/Franco-Turkish_War"
+    },
+    {
+      "name": "Battle of Gumbinnen",
+      "dates": "1914",
+      "y": 1914,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A hasty German offensive on the Eastern Front was repelled by the Russian Army near Gumbinnen in East Prussia, early in World War I.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Gumbinnen"
+    },
+    {
+      "name": "Umayyad conquest of Hispania",
+      "dates": "711",
+      "y": 711,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Umayyad forces conquered the Visigothic Kingdom on the Iberian Peninsula, ending Christian rule across most of Iberia and establishing al-Andalus.",
+      "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Iberian_Peninsula"
+    },
+    {
+      "name": "Anglo-Afghan Treaty of 1919",
+      "dates": "1919",
+      "y": 1919,
+      "region": "South Asia",
+      "period": "20th century onward",
+      "desc": "Also known as the Treaty of Rawalpindi, this agreement ended the Third Anglo-Afghan War and secured Afghan control over its own foreign affairs.",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Afghan_Treaty_of_1919"
+    },
+    {
+      "name": "Battle of Klokotnitsa",
+      "dates": "1230",
+      "y": 1230,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Bulgarian forces under Ivan Asen II crushed the Empire of Thessalonica near Klokotnitsa, restoring Bulgaria as the dominant power in southeastern Europe.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Klokotnitsa"
+    },
+    {
+      "name": "Battle of Teruel",
+      "dates": "1937",
+      "y": 1937,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "One of the bloodiest engagements of the Spanish Civil War, fought in brutal winter conditions as the city changed hands before falling to Nationalist forces.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Teruel"
+    },
+    {
+      "name": "Battle of the Ice",
+      "dates": "1242",
+      "y": 1242,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Alexander Nevsky's Novgorodian forces defeated the Livonian Order on the frozen Lake Peipus, halting German and Danish crusading expansion into Rus' lands.",
+      "url": "https://en.wikipedia.org/wiki/Battle_on_the_Ice"
+    },
+    {
+      "name": "Battle of Belleau Wood",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "American Marine and Army units, alongside French and British forces, halted the German spring offensive near the Marne River in World War I.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Belleau_Wood"
+    },
+    {
+      "name": "Battle of Cape Esperance",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Oceania",
+      "period": "20th century onward",
+      "desc": "A U.S. Navy cruiser force ambushed and defeated a Japanese squadron off Guadalcanal in the Solomon Islands, part of the wider naval campaign there.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Cape_Esperance"
+    },
+    {
+      "name": "Battle of Alarcos",
+      "dates": "1195",
+      "y": 1195,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Almohad forces under Abu Yusuf Ya'qub al-Mansur crushed the Castilian army of Alfonso VIII, forcing a Christian retreat to Toledo.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Alarcos"
+    },
+    {
+      "name": "Battle of Stallupönen",
+      "dates": "1914",
+      "y": 1914,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The opening battle of World War I's Eastern Front, in which German forces under Hermann von François defeated a larger but disorganized Russian force.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Stallup%C3%B6nen"
+    },
+    {
+      "name": "Polish–Lithuanian War",
+      "dates": "1920",
+      "y": 1920,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "An undeclared conflict between newly independent Lithuania and Poland fought mainly around Vilnius and Suwałki in the aftermath of World War I.",
+      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_War"
     }
   ]
 }
