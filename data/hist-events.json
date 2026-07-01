@@ -523,6 +523,150 @@
       "period": "Early modern (1500–1800)",
       "desc": "Takeda Shingen and Uesugi Kenshin fought a series of inconclusive battles for control of the Kawanakajima plain in Sengoku-era Japan.",
       "url": "https://en.wikipedia.org/wiki/Battles_of_Kawanakajima"
+    },
+    {
+      "name": "Battle of Boyacá",
+      "dates": "1819",
+      "y": 1819,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The Battle of Boyacá (1819), also known as the Battle of Boyacá Bridge was a decisive victory by a combined army of Venezuelan and New Granadan troops along with a British Legion led by General Simon Bolivar over the III Division of the Spanish Expeditionary Army of Costa Firme commanded by Spanish Colonel José Barreiro.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Boyac%C3%A1"
+    },
+    {
+      "name": "First Anglo-Dutch War",
+      "dates": "1652",
+      "y": 1652,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "The First Anglo-Dutch War, or First Dutch War, was a naval conflict between the Commonwealth of England and the Dutch Republic, largely caused by disputes over trade.",
+      "url": "https://en.wikipedia.org/wiki/First_Anglo-Dutch_War"
+    },
+    {
+      "name": "Second Ottoman–Venetian War",
+      "dates": "1499",
+      "y": 1499,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The Second Ottoman–Venetian War was fought from 1499 to 1503 between the Ottoman Empire and the Republic of Venice for control of contested lands in the Aegean, Ionian, and Adriatic seas.",
+      "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_%281499%E2%80%931503%29"
+    },
+    {
+      "name": "First Ottoman–Venetian War",
+      "dates": "1463",
+      "y": 1463,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The First Ottoman–Venetian War was fought between the Republic of Venice with its allies and the Ottoman Empire from 1463 to 1479, resulting in the loss of several Venetian holdings in Albania and Greece.",
+      "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_%281463%E2%80%931479%29"
+    },
+    {
+      "name": "Battle of Edessa",
+      "dates": "260",
+      "y": 260,
+      "region": "Middle East",
+      "period": "Ancient (to 500 CE)",
+      "desc": "The Battle of Edessa took place between the armies of the Roman Empire under Valerian and the Sasanian Empire under Shapur I in 260, resulting in the capture of a Roman emperor for the first time.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Edessa"
+    },
+    {
+      "name": "War of the Oranges",
+      "dates": "1801",
+      "y": 1801,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "The War of the Oranges was a brief 1801 conflict in which Spanish forces, instigated and supported by France, invaded Portugal, resulting in the Treaty of Badajoz.",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Oranges"
+    },
+    {
+      "name": "Webster–Ashburton Treaty",
+      "dates": "1842",
+      "y": 1842,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The Webster–Ashburton Treaty resolved several border issues between the United States and the British North American colonies, signed in Washington, DC in 1842.",
+      "url": "https://en.wikipedia.org/wiki/Webster%E2%80%93Ashburton_Treaty"
+    },
+    {
+      "name": "Musket Wars",
+      "dates": "1807",
+      "y": 1807,
+      "region": "Oceania",
+      "period": "19th century",
+      "desc": "The Musket Wars were a series of as many as 3,000 battles and raids fought throughout New Zealand among Māori between 1806 and 1845, after Māori first obtained muskets.",
+      "url": "https://en.wikipedia.org/wiki/Musket_Wars"
+    },
+    {
+      "name": "Battle of Didgori",
+      "dates": "1121",
+      "y": 1121,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The Battle of Didgori was fought between the armies of the Kingdom of Georgia and the Seljuk Empire near Tbilisi in 1121, resulting in a devastating defeat for the Seljuk-led coalition.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Didgori"
+    },
+    {
+      "name": "Battle of Toba-Fushimi",
+      "dates": "1868",
+      "y": 1868,
+      "region": "East Asia",
+      "period": "19th century",
+      "desc": "The Battle of Toba–Fushimi occurred between pro-Imperial and Tokugawa shogunate forces during the Boshin War in Japan, beginning on 27 January 1868 near Kyoto.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Toba%E2%80%93Fushimi"
+    },
+    {
+      "name": "Battle of Orsha",
+      "dates": "1514",
+      "y": 1514,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Battle of Orsha was fought on 8 September 1514 between the allied forces of the Grand Duchy of Lithuania and the Crown of the Kingdom of Poland and the army of the Grand Duchy of Moscow.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Orsha"
+    },
+    {
+      "name": "Third Anglo-Burmese War",
+      "dates": "1885",
+      "y": 1885,
+      "region": "South Asia",
+      "period": "19th century",
+      "desc": "The Third Anglo-Burmese War was the final of three 19th-century wars between the Burmese and the British, ending in the loss of Burmese sovereignty under the Konbaung dynasty.",
+      "url": "https://en.wikipedia.org/wiki/Third_Anglo-Burmese_War"
+    },
+    {
+      "name": "Continuation War",
+      "dates": "1941",
+      "y": 1941,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Continuation War, also known as the Second Soviet–Finnish War, was fought by Finland and Nazi Germany against the Soviet Union from 1941 to 1944, ending with the Moscow Armistice.",
+      "url": "https://en.wikipedia.org/wiki/Continuation_War"
+    },
+    {
+      "name": "Sixth Russo-Turkish War",
+      "dates": "1701",
+      "y": 1701,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Russo-Turkish War of 1768–1774 was a major armed conflict that saw Russian armies victorious against the Ottoman Empire, bringing Crimea into the Russian sphere of influence.",
+      "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281768%E2%80%931774%29"
+    },
+    {
+      "name": "Seventh Russo-Turkish War",
+      "dates": "1787",
+      "y": 1787,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Russo-Turkish War of 1787–1792 involved an unsuccessful attempt by the Ottoman Empire to regain lands lost to Russia in the previous Russo-Turkish War, fought alongside several concurrent European wars.",
+      "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281787%E2%80%931792%29"
+    },
+    {
+      "name": "Battle of Roncevaux Pass",
+      "dates": "778",
+      "y": 778,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The Battle of Roncevaux Pass in 778 saw a large force of Basques ambush part of Charlemagne's army in the Pyrenees, on the present border between France and Spain.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Roncevaux_Pass"
     }
   ]
 }
