@@ -667,6 +667,177 @@
       "period": "Medieval (500–1500)",
       "desc": "The Battle of Roncevaux Pass in 778 saw a large force of Basques ambush part of Charlemagne's army in the Pyrenees, on the present border between France and Spain.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Roncevaux_Pass"
+    },
+    {
+      "name": "Battle of Loos",
+      "dates": "1915",
+      "y": 1915,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The biggest British attack of 1915, fought on the Western Front in France and marking the war's first British use of poison gas.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Loos"
+    },
+    {
+      "name": "Hundred Years' War",
+      "dates": "1337",
+      "y": 1337,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "A prolonged conflict between the kingdoms of England and France over rival claims to the French throne, fought intermittently from 1337 to 1453.",
+      "url": "https://en.wikipedia.org/wiki/Hundred_Years%27_War"
+    },
+    {
+      "name": "Spanish–American War",
+      "dates": "1898",
+      "y": 1898,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "A brief 1898 war between Spain and the United States, sparked by the sinking of the USS Maine, that ended Spanish colonial rule in Cuba, Puerto Rico, Guam, and the Philippines.",
+      "url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War"
+    },
+    {
+      "name": "Third Battle of Panipat",
+      "dates": "1761",
+      "y": 1761,
+      "region": "South Asia",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Maratha Empire suffered a devastating defeat to the invading Durrani Empire near Panipat in 1761, reshaping the balance of power in northern India.",
+      "url": "https://en.wikipedia.org/wiki/Third_Battle_of_Panipat"
+    },
+    {
+      "name": "Third Anglo-Afghan War",
+      "dates": "1919",
+      "y": 1919,
+      "region": "South Asia",
+      "period": "20th century onward",
+      "desc": "A short 1919 war in which Afghanistan's new emir declared jihad against British India, ultimately securing full Afghan independence in foreign affairs.",
+      "url": "https://en.wikipedia.org/wiki/Third_Anglo-Afghan_War"
+    },
+    {
+      "name": "Battle of Chrysopolis",
+      "dates": "324",
+      "y": 324,
+      "region": "Europe",
+      "period": "Ancient (to 500 CE)",
+      "desc": "Constantine I's decisive victory over co-emperor Licinius near Chrysopolis in 324, leaving Constantine sole ruler of the Roman Empire.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Chrysopolis"
+    },
+    {
+      "name": "Battle of Callinicum",
+      "dates": "531",
+      "y": 531,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "A hard-fought 531 clash in which Belisarius's Byzantine army was checked by a Sasanian cavalry force under Azarethes.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Callinicum"
+    },
+    {
+      "name": "First Vienna Award",
+      "dates": "1938",
+      "y": 1938,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A 1938 arbitration following the Munich Agreement that forced Czechoslovakia to cede southern Slovakia and Carpathian Ruthenia to Hungary.",
+      "url": "https://en.wikipedia.org/wiki/First_Vienna_Award"
+    },
+    {
+      "name": "Battle of Kolín",
+      "dates": "1757",
+      "y": 1757,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Austrian forces under Count von Daun defeated Frederick the Great's Prussian army near Kolín in 1757, the first major battle Frederick lost.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kol%C3%ADn"
+    },
+    {
+      "name": "Wars of the Roses",
+      "dates": "1500",
+      "y": 1500,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "A series of dynastic civil wars fought between the houses of Lancaster and York for control of the English throne from 1455 to 1487.",
+      "url": "https://en.wikipedia.org/wiki/Wars_of_the_Roses"
+    },
+    {
+      "name": "Battle of Neretva",
+      "dates": "1943",
+      "y": 1943,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A major 1943 Axis offensive against Yugoslav Partisan forces along the Neretva river, one of the largest confrontations of the Yugoslav theatre of World War II.",
+      "url": "https://en.wikipedia.org/wiki/Operation_Weiss"
+    },
+    {
+      "name": "Battle of the Ebro",
+      "dates": "1938",
+      "y": 1938,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The longest and largest battle of the Spanish Civil War, fought along the Ebro River in Catalonia between July and November 1938.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Ebro"
+    },
+    {
+      "name": "Battle of Akroinon",
+      "dates": "740",
+      "y": 740,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Byzantine forces halted a major Umayyad invasion of Anatolia near Akroinon in 740, checking Arab expansion into Byzantine territory.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Akroinon"
+    },
+    {
+      "name": "Indian Mutiny of 1857",
+      "dates": "1857",
+      "y": 1857,
+      "region": "South Asia",
+      "period": "19th century",
+      "desc": "A widespread uprising of sepoys and civilians against East India Company rule, beginning at Meerut in 1857 and reshaping British governance of India.",
+      "url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857"
+    },
+    {
+      "name": "Battle of Flodden",
+      "dates": "1513",
+      "y": 1513,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "An English army defeated an invading Scottish force under James IV near Flodden in 1513, part of the wider War of the League of Cambrai.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Flodden"
+    },
+    {
+      "name": "Battle of Verdun",
+      "dates": "1916",
+      "y": 1916,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The longest battle of the First World War, fought from February to December 1916 as German forces attacked French defences north of Verdun.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Verdun"
+    },
+    {
+      "name": "Battle of Kursk",
+      "dates": "1943",
+      "y": 1943,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The largest tank battle in history, fought in the summer of 1943 as Germany's last major offensive on the Eastern Front ended in Soviet victory.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kursk"
+    },
+    {
+      "name": "La Noche Triste",
+      "dates": "1520",
+      "y": 1520,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "Hernán Cortés and his Spanish and native allied forces were driven out of the Aztec capital Tenochtitlan in a bloody 1520 retreat.",
+      "url": "https://en.wikipedia.org/wiki/La_Noche_Triste"
+    },
+    {
+      "name": "Battle of the Somme",
+      "dates": "1916",
+      "y": 1916,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "One of the largest and bloodiest battles of the First World War, fought by British and French forces against Germany along the Somme in 1916.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
     }
   ]
 }
