@@ -2259,6 +2259,159 @@
       "period": "Medieval (500–1500)",
       "desc": "Agreement between Spain and Portugal dividing newly discovered lands outside Europe along a meridian in the Atlantic.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas"
+    },
+    {
+      "name": "Egyptian–Wahhabi War",
+      "dates": "1811",
+      "y": 1811,
+      "region": "Middle East",
+      "period": "19th century",
+      "desc": "Ottoman-Egyptian campaign that crushed the First Saudi State and ended Wahhabi control of the Hejaz.",
+      "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Wahhabi_war"
+    },
+    {
+      "name": "Paris Convention for the Protection of Industrial Property",
+      "dates": "1883",
+      "y": 1883,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "International treaty signed in Paris establishing the first global framework for protecting patents, trademarks, and industrial designs.",
+      "url": "https://en.wikipedia.org/wiki/Paris_Convention_for_the_Protection_of_Industrial_Property"
+    },
+    {
+      "name": "Second Balkan War",
+      "dates": "1913",
+      "y": 1913,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Bulgaria attacked its former allies over Macedonia and was defeated, losing most of its First Balkan War gains.",
+      "url": "https://en.wikipedia.org/wiki/Second_Balkan_War"
+    },
+    {
+      "name": "Battle of Borodino",
+      "dates": "1812",
+      "y": 1812,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Bloodiest single day of the Napoleonic Wars, fought near Moscow between Napoleon's Grande Armée and the Russian army.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Borodino"
+    },
+    {
+      "name": "Ten Years' War",
+      "dates": "1868",
+      "y": 1868,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "First major Cuban uprising against Spanish colonial rule, a precursor to the later Cuban War of Independence.",
+      "url": "https://en.wikipedia.org/wiki/Ten_Years%27_War"
+    },
+    {
+      "name": "Dakota War of 1862",
+      "dates": "1862",
+      "y": 1862,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Armed conflict between the Dakota Sioux and the United States in Minnesota, ending in the mass execution of 38 Dakota men.",
+      "url": "https://en.wikipedia.org/wiki/Dakota_War_of_1862"
+    },
+    {
+      "name": "Georgian–Armenian War",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Brief border war between the newly independent republics of Georgia and Armenia over disputed territories.",
+      "url": "https://en.wikipedia.org/wiki/Armeno-Georgian_War"
+    },
+    {
+      "name": "Polish–Soviet War",
+      "dates": "1920",
+      "y": 1920,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Conflict over the borders of the newly restored Polish state, ending with Poland halting the Soviet advance at Warsaw.",
+      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War"
+    },
+    {
+      "name": "Dutch Revolt",
+      "dates": "1568",
+      "y": 1568,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Revolt of the Low Countries against Spanish Habsburg rule, leading to the independence of the Dutch Republic.",
+      "url": "https://en.wikipedia.org/wiki/Eighty_Years%27_War"
+    },
+    {
+      "name": "War of the First Coalition",
+      "dates": "1792",
+      "y": 1792,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "First coalition of European monarchies to fight revolutionary France, ending in French territorial gains.",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_First_Coalition"
+    },
+    {
+      "name": "Battle of Agincourt",
+      "dates": "1415",
+      "y": 1415,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Decisive English victory over a much larger French force during the Hundred Years' War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Agincourt"
+    },
+    {
+      "name": "Bretton Woods system",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Americas",
+      "period": "20th century onward",
+      "desc": "Post-war international monetary order agreed at a conference in New Hampshire, pegging currencies to the US dollar and gold.",
+      "url": "https://en.wikipedia.org/wiki/Bretton_Woods_system"
+    },
+    {
+      "name": "Battle of Halidon Hill",
+      "dates": "1333",
+      "y": 1333,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "English victory over Scottish forces during the Second War of Scottish Independence.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Halidon_Hill"
+    },
+    {
+      "name": "Battles of Khalkhin Gol",
+      "dates": "1939",
+      "y": 1939,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "Soviet-Mongolian victory over Japanese forces on the Mongolia-Manchuria border, ending Japanese expansion northward.",
+      "url": "https://en.wikipedia.org/wiki/Battles_of_Khalkhin_Gol"
+    },
+    {
+      "name": "First Battle of the Marne",
+      "dates": "1914",
+      "y": 1914,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Allied counteroffensive that halted the German advance into France early in the First World War.",
+      "url": "https://en.wikipedia.org/wiki/First_Battle_of_the_Marne"
+    },
+    {
+      "name": "First Opium War",
+      "dates": "1839",
+      "y": 1839,
+      "region": "East Asia",
+      "period": "19th century",
+      "desc": "Conflict between Britain and Qing China over the opium trade, ending with China ceding Hong Kong to Britain.",
+      "url": "https://en.wikipedia.org/wiki/First_Opium_War"
+    },
+    {
+      "name": "Battle of Okinawa",
+      "dates": "1945",
+      "y": 1945,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "Largest amphibious assault of the Pacific War, resulting in massive casualties as Allied forces took the island of Okinawa.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Okinawa"
     }
   ]
 }
