@@ -1926,6 +1926,159 @@
       "period": "Early modern (1500–1800)",
       "desc": "Conflict between the Ottoman and Safavid empires over control of Iraq and the Caucasus.",
       "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_Wars"
+    },
+    {
+      "name": "Battle of Monmouth",
+      "dates": "1778",
+      "y": 1778,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "Revolutionary War battle in New Jersey where Washington's forces fought the British to a standstill, the war's last major northern engagement.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Monmouth"
+    },
+    {
+      "name": "Battle of Mu'tah",
+      "dates": "629",
+      "y": 629,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Clash between an early Muslim expedition and Byzantine-allied forces near Jordan, a precursor to the Muslim conquest of the Levant.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mu%27tah"
+    },
+    {
+      "name": "Battle of Guadalajara",
+      "dates": "1937",
+      "y": 1937,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Spanish Civil War battle in which Republican forces routed an Italian expeditionary corps sent to aid the Nationalists.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Guadalajara"
+    },
+    {
+      "name": "Normandy landings",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Allied amphibious invasion of northern France that opened the Western Front and hastened Nazi Germany's defeat.",
+      "url": "https://en.wikipedia.org/wiki/Normandy_landings"
+    },
+    {
+      "name": "Swabian War",
+      "dates": "1499",
+      "y": 1499,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Conflict between the Swiss Confederacy and the Habsburgs that secured de facto Swiss independence from the Holy Roman Empire.",
+      "url": "https://en.wikipedia.org/wiki/Swabian_War"
+    },
+    {
+      "name": "Battle of the Yser",
+      "dates": "1914",
+      "y": 1914,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "World War I battle in which Belgian forces flooded the Yser plain to halt the German advance along the coast.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Yser"
+    },
+    {
+      "name": "Battle of the Bzura",
+      "dates": "1939",
+      "y": 1939,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Largest battle of the German invasion of Poland, fought along the Bzura River as Polish forces counterattacked the advancing Wehrmacht.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bzura"
+    },
+    {
+      "name": "Scanian War",
+      "dates": "1700",
+      "y": 1700,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "War between Sweden and a coalition led by Denmark-Norway and Brandenburg over control of the Scanian provinces.",
+      "url": "https://en.wikipedia.org/wiki/Scanian_War"
+    },
+    {
+      "name": "Battle of Lesnaya",
+      "dates": "1708",
+      "y": 1708,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Great Northern War battle in which Russian forces destroyed a Swedish relief column, weakening Charles XII ahead of Poltava.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lesnaya"
+    },
+    {
+      "name": "Sack of Amorium",
+      "dates": "838",
+      "y": 838,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Abbasid Caliphate's destruction of the Byzantine city of Amorium, one of the heaviest defeats the empire suffered.",
+      "url": "https://en.wikipedia.org/wiki/Sack_of_Amorium"
+    },
+    {
+      "name": "Act of Independence of Lithuania",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Declaration proclaiming the restoration of an independent Lithuanian state after more than a century under Russian rule.",
+      "url": "https://en.wikipedia.org/wiki/Act_of_Independence_of_Lithuania"
+    },
+    {
+      "name": "Operation Greif",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "German commando operation using English-speaking soldiers in captured American uniforms during the Battle of the Bulge.",
+      "url": "https://en.wikipedia.org/wiki/Operation_Greif"
+    },
+    {
+      "name": "Balkan Pact",
+      "dates": "1934",
+      "y": 1934,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Alliance among Greece, Romania, Turkey, and Yugoslavia intended to preserve the territorial status quo in the Balkans.",
+      "url": "https://en.wikipedia.org/wiki/Balkan_Pact"
+    },
+    {
+      "name": "Boer Wars",
+      "dates": "1899",
+      "y": 1899,
+      "region": "Africa",
+      "period": "19th century",
+      "desc": "Conflicts between the British Empire and the Boer republics over control of South Africa and its goldfields.",
+      "url": "https://en.wikipedia.org/wiki/Military_history_of_South_Africa"
+    },
+    {
+      "name": "Baltic Entente",
+      "dates": "1934",
+      "y": 1934,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Alliance among Estonia, Latvia, and Lithuania for mutual political cooperation between the two world wars.",
+      "url": "https://en.wikipedia.org/wiki/Baltic_Entente"
+    },
+    {
+      "name": "Schmalkaldic War",
+      "dates": "1546",
+      "y": 1546,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "War between Holy Roman Emperor Charles V and the Protestant Schmalkaldic League over religious and political control of Germany.",
+      "url": "https://en.wikipedia.org/wiki/Schmalkaldic_War"
+    },
+    {
+      "name": "Battle of Talavera",
+      "dates": "1809",
+      "y": 1809,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Peninsular War battle in which Anglo-Spanish forces under Wellington fought Napoleon's army to a costly standstill in Spain.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Talavera"
     }
   ]
 }
