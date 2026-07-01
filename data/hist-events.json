@@ -1378,6 +1378,186 @@
       "period": "20th century onward",
       "desc": "An undeclared conflict between newly independent Lithuania and Poland fought mainly around Vilnius and Suwałki in the aftermath of World War I.",
       "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_War"
+    },
+    {
+      "name": "Battle of Harran",
+      "dates": "1104",
+      "y": 1104,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "A major Seljuk Turk victory over the Crusader states of Antioch and Edessa near the Mesopotamian city of Harran in 1104.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Harran"
+    },
+    {
+      "name": "Ecuadorian–Peruvian War",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Americas",
+      "period": "20th century onward",
+      "desc": "A 1941 border war between Ecuador and Peru, the first of three 20th-century conflicts between the two nations.",
+      "url": "https://en.wikipedia.org/wiki/Ecuadorian%E2%80%93Peruvian_War"
+    },
+    {
+      "name": "Portuguese Restoration War",
+      "dates": "1640",
+      "y": 1640,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Portugal's uprising against Habsburg Spain beginning in 1640, ending the Iberian Union and restoring Portuguese independence by 1668.",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Restoration_War"
+    },
+    {
+      "name": "Battle of Bapheus",
+      "dates": "1302",
+      "y": 1302,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "A decisive victory for Osman I's Ottoman forces over the Byzantines in Bithynia, marking the rise of the Ottoman state.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bapheus"
+    },
+    {
+      "name": "Battle of Leipzig",
+      "dates": "1813",
+      "y": 1813,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "The largest battle of the Napoleonic Wars, in which allied Austrian, Prussian, Russian and Swedish forces decisively defeated Napoleon at Leipzig.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Leipzig"
+    },
+    {
+      "name": "Potsdam Conference",
+      "dates": "1945",
+      "y": 1945,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A meeting of Allied leaders Truman, Churchill (later Attlee), and Stalin at Potsdam to plan the postwar order after Germany's defeat.",
+      "url": "https://en.wikipedia.org/wiki/Potsdam_Conference"
+    },
+    {
+      "name": "Battle of Moscow",
+      "dates": "1941",
+      "y": 1941,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A Soviet defensive campaign that halted the German advance on Moscow during the winter of 1941–42.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Moscow"
+    },
+    {
+      "name": "Battle of France",
+      "dates": "1940",
+      "y": 1940,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Germany's rapid invasion and defeat of France and the Low Countries in 1940, forcing the Allied evacuation at Dunkirk.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_France"
+    },
+    {
+      "name": "Great Northern War",
+      "dates": "1700",
+      "y": 1700,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A coalition led by Russia broke Swedish dominance in Northern, Central and Eastern Europe between 1700 and 1721.",
+      "url": "https://en.wikipedia.org/wiki/Great_Northern_War"
+    },
+    {
+      "name": "Revolt of the Comuneros",
+      "dates": "1520",
+      "y": 1520,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A Castilian uprising against the rule of Charles I, at its peak controlling the cities of Valladolid, Tordesillas, and Toledo.",
+      "url": "https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros"
+    },
+    {
+      "name": "War of the Pacific",
+      "dates": "1879",
+      "y": 1879,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Chile defeated a Bolivian-Peruvian alliance over Atacama Desert resources, gaining territory from both nations.",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Pacific"
+    },
+    {
+      "name": "Operation Michael",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The opening German offensive of the 1918 spring campaign, launched from the Hindenburg Line to break the Allied lines.",
+      "url": "https://en.wikipedia.org/wiki/Operation_Michael"
+    },
+    {
+      "name": "Anti-Comintern Pact",
+      "dates": "1936",
+      "y": 1936,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "An anti-communist alliance between Nazi Germany and Imperial Japan, signed in Berlin and later joined by Italy and other states.",
+      "url": "https://en.wikipedia.org/wiki/Anti-Comintern_Pact"
+    },
+    {
+      "name": "Nine Years' War",
+      "dates": "1688",
+      "y": 1688,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A European great-power war from 1688 to 1697 pitting France against the Grand Alliance.",
+      "url": "https://en.wikipedia.org/wiki/Nine_Years%27_War"
+    },
+    {
+      "name": "Battle of Worringen",
+      "dates": "1288",
+      "y": 1288,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The decisive battle of the War of the Limburg Succession, fought near Cologne between the Archbishop of Cologne and his rivals.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Worringen"
+    },
+    {
+      "name": "Battle of Poltava",
+      "dates": "1709",
+      "y": 1709,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Tsar Peter I's decisive defeat of Charles XII's Swedish army, ending Sweden's status as a European great power.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Poltava"
+    },
+    {
+      "name": "Treaty of friendship and alliance between the Government of Mongolia and Tibet",
+      "dates": "1913",
+      "y": 1913,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "A 1913 agreement signed at Urga between the governments of Mongolia and Tibet.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_friendship_and_alliance_between_the_Government_of_Mongolia_and_Tibet"
+    },
+    {
+      "name": "Battle of Raseiniai",
+      "dates": "1941",
+      "y": 1941,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A major tank battle in Lithuania during the opening days of Operation Barbarossa, between German and Soviet armored forces.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Raseiniai"
+    },
+    {
+      "name": "Locarno Treaties",
+      "dates": "1925",
+      "y": 1925,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A set of post-WWI agreements among Germany, France, Britain, Belgium, Italy, Poland and Czechoslovakia guaranteeing western European borders.",
+      "url": "https://en.wikipedia.org/wiki/Locarno_Treaties"
+    },
+    {
+      "name": "Tripartite Pact",
+      "dates": "1940",
+      "y": 1940,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A defensive military alliance between Germany, Italy, and Japan signed in Berlin, later joined by several other Axis states.",
+      "url": "https://en.wikipedia.org/wiki/Tripartite_Pact"
     }
   ]
 }
