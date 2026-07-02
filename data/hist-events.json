@@ -3978,6 +3978,186 @@
       "period": "19th century",
       "desc": "Muhammad Ahmad's Mahdist Sudanese forces overthrew Ottoman-Egyptian rule and later fought the British, establishing an independent Mahdist state in Sudan.",
       "url": "https://en.wikipedia.org/wiki/Mahdist_War"
+    },
+    {
+      "name": "Battle of Almansa",
+      "dates": "1707",
+      "y": 1707,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Decisive Bourbon victory over Habsburg forces during the War of the Spanish Succession, securing Philip V's hold on Spain.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Almansa"
+    },
+    {
+      "name": "Battle of Solferino",
+      "dates": "1859",
+      "y": 1859,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Franco-Piedmontese victory over Austria that was the climactic battle of the Second Italian War of Independence.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Solferino"
+    },
+    {
+      "name": "Siege of Acre",
+      "dates": "1291",
+      "y": 1291,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Mamluk capture of the last Crusader stronghold in the Holy Land, ending nearly two centuries of Crusader presence in the Levant.",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Acre"
+    },
+    {
+      "name": "Battle of Marston Moor",
+      "dates": "1644",
+      "y": 1644,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Parliamentarian and Scottish Covenanter victory over Royalist forces, the largest battle of the Wars of the Three Kingdoms.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Marston_Moor"
+    },
+    {
+      "name": "Nakba",
+      "dates": "1948",
+      "y": 1948,
+      "region": "Middle East",
+      "period": "20th century onward",
+      "desc": "Mass displacement and dispossession of Palestinian Arabs accompanying the establishment of Israel in 1948.",
+      "url": "https://en.wikipedia.org/wiki/Nakba"
+    },
+    {
+      "name": "Battle of Morgarten",
+      "dates": "1315",
+      "y": 1315,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Swiss Confederate ambush that destroyed an invading Austrian army, a founding victory of the Old Swiss Confederacy.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Morgarten"
+    },
+    {
+      "name": "Battle of Gazala",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Africa",
+      "period": "20th century onward",
+      "desc": "Axis victory over British Commonwealth forces in the Western Desert Campaign that led to the fall of Tobruk.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Gazala"
+    },
+    {
+      "name": "Operation Nordwind",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Last major German offensive on the Western Front, launched to relieve pressure from the Battle of the Bulge.",
+      "url": "https://en.wikipedia.org/wiki/Operation_Northwind_%281944%29"
+    },
+    {
+      "name": "Battle of Aachen",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Bitter urban battle in which American forces captured the first major German city of World War II.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Aachen"
+    },
+    {
+      "name": "Battle of Białystok–Minsk",
+      "dates": "1941",
+      "y": 1941,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "German encirclement that destroyed two Soviet armies in the opening days of Operation Barbarossa.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bia%C5%82ystok%E2%80%93Minsk"
+    },
+    {
+      "name": "Battle of Uman",
+      "dates": "1941",
+      "y": 1941,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "German offensive that encircled and annihilated two Soviet armies near Uman, Ukraine, in 1941.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Uman"
+    },
+    {
+      "name": "Machtergreifung",
+      "dates": "1933",
+      "y": 1933,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Adolf Hitler's rise to the German chancellorship and the Nazi Party's subsequent consolidation of dictatorial power.",
+      "url": "https://en.wikipedia.org/wiki/Adolf_Hitler%27s_rise_to_power"
+    },
+    {
+      "name": "Battle of Varna",
+      "dates": "1444",
+      "y": 1444,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Ottoman victory over a Crusader army led by Władysław III of Poland and Hungary, ending the Crusade of Varna.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Varna"
+    },
+    {
+      "name": "First Boer War",
+      "dates": "1880",
+      "y": 1880,
+      "region": "Africa",
+      "period": "19th century",
+      "desc": "Boer victory over British forces in the Transvaal that restored South African Republic independence.",
+      "url": "https://en.wikipedia.org/wiki/First_Boer_War"
+    },
+    {
+      "name": "War of the Austrian Succession",
+      "dates": "1740",
+      "y": 1740,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Multi-power European conflict sparked by Maria Theresa's succession to the Habsburg throne.",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession"
+    },
+    {
+      "name": "Battle of Marignano",
+      "dates": "1515",
+      "y": 1515,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "French and Venetian victory over the Old Swiss Confederacy that ended the War of the League of Cambrai.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Marignano"
+    },
+    {
+      "name": "Battle of Gettysburg",
+      "dates": "1863",
+      "y": 1863,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "Union victory over Confederate forces widely regarded as the turning point of the American Civil War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg"
+    },
+    {
+      "name": "Battle of Eylau",
+      "dates": "1807",
+      "y": 1807,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Bloody, inconclusive clash between Napoleon's Grande Armée and Russian forces in East Prussia.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Eylau"
+    },
+    {
+      "name": "Seven Years' War",
+      "dates": "1756",
+      "y": 1756,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Global conflict pitting Britain and Prussia against France, Austria, and their allies across Europe, the Americas, and India.",
+      "url": "https://en.wikipedia.org/wiki/Seven_Years%27_War"
+    },
+    {
+      "name": "Battle of the Pyramids",
+      "dates": "1798",
+      "y": 1798,
+      "region": "Africa",
+      "period": "Early modern (1500–1800)",
+      "desc": "Napoleon's victory over Ottoman Egyptian forces near Cairo during the French invasion of Egypt.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Pyramids"
     }
   ]
 }
