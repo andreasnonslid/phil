@@ -10569,159 +10569,465 @@
     },
     {
       "name": "Khalil Sultan",
-      "region": "Central Asia",
+      "dates": "1384–1411",
+      "y": 1384,
       "roles": [
         "Ruler"
-      ]
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Khalil Sultan was the Timurid ruler of Transoxiana from 18 February 1405 to 1409. He was a son of Miran Shah and a grandson of Timur.",
+      "tldr": "Khalil Sultan was the Timurid ruler of Transoxiana from 18 February 1405 to 1409. He was a son of Miran Shah and a grandson of Timur.",
+      "url": "https://en.wikipedia.org/wiki/Khalil_Sultan",
+      "_country_qids": [
+        "Q484195"
+      ],
+      "_occupation_qids": [
+        "Q116"
+      ],
+      "region": "Central Asia"
     },
     {
       "name": "Ivane Javakhishvili",
-      "region": "Europe",
+      "dates": "1876–1940",
+      "y": 1876,
       "roles": [
         "Scientist",
         "Reformer"
-      ]
+      ],
+      "era": "19th century",
+      "desc": "Ivane Alexandres dze Javakhishvili was a Georgian historian and linguist whose works heavily influenced the modern scholarship of the history and culture of Georgia. He was one of the founding fath…",
+      "tldr": "Ivane Alexandres dze Javakhishvili was a Georgian historian and linguist whose works heavily influenced the modern scholarship of the history and culture of Georgia. He was one of the founding fathers of the Tbilisi State University (1918) and its rector from 1919 to 1926.",
+      "url": "https://en.wikipedia.org/wiki/Ivane_Javakhishvili",
+      "_country_qids": [
+        "Q34266",
+        "Q130229",
+        "Q15180",
+        "Q245160"
+      ],
+      "_occupation_qids": [
+        "Q1622272",
+        "Q201788"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Kartini",
-      "region": "East Asia",
+      "dates": "1879–1904",
+      "y": 1879,
       "roles": [
         "Reformer",
         "Writer"
-      ]
+      ],
+      "era": "19th century",
+      "desc": "Raden Adjeng Kartini, also known as Raden Ayu Kartini, was a prominent Indonesian advocate of women's rights and female education.",
+      "tldr": "Raden Adjeng Kartini, also known as Raden Ayu Kartini, was a prominent Indonesian advocate of women's rights and female education.",
+      "url": "https://en.wikipedia.org/wiki/Kartini",
+      "_country_qids": [
+        "Q188161"
+      ],
+      "_occupation_qids": [
+        "Q10694573",
+        "Q28692502"
+      ],
+      "region": "East Asia"
     },
     {
       "name": "Sakichi Toyoda",
-      "region": "East Asia",
+      "dates": "1867–1930",
+      "y": 1867,
       "roles": [
         "Scientist",
         "Reformer"
-      ]
+      ],
+      "era": "19th century",
+      "desc": "Sakichi Toyoda  was a Japanese inventor and industrialist who founded Toyoda Automatic Loom Works. The son of a farmer and sought-after carpenter, he started the Toyoda family companies.",
+      "tldr": "Sakichi Toyoda  was a Japanese inventor and industrialist who founded Toyoda Automatic Loom Works. The son of a farmer and sought-after carpenter, he started the Toyoda family companies. His son, Kiichiro Toyoda, would later establish Japan's largest automaker, Toyota.",
+      "url": "https://en.wikipedia.org/wiki/Sakichi_Toyoda",
+      "_country_qids": [
+        "Q17"
+      ],
+      "_occupation_qids": [
+        "Q131524",
+        "Q188094",
+        "Q205375",
+        "Q81096"
+      ],
+      "region": "East Asia"
     },
     {
       "name": "Thorfinn Karlsefni",
-      "region": "Europe",
+      "dates": "980–1020",
+      "y": 980,
       "roles": [
         "Explorer"
-      ]
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Thorfinn Karlsefni Thórdarson was an Icelandic explorer. Around the year 1010, he followed Leif Eriksson's route to Vinland in a short-lived attempt to establish a permanent settlement there with h…",
+      "tldr": "Thorfinn Karlsefni Thórdarson was an Icelandic explorer. Around the year 1010, he followed Leif Eriksson's route to Vinland in a short-lived attempt to establish a permanent settlement there with his wife Gudrid Thorbjarnardóttir and their followers.",
+      "url": "https://en.wikipedia.org/wiki/Thorfinn_Karlsefni",
+      "_country_qids": [
+        "Q189"
+      ],
+      "_occupation_qids": [
+        "Q11900058"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Grigory Potanin",
-      "region": "Europe",
+      "dates": "1835–1920",
+      "y": 1835,
       "roles": [
         "Scientist",
         "Explorer",
         "Writer"
-      ]
+      ],
+      "era": "19th century",
+      "desc": "Grigory Nikolayevich Potanin was a Russian botanist, ethnographer, and natural historian. He was an explorer of Inner Asia and was the first to catalogue many of the area's native plants.",
+      "tldr": "Grigory Nikolayevich Potanin was a Russian botanist, ethnographer, and natural historian. He was an explorer of Inner Asia and was the first to catalogue many of the area's native plants. Potanin was also an author and a political activist who aligned himself with the Siberian regionalist movement.",
+      "url": "https://en.wikipedia.org/wiki/Grigory_Potanin",
+      "_country_qids": [
+        "Q2305208",
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q36180",
+        "Q1930187",
+        "Q18805",
+        "Q2083925",
+        "Q11900058",
+        "Q82955",
+        "Q901402",
+        "Q98544732",
+        "Q2374149"
+      ],
+      "region": "Europe"
     },
     {
       "name": "James V of Scotland",
-      "region": "Europe",
+      "dates": "1512–1542",
+      "y": 1512,
       "roles": [
         "Ruler"
-      ]
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "James V was King of Scotland from 9 September 1513 until his death in 1542. He was crowned on 21 September 1513 at the age of seventeen months.",
+      "tldr": "James V was King of Scotland from 9 September 1513 until his death in 1542. He was crowned on 21 September 1513 at the age of seventeen months. James was the son of King James IV and Margaret Tudor, daughter of Henry VII of England.",
+      "url": "https://en.wikipedia.org/wiki/James_V",
+      "_country_qids": [
+        "Q230791"
+      ],
+      "_occupation_qids": [
+        "Q2478141",
+        "Q49757"
+      ],
+      "region": "Europe"
     },
     {
       "name": "James IV of Scotland",
-      "region": "Europe",
+      "dates": "1473–1513",
+      "y": 1473,
       "roles": [
         "Ruler",
         "Military"
-      ]
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "James IV was King of Scotland from 11 June 1488 until his death at the Battle of Flodden in 1513. He inherited the throne at the age of fifteen on the death of his father, James III, at the Battle …",
+      "tldr": "James IV was King of Scotland from 11 June 1488 until his death at the Battle of Flodden in 1513. He inherited the throne at the age of fifteen on the death of his father, James III, at the Battle of Sauchieburn, following a rebellion in which the younger James was the figurehead of the rebels. James IV is generally regarded as the most successful of the Stewart monarchs of Scotland.",
+      "url": "https://en.wikipedia.org/wiki/James_IV",
+      "_country_qids": [
+        "Q230791"
+      ],
+      "_occupation_qids": [
+        "Q116",
+        "Q2478141",
+        "Q82955"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Abbot Suger",
-      "region": "Europe",
+      "dates": "1080–1151",
+      "y": 1080,
       "roles": [
         "Religious",
         "Ruler",
         "Writer"
-      ]
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Suger was a French abbot and statesman. He was a key advisor to King Louis VI and his son Louis VII, acting as the latter's regent during the Second Crusade.",
+      "tldr": "Suger was a French abbot and statesman. He was a key advisor to King Louis VI and his son Louis VII, acting as the latter's regent during the Second Crusade. His writings are seminal texts for early 12th-century Capetian history, and his reconstruction of the Basilica of Saint-Denis, where he was abbot, was instrumental in creating the Gothic architecture style.",
+      "url": "https://en.wikipedia.org/wiki/Suger",
+      "_country_qids": [
+        "Q70972"
+      ],
+      "_occupation_qids": [
+        "Q201788",
+        "Q2379868",
+        "Q82955",
+        "Q733786",
+        "Q42973",
+        "Q36180"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Francis Walsingham",
-      "region": "Europe",
+      "dates": "1532–1590",
+      "y": 1532,
       "roles": [
         "Ruler"
-      ]
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Sir Francis Walsingham was principal secretary to Queen Elizabeth I of England from 20 December 1573 until his death and is popularly remembered as her \"spymaster\".",
+      "tldr": "Sir Francis Walsingham was principal secretary to Queen Elizabeth I of England from 20 December 1573 until his death and is popularly remembered as her \"spymaster\".",
+      "url": "https://en.wikipedia.org/wiki/Francis_Walsingham",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q193391",
+        "Q40348",
+        "Q7581768",
+        "Q82955"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Saint Sava",
-      "region": "Europe",
+      "dates": "1169–1235",
+      "y": 1169,
       "roles": [
         "Religious",
         "Writer"
-      ]
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Saint Sava, known as the Enlightener or the Illuminator, was a Serbian prince and Eastern Orthodox monk who became the first Archbishop of the autocephalous Serbian Church. He was also a writer, di…",
+      "tldr": "Saint Sava, known as the Enlightener or the Illuminator, was a Serbian prince and Eastern Orthodox monk who became the first Archbishop of the autocephalous Serbian Church. He was also a writer, diplomat, and the founder of Serbian law.",
+      "url": "https://en.wikipedia.org/wiki/Saint_Sava",
+      "_country_qids": [
+        "Q1311990",
+        "Q2415003"
+      ],
+      "_occupation_qids": [
+        "Q17166634",
+        "Q36180",
+        "Q171692",
+        "Q193391",
+        "Q19340487",
+        "Q733786"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Pyotr Stolypin",
-      "region": "Europe",
+      "dates": "1862–1911",
+      "y": 1862,
       "roles": [
         "Ruler",
         "Reformer"
-      ]
+      ],
+      "era": "19th century",
+      "desc": "Pyotr Arkadyevich Stolypin was a Russian statesman who served as the third prime minister and the interior minister of the Russian Empire from 1906 until his assassination in 1911. Known as a refor…",
+      "tldr": "Pyotr Arkadyevich Stolypin was a Russian statesman who served as the third prime minister and the interior minister of the Russian Empire from 1906 until his assassination in 1911. Known as a reformer of Russian society and the economy, he initiated reforms which were halted by his assassination.",
+      "url": "https://en.wikipedia.org/wiki/Pyotr_Stolypin",
+      "_country_qids": [
+        "Q34266"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q372436",
+        "Q2285706"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Inge I of Norway",
-      "region": "Europe",
+      "dates": "1135–1161",
+      "y": 1135,
       "roles": [
         "Ruler",
         "Military"
-      ]
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Inge Haraldsson was king of Norway from 1136 to 1161. Inge’s reign fell within the start of the period known in Norwegian history as the civil war era, and he was never the sole ruler of the country.",
+      "tldr": "Inge Haraldsson was king of Norway from 1136 to 1161. Inge’s reign fell within the start of the period known in Norwegian history as the civil war era, and he was never the sole ruler of the country. He is often known as Inge the Hunchback, because of his physical disability.",
+      "url": "https://en.wikipedia.org/wiki/Inge_Haraldsson",
+      "_country_qids": [
+        "Q20"
+      ],
+      "_occupation_qids": [
+        "Q47064"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Richard Strauss",
-      "region": "Europe",
+      "dates": "1864–1949",
+      "y": 1864,
       "roles": [
         "Artist"
-      ]
+      ],
+      "era": "19th century",
+      "desc": "Richard Georg Strauss was a German composer and conductor known for his tone poems and operas. A leading figure of the late Romantic and early Modern era, and a successor to Richard Wagner and Fran…",
+      "tldr": "Richard Georg Strauss was a German composer and conductor known for his tone poems and operas. A leading figure of the late Romantic and early Modern era, and a successor to Richard Wagner and Franz Liszt, he combined, along with his friend Gustav Mahler, subtleties of orchestration with an advanced harmonic style.",
+      "url": "https://en.wikipedia.org/wiki/Richard_Strauss",
+      "_country_qids": [
+        "Q183"
+      ],
+      "_occupation_qids": [
+        "Q8178443",
+        "Q639669",
+        "Q48995718",
+        "Q36834",
+        "Q158852"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Guy Fawkes",
-      "region": "Europe",
+      "dates": "1570–1606",
+      "y": 1570,
       "roles": [
         "Military",
         "Reformer"
-      ]
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Guy Fawkes, also known as Guido Fawkes while fighting for the Spanish, was a member of a group of provincial English Catholics involved in the failed Gunpowder Plot of 1605. He was born and educate…",
+      "tldr": "Guy Fawkes, also known as Guido Fawkes while fighting for the Spanish, was a member of a group of provincial English Catholics involved in the failed Gunpowder Plot of 1605. He was born and educated in York; his father died when Fawkes was eight years old, after which his mother married a recusant Catholic.",
+      "url": "https://en.wikipedia.org/wiki/Guy_Fawkes",
+      "_country_qids": [
+        "Q179876"
+      ],
+      "_occupation_qids": [
+        "Q47064",
+        "Q4991371",
+        "Q82955",
+        "Q189290"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Nuno Gonçalves",
-      "region": "Europe",
+      "dates": "1425–1492",
+      "y": 1425,
       "roles": [
         "Artist"
-      ]
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "Nuno Gonçalves was court painter to Afonso V of Portugal from 1450 to 1471. Gonçalves is widely considered the most accomplished Portuguese painter of the 15th century.",
+      "tldr": "Nuno Gonçalves was court painter to Afonso V of Portugal from 1450 to 1471. Gonçalves is widely considered the most accomplished Portuguese painter of the 15th century. His surviving masterpiece is the polyptych known as the Saint Vincent Panels.",
+      "url": "https://en.wikipedia.org/wiki/Nuno_Gon%C3%A7alves",
+      "_country_qids": [
+        "Q45670"
+      ],
+      "_occupation_qids": [
+        "Q1028181",
+        "Q21178131"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Ferdynand Antoni Ossendowski",
-      "region": "Europe",
+      "dates": "1878–1945",
+      "y": 1878,
       "roles": [
         "Writer",
         "Explorer",
         "Scientist"
-      ]
+      ],
+      "era": "19th century",
+      "desc": "Ferdynand Antoni Ossendowski was a Polish writer, explorer, university professor, and anticommunist political activist. He is known for his books about Lenin and the Russian Civil War in which he p…",
+      "tldr": "Ferdynand Antoni Ossendowski was a Polish writer, explorer, university professor, and anticommunist political activist. He is known for his books about Lenin and the Russian Civil War in which he participated.",
+      "url": "https://en.wikipedia.org/wiki/Ferdynand_Ossendowski",
+      "_country_qids": [
+        "Q207272",
+        "Q36"
+      ],
+      "_occupation_qids": [
+        "Q593644",
+        "Q116994205",
+        "Q520549",
+        "Q13416354",
+        "Q14467526",
+        "Q15949613",
+        "Q4773904",
+        "Q36180",
+        "Q2919046",
+        "Q169470",
+        "Q1930187",
+        "Q1734662",
+        "Q11900058",
+        "Q12356615"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Eva Ekeblad",
-      "region": "Europe",
+      "dates": "1724–1786",
+      "y": 1724,
       "roles": [
         "Scientist"
-      ]
+      ],
+      "era": "Early modern (1500–1800)",
+      "desc": "Eva Ekeblad was a Swedish agriculturist and salon hostess. She discovered a method to make alcohol and flour from potatoes, significantly reducing Sweden's incidence of famine.",
+      "tldr": "Eva Ekeblad was a Swedish agriculturist and salon hostess. She discovered a method to make alcohol and flour from potatoes, significantly reducing Sweden's incidence of famine. She became the first female member of the Royal Swedish Academy of Sciences.",
+      "url": "https://en.wikipedia.org/wiki/Eva_Ekeblad",
+      "_country_qids": [
+        "Q34"
+      ],
+      "_occupation_qids": [
+        "Q593644",
+        "Q3068305",
+        "Q2374149",
+        "Q205375",
+        "Q1781198",
+        "Q1483709"
+      ],
+      "region": "Europe"
     },
     {
       "name": "Uwais Qarni",
-      "region": "Middle East",
+      "dates": "594–657",
+      "y": 594,
       "roles": [
         "Military",
         "Religious"
-      ]
+      ],
+      "era": "Medieval (500–1500)",
+      "desc": "ʾUways ibn ʿĀmir al-Qaranī was Muslim military commander and one of the tabi'in who served in the Rashidun Caliphate. As a tabi'i, he never met the Islamic prophet Muhammad, though was sometimes ho…",
+      "tldr": "ʾUways ibn ʿĀmir al-Qaranī was Muslim military commander and one of the tabi'in who served in the Rashidun Caliphate. As a tabi'i, he never met the Islamic prophet Muhammad, though was sometimes honorarily counted as among the companions. He was a loyal companion of Ali, and was a commander in Ali's army at the Battle of Siffin, where he was martyred in 657.",
+      "url": "https://en.wikipedia.org/wiki/Uways_al%E2%80%91Qarani",
+      "_country_qids": [
+        "Q12490507"
+      ],
+      "_occupation_qids": [
+        "Q1172458"
+      ],
+      "region": "Middle East"
     },
     {
       "name": "Vladimir Lenin",
-      "region": "Europe",
+      "dates": "1870–1924",
+      "y": 1870,
       "roles": [
         "Ruler",
         "Reformer"
-      ]
+      ],
+      "era": "19th century",
+      "desc": "Vladimir Ilyich Ulyanov, better known as Vladimir Lenin, was a Russian revolutionary, politician and political theorist. He was the first head of government of Soviet Russia from 1917 to 1922, and …",
+      "tldr": "Vladimir Ilyich Ulyanov, better known as Vladimir Lenin, was a Russian revolutionary, politician and political theorist. He was the first head of government of Soviet Russia from 1917 to 1922, and then of the Soviet Union from 1922 until his death in 1924. As the Bolsheviks' founder, Lenin led the October Revolution, which established the world's first communist state.",
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
+      "_country_qids": [
+        "Q34266",
+        "Q15180",
+        "Q2305208"
+      ],
+      "_occupation_qids": [
+        "Q82955",
+        "Q3242115"
+      ],
+      "region": "Europe"
     },
     {
       "name": "James Hargreaves",
