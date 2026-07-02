@@ -3636,6 +3636,168 @@
       "period": "Early modern (1500–1800)",
       "desc": "An 1798–1802 war between revolutionary France and a coalition of European monarchies led by Britain, Austria and Russia.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Second_Coalition"
+    },
+    {
+      "name": "Austro-Turkish War of 1716–1718",
+      "dates": "1716",
+      "y": 1716,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Austro-Turkish War (1716–1718) was fought between the Habsburg monarchy and the Ottoman Empire. The 1699 Treaty of Karlowitz was not an acceptable permanent agreement for the Ottoman Empire.",
+      "url": "https://en.wikipedia.org/wiki/Austro-Turkish_War_%281716%E2%80%931718%29"
+    },
+    {
+      "name": "Dieppe Raid",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Operation Jubilee or the Dieppe Raid was an Allied amphibious attack on the German-occupied port of Dieppe in northern France, during the Second World War.",
+      "url": "https://en.wikipedia.org/wiki/Dieppe_Raid"
+    },
+    {
+      "name": "Vlora War",
+      "dates": "1920",
+      "y": 1920,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Vlora War or Vlora crisis was a military conflict in the Vlorë region of Albania between the Kingdom of Italy and Albanian nationalists.",
+      "url": "https://en.wikipedia.org/wiki/Vlora_War"
+    },
+    {
+      "name": "Second Battle of Homs",
+      "dates": "1281",
+      "y": 1281,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "The Second Battle of Homs was fought in western Syria on 29 October 1281, between the armies of the Mamluk dynasty of Egypt and the Ilkhanate, a division of the Mongol Empire centered on Iran.",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Homs"
+    },
+    {
+      "name": "Battle of Marengo",
+      "dates": "1800",
+      "y": 1800,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Battle of Marengo was fought on 14 June 1800 between French forces under the First Consul Napoleon Bonaparte and Austrian forces near the city of Alessandria, in Piedmont, Italy.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Marengo"
+    },
+    {
+      "name": "Battle of Lechfeld",
+      "dates": "955",
+      "y": 955,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The Battle of Lechfeld was a series of military engagements over three days in August 955 in which the Kingdom of Germany, led by Otto I, defeated the Hungarian army.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lechfeld"
+    },
+    {
+      "name": "Battle of Karnal",
+      "dates": "1739",
+      "y": 1739,
+      "region": "South Asia",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Battle of Karnal was a decisive victory for Nader Shah, founder of the Afsharid dynasty of Iran, during his invasion of India, defeating the army of Mughal emperor Muhammad Shah.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Karnal"
+    },
+    {
+      "name": "Lithuanian Wars of Independence",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Lithuanian Wars of Independence, also known as the Freedom Struggles, refer to three wars Lithuania fought defending its independence at the end of World War I.",
+      "url": "https://en.wikipedia.org/wiki/Lithuanian_Wars_of_Independence"
+    },
+    {
+      "name": "Battle of Vitoria",
+      "dates": "1813",
+      "y": 1813,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "At the Battle of Vitoria, a British, Portuguese and Spanish army under the Marquess of Wellington broke the French army near Vitoria in Spain, a decisive Peninsular War victory.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Vitoria"
+    },
+    {
+      "name": "Aceh War",
+      "dates": "1873",
+      "y": 1873,
+      "region": "South Asia",
+      "period": "19th century",
+      "desc": "The Aceh War was an armed military conflict between the Sultanate of Aceh and the Kingdom of the Netherlands, part of the Dutch conquest of Sumatra and Indonesia.",
+      "url": "https://en.wikipedia.org/wiki/Aceh_War"
+    },
+    {
+      "name": "Battle of Crécy",
+      "dates": "1346",
+      "y": 1346,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The Battle of Crécy took place on 26 August 1346 in northern France between a French army under King Philip VI and an English army under King Edward III, an English victory in the Hundred Years' War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy"
+    },
+    {
+      "name": "Siege of Constantinople",
+      "dates": "717",
+      "y": 717,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Constantinople, built on the land linking Europe to Asia, had strategic value for many empires and kingdoms who tried to conquer it throughout history.",
+      "url": "https://en.wikipedia.org/wiki/List_of_sieges_of_Constantinople"
+    },
+    {
+      "name": "First Battle of Gaza",
+      "dates": "1917",
+      "y": 1917,
+      "region": "Middle East",
+      "period": "20th century onward",
+      "desc": "The First Battle of Gaza was fought on 26 March 1917 during the first attempt by the Egyptian Expeditionary Force to advance through Gaza in the Sinai and Palestine Campaign of the First World War.",
+      "url": "https://en.wikipedia.org/wiki/First_Battle_of_Gaza"
+    },
+    {
+      "name": "Battle of Benevento",
+      "dates": "1266",
+      "y": 1266,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The Battle of Benevento was fought on 26 February 1266 near Benevento in southern Italy between the forces of Charles I of Anjou and King Manfred of Sicily, ending Hohenstaufen rule in Italy.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Benevento"
+    },
+    {
+      "name": "Battle of Legnano",
+      "dates": "1176",
+      "y": 1176,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The Battle of Legnano was fought between the imperial army of Frederick Barbarossa and the troops of the Lombard League on 29 May 1176, near Legnano in present-day Lombardy, Italy.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Legnano"
+    },
+    {
+      "name": "Ninth Russo-Turkish War",
+      "dates": "1828",
+      "y": 1828,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "The Russo-Turkish War of 1828–1829 resulted from the Greek War of Independence; war broke out after the Ottoman Sultan closed the Dardanelles to Russian ships.",
+      "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281828%E2%80%931829%29"
+    },
+    {
+      "name": "Cisplatine War",
+      "dates": "1825",
+      "y": 1825,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The Cisplatine War was an armed conflict fought in the 1820s between the Empire of Brazil and the United Provinces of the Río de la Plata over control of the Banda Oriental.",
+      "url": "https://en.wikipedia.org/wiki/Cisplatine_War"
+    },
+    {
+      "name": "Battle of the Zab",
+      "dates": "750",
+      "y": 750,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "The Battle of the Zab took place on 25 January 750, on the banks of the Great Zab in what is now Iraq, spelling the end of the Umayyad Caliphate and the rise of the Abbasid Caliphate.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Zab"
     }
   ]
 }
