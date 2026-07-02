@@ -3294,6 +3294,186 @@
       "period": "19th century",
       "desc": "The Battle of Friedland was a major engagement of the Napoleonic Wars between the armies of the French Empire and the Russian Empire led by Napoleon I and General Levin August von Bennigsen respectively. Napoleon and the French obtained a decisive victory that routed much of the Russian army, which retreated chaotically over the Alle river by the end of the fighting. The battlefield is located …",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Friedland"
+    },
+    {
+      "name": "Ukrainian–Soviet War",
+      "dates": "1917",
+      "y": 1917,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A war fought between 1917 and 1921 between the Ukrainian People's Republic and the Bolsheviks following the Russian Revolution.",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian%E2%80%93Soviet_War"
+    },
+    {
+      "name": "Battle of Caporetto",
+      "dates": "1917",
+      "y": 1917,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A major World War I battle on the Isonzo front, where German and Austro-Hungarian forces routed the Italian army.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Caporetto"
+    },
+    {
+      "name": "Second Anglo-Sikh war",
+      "dates": "1848",
+      "y": 1848,
+      "region": "South Asia",
+      "period": "19th century",
+      "desc": "A war between the Sikh Empire and the East India Company that ended in the fall of the Sikh Empire and annexation of the Punjab.",
+      "url": "https://en.wikipedia.org/wiki/Second_Anglo-Sikh_War"
+    },
+    {
+      "name": "Second Vienna Award",
+      "dates": "1940",
+      "y": 1940,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A territorial arbitration by Nazi Germany and Fascist Italy that transferred Northern Transylvania from Romania to Hungary.",
+      "url": "https://en.wikipedia.org/wiki/Second_Vienna_Award"
+    },
+    {
+      "name": "Franco-Russian Alliance",
+      "dates": "1894",
+      "y": 1894,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "A military alliance between France and Russia formed 1891–94 in response to the Triple Alliance, lasting until 1917.",
+      "url": "https://en.wikipedia.org/wiki/Franco-Russian_Alliance"
+    },
+    {
+      "name": "Battle of Liaoyang",
+      "dates": "1904",
+      "y": 1904,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "A major land battle of the Russo-Japanese War fought near Liaoyang in present-day Liaoning Province, China.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Liaoyang"
+    },
+    {
+      "name": "Battle of Ain Jalut",
+      "dates": "1260",
+      "y": 1260,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "A battle between the Mamluks of Egypt and the Mongol Ilkhanate near Ain Jalut, marking the first major halt to Mongol expansion.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut"
+    },
+    {
+      "name": "Siege of Belgrade",
+      "dates": "1456",
+      "y": 1456,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The 1456 siege in which Hungarian forces under John Hunyadi repelled an Ottoman attempt to capture Belgrade.",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Belgrade_(1456)"
+    },
+    {
+      "name": "Battle of Yamama",
+      "dates": "632",
+      "y": 632,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "A decisive battle of the Ridda Wars in which forces of Caliph Abu Bakr defeated the self-proclaimed prophet Musaylima.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_al-Yamama"
+    },
+    {
+      "name": "Livonian War",
+      "dates": "1558",
+      "y": 1558,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A 1558–1583 war for control of Old Livonia between the Tsardom of Russia and a coalition of Nordic and Polish-Lithuanian powers.",
+      "url": "https://en.wikipedia.org/wiki/Livonian_War"
+    },
+    {
+      "name": "Battle of Nahrawan",
+      "dates": "659",
+      "y": 659,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "A 658 CE battle in which Caliph Ali's forces defeated the Kharijites, former allies who had broken with him after Siffin.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Nahrawan"
+    },
+    {
+      "name": "Muslim conquest of the Levant",
+      "dates": "633",
+      "y": 633,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "The Rashidun Caliphate's conquest of Byzantine Syria between 634–638 CE, part of the wider early Muslim conquests.",
+      "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Syria"
+    },
+    {
+      "name": "War of the Third Coalition",
+      "dates": "1805",
+      "y": 1805,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "The first conflict of the Napoleonic Wars, pitting Napoleon's France against a coalition led by Britain, Austria, and Russia.",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Third_Coalition"
+    },
+    {
+      "name": "Battle of Tarawa",
+      "dates": "1943",
+      "y": 1943,
+      "region": "Oceania",
+      "period": "20th century onward",
+      "desc": "A bloody 1943 amphibious battle between the US and Japan on Tarawa Atoll in the Gilbert Islands, part of Operation Galvanic.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tarawa"
+    },
+    {
+      "name": "Battle of Sarikamish",
+      "dates": "1914",
+      "y": 1914,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A disastrous World War I engagement between Russian and Ottoman forces in the Caucasus campaign, fought in winter 1914–15.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Sarikamish"
+    },
+    {
+      "name": "Hungarian–Romanian War",
+      "dates": "1919",
+      "y": 1919,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A 1918–1919 war between Hungary and Romania fought amid the collapse of Austria-Hungary after World War I.",
+      "url": "https://en.wikipedia.org/wiki/Hungarian%E2%80%93Romanian_War"
+    },
+    {
+      "name": "Italian War of 1551–1559",
+      "dates": "1551",
+      "y": 1551,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A war begun by Henry II of France against Charles V for control of Italy, ended by the Treaty of Cateau-Cambrésis.",
+      "url": "https://en.wikipedia.org/wiki/Italian_War_of_1551%E2%80%931559"
+    },
+    {
+      "name": "Crimean War",
+      "dates": "1853",
+      "y": 1853,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "A war fought 1853–56 between Russia and an alliance of the Ottoman Empire, France, Britain, and Sardinia over the Eastern Question.",
+      "url": "https://en.wikipedia.org/wiki/Crimean_War"
+    },
+    {
+      "name": "Battle of Shanghai",
+      "dates": "1937",
+      "y": 1937,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "A major 1937 battle of the Second Sino-Japanese War fought in Shanghai, among the largest battles of the entire war.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Shanghai"
+    },
+    {
+      "name": "Great stand on the Ugra river",
+      "dates": "1480",
+      "y": 1480,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "An 1480 standoff on the Ugra River between Akhmat Khan of the Great Horde and Grand Prince Ivan III of Moscow, ending Mongol rule over Russia.",
+      "url": "https://en.wikipedia.org/wiki/Great_Stand_on_the_Ugra_River"
     }
   ]
 }
