@@ -4158,6 +4158,186 @@
       "period": "Early modern (1500–1800)",
       "desc": "Napoleon's victory over Ottoman Egyptian forces near Cairo during the French invasion of Egypt.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Pyramids"
+    },
+    {
+      "name": "Battle of Bunker Hill",
+      "dates": "1775",
+      "y": 1775,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Battle of Bunker Hill was fought on June 17, 1775, during the Siege of Boston in the first stage of the American Revolutionary War. The battle is named after Bunker Hill in Charlestown, Massach…",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill"
+    },
+    {
+      "name": "Battle of Monte Cassino",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Battle of Monte Cassino, also known as the Battle for Rome, was a series of four military assaults by the Allies against Axis forces in Italy during the Italian Campaign of World War II. The ob…",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino"
+    },
+    {
+      "name": "Battle of Grunwald",
+      "dates": "1410",
+      "y": 1410,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The Battle of Grunwald, also known as the (First) Battle of Tannenberg or the Battle of Žalgiris, was fought on 15 July 1410 during the Polish–Lithuanian–Teutonic War. The alliance of the Crown of …",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Grunwald"
+    },
+    {
+      "name": "Battle of Großbeeren",
+      "dates": "1813",
+      "y": 1813,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "The Battle of Großbeeren occurred on 23 August 1813 in neighboring Blankenfelde and Sputendorf between the Prussian III Corps under Friedrich von Bülow and the Franco-Saxon VII Corps under Jean Rey…",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Gro%C3%9Fbeeren"
+    },
+    {
+      "name": "Battle of the Milvian Bridge",
+      "dates": "312",
+      "y": 312,
+      "region": "Europe",
+      "period": "Ancient (to 500 CE)",
+      "desc": "The Battle of the Milvian Bridge took place between the Roman Emperors Constantine I and Maxentius on 28 October AD 312. It takes its name from the Milvian Bridge, an important route over the Tiber.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge"
+    },
+    {
+      "name": "transition from Ming to Qing",
+      "dates": "1616",
+      "y": 1616,
+      "region": "East Asia",
+      "period": "Early modern (1500–1800)",
+      "desc": "The transition from Ming to Qing, also known as the Manchu conquest of China or Ming–Qing transition, was a decades-long period of conflict between the Qing dynasty, established by the Manchu Aisin…",
+      "url": "https://en.wikipedia.org/wiki/Transition_from_Ming_to_Qing"
+    },
+    {
+      "name": "Battle of Okehazama",
+      "dates": "1560",
+      "y": 1560,
+      "region": "East Asia",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Battle of Okehazama  took place on 12 June 1560 in Owari Province, in today's Aichi Prefecture. In this battle, the heavily outnumbered Oda clan troops, commanded by Oda Nobunaga, defeated Imag…",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Okehazama"
+    },
+    {
+      "name": "Adams–Onís Treaty",
+      "dates": "1821",
+      "y": 1821,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The Adams–Onís Treaty was an agreement between Spain and the United States, signed February 22, 1819, by John Quincy Adams and Luis de Onís respectively. The US acquired Florida while renouncing cl…",
+      "url": "https://en.wikipedia.org/wiki/Adams%E2%80%93On%C3%ADs_Treaty"
+    },
+    {
+      "name": "Partitio terrarum imperii Romaniae",
+      "dates": "1204",
+      "y": 1204,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The Partitio terrarum imperii Romaniae, or Partitio regni Graeci, was a treaty signed among the crusaders after the sack of the Byzantine capital, Constantinople, by the Fourth Crusade in 1204. It …",
+      "url": "https://en.wikipedia.org/wiki/Partitio_terrarum_imperii_Romaniae"
+    },
+    {
+      "name": "Arab conquest of Armenia",
+      "dates": "642",
+      "y": 642,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "The Arab invasion of Armenia was a series of military campaigns conducted in 639–661 CE by the Rashidun Caliphate against the Byzantine Empire in Byzantine Armenia as part of the wider early Muslim…",
+      "url": "https://en.wikipedia.org/wiki/Arab_invasion_of_Armenia"
+    },
+    {
+      "name": "Battle of Khotyn",
+      "dates": "1673",
+      "y": 1673,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Battle of Khotyn can refer to several battles that took place near Khotyn:Battle of Khotyn (1509)\nBattle of Khotyn (1530)\nBattle of Khotyn (1621)\nBattle of Khotyn (1673)\nSiege of Khotyn (1788)",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Khotyn"
+    },
+    {
+      "name": "Anglo-Spanish War",
+      "dates": "1654",
+      "y": 1654,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Anglo-Spanish War may refer to:Alfonso VIII's invasion of Gascony \nHundred Years' War (1337–1453), includes the War of the Breton Succession, the Castilian Civil War, the War of the Two Peters, and…",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Spanish_War"
+    },
+    {
+      "name": "Siege of Baghdad",
+      "dates": "1258",
+      "y": 1258,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "The Siege of Baghdad, also known as the Sack of Baghdad, took place in early 1258. A large army commanded by Hulegu, a prince of the Mongol Empire, attacked the historic capital of the Abbasid Cali…",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Baghdad"
+    },
+    {
+      "name": "Battle of Tippecanoe",
+      "dates": "1811",
+      "y": 1811,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The Battle of Tippecanoe was fought on November 7, 1811, in Battle Ground, Indiana, between American forces led by then Governor William Henry Harrison of the Indiana Territory and tribal forces as…",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tippecanoe"
+    },
+    {
+      "name": "Caucasian War",
+      "dates": "1763",
+      "y": 1763,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "The Caucasian War or the Caucasus War was a 19th-century military conflict between the Russian Empire and various peoples of the North Caucasus who resisted subjugation during the Russian conquest …",
+      "url": "https://en.wikipedia.org/wiki/Caucasian_War"
+    },
+    {
+      "name": "Siege of Damascus",
+      "dates": "1148",
+      "y": 1148,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "The Battle of Damascus, Siege of Damascus, or similar names may refer to:Siege of Damascus (613), a siege during the Byzantine–Sasanian War of 602–628\nSiege of Damascus (634), a siege during the Mu…",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Damascus"
+    },
+    {
+      "name": "Battle of Saragarhi",
+      "dates": "1897",
+      "y": 1897,
+      "region": "South Asia",
+      "period": "19th century",
+      "desc": "The Battle of Saragarhi was a last-stand battle fought before the Tirah Campaign between the British Indian Empire and Afghan tribesmen. On 12 September 1897, an estimated 12,000–24,000 Orakzai and…",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Saragarhi"
+    },
+    {
+      "name": "Battle of Kohima",
+      "dates": "1944",
+      "y": 1944,
+      "region": "South Asia",
+      "period": "20th century onward",
+      "desc": "The Battle of Kohima was the turning point of the Japanese U-Go offensive into British India in 1944 during the Second World War. It took place in three stages from 4 April to 22 June 1944 around t…",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kohima"
+    },
+    {
+      "name": "Battle of Mukden",
+      "dates": "1905",
+      "y": 1905,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "The Battle of Mukden , one of the largest land battles to be fought before World War I and the last and the most decisive major land battle of the Russo-Japanese War, was fought from 20 February to…",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mukden"
+    },
+    {
+      "name": "Battle of the Yalu River",
+      "dates": "1894",
+      "y": 1894,
+      "region": "East Asia",
+      "period": "19th century",
+      "desc": "Battle of the Yalu River may refer to:Battle of the Yalu River (1894), during the First Sino-Japanese War\nBattle of the Yalu River (1904), during the Russo-Japanese War\nBattle of Jiuliancheng, some…",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Yalu_River"
     }
   ]
 }
