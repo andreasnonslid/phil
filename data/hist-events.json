@@ -4671,6 +4671,168 @@
       "period": "20th century onward",
       "desc": "Finnish forces defeated a much larger Soviet army during the Winter War of 1939\u201340.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Suomussalmi"
+    },
+    {
+      "name": "Battle of Kulm",
+      "dates": "1813",
+      "y": 1813,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "The Battle of Kulm was fought near the town Kulm and the village P\u0159estanov in northern Bohemia. It was fought on 29\u201330 August 1813, during the War of the Sixth Coalition.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kulm"
+    },
+    {
+      "name": "Battle of Waterloo",
+      "dates": "1815",
+      "y": 1815,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "The Battle of Waterloo was fought on Sunday 18 June 1815, near Waterloo, being the last engagement with Napoleon I. The French Imperial Army under the command of Napoleon I was defeated by two armi\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
+    },
+    {
+      "name": "Battle of Badr",
+      "dates": "624",
+      "y": 624,
+      "region": "Middle East",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Battle of Badr or sometimes called The Raid of Badr, also referred to as The Day of the Criterion in the Qur'an and by Muslims, was fought on 13 March 624 CE, near the present-day city of Badr,\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Badr"
+    },
+    {
+      "name": "Battle of Uhud",
+      "dates": "625",
+      "y": 625,
+      "region": "Middle East",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Battle of Uhud was fought between the early Muslims and the Quraysh during the Muslim\u2013Quraysh wars in a valley north of Medina near Mount Uhud on Saturday, 23 March 625 AD.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Uhud"
+    },
+    {
+      "name": "1948 Arab\u2013Israeli War",
+      "dates": "1940",
+      "y": 1940,
+      "region": "Middle East",
+      "period": "20th century onward",
+      "desc": "The 1948 Arab\u2013Israeli War, also known as the First Arab\u2013Israeli War, followed the civil war in Mandatory Palestine as the second and final stage of the 1948 Palestine war. The civil war became a wa\u2026",
+      "url": "https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War"
+    },
+    {
+      "name": "1948 Palestine war",
+      "dates": "1940",
+      "y": 1940,
+      "region": "Middle East",
+      "period": "20th century onward",
+      "desc": "The 1948 Palestine war was fought in the territory of what had been, at the start of the war, British-ruled Mandatory Palestine. It began as a civil war between the Arab and Jewish communities foll\u2026",
+      "url": "https://en.wikipedia.org/wiki/1948_Palestine_war"
+    },
+    {
+      "name": "Seven Days Battles",
+      "dates": "1862",
+      "y": 1862,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The Seven Days Battles were a series of seven battles over seven days from June 25 to July 1, 1862, near Richmond, Virginia, during the American Civil War. Confederate General Robert E.",
+      "url": "https://en.wikipedia.org/wiki/Seven_Days_Battles"
+    },
+    {
+      "name": "Battle of Talas",
+      "dates": "751",
+      "y": 751,
+      "region": "East Asia",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Battle of Talas was an armed confrontation between the Abbasid Caliphate along with the Tibetan Empire against the Tang dynasty and its allies in 751. In July of that year, the Tang and Abbasid\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Talas"
+    },
+    {
+      "name": "Treaty of Shimoda",
+      "dates": "1855",
+      "y": 1855,
+      "region": "East Asia",
+      "period": "19th century",
+      "desc": "The Treaty of Shimoda of February 7, 1855, was the first treaty between the Russian Empire, and the Empire of Japan, then under the administration of the Tokugawa shogunate. Following shortly after\u2026",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Shimoda"
+    },
+    {
+      "name": "Battle of Cold Harbor",
+      "dates": "1864",
+      "y": 1864,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The Battle of Cold Harbor was fought during the American Civil War near Mechanicsville, Virginia, from May 31 to June 12, 1864, with the most significant fighting occurring on June 3. It was one of\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Cold_Harbor"
+    },
+    {
+      "name": "Battle of Stirling Bridge",
+      "dates": "1297",
+      "y": 1297,
+      "region": "Europe",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Battle of Stirling Bridge was fought during the First War of Scottish Independence. On 11 September 1297, the forces of Andrew Moray and William Wallace defeated the combined English forces of \u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Stirling_Bridge"
+    },
+    {
+      "name": "Saxon Wars",
+      "dates": "772",
+      "y": 772,
+      "region": "Europe",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Saxon Wars were 32 years of campaigns and insurrections from 772, when Charlemagne first entered Saxony with the intent to conquer, to 804 when the last rebellion of tribesmen was defeated. In \u2026",
+      "url": "https://en.wikipedia.org/wiki/Saxon_Wars"
+    },
+    {
+      "name": "Halifax explosion",
+      "dates": "1917",
+      "y": 1917,
+      "region": "Americas",
+      "period": "20th century onward",
+      "desc": "On the morning of 6 December 1917, the French cargo ship SS Mont-Blanc was hit by the Norwegian vessel SS Imo in the harbour of Halifax, Nova Scotia, Canada. Mont-Blanc, laden with high explosives,\u2026",
+      "url": "https://en.wikipedia.org/wiki/Halifax_Explosion"
+    },
+    {
+      "name": "Battle of Guadalete",
+      "dates": "711",
+      "y": 711,
+      "region": "Europe",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Battle of Guadalete was the first major battle of the Muslim conquest of the Iberian Peninsula, fought in July 711 at an unidentified location in what is now southern Spain between the Visigoth\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Guadalete"
+    },
+    {
+      "name": "Battle of Dobro Pole",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Battle of Dobro Pole, also known as the Breakthrough at Dobro Pole, was a World War I battle fought between 15 and 18 September 1918. The battle was fought in the initial stage of the Vardar Of\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Dobro_Pole"
+    },
+    {
+      "name": "Battle of the Korsun\u2013Cherkassy Pocket",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Battle of Korsun\u2013Cherkassy, also known as the Battle of the Korsun\u2013Cherkassy Pocket, was a World War II battle fought from 24 January to 16 February 1944 in the course of the Soviet Dnieper\u2013Car\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Korsun%E2%80%93Cherkassy"
+    },
+    {
+      "name": "Battle of Cherbourg",
+      "dates": "1944",
+      "y": 1944,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Battle of Cherbourg was part of the Battle of Normandy during World War II. It was fought immediately after the successful Allied landings on 6 June 1944.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Cherbourg"
+    },
+    {
+      "name": "People's Crusade",
+      "dates": "1096",
+      "y": 1096,
+      "region": "Europe",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The People's Crusade was the beginning phase of the First Crusade whose objective was to retake the Holy Land, and Jerusalem in particular, from Islamic rule. In 1095, after the head of the Catholi\u2026",
+      "url": "https://en.wikipedia.org/wiki/People%27s_Crusade"
     }
   ]
 }
