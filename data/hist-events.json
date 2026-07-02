@@ -3798,6 +3798,186 @@
       "period": "Medieval (500–1500)",
       "desc": "The Battle of the Zab took place on 25 January 750, on the banks of the Great Zab in what is now Iraq, spelling the end of the Umayyad Caliphate and the rise of the Abbasid Caliphate.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Zab"
+    },
+    {
+      "name": "First Anglo-Burmese War",
+      "dates": "1824",
+      "y": 1824,
+      "region": "South Asia",
+      "period": "19th century",
+      "desc": "The first of three wars between the British East India Company and the Konbaung dynasty of Burma, ending in a costly but decisive British victory.",
+      "url": "https://en.wikipedia.org/wiki/First_Anglo-Burmese_War"
+    },
+    {
+      "name": "Battle of Singapore",
+      "dates": "1942",
+      "y": 1942,
+      "region": "South Asia",
+      "period": "20th century onward",
+      "desc": "Japanese forces captured Singapore from the British in February 1942, one of the largest surrenders in British military history.",
+      "url": "https://en.wikipedia.org/wiki/Fall_of_Singapore"
+    },
+    {
+      "name": "Battle of Salsu",
+      "dates": "612",
+      "y": 612,
+      "region": "East Asia",
+      "period": "Medieval (500–1500)",
+      "desc": "Goguryeo forces annihilated a vastly larger Sui Chinese army at the Salsu River, a decisive victory in the Goguryeo–Sui War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Salsu"
+    },
+    {
+      "name": "Battle of Asiago",
+      "dates": "1916",
+      "y": 1916,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Austro-Hungarian forces launched a major offensive on the Asiago plateau against Italy during World War I's Italian Front.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Asiago"
+    },
+    {
+      "name": "Franco-Syrian War",
+      "dates": "1920",
+      "y": 1920,
+      "region": "Middle East",
+      "period": "20th century onward",
+      "desc": "French forces defeated King Faisal's Arab Kingdom of Syria and entered Damascus, establishing the French Mandate over Syria.",
+      "url": "https://en.wikipedia.org/wiki/Franco-Syrian_War"
+    },
+    {
+      "name": "Battle of Brandywine",
+      "dates": "1777",
+      "y": 1777,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "British forces under General Howe defeated Washington's Continental Army near Chadds Ford, Pennsylvania, during the American Revolutionary War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Brandywine"
+    },
+    {
+      "name": "Battle of Adwa",
+      "dates": "1896",
+      "y": 1896,
+      "region": "Africa",
+      "period": "19th century",
+      "desc": "Ethiopian forces under Emperor Menelik II decisively defeated an invading Italian army, securing Ethiopian independence.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Adwa"
+    },
+    {
+      "name": "Alaska Purchase",
+      "dates": "1867",
+      "y": 1867,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The United States purchased Alaska from the Russian Empire for $7.2 million, extending American territory into the Arctic.",
+      "url": "https://en.wikipedia.org/wiki/Alaska_Purchase"
+    },
+    {
+      "name": "Battle of the Plains of Abraham",
+      "dates": "1759",
+      "y": 1759,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "British forces defeated the French outside Quebec City in a turning point of the Seven Years' War that led to British control of Canada.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Plains_of_Abraham"
+    },
+    {
+      "name": "Battle of Nördlingen",
+      "dates": "1634",
+      "y": 1634,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Catholic Habsburg forces crushed the Protestant Swedish army at Nördlingen, a major turning point of the Thirty Years' War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_N%C3%B6rdlingen"
+    },
+    {
+      "name": "Battle of Leuthen",
+      "dates": "1757",
+      "y": 1757,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Frederick the Great's Prussian army used maneuver and terrain to rout a much larger Austrian force, securing control of Silesia.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Leuthen"
+    },
+    {
+      "name": "Battle of the Dnieper",
+      "dates": "1943",
+      "y": 1943,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "One of the largest operations of World War II, Soviet forces crossed the Dnieper River and drove German forces from Ukraine's eastern bank.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Dnieper"
+    },
+    {
+      "name": "First English Civil War",
+      "dates": "1642",
+      "y": 1642,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "War between Royalists and Parliamentarians in England and Wales, part of the Wars of the Three Kingdoms, that reshaped English governance.",
+      "url": "https://en.wikipedia.org/wiki/First_English_Civil_War"
+    },
+    {
+      "name": "Burgundian Wars",
+      "dates": "1474",
+      "y": 1474,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Conflict between the Duchy of Burgundy and the Swiss Confederacy in which Charles the Bold was defeated repeatedly and killed at Nancy.",
+      "url": "https://en.wikipedia.org/wiki/Burgundian_Wars"
+    },
+    {
+      "name": "Thirteen Years' War",
+      "dates": "1454",
+      "y": 1454,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "War between the Prussian Confederation, backed by Poland, and the Teutonic Order, ending Teutonic dominance over western Prussia.",
+      "url": "https://en.wikipedia.org/wiki/Thirteen_Years%27_War"
+    },
+    {
+      "name": "Battle of Oudenarde",
+      "dates": "1708",
+      "y": 1708,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Anglo-Dutch forces under Marlborough and Prince Eugene defeated the French army during the War of the Spanish Succession.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Oudenarde"
+    },
+    {
+      "name": "Battle of Nancy",
+      "dates": "1476",
+      "y": 1476,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "René II of Lorraine and the Swiss Confederacy defeated and killed Charles the Bold, ending Burgundian power in Lorraine.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Nancy"
+    },
+    {
+      "name": "Battle of Malplaquet",
+      "dates": "1709",
+      "y": 1709,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "One of the bloodiest battles of the 18th century; the Grand Alliance under Marlborough won a costly victory over the French in the War of the Spanish Succession.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Malplaquet"
+    },
+    {
+      "name": "Hindenburg disaster",
+      "dates": "1937",
+      "y": 1937,
+      "region": "Americas",
+      "period": "20th century onward",
+      "desc": "The German airship Hindenburg caught fire and was destroyed while attempting to dock in New Jersey, killing 36 people and ending the airship era.",
+      "url": "https://en.wikipedia.org/wiki/Hindenburg_disaster"
+    },
+    {
+      "name": "Mahdist War",
+      "dates": "1881",
+      "y": 1881,
+      "region": "Africa",
+      "period": "19th century",
+      "desc": "Muhammad Ahmad's Mahdist Sudanese forces overthrew Ottoman-Egyptian rule and later fought the British, establishing an independent Mahdist state in Sudan.",
+      "url": "https://en.wikipedia.org/wiki/Mahdist_War"
     }
   ]
 }
