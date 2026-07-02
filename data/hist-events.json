@@ -3474,6 +3474,168 @@
       "period": "Medieval (500–1500)",
       "desc": "An 1480 standoff on the Ugra River between Akhmat Khan of the Great Horde and Grand Prince Ivan III of Moscow, ending Mongol rule over Russia.",
       "url": "https://en.wikipedia.org/wiki/Great_Stand_on_the_Ugra_River"
+    },
+    {
+      "name": "Battle of Baku",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A 1918 battle for control of Baku fought between Ottoman-Azerbaijani forces and Bolshevik-Armenian Baku Commune defenders, later reinforced by British troops.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Baku"
+    },
+    {
+      "name": "Anastasian War",
+      "dates": "502",
+      "y": 502,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "A war fought from 502 to 506 between the Byzantine and Sasanian empires, the first major conflict between the two powers in over sixty years.",
+      "url": "https://en.wikipedia.org/wiki/Anastasian_War"
+    },
+    {
+      "name": "Wars of the Three Kingdoms",
+      "dates": "1638",
+      "y": 1638,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A series of conflicts from 1639 to 1653 across England, Scotland and Ireland, including the English Civil Wars and the Irish Confederate Wars.",
+      "url": "https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms"
+    },
+    {
+      "name": "First Egyptian-Ottoman War",
+      "dates": "1831",
+      "y": 1831,
+      "region": "Middle East",
+      "period": "19th century",
+      "desc": "An 1831–1833 conflict in which Egyptian forces under Muhammad Ali Pasha seized Ottoman Syria, demanding it as reward for aiding the sultan in the Greek War of Independence.",
+      "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Ottoman_War_%281831%E2%80%931833%29"
+    },
+    {
+      "name": "War of Devolution",
+      "dates": "1667",
+      "y": 1667,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A 1667–1668 war in which France occupied the Spanish Netherlands and Franche-Comté, with Louis XIV claiming the territories through his wife's inheritance rights.",
+      "url": "https://en.wikipedia.org/wiki/War_of_Devolution"
+    },
+    {
+      "name": "Treaty of Gandamak",
+      "dates": "1879",
+      "y": 1879,
+      "region": "South Asia",
+      "period": "19th century",
+      "desc": "An 1879 treaty ending the first phase of the Second Anglo-Afghan War, in which Afghan emir Mohammad Yaqub Khan ceded frontier territory and control of foreign affairs to Britain.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Gandamak"
+    },
+    {
+      "name": "Second Egyptian-Ottoman War",
+      "dates": "1839",
+      "y": 1839,
+      "region": "Middle East",
+      "period": "19th century",
+      "desc": "An 1839–1841 conflict, also called the Second Syrian War, fought mainly in Syria between Egyptian and Ottoman forces.",
+      "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Ottoman_War_%281839%E2%80%931841%29"
+    },
+    {
+      "name": "War of 1812",
+      "dates": "1812",
+      "y": 1812,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "A conflict from 1812 to 1815 between the United States and Britain, fought mainly in North America and at sea amid the wider Napoleonic Wars.",
+      "url": "https://en.wikipedia.org/wiki/War_of_1812"
+    },
+    {
+      "name": "Capture of Rome",
+      "dates": "1870",
+      "y": 1870,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "The 1870 seizure of Rome and the Papal States by forces of the Kingdom of Italy, completing the unification of Italy.",
+      "url": "https://en.wikipedia.org/wiki/Capture_of_Rome"
+    },
+    {
+      "name": "Battles of Rzhev",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A series of costly Red Army offensives against the Wehrmacht around Rzhev from January 1942 to March 1943 on the Eastern Front of World War II.",
+      "url": "https://en.wikipedia.org/wiki/Battles_of_Rzhev"
+    },
+    {
+      "name": "Battle of Konotop",
+      "dates": "1659",
+      "y": 1659,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "A 1659 battle in which a Cossack coalition under Hetman Ivan Vyhovsky defeated Russian Tsardom cavalry near Konotop, Ukraine, during the Russo-Polish War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Konotop"
+    },
+    {
+      "name": "Japanese coup d'état in French Indochina",
+      "dates": "1945",
+      "y": 1945,
+      "region": "South Asia",
+      "period": "20th century onward",
+      "desc": "A March 1945 Japanese operation that overthrew French colonial rule in Indochina as Japan faced imminent Allied invasion late in World War II.",
+      "url": "https://en.wikipedia.org/wiki/Japanese_coup_d%27%C3%A9tat_in_French_Indochina"
+    },
+    {
+      "name": "Battle of Tolbiac",
+      "dates": "496",
+      "y": 496,
+      "region": "Europe",
+      "period": "Ancient (to 500 CE)",
+      "desc": "A battle between the Franks under Clovis I and the Alamanni, traditionally dated to 496, near what is now Zülpich, Germany.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tolbiac"
+    },
+    {
+      "name": "German invasion of the Netherlands",
+      "dates": "1940",
+      "y": 1940,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A May 1940 German military campaign that overran the Netherlands in days, part of the wider invasion of the Low Countries and France.",
+      "url": "https://en.wikipedia.org/wiki/German_invasion_of_the_Netherlands"
+    },
+    {
+      "name": "Battle of Dandanaqan",
+      "dates": "1040",
+      "y": 1040,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "An 1040 battle in which the Seljuq Turks decisively defeated the Ghaznavid Empire near Merv, ending Ghaznavid dominance over Greater Khorasan.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Dandanaqan"
+    },
+    {
+      "name": "Northwest Indian War",
+      "dates": "1785",
+      "y": 1785,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "A conflict for control of the Northwest Territory between the United States and a confederation of Native American nations, considered the first American Indian War.",
+      "url": "https://en.wikipedia.org/wiki/Northwest_Indian_War"
+    },
+    {
+      "name": "Prussian Crusade",
+      "dates": "1200",
+      "y": 1200,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "A 13th-century series of campaigns by the Teutonic Knights and other Catholic crusaders to conquer and Christianize the pagan Old Prussians.",
+      "url": "https://en.wikipedia.org/wiki/Prussian_Crusade"
+    },
+    {
+      "name": "War of the Second Coalition",
+      "dates": "1798",
+      "y": 1798,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "An 1798–1802 war between revolutionary France and a coalition of European monarchies led by Britain, Austria and Russia.",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Second_Coalition"
     }
   ]
 }
