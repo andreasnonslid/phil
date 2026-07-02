@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Historical Events",
-    "subtitle": "Turning points across world history — searchable.",
-    "kicker": "A timeline reference · {n} events",
+    "subtitle": "Turning points across world history \u2014 searchable.",
+    "kicker": "A timeline reference \u00b7 {n} events",
     "itemNoun": "events",
     "itemNounSingular": "event",
     "searchKeys": [
@@ -43,18 +43,18 @@
         "grouping": true,
         "options": [
           "Ancient (to 500 CE)",
-          "Medieval (500–1500)",
-          "Early modern (1500–1800)",
+          "Medieval (500\u20131500)",
+          "Early modern (1500\u20131800)",
           "19th century",
           "20th century onward"
         ],
         "glossary": {
-          "heading": "Periods — how the historical eras are bounded",
-          "placeholder": "Choose a period…",
+          "heading": "Periods \u2014 how the historical eras are bounded",
+          "placeholder": "Choose a period\u2026",
           "terms": {
             "Ancient (to 500 CE)": "From the earliest records through the fall of the western Roman empire.",
-            "Medieval (500–1500)": "The middle ages across Europe, the Islamic world, and Asia.",
-            "Early modern (1500–1800)": "The age of exploration, reformation, and revolutions.",
+            "Medieval (500\u20131500)": "The middle ages across Europe, the Islamic world, and Asia.",
+            "Early modern (1500\u20131800)": "The age of exploration, reformation, and revolutions.",
             "19th century": "Industrialisation, nationalism, and empire.",
             "20th century onward": "World wars, decolonisation, and the digital age."
           }
@@ -123,7 +123,7 @@
       "dates": "622 CE",
       "y": 622,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Muhammad's migration from Mecca to Medina, the starting point of the Islamic calendar.",
       "url": "https://en.wikipedia.org/wiki/Hijrah"
     },
@@ -132,7 +132,7 @@
       "dates": "1066",
       "y": 1066,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "William of Normandy's victory at Hastings reshaped English language, law, and aristocracy.",
       "url": "https://en.wikipedia.org/wiki/Norman_Conquest"
     },
@@ -141,7 +141,7 @@
       "dates": "1453",
       "y": 1453,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Ottoman capture of the Byzantine capital, often taken to mark the end of the Middle Ages.",
       "url": "https://en.wikipedia.org/wiki/Fall_of_Constantinople"
     },
@@ -150,7 +150,7 @@
       "dates": "1492",
       "y": 1492,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "First of Columbus's voyages, opening sustained European contact with the Americas.",
       "url": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus"
     },
@@ -159,7 +159,7 @@
       "dates": "1788",
       "y": 1788,
       "region": "Oceania",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "British ships established the first European colony in Australia at Sydney Cove.",
       "url": "https://en.wikipedia.org/wiki/First_Fleet"
     },
@@ -168,7 +168,7 @@
       "dates": "1789",
       "y": 1789,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Storming of the Bastille opened a decade of upheaval that toppled the French monarchy.",
       "url": "https://en.wikipedia.org/wiki/French_Revolution"
     },
@@ -183,7 +183,7 @@
     },
     {
       "name": "Berlin Conference",
-      "dates": "1884–1885",
+      "dates": "1884\u20131885",
       "y": 1884,
       "region": "Africa",
       "period": "19th century",
@@ -222,21 +222,21 @@
       "dates": "635",
       "y": 635,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Major battle in the Muslim conquest of Byzantine Syria, fought by Rashidun Caliphate forces near Pella (Fahl).",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Fahl"
     },
     {
-      "name": "Polish–Muscovite War",
+      "name": "Polish\u2013Muscovite War",
       "dates": "1605",
       "y": 1605,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Polish–Muscovite War (1605–18), a conflict between the Polish–Lithuanian Commonwealth and the Tsardom of Russia.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Polish\u2013Muscovite War (1605\u201318), a conflict between the Polish\u2013Lithuanian Commonwealth and the Tsardom of Russia.",
       "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Muscovite_War"
     },
     {
-      "name": "Treaty of Hünkâr İskelesi",
+      "name": "Treaty of H\u00fcnk\u00e2r \u0130skelesi",
       "dates": "1833",
       "y": 1833,
       "region": "Europe",
@@ -276,7 +276,7 @@
       "dates": "1364",
       "y": 1364,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Decisive confrontation of the Breton War of Succession, part of the Hundred Years' War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Auray"
     },
@@ -312,8 +312,8 @@
       "dates": "1797",
       "y": 1797,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "Napoleon's decisive defeat of Austrian forces near Rivoli, the climax of the Italian campaign of 1796–97.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "Napoleon's decisive defeat of Austrian forces near Rivoli, the climax of the Italian campaign of 1796\u201397.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Rivoli"
     },
     {
@@ -321,7 +321,7 @@
       "dates": "1688",
       "y": 1688,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "North American theater of the Nine Years' War, fought between New France and New England and their Native allies.",
       "url": "https://en.wikipedia.org/wiki/King_William%27s_War"
     },
@@ -339,12 +339,12 @@
       "dates": "1475",
       "y": 1475,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Stephen III of Moldavia's victory over Ottoman forces near Vaslui in 1475.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Vaslui"
     },
     {
-      "name": "Battle of Maipú",
+      "name": "Battle of Maip\u00fa",
       "dates": "1818",
       "y": 1818,
       "region": "Americas",
@@ -357,7 +357,7 @@
       "dates": "1279",
       "y": 1279,
       "region": "East Asia",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Naval battle marking the last stand of the Song dynasty against the invading Yuan dynasty forces.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Yamen"
     },
@@ -366,7 +366,7 @@
       "dates": "1793",
       "y": 1793,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Battle of Neerwinden (1793), a French defeat to Austrian forces during the War of the First Coalition.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Neerwinden"
     },
@@ -375,7 +375,7 @@
       "dates": "1317",
       "y": 1317,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Long Ottoman siege that ended in the capture of Bursa (Prusa) in 1326, an early Ottoman conquest.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Bursa"
     },
@@ -384,7 +384,7 @@
       "dates": "1066",
       "y": 1066,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Harald Hardrada and Tostig Godwinson's defeat of the Northern Earls near York, days before Stamford Bridge.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Fulford"
     },
@@ -393,7 +393,7 @@
       "dates": "1651",
       "y": 1651,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Oliver Cromwell's Parliamentarian army defeated Charles II's Royalist forces at Worcester, ending the Wars of the Three Kingdoms.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Worcester"
     },
@@ -402,16 +402,16 @@
       "dates": "1385",
       "y": 1385,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Grand Duke Jogaila of Lithuania pledged to marry Queen Jadwiga of Poland, laying the groundwork for a Polish-Lithuanian union.",
       "url": "https://en.wikipedia.org/wiki/Union_of_Krewo"
     },
     {
-      "name": "Battle of Alcácer Quibir",
+      "name": "Battle of Alc\u00e1cer Quibir",
       "dates": "1578",
       "y": 1578,
       "region": "Africa",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Portuguese forces under King Sebastian were destroyed by a Moroccan army near Ksar-el-Kebir, ending Portugal's independent monarchy.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Alc%C3%A1cer_Quibir"
     },
@@ -438,7 +438,7 @@
       "dates": "533",
       "y": 533,
       "region": "Africa",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Byzantine general Belisarius defeated the Vandal army near Carthage, opening the reconquest of North Africa.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ad_Decimum"
     },
@@ -456,7 +456,7 @@
       "dates": "1777",
       "y": 1777,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "George Washington's forces defeated a British rearguard at Princeton, New Jersey, boosting American morale after Trenton.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Princeton"
     },
@@ -465,7 +465,7 @@
       "dates": "656",
       "y": 656,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Caliph Ali defeated a rebel coalition led by Aisha, Talha, and Zubayr outside Basra, in the first civil war of Islam.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Camel"
     },
@@ -474,7 +474,7 @@
       "dates": "533",
       "y": 533,
       "region": "Africa",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Byzantine forces under Justinian I reconquered North Africa from the Vandal Kingdom.",
       "url": "https://en.wikipedia.org/wiki/Vandalic_War"
     },
@@ -492,7 +492,7 @@
       "dates": "552",
       "y": 552,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Byzantine forces defeated the Ostrogoths near Mount Vesuvius, ending organized Gothic resistance in Italy.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mons_Lactarius"
     },
@@ -510,8 +510,8 @@
       "dates": "1632",
       "y": 1632,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Polish–Lithuanian Commonwealth fought Muscovy over control of Smolensk.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Polish\u2013Lithuanian Commonwealth fought Muscovy over control of Smolensk.",
       "url": "https://en.wikipedia.org/wiki/Smolensk_War"
     },
     {
@@ -519,7 +519,7 @@
       "dates": "1450",
       "y": 1450,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A decisive French victory over England near Formigny hastened the end of the Hundred Years' War in Normandy.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Formigny"
     },
@@ -537,17 +537,17 @@
       "dates": "1553",
       "y": 1553,
       "region": "East Asia",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Takeda Shingen and Uesugi Kenshin fought a series of inconclusive battles for control of the Kawanakajima plain in Sengoku-era Japan.",
       "url": "https://en.wikipedia.org/wiki/Battles_of_Kawanakajima"
     },
     {
-      "name": "Battle of Boyacá",
+      "name": "Battle of Boyac\u00e1",
       "dates": "1819",
       "y": 1819,
       "region": "Americas",
       "period": "19th century",
-      "desc": "The Battle of Boyacá (1819), also known as the Battle of Boyacá Bridge was a decisive victory by a combined army of Venezuelan and New Granadan troops along with a British Legion led by General Simon Bolivar over the III Division of the Spanish Expeditionary Army of Costa Firme commanded by Spanish Colonel José Barreiro.",
+      "desc": "The Battle of Boyac\u00e1 (1819), also known as the Battle of Boyac\u00e1 Bridge was a decisive victory by a combined army of Venezuelan and New Granadan troops along with a British Legion led by General Simon Bolivar over the III Division of the Spanish Expeditionary Army of Costa Firme commanded by Spanish Colonel Jos\u00e9 Barreiro.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Boyac%C3%A1"
     },
     {
@@ -555,26 +555,26 @@
       "dates": "1652",
       "y": 1652,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "The First Anglo-Dutch War, or First Dutch War, was a naval conflict between the Commonwealth of England and the Dutch Republic, largely caused by disputes over trade.",
       "url": "https://en.wikipedia.org/wiki/First_Anglo-Dutch_War"
     },
     {
-      "name": "Second Ottoman–Venetian War",
+      "name": "Second Ottoman\u2013Venetian War",
       "dates": "1499",
       "y": 1499,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "The Second Ottoman–Venetian War was fought from 1499 to 1503 between the Ottoman Empire and the Republic of Venice for control of contested lands in the Aegean, Ionian, and Adriatic seas.",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Second Ottoman\u2013Venetian War was fought from 1499 to 1503 between the Ottoman Empire and the Republic of Venice for control of contested lands in the Aegean, Ionian, and Adriatic seas.",
       "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_%281499%E2%80%931503%29"
     },
     {
-      "name": "First Ottoman–Venetian War",
+      "name": "First Ottoman\u2013Venetian War",
       "dates": "1463",
       "y": 1463,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "The First Ottoman–Venetian War was fought between the Republic of Venice with its allies and the Ottoman Empire from 1463 to 1479, resulting in the loss of several Venetian holdings in Albania and Greece.",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The First Ottoman\u2013Venetian War was fought between the Republic of Venice with its allies and the Ottoman Empire from 1463 to 1479, resulting in the loss of several Venetian holdings in Albania and Greece.",
       "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_%281463%E2%80%931479%29"
     },
     {
@@ -596,12 +596,12 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Oranges"
     },
     {
-      "name": "Webster–Ashburton Treaty",
+      "name": "Webster\u2013Ashburton Treaty",
       "dates": "1842",
       "y": 1842,
       "region": "Americas",
       "period": "19th century",
-      "desc": "The Webster–Ashburton Treaty resolved several border issues between the United States and the British North American colonies, signed in Washington, DC in 1842.",
+      "desc": "The Webster\u2013Ashburton Treaty resolved several border issues between the United States and the British North American colonies, signed in Washington, DC in 1842.",
       "url": "https://en.wikipedia.org/wiki/Webster%E2%80%93Ashburton_Treaty"
     },
     {
@@ -610,7 +610,7 @@
       "y": 1807,
       "region": "Oceania",
       "period": "19th century",
-      "desc": "The Musket Wars were a series of as many as 3,000 battles and raids fought throughout New Zealand among Māori between 1806 and 1845, after Māori first obtained muskets.",
+      "desc": "The Musket Wars were a series of as many as 3,000 battles and raids fought throughout New Zealand among M\u0101ori between 1806 and 1845, after M\u0101ori first obtained muskets.",
       "url": "https://en.wikipedia.org/wiki/Musket_Wars"
     },
     {
@@ -618,7 +618,7 @@
       "dates": "1121",
       "y": 1121,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The Battle of Didgori was fought between the armies of the Kingdom of Georgia and the Seljuk Empire near Tbilisi in 1121, resulting in a devastating defeat for the Seljuk-led coalition.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Didgori"
     },
@@ -628,7 +628,7 @@
       "y": 1868,
       "region": "East Asia",
       "period": "19th century",
-      "desc": "The Battle of Toba–Fushimi occurred between pro-Imperial and Tokugawa shogunate forces during the Boshin War in Japan, beginning on 27 January 1868 near Kyoto.",
+      "desc": "The Battle of Toba\u2013Fushimi occurred between pro-Imperial and Tokugawa shogunate forces during the Boshin War in Japan, beginning on 27 January 1868 near Kyoto.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Toba%E2%80%93Fushimi"
     },
     {
@@ -636,7 +636,7 @@
       "dates": "1514",
       "y": 1514,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "The Battle of Orsha was fought on 8 September 1514 between the allied forces of the Grand Duchy of Lithuania and the Crown of the Kingdom of Poland and the army of the Grand Duchy of Moscow.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Orsha"
     },
@@ -655,7 +655,7 @@
       "y": 1941,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "The Continuation War, also known as the Second Soviet–Finnish War, was fought by Finland and Nazi Germany against the Soviet Union from 1941 to 1944, ending with the Moscow Armistice.",
+      "desc": "The Continuation War, also known as the Second Soviet\u2013Finnish War, was fought by Finland and Nazi Germany against the Soviet Union from 1941 to 1944, ending with the Moscow Armistice.",
       "url": "https://en.wikipedia.org/wiki/Continuation_War"
     },
     {
@@ -663,8 +663,8 @@
       "dates": "1701",
       "y": 1701,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Russo-Turkish War of 1768–1774 was a major armed conflict that saw Russian armies victorious against the Ottoman Empire, bringing Crimea into the Russian sphere of influence.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Russo-Turkish War of 1768\u20131774 was a major armed conflict that saw Russian armies victorious against the Ottoman Empire, bringing Crimea into the Russian sphere of influence.",
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281768%E2%80%931774%29"
     },
     {
@@ -672,8 +672,8 @@
       "dates": "1787",
       "y": 1787,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Russo-Turkish War of 1787–1792 involved an unsuccessful attempt by the Ottoman Empire to regain lands lost to Russia in the previous Russo-Turkish War, fought alongside several concurrent European wars.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Russo-Turkish War of 1787\u20131792 involved an unsuccessful attempt by the Ottoman Empire to regain lands lost to Russia in the previous Russo-Turkish War, fought alongside several concurrent European wars.",
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281787%E2%80%931792%29"
     },
     {
@@ -681,7 +681,7 @@
       "dates": "778",
       "y": 778,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The Battle of Roncevaux Pass in 778 saw a large force of Basques ambush part of Charlemagne's army in the Pyrenees, on the present border between France and Spain.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Roncevaux_Pass"
     },
@@ -699,12 +699,12 @@
       "dates": "1337",
       "y": 1337,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A prolonged conflict between the kingdoms of England and France over rival claims to the French throne, fought intermittently from 1337 to 1453.",
       "url": "https://en.wikipedia.org/wiki/Hundred_Years%27_War"
     },
     {
-      "name": "Spanish–American War",
+      "name": "Spanish\u2013American War",
       "dates": "1898",
       "y": 1898,
       "region": "Americas",
@@ -717,7 +717,7 @@
       "dates": "1761",
       "y": 1761,
       "region": "South Asia",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "The Maratha Empire suffered a devastating defeat to the invading Durrani Empire near Panipat in 1761, reshaping the balance of power in northern India.",
       "url": "https://en.wikipedia.org/wiki/Third_Battle_of_Panipat"
     },
@@ -744,7 +744,7 @@
       "dates": "531",
       "y": 531,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A hard-fought 531 clash in which Belisarius's Byzantine army was checked by a Sasanian cavalry force under Azarethes.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Callinicum"
     },
@@ -758,12 +758,12 @@
       "url": "https://en.wikipedia.org/wiki/First_Vienna_Award"
     },
     {
-      "name": "Battle of Kolín",
+      "name": "Battle of Kol\u00edn",
       "dates": "1757",
       "y": 1757,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "Austrian forces under Count von Daun defeated Frederick the Great's Prussian army near Kolín in 1757, the first major battle Frederick lost.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "Austrian forces under Count von Daun defeated Frederick the Great's Prussian army near Kol\u00edn in 1757, the first major battle Frederick lost.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kol%C3%ADn"
     },
     {
@@ -771,7 +771,7 @@
       "dates": "1500",
       "y": 1500,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A series of dynastic civil wars fought between the houses of Lancaster and York for control of the English throne from 1455 to 1487.",
       "url": "https://en.wikipedia.org/wiki/Wars_of_the_Roses"
     },
@@ -798,7 +798,7 @@
       "dates": "740",
       "y": 740,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Byzantine forces halted a major Umayyad invasion of Anatolia near Akroinon in 740, checking Arab expansion into Byzantine territory.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Akroinon"
     },
@@ -816,7 +816,7 @@
       "dates": "1513",
       "y": 1513,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "An English army defeated an invading Scottish force under James IV near Flodden in 1513, part of the wider War of the League of Cambrai.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Flodden"
     },
@@ -843,8 +843,8 @@
       "dates": "1520",
       "y": 1520,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
-      "desc": "Hernán Cortés and his Spanish and native allied forces were driven out of the Aztec capital Tenochtitlan in a bloody 1520 retreat.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "Hern\u00e1n Cort\u00e9s and his Spanish and native allied forces were driven out of the Aztec capital Tenochtitlan in a bloody 1520 retreat.",
       "url": "https://en.wikipedia.org/wiki/La_Noche_Triste"
     },
     {
@@ -870,7 +870,7 @@
       "dates": "1149",
       "y": 1149,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Zengid forces under Nur al-Din Zengi destroyed the army of Prince Raymond of Antioch during the Second Crusade, killing Raymond.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Inab"
     },
@@ -879,7 +879,7 @@
       "dates": "1139",
       "y": 1139,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Portuguese forces under Afonso Henriques defeated an Almoravid army, a battle later mythologized as founding the Kingdom of Portugal.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ourique"
     },
@@ -902,11 +902,11 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Fei_River"
     },
     {
-      "name": "Treaty of Brétigny",
+      "name": "Treaty of Br\u00e9tigny",
       "dates": "1360",
       "y": 1360,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Treaty between Edward III of England and John II of France that ended the first phase of the Hundred Years' War.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny"
     },
@@ -915,7 +915,7 @@
       "dates": "1471",
       "y": 1471,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Decisive Yorkist victory over Lancastrian forces in the Wars of the Roses, killing the Lancastrian heir Edward of Westminster.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury"
     },
@@ -924,7 +924,7 @@
       "dates": "1265",
       "y": 1265,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Future King Edward I defeated and killed rebel baron Simon de Montfort, ending the Second Barons' War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Evesham"
     },
@@ -942,7 +942,7 @@
       "dates": "1219",
       "y": 1219,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Danish forces defeated Estonian tribes during the Northern Crusades, allowing King Valdemar II to claim northern Estonia.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Lyndanisse"
     },
@@ -951,7 +951,7 @@
       "dates": "1385",
       "y": 1385,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Portuguese forces under John I decisively defeated Castile, securing Portuguese independence and John's claim to the throne.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Aljubarrota"
     },
@@ -960,7 +960,7 @@
       "dates": "1672",
       "y": 1672,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Naval conflict between the Dutch Republic and an England allied with France, part of the wider Franco-Dutch War.",
       "url": "https://en.wikipedia.org/wiki/Third_Anglo-Dutch_War"
     },
@@ -969,7 +969,7 @@
       "dates": "843",
       "y": 843,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Division of the Carolingian Empire among the three surviving sons of Louis the Pious, ending the Carolingian civil war.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Verdun"
     },
@@ -978,7 +978,7 @@
       "dates": "632",
       "y": 632,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Campaigns launched by Caliph Abu Bakr against rebellious Arabian tribes following the death of Muhammad, consolidating the Rashidun Caliphate.",
       "url": "https://en.wikipedia.org/wiki/Ridda_Wars"
     },
@@ -1028,11 +1028,11 @@
       "url": "https://en.wikipedia.org/wiki/Warsaw_Convention"
     },
     {
-      "name": "Polish–Russian War of 1792",
+      "name": "Polish\u2013Russian War of 1792",
       "dates": "1792",
       "y": 1792,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "War between the Polish-Lithuanian Commonwealth and the Russian Empire under Catherine the Great, allied with the Targowica Confederation.",
       "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_of_1792"
     },
@@ -1041,16 +1041,16 @@
       "dates": "1213",
       "y": 1213,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Simon de Montfort's small force of French crusaders routed a much larger army of Aragonese and Occitan lords, the decisive battle of the Albigensian Crusade.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Muret"
     },
     {
-      "name": "Italian War of 1494–1495",
+      "name": "Italian War of 1494\u20131495",
       "dates": "1494",
       "y": 1494,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Charles VIII of France invaded Italy to press his claim to Naples, opening decades of Italian Wars among France, Spain, and the Holy Roman Empire.",
       "url": "https://en.wikipedia.org/wiki/Italian_War_of_1494%E2%80%931495"
     },
@@ -1077,7 +1077,7 @@
       "dates": "1565",
       "y": 1565,
       "region": "South Asia",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "An alliance of Deccan sultanates crushed the Vijayanagara Empire, triggering the eventual collapse of the last great Hindu empire of southern India.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Talikota"
     },
@@ -1086,21 +1086,21 @@
       "dates": "1775",
       "y": 1775,
       "region": "South Asia",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "The British East India Company's first war with the Maratha Empire ended inconclusively after years of fighting across western India.",
       "url": "https://en.wikipedia.org/wiki/First_Anglo-Maratha_War"
     },
     {
-      "name": "Battle of Köse Dağ",
+      "name": "Battle of K\u00f6se Da\u011f",
       "dates": "1243",
       "y": 1243,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A Mongol army decisively defeated the Seljuk Sultanate of Rum in eastern Anatolia, reducing the sultanate to Mongol vassalage.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_K%C3%B6se_Da%C4%9F"
     },
     {
-      "name": "Battle of Bailén",
+      "name": "Battle of Bail\u00e9n",
       "dates": "1808",
       "y": 1808,
       "region": "Europe",
@@ -1140,7 +1140,7 @@
       "dates": "1261",
       "y": 1261,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Nicaean forces recaptured Constantinople from the Latin Empire, restoring the Byzantine Empire under the Palaiologos dynasty.",
       "url": "https://en.wikipedia.org/wiki/Reconquest_of_Constantinople"
     },
@@ -1149,7 +1149,7 @@
       "dates": "1330",
       "y": 1330,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Serbian forces defeated the Bulgarian Empire near Velbazhd, shifting the balance of power in the Balkans toward Serbia.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Velbazhd"
     },
@@ -1185,12 +1185,12 @@
       "dates": "1643",
       "y": 1643,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "Sweden defeated Denmark–Norway in a conflict tied to the wider Thirty Years' War, boosting Swedish power in the Baltic.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "Sweden defeated Denmark\u2013Norway in a conflict tied to the wider Thirty Years' War, boosting Swedish power in the Baltic.",
       "url": "https://en.wikipedia.org/wiki/Torstenson_War"
     },
     {
-      "name": "Russo-Persian War of 1826–28",
+      "name": "Russo-Persian War of 1826\u201328",
       "dates": "1826",
       "y": 1826,
       "region": "Europe",
@@ -1212,7 +1212,7 @@
       "dates": "1532",
       "y": 1532,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Francisco Pizarro's small Spanish force ambushed and captured the Inca ruler Atahualpa, opening the Spanish conquest of the Inca Empire.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Cajamarca"
     },
@@ -1222,7 +1222,7 @@
       "y": 1817,
       "region": "Americas",
       "period": "19th century",
-      "desc": "The Army of the Andes under José de San Martín defeated Spanish royalist forces near Santiago, a decisive early victory in the Chilean War of Independence.",
+      "desc": "The Army of the Andes under Jos\u00e9 de San Mart\u00edn defeated Spanish royalist forces near Santiago, a decisive early victory in the Chilean War of Independence.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Chacabuco"
     },
     {
@@ -1248,7 +1248,7 @@
       "dates": "1471",
       "y": 1471,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Decisive Yorkist victory over Lancastrian forces in the Wars of the Roses that helped secure the English throne for Edward IV.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Barnet"
     },
@@ -1257,7 +1257,7 @@
       "dates": "1526",
       "y": 1526,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Habsburg forces under Charles V fought an Italian alliance including France, the Papacy, and Venice for control of Italy from 1526 to 1530.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_League_of_Cognac"
     },
@@ -1275,7 +1275,7 @@
       "dates": "991",
       "y": 991,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Viking raiders defeated an Anglo-Saxon force led by Earl Byrhtnoth near Maldon in Essex, later commemorated in an Old English poem.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Maldon"
     },
@@ -1311,7 +1311,7 @@
       "dates": "711",
       "y": 711,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Umayyad forces conquered the Visigothic Kingdom on the Iberian Peninsula, ending Christian rule across most of Iberia and establishing al-Andalus.",
       "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Iberian_Peninsula"
     },
@@ -1329,7 +1329,7 @@
       "dates": "1230",
       "y": 1230,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Bulgarian forces under Ivan Asen II crushed the Empire of Thessalonica near Klokotnitsa, restoring Bulgaria as the dominant power in southeastern Europe.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Klokotnitsa"
     },
@@ -1347,7 +1347,7 @@
       "dates": "1242",
       "y": 1242,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Alexander Nevsky's Novgorodian forces defeated the Livonian Order on the frozen Lake Peipus, halting German and Danish crusading expansion into Rus' lands.",
       "url": "https://en.wikipedia.org/wiki/Battle_on_the_Ice"
     },
@@ -1374,26 +1374,26 @@
       "dates": "1195",
       "y": 1195,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Almohad forces under Abu Yusuf Ya'qub al-Mansur crushed the Castilian army of Alfonso VIII, forcing a Christian retreat to Toledo.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Alarcos"
     },
     {
-      "name": "Battle of Stallupönen",
+      "name": "Battle of Stallup\u00f6nen",
       "dates": "1914",
       "y": 1914,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "The opening battle of World War I's Eastern Front, in which German forces under Hermann von François defeated a larger but disorganized Russian force.",
+      "desc": "The opening battle of World War I's Eastern Front, in which German forces under Hermann von Fran\u00e7ois defeated a larger but disorganized Russian force.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Stallup%C3%B6nen"
     },
     {
-      "name": "Polish–Lithuanian War",
+      "name": "Polish\u2013Lithuanian War",
       "dates": "1920",
       "y": 1920,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "An undeclared conflict between newly independent Lithuania and Poland fought mainly around Vilnius and Suwałki in the aftermath of World War I.",
+      "desc": "An undeclared conflict between newly independent Lithuania and Poland fought mainly around Vilnius and Suwa\u0142ki in the aftermath of World War I.",
       "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_War"
     },
     {
@@ -1401,12 +1401,12 @@
       "dates": "1104",
       "y": 1104,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A major Seljuk Turk victory over the Crusader states of Antioch and Edessa near the Mesopotamian city of Harran in 1104.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Harran"
     },
     {
-      "name": "Ecuadorian–Peruvian War",
+      "name": "Ecuadorian\u2013Peruvian War",
       "dates": "1942",
       "y": 1942,
       "region": "Americas",
@@ -1419,7 +1419,7 @@
       "dates": "1640",
       "y": 1640,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Portugal's uprising against Habsburg Spain beginning in 1640, ending the Iberian Union and restoring Portuguese independence by 1668.",
       "url": "https://en.wikipedia.org/wiki/Portuguese_Restoration_War"
     },
@@ -1428,7 +1428,7 @@
       "dates": "1302",
       "y": 1302,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A decisive victory for Osman I's Ottoman forces over the Byzantines in Bithynia, marking the rise of the Ottoman state.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Bapheus"
     },
@@ -1456,7 +1456,7 @@
       "y": 1941,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "A Soviet defensive campaign that halted the German advance on Moscow during the winter of 1941–42.",
+      "desc": "A Soviet defensive campaign that halted the German advance on Moscow during the winter of 1941\u201342.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Moscow"
     },
     {
@@ -1473,7 +1473,7 @@
       "dates": "1700",
       "y": 1700,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A coalition led by Russia broke Swedish dominance in Northern, Central and Eastern Europe between 1700 and 1721.",
       "url": "https://en.wikipedia.org/wiki/Great_Northern_War"
     },
@@ -1482,7 +1482,7 @@
       "dates": "1520",
       "y": 1520,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A Castilian uprising against the rule of Charles I, at its peak controlling the cities of Valladolid, Tordesillas, and Toledo.",
       "url": "https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros"
     },
@@ -1518,7 +1518,7 @@
       "dates": "1688",
       "y": 1688,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A European great-power war from 1688 to 1697 pitting France against the Grand Alliance.",
       "url": "https://en.wikipedia.org/wiki/Nine_Years%27_War"
     },
@@ -1527,7 +1527,7 @@
       "dates": "1288",
       "y": 1288,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The decisive battle of the War of the Limburg Succession, fought near Cologne between the Archbishop of Cologne and his rivals.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Worringen"
     },
@@ -1536,7 +1536,7 @@
       "dates": "1709",
       "y": 1709,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Tsar Peter I's decisive defeat of Charles XII's Swedish army, ending Sweden's status as a European great power.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Poltava"
     },
@@ -1658,7 +1658,7 @@
       "url": "https://en.wikipedia.org/wiki/Munich_Agreement"
     },
     {
-      "name": "Battle of Jena–Auerstedt",
+      "name": "Battle of Jena\u2013Auerstedt",
       "dates": "1806",
       "y": 1806,
       "region": "Europe",
@@ -1672,7 +1672,7 @@
       "y": 1845,
       "region": "Oceania",
       "period": "19th century",
-      "desc": "Series of conflicts between the British Crown and Māori iwi over land and sovereignty in colonial New Zealand.",
+      "desc": "Series of conflicts between the British Crown and M\u0101ori iwi over land and sovereignty in colonial New Zealand.",
       "url": "https://en.wikipedia.org/wiki/New_Zealand_Wars"
     },
     {
@@ -1680,7 +1680,7 @@
       "dates": "1704",
       "y": 1704,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Decisive Allied victory over French and Bavarian forces during the War of the Spanish Succession, fought in Bavaria.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Blenheim"
     },
@@ -1689,7 +1689,7 @@
       "dates": "1754",
       "y": 1754,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "North American theater of the Seven Years' War, fought between Britain and France, with Native American allies, for colonial control.",
       "url": "https://en.wikipedia.org/wiki/French_and_Indian_War"
     },
@@ -1703,7 +1703,7 @@
       "url": "https://en.wikipedia.org/wiki/Lapland_War"
     },
     {
-      "name": "Battle of Königgrätz",
+      "name": "Battle of K\u00f6niggr\u00e4tz",
       "dates": "1866",
       "y": 1866,
       "region": "Europe",
@@ -1761,7 +1761,7 @@
       "dates": "1700",
       "y": 1700,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Swedish victory over a much larger Russian army at the outset of the Great Northern War in Estonia.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Narva"
     },
@@ -1788,7 +1788,7 @@
       "dates": "1794",
       "y": 1794,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Agreement easing lingering tensions between the United States and Great Britain after the Revolutionary War.",
       "url": "https://en.wikipedia.org/wiki/Jay_Treaty"
     },
@@ -1797,7 +1797,7 @@
       "dates": "1778",
       "y": 1778,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Largely bloodless conflict between Austria and Prussia over the succession to the Bavarian throne.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Bavarian_Succession"
     },
@@ -1815,7 +1815,7 @@
       "dates": "1570",
       "y": 1570,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Baltic conflict between Denmark-Norway and Sweden, ended by the Treaty of Stettin.",
       "url": "https://en.wikipedia.org/wiki/Northern_Seven_Years%27_War"
     },
@@ -1833,7 +1833,7 @@
       "dates": "1241",
       "y": 1241,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Mongol forces defeated a coalition of Polish and allied knights during the Mongol invasion of Europe.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Legnica"
     },
@@ -1851,7 +1851,7 @@
       "dates": "870",
       "y": 870,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Partition of the Carolingian Middle Kingdom between the East and West Frankish rulers.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Meerssen"
     },
@@ -1869,7 +1869,7 @@
       "dates": "1706",
       "y": 1706,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Marlborough's victory over France secured much of the Spanish Netherlands during the War of the Spanish Succession.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ramillies"
     },
@@ -1892,7 +1892,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kyiv"
     },
     {
-      "name": "Battle of Hürtgen Forest",
+      "name": "Battle of H\u00fcrtgen Forest",
       "dates": "1944",
       "y": 1944,
       "region": "Europe",
@@ -1905,7 +1905,7 @@
       "dates": "1714",
       "y": 1714,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Peace agreement between France and Austria that concluded the War of the Spanish Succession.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Rastatt"
     },
@@ -1919,11 +1919,11 @@
       "url": "https://en.wikipedia.org/wiki/Potsdam_Declaration"
     },
     {
-      "name": "Ottoman–Safavid War",
+      "name": "Ottoman\u2013Safavid War",
       "dates": "1623",
       "y": 1623,
       "region": "Middle East",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Conflict between the Ottoman and Safavid empires over control of Iraq and the Caucasus.",
       "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_Wars"
     },
@@ -1932,7 +1932,7 @@
       "dates": "1778",
       "y": 1778,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Revolutionary War battle in New Jersey where Washington's forces fought the British to a standstill, the war's last major northern engagement.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Monmouth"
     },
@@ -1941,7 +1941,7 @@
       "dates": "629",
       "y": 629,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Clash between an early Muslim expedition and Byzantine-allied forces near Jordan, a precursor to the Muslim conquest of the Levant.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mu%27tah"
     },
@@ -1968,7 +1968,7 @@
       "dates": "1499",
       "y": 1499,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Conflict between the Swiss Confederacy and the Habsburgs that secured de facto Swiss independence from the Holy Roman Empire.",
       "url": "https://en.wikipedia.org/wiki/Swabian_War"
     },
@@ -1995,7 +1995,7 @@
       "dates": "1700",
       "y": 1700,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "War between Sweden and a coalition led by Denmark-Norway and Brandenburg over control of the Scanian provinces.",
       "url": "https://en.wikipedia.org/wiki/Scanian_War"
     },
@@ -2004,7 +2004,7 @@
       "dates": "1708",
       "y": 1708,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Great Northern War battle in which Russian forces destroyed a Swedish relief column, weakening Charles XII ahead of Poltava.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Lesnaya"
     },
@@ -2013,7 +2013,7 @@
       "dates": "838",
       "y": 838,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Abbasid Caliphate's destruction of the Byzantine city of Amorium, one of the heaviest defeats the empire suffered.",
       "url": "https://en.wikipedia.org/wiki/Sack_of_Amorium"
     },
@@ -2067,7 +2067,7 @@
       "dates": "1546",
       "y": 1546,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "War between Holy Roman Emperor Charles V and the Protestant Schmalkaldic League over religious and political control of Germany.",
       "url": "https://en.wikipedia.org/wiki/Schmalkaldic_War"
     },
@@ -2095,7 +2095,7 @@
       "y": 1940,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "Agreement signed at Compiègne ending the Battle of France, dividing the country into a German-occupied zone and unoccupied Vichy France.",
+      "desc": "Agreement signed at Compi\u00e8gne ending the Battle of France, dividing the country into a German-occupied zone and unoccupied Vichy France.",
       "url": "https://en.wikipedia.org/wiki/Armistice_of_22_June_1940"
     },
     {
@@ -2103,7 +2103,7 @@
       "dates": "1759",
       "y": 1759,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Decisive Austro-Russian victory over Prussia's Frederick the Great during the Seven Years' War, among his worst defeats.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kunersdorf"
     },
@@ -2112,7 +2112,7 @@
       "dates": "732",
       "y": 732,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Frankish and Burgundian forces under Charles Martel halted an Umayyad invasion force in western France.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tours"
     },
@@ -2144,7 +2144,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tinian"
     },
     {
-      "name": "Slovak–Hungarian War",
+      "name": "Slovak\u2013Hungarian War",
       "dates": "1939",
       "y": 1939,
       "region": "Europe",
@@ -2171,11 +2171,11 @@
       "url": "https://en.wikipedia.org/wiki/First_Balkan_War"
     },
     {
-      "name": "Battle of Mohács",
+      "name": "Battle of Moh\u00e1cs",
       "dates": "1526",
       "y": 1526,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Ottoman forces crushed the Kingdom of Hungary, killing its king and opening the way for Ottoman expansion into central Europe.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs"
     },
@@ -2184,7 +2184,7 @@
       "dates": "1108",
       "y": 1108,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Agreement between Bohemond I of Antioch and Byzantine Emperor Alexios I, subordinating the Principality of Antioch to Byzantium.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Devol"
     },
@@ -2203,7 +2203,7 @@
       "y": 1877,
       "region": "East Asia",
       "period": "19th century",
-      "desc": "Final battle of the Satsuma Rebellion in Japan, in which imperial forces crushed Saigō Takamori's samurai rebels.",
+      "desc": "Final battle of the Satsuma Rebellion in Japan, in which imperial forces crushed Saig\u014d Takamori's samurai rebels.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Shiroyama"
     },
     {
@@ -2211,7 +2211,7 @@
       "dates": "1763",
       "y": 1763,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A confederation of Native American tribes fought British forces across the Great Lakes region after the French and Indian War.",
       "url": "https://en.wikipedia.org/wiki/Pontiac%27s_War"
     },
@@ -2221,15 +2221,15 @@
       "y": 1812,
       "region": "Europe",
       "period": "19th century",
-      "desc": "Napoleon's catastrophic campaign into Russia devastated the Grande Armée and marked a turning point in his downfall.",
+      "desc": "Napoleon's catastrophic campaign into Russia devastated the Grande Arm\u00e9e and marked a turning point in his downfall.",
       "url": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
     },
     {
-      "name": "Battle of Río Salado",
+      "name": "Battle of R\u00edo Salado",
       "dates": "1340",
       "y": 1340,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Christian Castilian and Portuguese forces defeated a Marinid-Nasrid invasion, ending major Muslim offensives on the Iberian Peninsula.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_R%C3%ADo_Salado"
     },
@@ -2238,7 +2238,7 @@
       "dates": "1389",
       "y": 1389,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Clash between Serbian and Ottoman forces in Kosovo that became a foundational event in Serbian national memory.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kosovo"
     },
@@ -2256,12 +2256,12 @@
       "dates": "1494",
       "y": 1494,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Agreement between Spain and Portugal dividing newly discovered lands outside Europe along a meridian in the Atlantic.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas"
     },
     {
-      "name": "Egyptian–Wahhabi War",
+      "name": "Egyptian\u2013Wahhabi War",
       "dates": "1811",
       "y": 1811,
       "region": "Middle East",
@@ -2293,7 +2293,7 @@
       "y": 1812,
       "region": "Europe",
       "period": "19th century",
-      "desc": "Bloodiest single day of the Napoleonic Wars, fought near Moscow between Napoleon's Grande Armée and the Russian army.",
+      "desc": "Bloodiest single day of the Napoleonic Wars, fought near Moscow between Napoleon's Grande Arm\u00e9e and the Russian army.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Borodino"
     },
     {
@@ -2315,7 +2315,7 @@
       "url": "https://en.wikipedia.org/wiki/Dakota_War_of_1862"
     },
     {
-      "name": "Georgian–Armenian War",
+      "name": "Georgian\u2013Armenian War",
       "dates": "1918",
       "y": 1918,
       "region": "Europe",
@@ -2324,7 +2324,7 @@
       "url": "https://en.wikipedia.org/wiki/Armeno-Georgian_War"
     },
     {
-      "name": "Polish–Soviet War",
+      "name": "Polish\u2013Soviet War",
       "dates": "1920",
       "y": 1920,
       "region": "Europe",
@@ -2337,7 +2337,7 @@
       "dates": "1568",
       "y": 1568,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Revolt of the Low Countries against Spanish Habsburg rule, leading to the independence of the Dutch Republic.",
       "url": "https://en.wikipedia.org/wiki/Eighty_Years%27_War"
     },
@@ -2346,7 +2346,7 @@
       "dates": "1792",
       "y": 1792,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "First coalition of European monarchies to fight revolutionary France, ending in French territorial gains.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_First_Coalition"
     },
@@ -2355,7 +2355,7 @@
       "dates": "1415",
       "y": 1415,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Decisive English victory over a much larger French force during the Hundred Years' War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Agincourt"
     },
@@ -2373,7 +2373,7 @@
       "dates": "1333",
       "y": 1333,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "English victory over Scottish forces during the Second War of Scottish Independence.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Halidon_Hill"
     },
@@ -2436,7 +2436,7 @@
       "dates": "636",
       "y": 636,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Decisive Rashidun Caliphate victory over the Byzantine Empire that opened the Levant to Muslim conquest.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Yarmuk"
     },
@@ -2463,7 +2463,7 @@
       "dates": "1610",
       "y": 1610,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Swedish-Russian conflict over control of Ingria and northwestern Russia during Russia's Time of Troubles.",
       "url": "https://en.wikipedia.org/wiki/Ingrian_War"
     },
@@ -2472,7 +2472,7 @@
       "dates": "1198",
       "y": 1198,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Baltic campaigns by German and Danish crusaders to conquer and Christianize the pagan peoples of Livonia and Estonia.",
       "url": "https://en.wikipedia.org/wiki/Livonian_Crusade"
     },
@@ -2481,7 +2481,7 @@
       "dates": "1081",
       "y": 1081,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Norman victory over the Byzantine Empire on the Adriatic coast that opened Robert Guiscard's campaign into the Balkans.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium"
     },
@@ -2508,7 +2508,7 @@
       "dates": "1071",
       "y": 1071,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Seljuk victory over the Byzantine Empire that opened Anatolia to Turkish settlement.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Manzikert"
     },
@@ -2517,7 +2517,7 @@
       "dates": "1192",
       "y": 1192,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Richard the Lionheart's defense of Jaffa against Saladin during the Third Crusade.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Jaffa"
     },
@@ -2526,12 +2526,12 @@
       "dates": "1683",
       "y": 1683,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Coalition victory that broke the Ottoman siege of Vienna and halted Ottoman expansion into Central Europe.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Vienna"
     },
     {
-      "name": "Armenian–Azerbaijani War",
+      "name": "Armenian\u2013Azerbaijani War",
       "dates": "1920",
       "y": 1920,
       "region": "Europe",
@@ -2544,16 +2544,16 @@
       "dates": "1356",
       "y": 1356,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Major English victory during the Hundred Years' War in which King John II of France was captured.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Poitiers"
     },
     {
-      "name": "Night attack at Târgoviște",
+      "name": "Night attack at T\u00e2rgovi\u0219te",
       "dates": "1462",
       "y": 1462,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Surprise nighttime assault by Vlad the Impaler on the Ottoman army encamped in Wallachia.",
       "url": "https://en.wikipedia.org/wiki/Night_attack_at_T%C3%A2rgovi%C8%99te"
     },
@@ -2571,7 +2571,7 @@
       "dates": "633",
       "y": 633,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Early Rashidun victory under Khalid ibn al-Walid over Sasanian forces in Mesopotamia.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Chains"
     },
@@ -2580,7 +2580,7 @@
       "dates": "1066",
       "y": 1066,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "King Harold II's victory over Norwegian invaders in England, ending Viking claims to the English throne.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge"
     },
@@ -2589,7 +2589,7 @@
       "dates": "1757",
       "y": 1757,
       "region": "South Asia",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "British East India Company victory over the Nawab of Bengal that established British colonial control in India.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Plassey"
     },
@@ -2643,7 +2643,7 @@
       "dates": "1631",
       "y": 1631,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A decisive Swedish and Saxon victory over Catholic League forces during the Thirty Years' War, marking Sweden's emergence as a major power.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Breitenfeld"
     },
@@ -2661,7 +2661,7 @@
       "dates": "634",
       "y": 634,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A rare early defeat for the Rashidun Caliphate's forces, routed by a Sasanian army after crossing the Euphrates on a pontoon bridge.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bridge"
     },
@@ -2670,7 +2670,7 @@
       "dates": "1792",
       "y": 1792,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A series of conflicts between Revolutionary France and a coalition of European monarchies seeking to contain and reverse the Revolution.",
       "url": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars"
     },
@@ -2679,7 +2679,7 @@
       "dates": "1757",
       "y": 1757,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "French and Native American forces besieged and captured a British fort in colonial New York during the French and Indian War.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Fort_William_Henry"
     },
@@ -2688,7 +2688,7 @@
       "dates": "541",
       "y": 541,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A protracted conflict between the Byzantine and Sasanian empires for control of Lazica, on the eastern Black Sea coast.",
       "url": "https://en.wikipedia.org/wiki/Lazic_War"
     },
@@ -2706,7 +2706,7 @@
       "dates": "1521",
       "y": 1521,
       "region": "South Asia",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Filipino chieftain Lapu-Lapu's warriors repelled a Spanish expedition and killed explorer Ferdinand Magellan on Mactan Island.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mactan"
     },
@@ -2715,7 +2715,7 @@
       "dates": "1206",
       "y": 1206,
       "region": "East Asia",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Beginning under Genghis Khan in Mongolia, Mongol armies built the largest contiguous land empire in history, stretching across Asia and into Europe.",
       "url": "https://en.wikipedia.org/wiki/Mongol_conquests"
     },
@@ -2733,7 +2733,7 @@
       "dates": "1402",
       "y": 1402,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Timur's forces decisively defeated and captured the Ottoman sultan Bayezid I, plunging the Ottoman Empire into a period of civil war.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ankara"
     },
@@ -2742,7 +2742,7 @@
       "dates": "1380",
       "y": 1380,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A coalition of Russian principalities led by Dmitri Donskoi defeated the Golden Horde, a turning point in Russian resistance to Mongol rule.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kulikovo"
     },
@@ -2756,7 +2756,7 @@
       "url": "https://en.wikipedia.org/wiki/Montevideo_Convention"
     },
     {
-      "name": "Sykes–Picot Agreement",
+      "name": "Sykes\u2013Picot Agreement",
       "dates": "1916",
       "y": 1916,
       "region": "Middle East",
@@ -2769,7 +2769,7 @@
       "dates": "1396",
       "y": 1396,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "An Ottoman army under Bayezid I crushed a large European crusading force near the Danube, ending hopes of relieving Christian rule in the Balkans.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Nicopolis"
     },
@@ -2778,12 +2778,12 @@
       "dates": "1733",
       "y": 1733,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A European conflict over the Polish throne, fought mainly in Italy and the Rhineland, pitting France and Spain against Austria and Russia.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Polish_Succession"
     },
     {
-      "name": "Philippine–American War",
+      "name": "Philippine\u2013American War",
       "dates": "1899",
       "y": 1899,
       "region": "South Asia",
@@ -2796,7 +2796,7 @@
       "dates": "1627",
       "y": 1627,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Barbary corsairs from North Africa raided Iceland, killing dozens and carrying several hundred captives into slavery in Algiers.",
       "url": "https://en.wikipedia.org/wiki/Turkish_Abductions"
     },
@@ -2814,7 +2814,7 @@
       "dates": "1579",
       "y": 1579,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "An alliance of northern Dutch provinces against Spanish rule that laid the constitutional foundation for the Dutch Republic.",
       "url": "https://en.wikipedia.org/wiki/Union_of_Utrecht"
     },
@@ -2841,12 +2841,12 @@
       "dates": "1212",
       "y": 1212,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A coalition of Christian Iberian kingdoms decisively defeated the Almohad Caliphate, a turning point in the Reconquista.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Las_Navas_de_Tolosa"
     },
     {
-      "name": "Soviet–Japanese War",
+      "name": "Soviet\u2013Japanese War",
       "dates": "1945",
       "y": 1945,
       "region": "East Asia",
@@ -2868,7 +2868,7 @@
       "dates": "1659",
       "y": 1659,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A peace treaty ending the Franco-Spanish War and establishing the modern border between France and Spain along the Pyrenees.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_the_Pyrenees"
     },
@@ -2886,7 +2886,7 @@
       "dates": "1718",
       "y": 1718,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Britain, France, Austria, and the Dutch Republic united to check Spanish expansion in Italy under Cardinal Alberoni's foreign policy.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance"
     },
@@ -2904,7 +2904,7 @@
       "dates": "1485",
       "y": 1485,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Henry Tudor defeated and killed Richard III, ending the Wars of the Roses and founding the Tudor dynasty.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"
     },
@@ -2913,7 +2913,7 @@
       "dates": "1314",
       "y": 1314,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Robert the Bruce's Scottish forces decisively defeated the English army of Edward II, securing Scottish independence.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Bannockburn"
     },
@@ -2931,7 +2931,7 @@
       "dates": "1789",
       "y": 1789,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A decisive Russo-Austrian victory over Ottoman forces during the Russo-Turkish War, led by Alexander Suvorov.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Rymnik"
     },
@@ -2949,7 +2949,7 @@
       "dates": "1757",
       "y": 1757,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A Prussian victory over Austrian forces early in the Seven Years' War, followed by a costly Prussian siege of the Bohemian capital.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Prague"
     },
@@ -2958,7 +2958,7 @@
       "dates": "1395",
       "y": 1395,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Wallachian prince Mircea the Elder repelled an Ottoman invasion force, delaying the Ottoman conquest of Wallachia.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Rovine"
     },
@@ -2967,8 +2967,8 @@
       "dates": "937",
       "y": 937,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "King Æthelstan's army crushed a coalition of Scots, Vikings, and Strathclyde Britons, a defining moment in English unification.",
+      "period": "Medieval (500\u20131500)",
+      "desc": "King \u00c6thelstan's army crushed a coalition of Scots, Vikings, and Strathclyde Britons, a defining moment in English unification.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Brunanburh"
     },
     {
@@ -3003,7 +3003,7 @@
       "dates": "1299",
       "y": 1299,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Mongol Ilkhanate forces under Ghazan Khan defeated the Mamluk Sultanate near Homs, Syria.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Wadi_al-Khaznadar"
     },
@@ -3012,7 +3012,7 @@
       "dates": "986",
       "y": 986,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Bulgarian forces under Tsar Samuel ambushed and destroyed a Byzantine army in the mountains of eastern Bulgaria.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Gates_of_Trajan"
     },
@@ -3030,7 +3030,7 @@
       "dates": "630",
       "y": 630,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Muhammad's Muslim army defeated the Hawazin and Thaqif tribes near Mecca, securing control of the Arabian Peninsula's holy cities.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Hunayn"
     },
@@ -3039,7 +3039,7 @@
       "dates": "878",
       "y": 878,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "King Alfred the Great of Wessex decisively defeated the Great Heathen Army of Danish Vikings, securing Anglo-Saxon England's survival.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Edington"
     },
@@ -3048,16 +3048,16 @@
       "dates": "1684",
       "y": 1684,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Venice and its Holy League allies fought the Ottoman Empire for control of the Peloponnese peninsula in Greece.",
       "url": "https://en.wikipedia.org/wiki/Morean_War"
     },
     {
-      "name": "Battle of Karánsebes",
+      "name": "Battle of Kar\u00e1nsebes",
       "dates": "1788",
       "y": 1788,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Austrian army units mistakenly attacked each other in a chaotic nighttime panic during the Austro-Turkish War, inflicting heavy self-caused casualties.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kar%C3%A1nsebes"
     },
@@ -3066,7 +3066,7 @@
       "dates": "1689",
       "y": 1689,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Supporters of deposed King James II fought forces loyal to William of Orange for control of Ireland and the English throne.",
       "url": "https://en.wikipedia.org/wiki/Williamite_War_in_Ireland"
     },
@@ -3075,16 +3075,16 @@
       "dates": "526",
       "y": 526,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The Byzantine and Sasanian Persian empires fought for control of the Caucasian kingdom of Iberia, in modern-day Georgia.",
       "url": "https://en.wikipedia.org/wiki/Iberian_War"
     },
     {
-      "name": "Byzantine–Sassanid War of 602–628",
+      "name": "Byzantine\u2013Sassanid War of 602\u2013628",
       "dates": "602",
       "y": 602,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The last and most devastating war between the Byzantine and Sasanian Persian empires ended in a decisive Byzantine victory that exhausted both sides before the Arab conquests.",
       "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628"
     },
@@ -3093,7 +3093,7 @@
       "dates": "1216",
       "y": 1216,
       "region": "East Asia",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Genghis Khan's Mongol armies destroyed the Khwarezmian Empire, conquering Transoxiana and Persia's eastern territories.",
       "url": "https://en.wikipedia.org/wiki/Mongol_campaigns_in_Central_Asia"
     },
@@ -3120,7 +3120,7 @@
       "dates": "1461",
       "y": 1461,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The Second Battle of St Albans was fought on 17 February 1461 during the Wars of the Roses in St Albans, Hertfordshire, England.",
       "url": "https://en.wikipedia.org/wiki/Second_Battle_of_St_Albans"
     },
@@ -3139,7 +3139,7 @@
       "y": 1815,
       "region": "Africa",
       "period": "19th century",
-      "desc": "The Second Barbary War, also known as the U.S.–Algerian War and the Algerine War, was a brief military conflict between the United States and the North African state of Algiers in 1815.",
+      "desc": "The Second Barbary War, also known as the U.S.\u2013Algerian War and the Algerine War, was a brief military conflict between the United States and the North African state of Algiers in 1815.",
       "url": "https://en.wikipedia.org/wiki/Second_Barbary_War"
     },
     {
@@ -3156,7 +3156,7 @@
       "dates": "1689",
       "y": 1689,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "The Second Hundred Years' War is a term of periodization, or a historical era designation, coined by J. R. Seeley in his work The Expansion of England (1883).",
       "url": "https://en.wikipedia.org/wiki/Second_Hundred_Years%27_War"
     },
@@ -3165,7 +3165,7 @@
       "dates": "1187",
       "y": 1187,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The Battle of Hattin took place on 4 July 1187, between the Crusader states of the Levant and the forces of the Ayyubid sultan Saladin. It is also known as the Battle of the Horns of Hattin, due to the shape of the nearby extinct volcano of that name.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Hattin"
     },
@@ -3183,8 +3183,8 @@
       "dates": "1780",
       "y": 1780,
       "region": "South Asia",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Second Anglo-Mysore War was a conflict between the Kingdom of Mysore and the British East India Company from 1780 to 1784. At the time, Mysore was a key French ally in India, and the conflict between Britain against the French and Dutch in the American Revolutionary War influenced Anglo-Mysorean hostilities in India. The great majority of soldiers on the company side were raised, trained, p…",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Second Anglo-Mysore War was a conflict between the Kingdom of Mysore and the British East India Company from 1780 to 1784. At the time, Mysore was a key French ally in India, and the conflict between Britain against the French and Dutch in the American Revolutionary War influenced Anglo-Mysorean hostilities in India. The great majority of soldiers on the company side were raised, trained, p\u2026",
       "url": "https://en.wikipedia.org/wiki/Second_Anglo-Mysore_War"
     },
     {
@@ -3192,8 +3192,8 @@
       "dates": "1744",
       "y": 1744,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Second Silesian War was a war between Prussia and Austria that lasted from 1744 to 1745 and confirmed Prussia's control of the region of Silesia. The war was fought mainly in Silesia, Bohemia, and Upper Saxony and formed one theatre of the wider War of the Austrian Succession. It was the second of three Silesian Wars fought between Frederick the Great's Prussia and Maria Theresa's Austria i…",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Second Silesian War was a war between Prussia and Austria that lasted from 1744 to 1745 and confirmed Prussia's control of the region of Silesia. The war was fought mainly in Silesia, Bohemia, and Upper Saxony and formed one theatre of the wider War of the Austrian Succession. It was the second of three Silesian Wars fought between Frederick the Great's Prussia and Maria Theresa's Austria i\u2026",
       "url": "https://en.wikipedia.org/wiki/Second_Silesian_War"
     },
     {
@@ -3202,7 +3202,7 @@
       "y": 1914,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "The First Battle of the Aisne was the Allied follow-up offensive against the right wing of the German First Army and the Second Army as they retreated after the First Battle of the Marne earlier in September 1914. The Advance to the Aisne consisted of the Battle of the Marne (7–10 September) and the Battle of the Aisne (12–15 September).",
+      "desc": "The First Battle of the Aisne was the Allied follow-up offensive against the right wing of the German First Army and the Second Army as they retreated after the First Battle of the Marne earlier in September 1914. The Advance to the Aisne consisted of the Battle of the Marne (7\u201310 September) and the Battle of the Aisne (12\u201315 September).",
       "url": "https://en.wikipedia.org/wiki/First_Battle_of_the_Aisne"
     },
     {
@@ -3210,7 +3210,7 @@
       "dates": "1600",
       "y": 1600,
       "region": "East Asia",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "The Battle of Sekigahara was an important battle in Japan which occurred on October 21, 1600 in what is now Gifu Prefecture, Japan, at the end of the Sengoku period.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Sekigahara"
     },
@@ -3219,8 +3219,8 @@
       "dates": "1609",
       "y": 1609,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Expulsion of the Moriscos was decreed by King Philip III of Spain on April 9, 1609. The Moriscos were descendants of Spain's Muslim population who had been forced to convert to Christianity. Since the Spanish were fighting wars in the Americas, feeling threatened by the Ottomans raiding along the Spanish coast and by two Morisco revolts in the century since Islam was outlawed in Spain, it s…",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Expulsion of the Moriscos was decreed by King Philip III of Spain on April 9, 1609. The Moriscos were descendants of Spain's Muslim population who had been forced to convert to Christianity. Since the Spanish were fighting wars in the Americas, feeling threatened by the Ottomans raiding along the Spanish coast and by two Morisco revolts in the century since Islam was outlawed in Spain, it s\u2026",
       "url": "https://en.wikipedia.org/wiki/Expulsion_of_the_Moriscos"
     },
     {
@@ -3229,7 +3229,7 @@
       "y": 1912,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "The Battle of Kumanovo, on 23–24 October 1912, was a major battle of the First Balkan War. It was an important Serbian victory over the Ottoman army in the Kosovo Vilayet, shortly after the outbreak of the war. After this defeat, the Ottoman army abandoned the major part of the region, suffering heavy losses in manpower and in war materiel.",
+      "desc": "The Battle of Kumanovo, on 23\u201324 October 1912, was a major battle of the First Balkan War. It was an important Serbian victory over the Ottoman army in the Kosovo Vilayet, shortly after the outbreak of the war. After this defeat, the Ottoman army abandoned the major part of the region, suffering heavy losses in manpower and in war materiel.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kumanovo"
     },
     {
@@ -3238,7 +3238,7 @@
       "y": 1836,
       "region": "Americas",
       "period": "19th century",
-      "desc": "The Battle of the Alamo was a pivotal event and military engagement in the Texas Revolution. Following a 13-day siege, Mexican troops under President General Antonio López de Santa Anna reclaimed the Alamo Mission near San Antonio de Béxar.",
+      "desc": "The Battle of the Alamo was a pivotal event and military engagement in the Texas Revolution. Following a 13-day siege, Mexican troops under President General Antonio L\u00f3pez de Santa Anna reclaimed the Alamo Mission near San Antonio de B\u00e9xar.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Alamo"
     },
     {
@@ -3247,7 +3247,7 @@
       "y": 1948,
       "region": "South Asia",
       "period": "20th century onward",
-      "desc": "The Malayan Emergency, also known as the Anti–British National Liberation War, (1948–1960) was a guerrilla war fought in Malaya between communist pro-independence fighters of the Malayan National Liberation Army (MNLA) and the military forces of the Federation of Malaya and the Commonwealth. The communists fought to win independence for Malaya from the British Empire and to establish a communis…",
+      "desc": "The Malayan Emergency, also known as the Anti\u2013British National Liberation War, (1948\u20131960) was a guerrilla war fought in Malaya between communist pro-independence fighters of the Malayan National Liberation Army (MNLA) and the military forces of the Federation of Malaya and the Commonwealth. The communists fought to win independence for Malaya from the British Empire and to establish a communis\u2026",
       "url": "https://en.wikipedia.org/wiki/Malayan_Emergency"
     },
     {
@@ -3255,7 +3255,7 @@
       "dates": "1764",
       "y": 1764,
       "region": "South Asia",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "The Battle of Buxar was fought between 22 and 23 October 1764, between the forces of the British East India Company, under the command of Major Hector Munro, against the combined armies of Shah Alam II, the Emperor of the Mughal Empire; Mir Qasim, the Nawab of Bengal; Balwant Singh, the Maharaja of the Benares State; Shuja-ud-daula, the Nawab of Awadh.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Buxar"
     },
@@ -3274,7 +3274,7 @@
       "y": 1948,
       "region": "East Asia",
       "period": "20th century onward",
-      "desc": "The 1948 Ashgabat earthquake was on 6 October with a surface-wave magnitude of 7.3 and a maximum Mercalli intensity of X (Extreme), in Turkmenistan near Ashgabat. Due to censorship by the Soviet government, the event was not widely reported in the Soviet media. Historians tend to agree that the ban on reporting the extent of the casualties and damage did not allow the Soviet government to alloc…",
+      "desc": "The 1948 Ashgabat earthquake was on 6 October with a surface-wave magnitude of 7.3 and a maximum Mercalli intensity of X (Extreme), in Turkmenistan near Ashgabat. Due to censorship by the Soviet government, the event was not widely reported in the Soviet media. Historians tend to agree that the ban on reporting the extent of the casualties and damage did not allow the Soviet government to alloc\u2026",
       "url": "https://en.wikipedia.org/wiki/1948_Ashgabat_earthquake"
     },
     {
@@ -3283,7 +3283,7 @@
       "y": 1917,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "The name Battle of Arras refers to a number of battles which took place near the town of Arras in Artois, France:Siege of Arras (1640), a siege by the French against the Spanish during the Thirty Years' War\nBattle of Arras (1654), a clash between the French and the Spanish\nBattle of Arras (1914), a battle during the Race to the Sea in the First World War\nBattle of Arras (1915), took place on Ma…",
+      "desc": "The name Battle of Arras refers to a number of battles which took place near the town of Arras in Artois, France:Siege of Arras (1640), a siege by the French against the Spanish during the Thirty Years' War\nBattle of Arras (1654), a clash between the French and the Spanish\nBattle of Arras (1914), a battle during the Race to the Sea in the First World War\nBattle of Arras (1915), took place on Ma\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Arras"
     },
     {
@@ -3292,11 +3292,11 @@
       "y": 1807,
       "region": "Europe",
       "period": "19th century",
-      "desc": "The Battle of Friedland was a major engagement of the Napoleonic Wars between the armies of the French Empire and the Russian Empire led by Napoleon I and General Levin August von Bennigsen respectively. Napoleon and the French obtained a decisive victory that routed much of the Russian army, which retreated chaotically over the Alle river by the end of the fighting. The battlefield is located …",
+      "desc": "The Battle of Friedland was a major engagement of the Napoleonic Wars between the armies of the French Empire and the Russian Empire led by Napoleon I and General Levin August von Bennigsen respectively. Napoleon and the French obtained a decisive victory that routed much of the Russian army, which retreated chaotically over the Alle river by the end of the fighting. The battlefield is located \u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Friedland"
     },
     {
-      "name": "Ukrainian–Soviet War",
+      "name": "Ukrainian\u2013Soviet War",
       "dates": "1917",
       "y": 1917,
       "region": "Europe",
@@ -3337,7 +3337,7 @@
       "y": 1894,
       "region": "Europe",
       "period": "19th century",
-      "desc": "A military alliance between France and Russia formed 1891–94 in response to the Triple Alliance, lasting until 1917.",
+      "desc": "A military alliance between France and Russia formed 1891\u201394 in response to the Triple Alliance, lasting until 1917.",
       "url": "https://en.wikipedia.org/wiki/Franco-Russian_Alliance"
     },
     {
@@ -3354,7 +3354,7 @@
       "dates": "1260",
       "y": 1260,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A battle between the Mamluks of Egypt and the Mongol Ilkhanate near Ain Jalut, marking the first major halt to Mongol expansion.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut"
     },
@@ -3363,7 +3363,7 @@
       "dates": "1456",
       "y": 1456,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The 1456 siege in which Hungarian forces under John Hunyadi repelled an Ottoman attempt to capture Belgrade.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Belgrade_(1456)"
     },
@@ -3372,7 +3372,7 @@
       "dates": "632",
       "y": 632,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A decisive battle of the Ridda Wars in which forces of Caliph Abu Bakr defeated the self-proclaimed prophet Musaylima.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_al-Yamama"
     },
@@ -3381,8 +3381,8 @@
       "dates": "1558",
       "y": 1558,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "A 1558–1583 war for control of Old Livonia between the Tsardom of Russia and a coalition of Nordic and Polish-Lithuanian powers.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "A 1558\u20131583 war for control of Old Livonia between the Tsardom of Russia and a coalition of Nordic and Polish-Lithuanian powers.",
       "url": "https://en.wikipedia.org/wiki/Livonian_War"
     },
     {
@@ -3390,7 +3390,7 @@
       "dates": "659",
       "y": 659,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A 658 CE battle in which Caliph Ali's forces defeated the Kharijites, former allies who had broken with him after Siffin.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Nahrawan"
     },
@@ -3399,8 +3399,8 @@
       "dates": "633",
       "y": 633,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
-      "desc": "The Rashidun Caliphate's conquest of Byzantine Syria between 634–638 CE, part of the wider early Muslim conquests.",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Rashidun Caliphate's conquest of Byzantine Syria between 634\u2013638 CE, part of the wider early Muslim conquests.",
       "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Syria"
     },
     {
@@ -3427,25 +3427,25 @@
       "y": 1914,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "A disastrous World War I engagement between Russian and Ottoman forces in the Caucasus campaign, fought in winter 1914–15.",
+      "desc": "A disastrous World War I engagement between Russian and Ottoman forces in the Caucasus campaign, fought in winter 1914\u201315.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Sarikamish"
     },
     {
-      "name": "Hungarian–Romanian War",
+      "name": "Hungarian\u2013Romanian War",
       "dates": "1919",
       "y": 1919,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "A 1918–1919 war between Hungary and Romania fought amid the collapse of Austria-Hungary after World War I.",
+      "desc": "A 1918\u20131919 war between Hungary and Romania fought amid the collapse of Austria-Hungary after World War I.",
       "url": "https://en.wikipedia.org/wiki/Hungarian%E2%80%93Romanian_War"
     },
     {
-      "name": "Italian War of 1551–1559",
+      "name": "Italian War of 1551\u20131559",
       "dates": "1551",
       "y": 1551,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "A war begun by Henry II of France against Charles V for control of Italy, ended by the Treaty of Cateau-Cambrésis.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "A war begun by Henry II of France against Charles V for control of Italy, ended by the Treaty of Cateau-Cambr\u00e9sis.",
       "url": "https://en.wikipedia.org/wiki/Italian_War_of_1551%E2%80%931559"
     },
     {
@@ -3454,7 +3454,7 @@
       "y": 1853,
       "region": "Europe",
       "period": "19th century",
-      "desc": "A war fought 1853–56 between Russia and an alliance of the Ottoman Empire, France, Britain, and Sardinia over the Eastern Question.",
+      "desc": "A war fought 1853\u201356 between Russia and an alliance of the Ottoman Empire, France, Britain, and Sardinia over the Eastern Question.",
       "url": "https://en.wikipedia.org/wiki/Crimean_War"
     },
     {
@@ -3471,7 +3471,7 @@
       "dates": "1480",
       "y": 1480,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "An 1480 standoff on the Ugra River between Akhmat Khan of the Great Horde and Grand Prince Ivan III of Moscow, ending Mongol rule over Russia.",
       "url": "https://en.wikipedia.org/wiki/Great_Stand_on_the_Ugra_River"
     },
@@ -3489,7 +3489,7 @@
       "dates": "502",
       "y": 502,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A war fought from 502 to 506 between the Byzantine and Sasanian empires, the first major conflict between the two powers in over sixty years.",
       "url": "https://en.wikipedia.org/wiki/Anastasian_War"
     },
@@ -3498,7 +3498,7 @@
       "dates": "1638",
       "y": 1638,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A series of conflicts from 1639 to 1653 across England, Scotland and Ireland, including the English Civil Wars and the Irish Confederate Wars.",
       "url": "https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms"
     },
@@ -3508,7 +3508,7 @@
       "y": 1831,
       "region": "Middle East",
       "period": "19th century",
-      "desc": "An 1831–1833 conflict in which Egyptian forces under Muhammad Ali Pasha seized Ottoman Syria, demanding it as reward for aiding the sultan in the Greek War of Independence.",
+      "desc": "An 1831\u20131833 conflict in which Egyptian forces under Muhammad Ali Pasha seized Ottoman Syria, demanding it as reward for aiding the sultan in the Greek War of Independence.",
       "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Ottoman_War_%281831%E2%80%931833%29"
     },
     {
@@ -3516,8 +3516,8 @@
       "dates": "1667",
       "y": 1667,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "A 1667–1668 war in which France occupied the Spanish Netherlands and Franche-Comté, with Louis XIV claiming the territories through his wife's inheritance rights.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "A 1667\u20131668 war in which France occupied the Spanish Netherlands and Franche-Comt\u00e9, with Louis XIV claiming the territories through his wife's inheritance rights.",
       "url": "https://en.wikipedia.org/wiki/War_of_Devolution"
     },
     {
@@ -3535,7 +3535,7 @@
       "y": 1839,
       "region": "Middle East",
       "period": "19th century",
-      "desc": "An 1839–1841 conflict, also called the Second Syrian War, fought mainly in Syria between Egyptian and Ottoman forces.",
+      "desc": "An 1839\u20131841 conflict, also called the Second Syrian War, fought mainly in Syria between Egyptian and Ottoman forces.",
       "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Ottoman_War_%281839%E2%80%931841%29"
     },
     {
@@ -3570,12 +3570,12 @@
       "dates": "1659",
       "y": 1659,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A 1659 battle in which a Cossack coalition under Hetman Ivan Vyhovsky defeated Russian Tsardom cavalry near Konotop, Ukraine, during the Russo-Polish War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Konotop"
     },
     {
-      "name": "Japanese coup d'état in French Indochina",
+      "name": "Japanese coup d'\u00e9tat in French Indochina",
       "dates": "1945",
       "y": 1945,
       "region": "South Asia",
@@ -3589,7 +3589,7 @@
       "y": 496,
       "region": "Europe",
       "period": "Ancient (to 500 CE)",
-      "desc": "A battle between the Franks under Clovis I and the Alamanni, traditionally dated to 496, near what is now Zülpich, Germany.",
+      "desc": "A battle between the Franks under Clovis I and the Alamanni, traditionally dated to 496, near what is now Z\u00fclpich, Germany.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tolbiac"
     },
     {
@@ -3606,7 +3606,7 @@
       "dates": "1040",
       "y": 1040,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "An 1040 battle in which the Seljuq Turks decisively defeated the Ghaznavid Empire near Merv, ending Ghaznavid dominance over Greater Khorasan.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dandanaqan"
     },
@@ -3615,7 +3615,7 @@
       "dates": "1785",
       "y": 1785,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "A conflict for control of the Northwest Territory between the United States and a confederation of Native American nations, considered the first American Indian War.",
       "url": "https://en.wikipedia.org/wiki/Northwest_Indian_War"
     },
@@ -3624,7 +3624,7 @@
       "dates": "1200",
       "y": 1200,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "A 13th-century series of campaigns by the Teutonic Knights and other Catholic crusaders to conquer and Christianize the pagan Old Prussians.",
       "url": "https://en.wikipedia.org/wiki/Prussian_Crusade"
     },
@@ -3633,17 +3633,17 @@
       "dates": "1798",
       "y": 1798,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "An 1798–1802 war between revolutionary France and a coalition of European monarchies led by Britain, Austria and Russia.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "An 1798\u20131802 war between revolutionary France and a coalition of European monarchies led by Britain, Austria and Russia.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Second_Coalition"
     },
     {
-      "name": "Austro-Turkish War of 1716–1718",
+      "name": "Austro-Turkish War of 1716\u20131718",
       "dates": "1716",
       "y": 1716,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Austro-Turkish War (1716–1718) was fought between the Habsburg monarchy and the Ottoman Empire. The 1699 Treaty of Karlowitz was not an acceptable permanent agreement for the Ottoman Empire.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Austro-Turkish War (1716\u20131718) was fought between the Habsburg monarchy and the Ottoman Empire. The 1699 Treaty of Karlowitz was not an acceptable permanent agreement for the Ottoman Empire.",
       "url": "https://en.wikipedia.org/wiki/Austro-Turkish_War_%281716%E2%80%931718%29"
     },
     {
@@ -3661,7 +3661,7 @@
       "y": 1920,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "The Vlora War or Vlora crisis was a military conflict in the Vlorë region of Albania between the Kingdom of Italy and Albanian nationalists.",
+      "desc": "The Vlora War or Vlora crisis was a military conflict in the Vlor\u00eb region of Albania between the Kingdom of Italy and Albanian nationalists.",
       "url": "https://en.wikipedia.org/wiki/Vlora_War"
     },
     {
@@ -3669,7 +3669,7 @@
       "dates": "1281",
       "y": 1281,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The Second Battle of Homs was fought in western Syria on 29 October 1281, between the armies of the Mamluk dynasty of Egypt and the Ilkhanate, a division of the Mongol Empire centered on Iran.",
       "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Homs"
     },
@@ -3678,7 +3678,7 @@
       "dates": "1800",
       "y": 1800,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "The Battle of Marengo was fought on 14 June 1800 between French forces under the First Consul Napoleon Bonaparte and Austrian forces near the city of Alessandria, in Piedmont, Italy.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Marengo"
     },
@@ -3687,7 +3687,7 @@
       "dates": "955",
       "y": 955,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The Battle of Lechfeld was a series of military engagements over three days in August 955 in which the Kingdom of Germany, led by Otto I, defeated the Hungarian army.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Lechfeld"
     },
@@ -3696,7 +3696,7 @@
       "dates": "1739",
       "y": 1739,
       "region": "South Asia",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "The Battle of Karnal was a decisive victory for Nader Shah, founder of the Afsharid dynasty of Iran, during his invasion of India, defeating the army of Mughal emperor Muhammad Shah.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Karnal"
     },
@@ -3728,12 +3728,12 @@
       "url": "https://en.wikipedia.org/wiki/Aceh_War"
     },
     {
-      "name": "Battle of Crécy",
+      "name": "Battle of Cr\u00e9cy",
       "dates": "1346",
       "y": 1346,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "The Battle of Crécy took place on 26 August 1346 in northern France between a French army under King Philip VI and an English army under King Edward III, an English victory in the Hundred Years' War.",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Battle of Cr\u00e9cy took place on 26 August 1346 in northern France between a French army under King Philip VI and an English army under King Edward III, an English victory in the Hundred Years' War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy"
     },
     {
@@ -3741,7 +3741,7 @@
       "dates": "717",
       "y": 717,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Constantinople, built on the land linking Europe to Asia, had strategic value for many empires and kingdoms who tried to conquer it throughout history.",
       "url": "https://en.wikipedia.org/wiki/List_of_sieges_of_Constantinople"
     },
@@ -3759,7 +3759,7 @@
       "dates": "1266",
       "y": 1266,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The Battle of Benevento was fought on 26 February 1266 near Benevento in southern Italy between the forces of Charles I of Anjou and King Manfred of Sicily, ending Hohenstaufen rule in Italy.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Benevento"
     },
@@ -3768,7 +3768,7 @@
       "dates": "1176",
       "y": 1176,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The Battle of Legnano was fought between the imperial army of Frederick Barbarossa and the troops of the Lombard League on 29 May 1176, near Legnano in present-day Lombardy, Italy.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Legnano"
     },
@@ -3778,7 +3778,7 @@
       "y": 1828,
       "region": "Europe",
       "period": "19th century",
-      "desc": "The Russo-Turkish War of 1828–1829 resulted from the Greek War of Independence; war broke out after the Ottoman Sultan closed the Dardanelles to Russian ships.",
+      "desc": "The Russo-Turkish War of 1828\u20131829 resulted from the Greek War of Independence; war broke out after the Ottoman Sultan closed the Dardanelles to Russian ships.",
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281828%E2%80%931829%29"
     },
     {
@@ -3787,7 +3787,7 @@
       "y": 1825,
       "region": "Americas",
       "period": "19th century",
-      "desc": "The Cisplatine War was an armed conflict fought in the 1820s between the Empire of Brazil and the United Provinces of the Río de la Plata over control of the Banda Oriental.",
+      "desc": "The Cisplatine War was an armed conflict fought in the 1820s between the Empire of Brazil and the United Provinces of the R\u00edo de la Plata over control of the Banda Oriental.",
       "url": "https://en.wikipedia.org/wiki/Cisplatine_War"
     },
     {
@@ -3795,7 +3795,7 @@
       "dates": "750",
       "y": 750,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The Battle of the Zab took place on 25 January 750, on the banks of the Great Zab in what is now Iraq, spelling the end of the Umayyad Caliphate and the rise of the Abbasid Caliphate.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Zab"
     },
@@ -3822,8 +3822,8 @@
       "dates": "612",
       "y": 612,
       "region": "East Asia",
-      "period": "Medieval (500–1500)",
-      "desc": "Goguryeo forces annihilated a vastly larger Sui Chinese army at the Salsu River, a decisive victory in the Goguryeo–Sui War.",
+      "period": "Medieval (500\u20131500)",
+      "desc": "Goguryeo forces annihilated a vastly larger Sui Chinese army at the Salsu River, a decisive victory in the Goguryeo\u2013Sui War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Salsu"
     },
     {
@@ -3849,7 +3849,7 @@
       "dates": "1777",
       "y": 1777,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "British forces under General Howe defeated Washington's Continental Army near Chadds Ford, Pennsylvania, during the American Revolutionary War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Brandywine"
     },
@@ -3876,17 +3876,17 @@
       "dates": "1759",
       "y": 1759,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "British forces defeated the French outside Quebec City in a turning point of the Seven Years' War that led to British control of Canada.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Plains_of_Abraham"
     },
     {
-      "name": "Battle of Nördlingen",
+      "name": "Battle of N\u00f6rdlingen",
       "dates": "1634",
       "y": 1634,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "Catholic Habsburg forces crushed the Protestant Swedish army at Nördlingen, a major turning point of the Thirty Years' War.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "Catholic Habsburg forces crushed the Protestant Swedish army at N\u00f6rdlingen, a major turning point of the Thirty Years' War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_N%C3%B6rdlingen"
     },
     {
@@ -3894,7 +3894,7 @@
       "dates": "1757",
       "y": 1757,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Frederick the Great's Prussian army used maneuver and terrain to rout a much larger Austrian force, securing control of Silesia.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Leuthen"
     },
@@ -3912,7 +3912,7 @@
       "dates": "1642",
       "y": 1642,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "War between Royalists and Parliamentarians in England and Wales, part of the Wars of the Three Kingdoms, that reshaped English governance.",
       "url": "https://en.wikipedia.org/wiki/First_English_Civil_War"
     },
@@ -3921,7 +3921,7 @@
       "dates": "1474",
       "y": 1474,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Conflict between the Duchy of Burgundy and the Swiss Confederacy in which Charles the Bold was defeated repeatedly and killed at Nancy.",
       "url": "https://en.wikipedia.org/wiki/Burgundian_Wars"
     },
@@ -3930,7 +3930,7 @@
       "dates": "1454",
       "y": 1454,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "War between the Prussian Confederation, backed by Poland, and the Teutonic Order, ending Teutonic dominance over western Prussia.",
       "url": "https://en.wikipedia.org/wiki/Thirteen_Years%27_War"
     },
@@ -3939,7 +3939,7 @@
       "dates": "1708",
       "y": 1708,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Anglo-Dutch forces under Marlborough and Prince Eugene defeated the French army during the War of the Spanish Succession.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Oudenarde"
     },
@@ -3948,8 +3948,8 @@
       "dates": "1476",
       "y": 1476,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "René II of Lorraine and the Swiss Confederacy defeated and killed Charles the Bold, ending Burgundian power in Lorraine.",
+      "period": "Medieval (500\u20131500)",
+      "desc": "Ren\u00e9 II of Lorraine and the Swiss Confederacy defeated and killed Charles the Bold, ending Burgundian power in Lorraine.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Nancy"
     },
     {
@@ -3957,7 +3957,7 @@
       "dates": "1709",
       "y": 1709,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "One of the bloodiest battles of the 18th century; the Grand Alliance under Marlborough won a costly victory over the French in the War of the Spanish Succession.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Malplaquet"
     },
@@ -3984,7 +3984,7 @@
       "dates": "1707",
       "y": 1707,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Decisive Bourbon victory over Habsburg forces during the War of the Spanish Succession, securing Philip V's hold on Spain.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Almansa"
     },
@@ -4002,7 +4002,7 @@
       "dates": "1291",
       "y": 1291,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Mamluk capture of the last Crusader stronghold in the Holy Land, ending nearly two centuries of Crusader presence in the Levant.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Acre"
     },
@@ -4011,7 +4011,7 @@
       "dates": "1644",
       "y": 1644,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Parliamentarian and Scottish Covenanter victory over Royalist forces, the largest battle of the Wars of the Three Kingdoms.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Marston_Moor"
     },
@@ -4029,7 +4029,7 @@
       "dates": "1315",
       "y": 1315,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Swiss Confederate ambush that destroyed an invading Austrian army, a founding victory of the Old Swiss Confederacy.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Morgarten"
     },
@@ -4061,7 +4061,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Aachen"
     },
     {
-      "name": "Battle of Białystok–Minsk",
+      "name": "Battle of Bia\u0142ystok\u2013Minsk",
       "dates": "1941",
       "y": 1941,
       "region": "Europe",
@@ -4092,8 +4092,8 @@
       "dates": "1444",
       "y": 1444,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "Ottoman victory over a Crusader army led by Władysław III of Poland and Hungary, ending the Crusade of Varna.",
+      "period": "Medieval (500\u20131500)",
+      "desc": "Ottoman victory over a Crusader army led by W\u0142adys\u0142aw III of Poland and Hungary, ending the Crusade of Varna.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Varna"
     },
     {
@@ -4110,7 +4110,7 @@
       "dates": "1740",
       "y": 1740,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Multi-power European conflict sparked by Maria Theresa's succession to the Habsburg throne.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession"
     },
@@ -4119,7 +4119,7 @@
       "dates": "1515",
       "y": 1515,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "French and Venetian victory over the Old Swiss Confederacy that ended the War of the League of Cambrai.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Marignano"
     },
@@ -4138,7 +4138,7 @@
       "y": 1807,
       "region": "Europe",
       "period": "19th century",
-      "desc": "Bloody, inconclusive clash between Napoleon's Grande Armée and Russian forces in East Prussia.",
+      "desc": "Bloody, inconclusive clash between Napoleon's Grande Arm\u00e9e and Russian forces in East Prussia.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Eylau"
     },
     {
@@ -4146,7 +4146,7 @@
       "dates": "1756",
       "y": 1756,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Global conflict pitting Britain and Prussia against France, Austria, and their allies across Europe, the Americas, and India.",
       "url": "https://en.wikipedia.org/wiki/Seven_Years%27_War"
     },
@@ -4155,7 +4155,7 @@
       "dates": "1798",
       "y": 1798,
       "region": "Africa",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Napoleon's victory over Ottoman Egyptian forces near Cairo during the French invasion of Egypt.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Pyramids"
     },
@@ -4164,8 +4164,8 @@
       "dates": "1775",
       "y": 1775,
       "region": "Americas",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Battle of Bunker Hill was fought on June 17, 1775, during the Siege of Boston in the first stage of the American Revolutionary War. The battle is named after Bunker Hill in Charlestown, Massach…",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Battle of Bunker Hill was fought on June 17, 1775, during the Siege of Boston in the first stage of the American Revolutionary War. The battle is named after Bunker Hill in Charlestown, Massach\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill"
     },
     {
@@ -4174,7 +4174,7 @@
       "y": 1944,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "The Battle of Monte Cassino, also known as the Battle for Rome, was a series of four military assaults by the Allies against Axis forces in Italy during the Italian Campaign of World War II. The ob…",
+      "desc": "The Battle of Monte Cassino, also known as the Battle for Rome, was a series of four military assaults by the Allies against Axis forces in Italy during the Italian Campaign of World War II. The ob\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino"
     },
     {
@@ -4182,17 +4182,17 @@
       "dates": "1410",
       "y": 1410,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "The Battle of Grunwald, also known as the (First) Battle of Tannenberg or the Battle of Žalgiris, was fought on 15 July 1410 during the Polish–Lithuanian–Teutonic War. The alliance of the Crown of …",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Battle of Grunwald, also known as the (First) Battle of Tannenberg or the Battle of \u017dalgiris, was fought on 15 July 1410 during the Polish\u2013Lithuanian\u2013Teutonic War. The alliance of the Crown of \u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Grunwald"
     },
     {
-      "name": "Battle of Großbeeren",
+      "name": "Battle of Gro\u00dfbeeren",
       "dates": "1813",
       "y": 1813,
       "region": "Europe",
       "period": "19th century",
-      "desc": "The Battle of Großbeeren occurred on 23 August 1813 in neighboring Blankenfelde and Sputendorf between the Prussian III Corps under Friedrich von Bülow and the Franco-Saxon VII Corps under Jean Rey…",
+      "desc": "The Battle of Gro\u00dfbeeren occurred on 23 August 1813 in neighboring Blankenfelde and Sputendorf between the Prussian III Corps under Friedrich von B\u00fclow and the Franco-Saxon VII Corps under Jean Rey\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Gro%C3%9Fbeeren"
     },
     {
@@ -4209,8 +4209,8 @@
       "dates": "1616",
       "y": 1616,
       "region": "East Asia",
-      "period": "Early modern (1500–1800)",
-      "desc": "The transition from Ming to Qing, also known as the Manchu conquest of China or Ming–Qing transition, was a decades-long period of conflict between the Qing dynasty, established by the Manchu Aisin…",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The transition from Ming to Qing, also known as the Manchu conquest of China or Ming\u2013Qing transition, was a decades-long period of conflict between the Qing dynasty, established by the Manchu Aisin\u2026",
       "url": "https://en.wikipedia.org/wiki/Transition_from_Ming_to_Qing"
     },
     {
@@ -4218,17 +4218,17 @@
       "dates": "1560",
       "y": 1560,
       "region": "East Asia",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Battle of Okehazama  took place on 12 June 1560 in Owari Province, in today's Aichi Prefecture. In this battle, the heavily outnumbered Oda clan troops, commanded by Oda Nobunaga, defeated Imag…",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Battle of Okehazama  took place on 12 June 1560 in Owari Province, in today's Aichi Prefecture. In this battle, the heavily outnumbered Oda clan troops, commanded by Oda Nobunaga, defeated Imag\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Okehazama"
     },
     {
-      "name": "Adams–Onís Treaty",
+      "name": "Adams\u2013On\u00eds Treaty",
       "dates": "1821",
       "y": 1821,
       "region": "Americas",
       "period": "19th century",
-      "desc": "The Adams–Onís Treaty was an agreement between Spain and the United States, signed February 22, 1819, by John Quincy Adams and Luis de Onís respectively. The US acquired Florida while renouncing cl…",
+      "desc": "The Adams\u2013On\u00eds Treaty was an agreement between Spain and the United States, signed February 22, 1819, by John Quincy Adams and Luis de On\u00eds respectively. The US acquired Florida while renouncing cl\u2026",
       "url": "https://en.wikipedia.org/wiki/Adams%E2%80%93On%C3%ADs_Treaty"
     },
     {
@@ -4236,8 +4236,8 @@
       "dates": "1204",
       "y": 1204,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "The Partitio terrarum imperii Romaniae, or Partitio regni Graeci, was a treaty signed among the crusaders after the sack of the Byzantine capital, Constantinople, by the Fourth Crusade in 1204. It …",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Partitio terrarum imperii Romaniae, or Partitio regni Graeci, was a treaty signed among the crusaders after the sack of the Byzantine capital, Constantinople, by the Fourth Crusade in 1204. It \u2026",
       "url": "https://en.wikipedia.org/wiki/Partitio_terrarum_imperii_Romaniae"
     },
     {
@@ -4245,8 +4245,8 @@
       "dates": "642",
       "y": 642,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "The Arab invasion of Armenia was a series of military campaigns conducted in 639–661 CE by the Rashidun Caliphate against the Byzantine Empire in Byzantine Armenia as part of the wider early Muslim…",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Arab invasion of Armenia was a series of military campaigns conducted in 639\u2013661 CE by the Rashidun Caliphate against the Byzantine Empire in Byzantine Armenia as part of the wider early Muslim\u2026",
       "url": "https://en.wikipedia.org/wiki/Arab_invasion_of_Armenia"
     },
     {
@@ -4254,7 +4254,7 @@
       "dates": "1673",
       "y": 1673,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "Battle of Khotyn can refer to several battles that took place near Khotyn:Battle of Khotyn (1509)\nBattle of Khotyn (1530)\nBattle of Khotyn (1621)\nBattle of Khotyn (1673)\nSiege of Khotyn (1788)",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Khotyn"
     },
@@ -4263,8 +4263,8 @@
       "dates": "1654",
       "y": 1654,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "Anglo-Spanish War may refer to:Alfonso VIII's invasion of Gascony \nHundred Years' War (1337–1453), includes the War of the Breton Succession, the Castilian Civil War, the War of the Two Peters, and…",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "Anglo-Spanish War may refer to:Alfonso VIII's invasion of Gascony \nHundred Years' War (1337\u20131453), includes the War of the Breton Succession, the Castilian Civil War, the War of the Two Peters, and\u2026",
       "url": "https://en.wikipedia.org/wiki/Anglo-Spanish_War"
     },
     {
@@ -4272,8 +4272,8 @@
       "dates": "1258",
       "y": 1258,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
-      "desc": "The Siege of Baghdad, also known as the Sack of Baghdad, took place in early 1258. A large army commanded by Hulegu, a prince of the Mongol Empire, attacked the historic capital of the Abbasid Cali…",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Siege of Baghdad, also known as the Sack of Baghdad, took place in early 1258. A large army commanded by Hulegu, a prince of the Mongol Empire, attacked the historic capital of the Abbasid Cali\u2026",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Baghdad"
     },
     {
@@ -4282,7 +4282,7 @@
       "y": 1811,
       "region": "Americas",
       "period": "19th century",
-      "desc": "The Battle of Tippecanoe was fought on November 7, 1811, in Battle Ground, Indiana, between American forces led by then Governor William Henry Harrison of the Indiana Territory and tribal forces as…",
+      "desc": "The Battle of Tippecanoe was fought on November 7, 1811, in Battle Ground, Indiana, between American forces led by then Governor William Henry Harrison of the Indiana Territory and tribal forces as\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tippecanoe"
     },
     {
@@ -4290,8 +4290,8 @@
       "dates": "1763",
       "y": 1763,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Caucasian War or the Caucasus War was a 19th-century military conflict between the Russian Empire and various peoples of the North Caucasus who resisted subjugation during the Russian conquest …",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Caucasian War or the Caucasus War was a 19th-century military conflict between the Russian Empire and various peoples of the North Caucasus who resisted subjugation during the Russian conquest \u2026",
       "url": "https://en.wikipedia.org/wiki/Caucasian_War"
     },
     {
@@ -4299,8 +4299,8 @@
       "dates": "1148",
       "y": 1148,
       "region": "Middle East",
-      "period": "Medieval (500–1500)",
-      "desc": "The Battle of Damascus, Siege of Damascus, or similar names may refer to:Siege of Damascus (613), a siege during the Byzantine–Sasanian War of 602–628\nSiege of Damascus (634), a siege during the Mu…",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Battle of Damascus, Siege of Damascus, or similar names may refer to:Siege of Damascus (613), a siege during the Byzantine\u2013Sasanian War of 602\u2013628\nSiege of Damascus (634), a siege during the Mu\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Damascus"
     },
     {
@@ -4309,7 +4309,7 @@
       "y": 1897,
       "region": "South Asia",
       "period": "19th century",
-      "desc": "The Battle of Saragarhi was a last-stand battle fought before the Tirah Campaign between the British Indian Empire and Afghan tribesmen. On 12 September 1897, an estimated 12,000–24,000 Orakzai and…",
+      "desc": "The Battle of Saragarhi was a last-stand battle fought before the Tirah Campaign between the British Indian Empire and Afghan tribesmen. On 12 September 1897, an estimated 12,000\u201324,000 Orakzai and\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Saragarhi"
     },
     {
@@ -4318,7 +4318,7 @@
       "y": 1944,
       "region": "South Asia",
       "period": "20th century onward",
-      "desc": "The Battle of Kohima was the turning point of the Japanese U-Go offensive into British India in 1944 during the Second World War. It took place in three stages from 4 April to 22 June 1944 around t…",
+      "desc": "The Battle of Kohima was the turning point of the Japanese U-Go offensive into British India in 1944 during the Second World War. It took place in three stages from 4 April to 22 June 1944 around t\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kohima"
     },
     {
@@ -4327,7 +4327,7 @@
       "y": 1905,
       "region": "East Asia",
       "period": "20th century onward",
-      "desc": "The Battle of Mukden , one of the largest land battles to be fought before World War I and the last and the most decisive major land battle of the Russo-Japanese War, was fought from 20 February to…",
+      "desc": "The Battle of Mukden , one of the largest land battles to be fought before World War I and the last and the most decisive major land battle of the Russo-Japanese War, was fought from 20 February to\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mukden"
     },
     {
@@ -4336,7 +4336,7 @@
       "y": 1894,
       "region": "East Asia",
       "period": "19th century",
-      "desc": "Battle of the Yalu River may refer to:Battle of the Yalu River (1894), during the First Sino-Japanese War\nBattle of the Yalu River (1904), during the Russo-Japanese War\nBattle of Jiuliancheng, some…",
+      "desc": "Battle of the Yalu River may refer to:Battle of the Yalu River (1894), during the First Sino-Japanese War\nBattle of the Yalu River (1904), during the Russo-Japanese War\nBattle of Jiuliancheng, some\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Yalu_River"
     },
     {
@@ -4344,17 +4344,17 @@
       "dates": "530",
       "y": 530,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "The Battle of Dara was fought between the Eastern Roman Empire and the Sasanians in 530 AD. It was one of the battles of the Iberian War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dara"
     },
     {
-      "name": "Ōnin War",
+      "name": "\u014cnin War",
       "dates": "1467",
       "y": 1467,
       "region": "East Asia",
-      "period": "Medieval (500–1500)",
-      "desc": "The Ōnin War , also known as the Upheaval of Ōnin and Ōnin-Bunmei war, was a civil war that lasted from 1467 to 1477, during the Muromachi period in Japan. Ōnin refers to the Japanese era during wh…",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The \u014cnin War , also known as the Upheaval of \u014cnin and \u014cnin-Bunmei war, was a civil war that lasted from 1467 to 1477, during the Muromachi period in Japan. \u014cnin refers to the Japanese era during wh\u2026",
       "url": "https://en.wikipedia.org/wiki/%C5%8Cnin_War"
     },
     {
@@ -4362,8 +4362,8 @@
       "dates": "1658",
       "y": 1658,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Treaty of Hadiach was a treaty signed on 16 September 1658 in Hadiach, Cossack Hetmanate between representatives of the Polish–Lithuanian Commonwealth and Zaporozhian Cossacks.",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Treaty of Hadiach was a treaty signed on 16 September 1658 in Hadiach, Cossack Hetmanate between representatives of the Polish\u2013Lithuanian Commonwealth and Zaporozhian Cossacks.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Hadiach"
     },
     {
@@ -4381,7 +4381,7 @@
       "y": 1942,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "The Battle of Stalingrad was a major battle on the Eastern Front of World War II in which Nazi Germany and its Axis allies fought the Soviet Union for control of the city of Stalingrad in southern …",
+      "desc": "The Battle of Stalingrad was a major battle on the Eastern Front of World War II in which Nazi Germany and its Axis allies fought the Soviet Union for control of the city of Stalingrad in southern \u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad"
     },
     {
@@ -4389,7 +4389,7 @@
       "dates": "1582",
       "y": 1582,
       "region": "East Asia",
-      "period": "Early modern (1500–1800)",
+      "period": "Early modern (1500\u20131800)",
       "desc": "The Battle of Yamazaki  was fought in 1582 in Yamazaki, Japan, located in current-day Kyoto Prefecture. This battle is sometimes referred to as the Battle of Mt.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Yamazaki"
     },
@@ -4399,16 +4399,16 @@
       "y": 486,
       "region": "Europe",
       "period": "Ancient (to 500 CE)",
-      "desc": "Battle of Soissons can refer to several battles in the vicinity of the French town Soissons:Battle of Soissons (486), between the Franks and a Roman successor state under Syagrius\nBattle of Soisson…",
+      "desc": "Battle of Soissons can refer to several battles in the vicinity of the French town Soissons:Battle of Soissons (486), between the Franks and a Roman successor state under Syagrius\nBattle of Soisson\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Soissons"
     },
     {
-      "name": "Siege of Orléans",
+      "name": "Siege of Orl\u00e9ans",
       "dates": "1428",
       "y": 1428,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "Battle of Orléans or Siege of Orléans may refer to:Siege of Orléans (451), during the Hunnic invasion of Gaul\nBattle of Orléans (463), during the Gothic war against Aegidius\nSiege of Orléans (1428–…",
+      "period": "Medieval (500\u20131500)",
+      "desc": "Battle of Orl\u00e9ans or Siege of Orl\u00e9ans may refer to:Siege of Orl\u00e9ans (451), during the Hunnic invasion of Gaul\nBattle of Orl\u00e9ans (463), during the Gothic war against Aegidius\nSiege of Orl\u00e9ans (1428\u2013\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Orl%C3%A9ans"
     },
     {
@@ -4416,8 +4416,8 @@
       "dates": "1086",
       "y": 1086,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "The Battle of Sagrajas, also called Zalaca or Zallaqah, was a conflict fought in 1086 between the Almoravid army, led by their king, Yusuf ibn Tashfin, and the forces of King Alfonso VI of Castile.…",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Battle of Sagrajas, also called Zalaca or Zallaqah, was a conflict fought in 1086 between the Almoravid army, led by their king, Yusuf ibn Tashfin, and the forces of King Alfonso VI of Castile.\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Sagrajas"
     },
     {
@@ -4426,7 +4426,7 @@
       "y": 1917,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "The Battle of Vimy Ridge was part of the Battle of Arras, in the Pas-de-Calais department of France, during the First World War. The main combatants were the four divisions of the Canadian Corps in…",
+      "desc": "The Battle of Vimy Ridge was part of the Battle of Arras, in the Pas-de-Calais department of France, during the First World War. The main combatants were the four divisions of the Canadian Corps in\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Vimy_Ridge"
     },
     {
@@ -4434,7 +4434,7 @@
       "dates": "1259",
       "y": 1259,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
+      "period": "Medieval (500\u20131500)",
       "desc": "Treaty of Paris may refer to one of many treaties signed in Paris, France:",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris"
     },
@@ -4444,7 +4444,7 @@
       "y": 1949,
       "region": "Europe",
       "period": "20th century onward",
-      "desc": "The Geneva Convention (III) relative to the Treatment of Prisoners of War, more commonly referred to as the Third Geneva Convention or Geneva Convention III and abbreviated as GCIII, is one of the …",
+      "desc": "The Geneva Convention (III) relative to the Treatment of Prisoners of War, more commonly referred to as the Third Geneva Convention or Geneva Convention III and abbreviated as GCIII, is one of the \u2026",
       "url": "https://en.wikipedia.org/wiki/Third_Geneva_Convention"
     },
     {
@@ -4453,7 +4453,7 @@
       "y": 1914,
       "region": "Americas",
       "period": "20th century onward",
-      "desc": "The Battle of Coronel was a First World War naval battle that led to an Imperial German Navy victory over the Royal Navy on 1 November 1914, off the coast of central Chile near the city of Coronel.…",
+      "desc": "The Battle of Coronel was a First World War naval battle that led to an Imperial German Navy victory over the Royal Navy on 1 November 1914, off the coast of central Chile near the city of Coronel.\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Coronel"
     },
     {
@@ -4461,8 +4461,8 @@
       "dates": "1743",
       "y": 1743,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Battle of Dettingen took place on 27 June 1743 during the War of the Austrian Succession, near Karlstein am Main in Bavaria. An alliance composed of British, Hanoverian and Austrian troops, kno…",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Battle of Dettingen took place on 27 June 1743 during the War of the Austrian Succession, near Karlstein am Main in Bavaria. An alliance composed of British, Hanoverian and Austrian troops, kno\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dettingen"
     },
     {
@@ -4470,8 +4470,8 @@
       "dates": "811",
       "y": 811,
       "region": "Europe",
-      "period": "Medieval (500–1500)",
-      "desc": "The Battle of Pliska or Battle of Vărbitsa Pass was a series of battles between the forces of the Byzantine Empire under Emperor Nicephorus I, and the First Bulgarian Empire under Khan Krum in July…",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Battle of Pliska or Battle of V\u0103rbitsa Pass was a series of battles between the forces of the Byzantine Empire under Emperor Nicephorus I, and the First Bulgarian Empire under Khan Krum in July\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Pliska"
     },
     {
@@ -4488,8 +4488,8 @@
       "dates": "1712",
       "y": 1712,
       "region": "Europe",
-      "period": "Early modern (1500–1800)",
-      "desc": "The Battle of Denain was fought on 24 July 1712 as part of the War of the Spanish Succession. It resulted in a French victory, under Marshal Villars, against Dutch and Austrian forces, under Prince…",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Battle of Denain was fought on 24 July 1712 as part of the War of the Spanish Succession. It resulted in a French victory, under Marshal Villars, against Dutch and Austrian forces, under Prince\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Denain"
     },
     {
@@ -4498,7 +4498,7 @@
       "y": 1856,
       "region": "East Asia",
       "period": "19th century",
-      "desc": "The Second Opium War, also known as the Second Anglo-Chinese War or Arrow War, was fought between the United Kingdom and France against the Qing dynasty of China between 1856 and 1860. It was the s…",
+      "desc": "The Second Opium War, also known as the Second Anglo-Chinese War or Arrow War, was fought between the United Kingdom and France against the Qing dynasty of China between 1856 and 1860. It was the s\u2026",
       "url": "https://en.wikipedia.org/wiki/Second_Opium_War"
     },
     {
@@ -4507,7 +4507,7 @@
       "y": 1815,
       "region": "Americas",
       "period": "19th century",
-      "desc": "The Battle of New Orleans was fought on January 8, 1815, between the British Army under Major General Sir Edward Pakenham and the United States Army under Brevet Major General Andrew Jackson, rough…",
+      "desc": "The Battle of New Orleans was fought on January 8, 1815, between the British Army under Major General Sir Edward Pakenham and the United States Army under Brevet Major General Andrew Jackson, rough\u2026",
       "url": "https://en.wikipedia.org/wiki/Battle_of_New_Orleans"
     },
     {
@@ -4516,8 +4516,161 @@
       "y": 1896,
       "region": "South Asia",
       "period": "19th century",
-      "desc": "The Philippine Revolution was a war of independence waged by the revolutionary organization Katipunan against the Spanish Empire from 1896 to 1898. It was the culmination of the 333-year colonial r…",
+      "desc": "The Philippine Revolution was a war of independence waged by the revolutionary organization Katipunan against the Spanish Empire from 1896 to 1898. It was the culmination of the 333-year colonial r\u2026",
       "url": "https://en.wikipedia.org/wiki/Philippine_Revolution"
+    },
+    {
+      "name": "Gunboat War",
+      "dates": "1807",
+      "y": 1807,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Naval conflict between Denmark\u2013Norway and Britain, supported by Sweden, during the Napoleonic Wars.",
+      "url": "https://en.wikipedia.org/wiki/Gunboat_War"
+    },
+    {
+      "name": "Third Battle of Ypres",
+      "dates": "1917",
+      "y": 1917,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Also known as Passchendaele, a WWI campaign fought by the Allies against Germany near Ypres, Belgium.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Passchendaele"
+    },
+    {
+      "name": "Battle of Nagashino",
+      "dates": "1575",
+      "y": 1575,
+      "region": "East Asia",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "Allied forces of Oda Nobunaga and Tokugawa Ieyasu decisively defeated the Takeda clan.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Nagashino"
+    },
+    {
+      "name": "Great Sioux War of 1876",
+      "dates": "1876",
+      "y": 1876,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "War between the US and allied Lakota Sioux and Northern Cheyenne forces over the Black Hills.",
+      "url": "https://en.wikipedia.org/wiki/Great_Sioux_War_of_1876"
+    },
+    {
+      "name": "Arauco War",
+      "dates": "1546",
+      "y": 1546,
+      "region": "Americas",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "Long conflict between Spanish colonizers and the Mapuche people in Chile's Araucan\u00eda region.",
+      "url": "https://en.wikipedia.org/wiki/Arauco_War"
+    },
+    {
+      "name": "Battle of White Mountain",
+      "dates": "1620",
+      "y": 1620,
+      "region": "Europe",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "Early Thirty Years' War battle near Prague where forces backing Ferdinand II defeated Frederick V's army.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_White_Mountain"
+    },
+    {
+      "name": "Battle of Valmy",
+      "dates": "1792",
+      "y": 1792,
+      "region": "Europe",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "France's first major Revolutionary War victory, halting a Prussian advance on Paris.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Valmy"
+    },
+    {
+      "name": "Battle of the Golden Spurs",
+      "dates": "1302",
+      "y": 1302,
+      "region": "Europe",
+      "period": "Medieval (500\u20131500)",
+      "desc": "Flemish rebels won a surprise victory over the French royal army near Kortrijk in 1302.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Golden_Spurs"
+    },
+    {
+      "name": "Siege of Yorktown",
+      "dates": "1781",
+      "y": 1781,
+      "region": "Americas",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "Final major land battle of the American Revolutionary War, won by American and French forces.",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Yorktown"
+    },
+    {
+      "name": "Franco-Prussian War",
+      "dates": "1870",
+      "y": 1870,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Conflict between France and the Prussian-led North German Confederation, 1870\u201371.",
+      "url": "https://en.wikipedia.org/wiki/Franco-Prussian_War"
+    },
+    {
+      "name": "Svalbard Treaty",
+      "dates": "1920",
+      "y": 1920,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Recognized Norwegian sovereignty over the Svalbard archipelago while restricting its military use.",
+      "url": "https://en.wikipedia.org/wiki/Svalbard_Treaty"
+    },
+    {
+      "name": "November Uprising",
+      "dates": "1830",
+      "y": 1830,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Armed rebellion by Polish officers in Warsaw against Russian imperial rule, 1830\u201331.",
+      "url": "https://en.wikipedia.org/wiki/November_Uprising"
+    },
+    {
+      "name": "Entente Cordiale",
+      "dates": "1904",
+      "y": 1904,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Agreements signed in 1904 that markedly improved relations between the UK and France.",
+      "url": "https://en.wikipedia.org/wiki/Entente_Cordiale"
+    },
+    {
+      "name": "Battle of Balaclava",
+      "dates": "1854",
+      "y": 1854,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Crimean War battle near Sevastopol between British, French, and Ottoman allies and Russian forces.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Balaclava"
+    },
+    {
+      "name": "Battle of Wagram",
+      "dates": "1809",
+      "y": 1809,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Napoleon's costly but decisive victory over Austria that broke up the Fifth Coalition.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Wagram"
+    },
+    {
+      "name": "First Barbary War",
+      "dates": "1801",
+      "y": 1801,
+      "region": "Africa",
+      "period": "19th century",
+      "desc": "The US fought Ottoman Tripolitania over tribute demands for safe passage of American shipping.",
+      "url": "https://en.wikipedia.org/wiki/First_Barbary_War"
+    },
+    {
+      "name": "Battle of Suomussalmi",
+      "dates": "1939",
+      "y": 1939,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Finnish forces defeated a much larger Soviet army during the Winter War of 1939\u201340.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Suomussalmi"
     }
   ]
 }
