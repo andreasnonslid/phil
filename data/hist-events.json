@@ -4833,6 +4833,186 @@
       "period": "Medieval (500\u20131500)",
       "desc": "The People's Crusade was the beginning phase of the First Crusade whose objective was to retake the Holy Land, and Jerusalem in particular, from Islamic rule. In 1095, after the head of the Catholi\u2026",
       "url": "https://en.wikipedia.org/wiki/People%27s_Crusade"
+    },
+    {
+      "name": "Battle of Zenta",
+      "dates": "1697",
+      "y": 1697,
+      "region": "Europe",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Battle of Zenta, also known as the Battle of Senta, took place on 11 September 1697 near Zenta, in the Kingdom of Hungary, then under Ottoman occupation. It was a decisive engagement of the Gre\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Zenta"
+    },
+    {
+      "name": "King George's War",
+      "dates": "1744",
+      "y": 1744,
+      "region": "Americas",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "King George's War (1744\u20131748) encompassed the military operations in North America that formed part of the War of the Austrian Succession (1740\u20131748). It was the third of the four French and Indian\u2026",
+      "url": "https://en.wikipedia.org/wiki/King_George%27s_War"
+    },
+    {
+      "name": "Battle of the Neva",
+      "dates": "1240",
+      "y": 1240,
+      "region": "Europe",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The Battle of the Neva was fought between the Novgorod Republic, along with Karelians, and the Kingdom of Sweden, including Norwegian, Finnish and Tavastian forces, on the Neva River, near the sett\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Neva"
+    },
+    {
+      "name": "Attack on Pearl Harbor",
+      "dates": "1941",
+      "y": 1941,
+      "region": "Americas",
+      "period": "20th century onward",
+      "desc": "On December 7, 1941, the Empire of Japan launched a surprise military strike on the United States Pacific Fleet at its naval base at Pearl Harbor on Oahu, Hawaii Territory. At the time, the US was \u2026",
+      "url": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor"
+    },
+    {
+      "name": "Cologne War",
+      "dates": "1583",
+      "y": 1583,
+      "region": "Europe",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Cologne War was a conflict between Protestant and Catholic factions that devastated the Electorate of Cologne, a historical ecclesiastical principality of the Holy Roman Empire, within present-\u2026",
+      "url": "https://en.wikipedia.org/wiki/Cologne_War"
+    },
+    {
+      "name": "Persian Expedition of 1796",
+      "dates": "1796",
+      "y": 1796,
+      "region": "Europe",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Persian expedition of Catherine the Great of 1796, like the Persian expedition of Peter the Great (1722\u20131723), was one of the Russo-Persian Wars of the 18th century which did not entail any las\u2026",
+      "url": "https://en.wikipedia.org/wiki/Persian_expedition_of_1796"
+    },
+    {
+      "name": "Treaty of Pereyaslav",
+      "dates": "1654",
+      "y": 1654,
+      "region": "Europe",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Pereiaslav Agreement or Pereyaslav Agreement was an official meeting that convened for a ceremonial pledge of allegiance by Zaporozhian Cossacks to Russian tsar Alexis in the town of Pereiaslav\u2026",
+      "url": "https://en.wikipedia.org/wiki/Pereiaslav_Agreement"
+    },
+    {
+      "name": "Treaty of Georgievsk",
+      "dates": "1783",
+      "y": 1783,
+      "region": "Europe",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The Treaty of Georgievsk was a bilateral treaty concluded between the Russian Empire and the east Georgian kingdom of Kartli-Kakheti on July 24, 1783. The treaty established eastern Georgia as a pr\u2026",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Georgievsk"
+    },
+    {
+      "name": "Battle of Westerplatte",
+      "dates": "1939",
+      "y": 1939,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Battle of Westerplatte was the first battle of the German invasion of Poland, marking the start of World War II in Europe. It occurred on the Westerplatte peninsula in the harbour of the Free C\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Westerplatte"
+    },
+    {
+      "name": "Treaty of Saadabad",
+      "dates": "1937",
+      "y": 1937,
+      "region": "Middle East",
+      "period": "20th century onward",
+      "desc": "The Treaty of Saadabad was a non-aggression pact signed by Turkey, Iran, Iraq and Afghanistan on 8 July 1937, and lasted for five years. The treaty was signed in Tehran's Saadabad Palace and was pa\u2026",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Saadabad"
+    },
+    {
+      "name": "Anglo-Japanese Alliance",
+      "dates": "1902",
+      "y": 1902,
+      "region": "East Asia",
+      "period": "20th century onward",
+      "desc": "The Anglo-Japanese Alliance  was an alliance between the United Kingdom and the Empire of Japan which was effective from 1902 to 1923. The treaty creating the alliance was signed at Lansdowne House\u2026",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Japanese_Alliance"
+    },
+    {
+      "name": "Battle of Prokhorovka",
+      "dates": "1943",
+      "y": 1943,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Battle of Prokhorovka was fought on 12 July 1943 near Prokhorovka, 87 kilometres (54 mi) southeast of Kursk, in the Soviet Union, during the Second World War. Taking place on the Eastern Front,\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Prokhorovka"
+    },
+    {
+      "name": "Battle of Aspern-Essling",
+      "dates": "1809",
+      "y": 1809,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "In the Battle of Aspern\u2013Essling, Napoleon crossed the Danube near Vienna, but the French and their allies were attacked and forced back across the river by the Austrians under Archduke Charles. It \u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Aspern%E2%80%93Essling"
+    },
+    {
+      "name": "Battle of Alam el Halfa",
+      "dates": "1942",
+      "y": 1942,
+      "region": "Africa",
+      "period": "20th century onward",
+      "desc": "The Battle of Alam el Halfa took place between 30 August and 5 September 1942 south of El Alamein during the Western Desert Campaign of the Second World War. Panzerarmee Afrika, attempted an envelo\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Alam_el_Halfa"
+    },
+    {
+      "name": "Battle of Fort Sumter",
+      "dates": "1861",
+      "y": 1861,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The Battle of Fort Sumter was the bombardment of Fort Sumter near Charleston, South Carolina, by the South Carolina militia. It ended with the surrender of the fort by the United States Army, begin\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Fort_Sumter"
+    },
+    {
+      "name": "Battle of Taranto",
+      "dates": "1940",
+      "y": 1940,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Battle of Taranto took place on the night of 11/12 November 1940 during the Second World War between British naval forces and Italian naval forces. The Royal Navy launched the first all-aircraf\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Taranto"
+    },
+    {
+      "name": "War of Jenkins' Ear",
+      "dates": "1739",
+      "y": 1739,
+      "region": "Americas",
+      "period": "Early modern (1500\u20131800)",
+      "desc": "The War of Jenkins' Ear was fought between Great Britain and Spain from 1739 to 1748. Most of the fighting took place in New Granada and the Caribbean Sea, with major operations over by 1742.",
+      "url": "https://en.wikipedia.org/wiki/War_of_Jenkins%27_Ear"
+    },
+    {
+      "name": "Treaty of Versailles (1871)",
+      "dates": "1871",
+      "y": 1871,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "The Treaty of Versailles of 1871 ended the Franco-Prussian War and was signed by Adolphe Thiers of the Third French Republic and Otto von Bismarck of the newly formed German Empire on 26 February 1\u2026",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles_%281871%29"
+    },
+    {
+      "name": "Battle of Maiwand",
+      "dates": "1880",
+      "y": 1880,
+      "region": "South Asia",
+      "period": "19th century",
+      "desc": "The Battle of Maiwand was fought on 27 July 1880 during the Second Anglo-Afghan War. Fought near the village of Maiwand in Kandahar Province, the battle resulted in an Afghan army of 25,000 regular\u2026",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Maiwand"
+    },
+    {
+      "name": "War of the Breton Succession",
+      "dates": "1341",
+      "y": 1341,
+      "region": "Europe",
+      "period": "Medieval (500\u20131500)",
+      "desc": "The War of the Breton Succession or Breton Civil War was a conflict between the Counts of Blois and the Montforts of Brittany for control of the Duchy of Brittany. It was fought between 1341 and 12\u2026",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Breton_Succession"
     }
   ]
 }
