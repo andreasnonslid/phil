@@ -3679,7 +3679,7 @@
       "url": "https://en.wikipedia.org/wiki/Porphyry_(philosopher)",
       "y": 234,
       "era": "Ancient (to 500 CE)",
-      "tldr": "A Syrian Neoplatonist who edited the Enneads and wrote the Isagoge — which became the standard introduction to logic in the medieval world. His question about universals — are they real, mental, or just names? — launched a thousand years of medieval debate."
+      "tldr": "A Syrian Neoplatonist and student of Plotinus who edited and published his teacher's Enneads. His Isagoge, a short introduction to Aristotle's categories, became the standard textbook of logic in the medieval world once Boethius translated it into Latin. In it he posed the problem of universals — are genera and species real, merely mental, or just names? — a question that launched a thousand years of medieval debate. He also wrote a fierce polemic Against the Christians, most of which survives only in fragments quoted by his opponents."
     },
     {
       "name": "Prabhakara",
@@ -3710,7 +3710,7 @@
       "y": 412,
       "era": "Ancient (to 500 CE)",
       "sep_url": "https://plato.stanford.edu/entries/proclus/",
-      "tldr": "The most systematic of the late Neoplatonists, whose Elements of Theology gives a rigorous axiomatic derivation of the Neoplatonic hierarchy from 'the One.' He influenced Pseudo-Dionysius the Areopagite (who secretly plagiarized him), and through him, Christian mystical theology including Eckhart and Nicholas of Cusa."
+      "tldr": "The last great head of the Platonic Academy in Athens, and the most systematic of the late Neoplatonists. His Elements of Theology derives the entire Neoplatonic hierarchy — from 'the One' down through Intellect and Soul — as a chain of rigorously argued propositions, geometry-style. A devout pagan ritualist writing under an increasingly Christian empire, he also wrote influential commentaries on Plato's dialogues that preserved centuries of interpretive tradition. His system secretly shaped Christian theology through Pseudo-Dionysius the Areopagite, who lifted it wholesale, and from there reached Eckhart and Nicholas of Cusa."
     },
     {
       "name": "Protagoras",
@@ -3765,7 +3765,7 @@
       "desc": "Number as reality; transmigration of souls.",
       "fields": [
         "Metaphysics",
-        "Logic"
+        "Philosophy of religion"
       ],
       "trad": "Ancient Greek/Roman",
       "tgroup": "Ancient Greek/Roman",
@@ -3820,7 +3820,7 @@
       "url": "https://en.wikipedia.org/wiki/Raghunatha_Shiromani",
       "y": 1477,
       "era": "Medieval (500–1500)",
-      "tldr": "The greatest Navya-Nyaya logician of the 15th–16th centuries who developed the technical vocabulary of the school to unprecedented precision. The 'Navadvipa school' he founded dominated Indian logic for two centuries."
+      "tldr": "The greatest Navya-Nyaya logician of the 15th–16th centuries, based in Navadvipa in Bengal. His Didhiti, a hypercompressed commentary on Gangesha's foundational Tattvacintamani, pushed the school's technical vocabulary of relations and qualifiers to unprecedented precision. He was also a bold revisionist, rejecting or reworking several of the traditional Nyaya-Vaisheshika categories that earlier logicians had treated as fixed. The 'Navadvipa school' he shaped dominated Indian logic for the next two centuries and is still studied by traditional pandits today."
     },
     {
       "name": "Ramanuja",
