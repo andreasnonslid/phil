@@ -2682,7 +2682,7 @@
       "y": 650,
       "era": "Medieval (500–1500)",
       "sep_url": "https://plato.stanford.edu/entries/kumaarila/",
-      "tldr": "A 7th-century Mimamsa philosopher who defended the authority of the Vedas against Buddhist challenges. He developed 'intrinsic validity' — cognitions are self-certifying unless specifically challenged. He debated Dharmakirti and is associated with Shankara's teacher."
+      "tldr": "A 7th-century Mimamsa philosopher who defended the authority of the Vedas against Buddhist challenges, engaging closely with Dharmakirti's Buddhist epistemology. He developed 'intrinsic validity' — cognitions are self-certifying unless specifically challenged. His student Mandana Misra later debated Shankara after Kumarila, near death, declined to face him himself."
     },
     {
       "name": "Kundakunda",
@@ -2881,7 +2881,8 @@
       "desc": "Republican political theory; history, women's education.",
       "fields": [
         "Political philosophy",
-        "Ethics"
+        "Ethics",
+        "Feminist"
       ],
       "trad": "Feminist",
       "tgroup": "Feminist",
