@@ -1482,7 +1482,8 @@
       "desc": "Double consciousness; race, sociology, pragmatism.",
       "fields": [
         "Social/Critical theory",
-        "Political philosophy"
+        "Political philosophy",
+        "Pragmatism"
       ],
       "trad": "African/Africana",
       "tgroup": "African/Africana",
@@ -1537,7 +1538,7 @@
       "y": 1266,
       "era": "Medieval (500–1500)",
       "sep_url": "https://plato.stanford.edu/entries/duns-scotus/",
-      "tldr": "The 'Subtle Doctor' — a Scottish Franciscan whose fine distinctions and complex arguments rival Aquinas. His concept of 'haecceity' (thisness) explains individual identity. His doctrine of the univocity of being — being applies to God and creatures in the same sense — broke with Aquinas and influenced Hegel."
+      "tldr": "The 'Subtle Doctor' — a Scottish Franciscan whose fine distinctions and complex arguments rival Aquinas. His concept of 'haecceity' (thisness) explains individual identity. His doctrine of the univocity of being — being applies to God and creatures in the same sense — broke with Aquinas and later shaped Heidegger's and Deleuze's ontology."
     },
     {
       "name": "Dussel, Enrique",
@@ -1631,7 +1632,7 @@
       "y": 50,
       "era": "Ancient (to 500 CE)",
       "sep_url": "https://plato.stanford.edu/entries/epictetus/",
-      "tldr": "A Stoic philosopher who was born a slave in Rome. He taught that freedom is entirely internal: the only thing truly ours is our response to events. His Discourses and Enchiridion present Stoic practice as a daily discipline of distinguishing what is 'up to us' from what is not. Marcus Aurelius read him constantly."
+      "tldr": "A Stoic philosopher born into slavery in Hierapolis, Phrygia, later brought to Rome, where he eventually gained his freedom. He taught that freedom is entirely internal: the only thing truly ours is our response to events. His Discourses and Enchiridion present Stoic practice as a daily discipline of distinguishing what is 'up to us' from what is not. Marcus Aurelius read him constantly."
     },
     {
       "name": "Epicurus",
