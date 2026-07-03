@@ -5733,6 +5733,159 @@
       "period": "Early modern (1500–1800)",
       "desc": "The Battle of Trenton was a pivotal American Revolutionary War battle on 26 December 1776 in Trenton, New Jersey, where Washington's Continental Army defeated Hessian forces after crossing the Delaware.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Trenton"
+    },
+    {
+      "name": "Storming of the Bastille",
+      "dates": "1789",
+      "y": 1789,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Parisian revolutionaries stormed the Bastille fortress-prison on 14 July 1789, a flashpoint that ignited the French Revolution.",
+      "url": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille"
+    },
+    {
+      "name": "Second Northern War",
+      "dates": "1655",
+      "y": 1655,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Sweden invaded and nearly conquered the Polish–Lithuanian Commonwealth, drawing in Russia, Brandenburg-Prussia, and Denmark–Norway.",
+      "url": "https://en.wikipedia.org/wiki/Northern_War_of_1655%E2%80%931660"
+    },
+    {
+      "name": "Battle of Cambrai",
+      "dates": "1917",
+      "y": 1917,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A British WWI offensive near Cambrai, France, featured the first large-scale, successful use of tanks in combined-arms warfare.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Cambrai"
+    },
+    {
+      "name": "Quasi-War",
+      "dates": "1798",
+      "y": 1798,
+      "region": "Americas",
+      "period": "Early modern (1500–1800)",
+      "desc": "An undeclared naval conflict between the United States and Revolutionary France, fought mainly in Caribbean and Atlantic coastal waters.",
+      "url": "https://en.wikipedia.org/wiki/Quasi-War"
+    },
+    {
+      "name": "Battle of the Iron Bridge",
+      "dates": "637",
+      "y": 637,
+      "region": "Middle East",
+      "period": "Medieval (500–1500)",
+      "desc": "Rashidun Muslim forces defeated the Byzantine army near a fortified bridge over the Orontes River, securing the conquest of Syria.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Iron_Bridge"
+    },
+    {
+      "name": "Greco-Turkish War of 1897",
+      "dates": "1897",
+      "y": 1897,
+      "region": "Europe",
+      "period": "19th century",
+      "desc": "Greece and the Ottoman Empire fought over Crete; despite an Ottoman battlefield win, an autonomous Cretan state emerged from the settlement.",
+      "url": "https://en.wikipedia.org/wiki/Greco-Turkish_War_%281897%29"
+    },
+    {
+      "name": "Second Barons' War",
+      "dates": "1264",
+      "y": 1264,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "English barons led by Simon de Montfort rebelled against King Henry III to force him to rule through a council of nobles.",
+      "url": "https://en.wikipedia.org/wiki/Second_Barons%27_War"
+    },
+    {
+      "name": "Battle of Achelous",
+      "dates": "917",
+      "y": 917,
+      "region": "Europe",
+      "period": "Medieval (500–1500)",
+      "desc": "Bulgarian forces under Tsar Simeon I crushed a Byzantine army near the Achelous river, a major Bulgarian victory over Byzantium.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Achelous"
+    },
+    {
+      "name": "Battle of Galicia",
+      "dates": "1914",
+      "y": 1914,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "Russian forces routed the Austro-Hungarian army in Galicia during the opening weeks of World War I, capturing Lemberg.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Galicia"
+    },
+    {
+      "name": "Second Russo-Turkish War",
+      "dates": "1676",
+      "y": 1676,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Russia and the Ottoman Empire fought over control of right-bank Ukraine amid Turkish expansion in the late 17th century.",
+      "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281672%E2%80%931681%29"
+    },
+    {
+      "name": "First Battle of the Masurian Lakes",
+      "dates": "1914",
+      "y": 1914,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "German forces drove Russian troops out of East Prussia days after the German victory at Tannenberg.",
+      "url": "https://en.wikipedia.org/wiki/First_Battle_of_the_Masurian_Lakes"
+    },
+    {
+      "name": "Battle of Mühlberg",
+      "dates": "1547",
+      "y": 1547,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Holy Roman Emperor Charles V decisively defeated the Protestant Schmalkaldic League near Mühlberg, Saxony.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_M%C3%BChlberg"
+    },
+    {
+      "name": "Battle of the Piave River",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "The Italian Army decisively defeated Austria-Hungary along the Piave River, a turning point on the Italian Front in World War I.",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_the_Piave_River"
+    },
+    {
+      "name": "Battle of Vittorio Veneto",
+      "dates": "1918",
+      "y": 1918,
+      "region": "Europe",
+      "period": "20th century onward",
+      "desc": "A decisive Italian offensive shattered the Austro-Hungarian army, effectively ending fighting on the Italian Front.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Vittorio_Veneto"
+    },
+    {
+      "name": "Battle of Zorndorf",
+      "dates": "1758",
+      "y": 1758,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Prussian forces under Frederick the Great fought Russian troops to a bloody, inconclusive standstill during the Seven Years' War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Zorndorf"
+    },
+    {
+      "name": "Battle of Mollwitz",
+      "dates": "1741",
+      "y": 1741,
+      "region": "Europe",
+      "period": "Early modern (1500–1800)",
+      "desc": "Frederick the Great's Prussian army won its first battle, against Austria, in the opening clash of the First Silesian War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mollwitz"
+    },
+    {
+      "name": "Mexican-American War",
+      "dates": "1840",
+      "y": 1840,
+      "region": "Americas",
+      "period": "19th century",
+      "desc": "The United States invaded Mexico following the annexation of Texas, resulting in major territorial expansion of the US Southwest.",
+      "url": "https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War"
     }
   ]
 }
