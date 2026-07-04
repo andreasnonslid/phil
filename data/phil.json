@@ -4259,7 +4259,7 @@
       "url": "https://en.wikipedia.org/wiki/Elliott_Sober",
       "y": 1948,
       "era": "Modern & contemporary",
-      "tldr": "A Wisconsin philosopher of biology who has clarified debates about natural selection, parsimony, and evolution. His Evidence and Evolution is the most rigorous analysis of the logic of evolutionary arguments."
+      "tldr": "A Wisconsin philosopher of biology who has clarified debates about natural selection, parsimony, and evolution. He argues that parsimony in evolutionary biology is not one unified principle but draws its justification differently across contexts, a view developed in Reconstructing the Past and The Nature of Selection. His Evidence and Evolution applies likelihood and Bayesian methods to show how fossil, molecular, and biogeographic evidence bears on common ancestry, and to dismantle probabilistic versions of the design argument."
     },
     {
       "name": "Socrates",
@@ -4290,7 +4290,7 @@
       "url": "https://en.wikipedia.org/wiki/Juana_In%C3%A9s_de_la_Cruz",
       "y": 1651,
       "era": "Early modern (1500–1800)",
-      "tldr": "A 17th-century Mexican nun and the greatest poet of the Spanish colonial period who also wrote philosophical defenses of women's right to intellectual life. Her Reply to Sor Philothea argues that women have as much right as men to pursue learning."
+      "tldr": "A 17th-century Mexican nun and the greatest poet of the Spanish colonial period who also wrote philosophical defenses of women's right to intellectual life. Self-taught from a large personal library because universities were closed to women, she engaged Scholastic philosophy, natural science, and theology on equal footing with the leading minds of her day. Her Reply to Sor Philothea (1691) defends her own scholarship against ecclesiastical censure and argues that women have as much right as men to pursue learning; she was later pressured into silence by church authorities and sold her books shortly before her death."
     },
     {
       "name": "Sosa, Ernest",
@@ -4304,7 +4304,7 @@
       "url": "https://en.wikipedia.org/wiki/Ernest_Sosa",
       "y": 1940,
       "era": "Modern & contemporary",
-      "tldr": "An American philosopher who developed virtue epistemology — knowledge is a matter of cognitive achievement, not just lucky true belief. His distinction between 'animal knowledge' and 'reflective knowledge' has been influential."
+      "tldr": "An American philosopher who developed virtue epistemology — knowledge is a matter of cognitive achievement produced by reliable intellectual virtues, not just a lucky true belief. His distinction between 'animal knowledge,' arising from reliable cognitive processes, and 'reflective knowledge,' which requires understanding why one's belief is reliable, reshaped decades of debate over the Gettier problem. His 'AAA' model holds that a belief is apt when it is accurate because adroit — true because competently formed — a framework that became central to virtue epistemology."
     },
     {
       "name": "Spinoza, Baruch",
@@ -4336,7 +4336,7 @@
       "url": "https://en.wikipedia.org/wiki/Robert_Stalnaker",
       "y": 1940,
       "era": "Modern & contemporary",
-      "tldr": "An American philosopher who developed possible worlds semantics for conditional statements and a sophisticated theory of mental content. His belief states are 'self-locating': to believe something is to be disposed to act as if you occupy a certain possible world."
+      "tldr": "An American philosopher who developed possible worlds semantics for conditional statements, on which 'if A then B' is true when the closest possible world where A holds is also one where B holds. His theory of assertion introduced the influential idea of the conversational 'common ground' — the body of background propositions that speakers mutually presuppose as a conversation unfolds. He also argued that belief states are 'self-locating': to believe something is to be disposed to act as if you occupy a certain possible world, a view worked out in Our Knowledge of the Internal World."
     },
     {
       "name": "Stein, Edith",
@@ -4368,7 +4368,7 @@
       "y": 1919,
       "era": "Modern & contemporary",
       "sep_url": "https://plato.stanford.edu/entries/strawson/",
-      "tldr": "An Oxford philosopher who developed 'descriptive metaphysics.' His 'Freedom and Resentment' (1962) argues that our practices of holding people responsible are grounded in the 'reactive attitudes' — resentment, gratitude, indignation — that constitute our interpersonal lives, not in metaphysical facts about causation."
+      "tldr": "An Oxford philosopher who developed 'descriptive metaphysics' — the project of laying bare the basic structure of our actual conceptual scheme rather than revising it. His Individuals (1959) argues that material bodies and persons are the basic particulars that our thought and language presuppose. His 'Freedom and Resentment' (1962) argues that our practices of holding people responsible are grounded in the 'reactive attitudes' — resentment, gratitude, indignation — that constitute our interpersonal lives, not in metaphysical facts about causation."
     },
     {
       "name": "Suhrawardi",
@@ -4397,7 +4397,7 @@
       "url": "https://en.wikipedia.org/wiki/Richard_Swinburne",
       "y": 1934,
       "era": "Modern & contemporary",
-      "tldr": "An Oxford philosopher of religion who has made the most sustained contemporary attempt to argue for Christian theism using probabilistic reasoning. His The Existence of God applies Bayesian confirmation theory to the evidence for God."
+      "tldr": "An Oxford philosopher of religion who has made the most sustained contemporary attempt to argue for Christian theism using probabilistic reasoning. His The Existence of God applies Bayesian confirmation theory to cosmological, teleological, and religious-experience evidence, concluding that theism is more probable than not. Alongside this apologetic project, he has defended a substance-dualist account of persons, arguing that free will and moral responsibility require an immaterial soul irreducible to brain states."
     },
     {
       "name": "Tagore, Rabindranath",
@@ -4473,7 +4473,7 @@
       "url": "https://en.wikipedia.org/wiki/Judith_Jarvis_Thomson",
       "y": 1929,
       "era": "Modern & contemporary",
-      "tldr": "A MIT moral philosopher famous for the violinist thought experiment in defense of abortion rights: even if the fetus has full moral status, abortion can be permissible because no one has the right to use your body for nine months without consent. Also developed the trolley problem jointly with Foot."
+      "tldr": "A MIT moral philosopher famous for the violinist thought experiment in defense of abortion rights: even if the fetus has full moral status, abortion can be permissible because no one has the right to use your body for nine months without consent. She jointly developed the trolley problem with Philippa Foot, using it to probe the moral difference between doing and allowing harm. Her The Realm of Rights offers a systematic theory of rights as the basic currency of morality."
     },
     {
       "name": "Tsongkhapa",
@@ -4521,7 +4521,7 @@
       "url": "https://en.wikipedia.org/wiki/Udayana",
       "y": 950,
       "era": "Medieval (500–1500)",
-      "tldr": "A 10th-century Nyaya philosopher who wrote the Nyayakusumanjali — a systematic proof of God's existence using Nyaya categories. His arguments were the primary target of Buddhist anti-theist philosophers and remain philosophically interesting."
+      "tldr": "A 10th-century Nyaya philosopher who wrote the Nyayakusumanjali — a systematic proof of God's existence built from Nyaya logical categories, addressing causation, design, and the authority of scripture. His arguments were the primary target of subsequent Buddhist anti-theist philosophers and remain philosophically interesting as an early example of rigorous natural theology. He also wrote extensively defending Vaisheshika atomism, helping cement the Nyaya-Vaisheshika synthesis."
     },
     {
       "name": "Uddyotakara",
@@ -4536,7 +4536,7 @@
       "url": "https://en.wikipedia.org/wiki/Uddyotakara",
       "y": 650,
       "era": "Medieval (500–1500)",
-      "tldr": "A 6th-7th century Naiyayika who wrote the Nyayavarttika in defense of Nyaya against Dignaga's Buddhist criticisms. His debates with Dignaga represent one of the most technically demanding exchanges in classical Indian philosophy."
+      "tldr": "A 6th–7th century Naiyayika who wrote the Nyayavarttika, a detailed commentary defending the Nyayasutra against Dignaga's Buddhist logical criticisms. His debates with Dignaga over inference, perception, and the reliability of testimony represent one of the most technically demanding exchanges in classical Indian philosophy. His defense of realism about universals and external objects helped set the agenda for later Nyaya epistemology."
     },
     {
       "name": "Umasvati",
@@ -4551,7 +4551,7 @@
       "url": "https://en.wikipedia.org/wiki/Umaswati",
       "y": 450,
       "era": "Ancient (to 500 CE)",
-      "tldr": "The author of the Tattvartha Sutra — 'That which is' — the most authoritative systematic text in Jain philosophy, accepted by both major Jain sects. Its doctrine of seven categories and the conditions for liberation through non-attachment define classical Jain philosophy."
+      "tldr": "The author of the Tattvartha Sutra — 'That which is' — the most authoritative systematic text in Jain philosophy, accepted by both the Digambara and Svetambara sects despite their doctrinal disputes elsewhere. Its doctrine of seven categories of reality (tattvas) and its account of karma as a subtle physical substance that binds the soul define classical Jain metaphysics. Its final chapters on the conditions for liberation through non-attachment and right conduct remain foundational to Jain practice."
     },
     {
       "name": "Unamuno, Miguel de",
