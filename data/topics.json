@@ -1,0 +1,25 @@
+{
+  "topics": [
+    {
+      "id": "phil",
+      "kicker": "Philosophy",
+      "title": "The Philosophers' Index",
+      "blurb": "317 thinkers across twenty-six centuries — by field, tradition, era, and popularity.",
+      "status": "live"
+    },
+    {
+      "id": "hist-events",
+      "kicker": "History",
+      "title": "Historical Events",
+      "blurb": "Turning points across world history — by region and period.",
+      "status": "live"
+    },
+    {
+      "id": "hist-chars",
+      "kicker": "History",
+      "title": "Historical Figures",
+      "blurb": "People who shaped the historical record — by role and era.",
+      "status": "live"
+    }
+  ]
+}
