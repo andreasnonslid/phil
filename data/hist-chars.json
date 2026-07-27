@@ -90,7 +90,8 @@
       "dates": "3161BCE–3100BCE",
       "y": -3161,
       "roles": [
-        "Reformer"
+        "Reformer",
+        "Ruler"
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Considered the second pharaoh of Egypt's First Dynasty by most Egyptologists, though some identify him as its first ruler, Menes.",
@@ -110,7 +111,9 @@
       "y": -2800,
       "roles": [
         "Scientist",
-        "Religious"
+        "Religious",
+        "Artist",
+        "Writer"
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Egyptian chancellor to King Djoser and possible architect of his Step Pyramid, later venerated in ancient Egypt as a deity.",
@@ -439,7 +442,8 @@
       "dates": "300BCE–147BCE",
       "y": -300,
       "roles": [
-        "Reformer"
+        "Reformer",
+        "Ruler"
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Pushyamitra Shunga was the founder and the first ruler of the Shunga Empire which he established to succeed the Maurya Empire.",
@@ -798,7 +802,8 @@
       "dates": "305–384",
       "y": 305,
       "roles": [
-        "Religious"
+        "Religious",
+        "Writer"
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Pope Damasus I was bishop of Rome from 366 until his death in 384. He presided over the Council of Rome in 382, which established the canon of sacred scripture.",
@@ -937,7 +942,8 @@
       "dates": "435–517",
       "y": 435,
       "roles": [
-        "Writer"
+        "Writer",
+        "Scientist"
       ],
       "region": "Africa",
       "era": "Ancient (to 500 CE)",
@@ -1266,7 +1272,8 @@
       "dates": "700–744",
       "y": 700,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "era": "Medieval (500–1500)",
       "desc": "Al-Walid ibn Yazid ibn Abd al-Malik, commonly known as al-Walid II, was the eleventh Umayyad caliph, ruling from 743 until his assassination in 744. He succeeded his uncle, Hisham ibn Abd al-Malik.",
@@ -1357,7 +1364,8 @@
       "y": 750,
       "roles": [
         "Religious",
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "region": "Europe",
       "era": "Medieval (500–1500)",
@@ -1379,7 +1387,9 @@
       "y": 777,
       "roles": [
         "Artist",
-        "Reformer"
+        "Reformer",
+        "Scientist",
+        "Writer"
       ],
       "era": "Medieval (500–1500)",
       "desc": "Singer, oud and lute player, composer, and poet active in Iraq and Andalusia during the medieval Islamic period, also versed in astronomy and culinary art.",
@@ -1572,7 +1582,9 @@
       "dates": "990–1061",
       "y": 990,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Writer",
+        "Religious"
       ],
       "region": "Europe",
       "era": "Medieval (500–1500)",
@@ -1593,7 +1605,9 @@
       "y": 1020,
       "roles": [
         "Scientist",
-        "Ruler"
+        "Ruler",
+        "Artist",
+        "Writer"
       ],
       "region": "East Asia",
       "era": "Medieval (500–1500)",
@@ -1661,7 +1675,9 @@
       "roles": [
         "Ruler",
         "Military",
-        "Religious"
+        "Religious",
+        "Scientist",
+        "Writer"
       ],
       "era": "Medieval (500–1500)",
       "region": "Middle East",
@@ -1974,7 +1990,9 @@
       "dates": "1177–1208",
       "y": 1177,
       "roles": [
-        "Reformer"
+        "Reformer",
+        "Ruler",
+        "Religious"
       ],
       "era": "Medieval (500–1500)",
       "desc": "Philip of Swabia was a member of the House of Hohenstaufen and King of Germany from 1198 until his assassination.",
@@ -2294,7 +2312,8 @@
       "dates": "1431–1503",
       "y": 1431,
       "roles": [
-        "Reformer"
+        "Reformer",
+        "Religious"
       ],
       "era": "Medieval (500–1500)",
       "desc": "Pope Alexander VI was head of the Catholic Church and leader of the Papal States from 11 August 1492 until his death in 1503.",
@@ -2534,7 +2553,9 @@
       "y": 1484,
       "roles": [
         "Religious",
-        "Reformer"
+        "Reformer",
+        "Artist",
+        "Writer"
       ],
       "era": "Medieval (500–1500)",
       "desc": "Huldrych Zwingli was a Swiss Christian theologian, musician, and leader of the Reformation in Switzerland.",
@@ -2589,7 +2610,8 @@
       "dates": "1494–1553",
       "y": 1494,
       "roles": [
-        "Writer"
+        "Writer",
+        "Scientist"
       ],
       "era": "Medieval (500–1500)",
       "desc": "François Rabelais was a French writer often called the first great French prose author. A Renaissance humanist and Greek scholar, he drew opposition from Protestants and the Catholic Church alike.",
@@ -2615,7 +2637,8 @@
       "dates": "1495–1544",
       "y": 1495,
       "roles": [
-        "Writer"
+        "Writer",
+        "Artist"
       ],
       "region": "Europe",
       "era": "Medieval (500–1500)",
@@ -2638,7 +2661,8 @@
       "y": 1504,
       "roles": [
         "Religious",
-        "Reformer"
+        "Reformer",
+        "Writer"
       ],
       "era": "Early modern (1500–1800)",
       "region": "Europe",
@@ -2793,7 +2817,9 @@
       "dates": "1533–1577",
       "y": 1533,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Scientist",
+        "Writer"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Ismail II was the third shah of Safavid Iran from 1576 to 1577.",
@@ -3092,7 +3118,8 @@
       "dates": "1571–1621",
       "y": 1571,
       "roles": [
-        "Artist"
+        "Artist",
+        "Writer"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Michael Praetorius was a German composer, organist, and music theorist, notable for developing musical forms based on Protestant hymns.",
@@ -3198,7 +3225,8 @@
       "y": 1591,
       "roles": [
         "Religious",
-        "Reformer"
+        "Reformer",
+        "Writer"
       ],
       "region": "Americas",
       "era": "Early modern (1500–1800)",
@@ -3221,7 +3249,8 @@
       "roles": [
         "Religious",
         "Writer",
-        "Reformer"
+        "Reformer",
+        "Ruler"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Czech philosopher and theologian considered the father of modern education, known for advocating universal schooling in his Didactica Magna.",
@@ -3274,7 +3303,8 @@
       "dates": "1599–1667",
       "y": 1599,
       "roles": [
-        "Artist"
+        "Artist",
+        "Scientist"
       ],
       "region": "Europe",
       "era": "Early modern (1500–1800)",
@@ -3495,7 +3525,8 @@
       "y": 1623,
       "roles": [
         "Scientist",
-        "Writer"
+        "Writer",
+        "Religious"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Blaise Pascal was a French mathematician, physicist, inventor, philosopher, and Catholic writer whose work spans projective geometry, probability theory, and Christian apologetics.",
@@ -3541,7 +3572,8 @@
       "y": 1628,
       "roles": [
         "Writer",
-        "Reformer"
+        "Reformer",
+        "Religious"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "John Bunyan was an English writer and nonconformist preacher. He is best remembered as the author of the Christian allegory The Pilgrim's Progress, which also became an influential literary model.",
@@ -3811,7 +3843,8 @@
       "y": 1675,
       "roles": [
         "Religious",
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Pope Benedict XIV, born Prospero Lorenzo Lambertini, was head of the Catholic Church and ruler of the Papal States from 17 August 1740 to his death on 3 May 1758.",
@@ -3991,7 +4024,8 @@
       "dates": "1695–1726",
       "y": 1695,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Ruler"
       ],
       "era": "Early modern (1500–1800)",
       "region": "Europe",
@@ -4172,7 +4206,8 @@
       "y": 1708,
       "roles": [
         "Scientist",
-        "Writer"
+        "Writer",
+        "Ruler"
       ],
       "region": "Europe",
       "era": "Early modern (1500–1800)",
@@ -4546,7 +4581,8 @@
       "y": 1737,
       "roles": [
         "Writer",
-        "Reformer"
+        "Reformer",
+        "Ruler"
       ],
       "region": "Americas",
       "era": "Early modern (1500–1800)",
@@ -4599,7 +4635,8 @@
       "y": 1740,
       "roles": [
         "Scientist",
-        "Explorer"
+        "Explorer",
+        "Ruler"
       ],
       "region": "Europe",
       "era": "Early modern (1500–1800)",
@@ -4678,7 +4715,8 @@
       "dates": "1741–1825",
       "y": 1741,
       "roles": [
-        "Artist"
+        "Artist",
+        "Writer"
       ],
       "region": "Europe",
       "era": "Early modern (1500–1800)",
@@ -4728,7 +4766,8 @@
       "y": 1741,
       "roles": [
         "Writer",
-        "Religious"
+        "Religious",
+        "Artist"
       ],
       "era": "Early modern (1500–1800)",
       "region": "Europe",
@@ -4805,7 +4844,9 @@
       "roles": [
         "Ruler",
         "Writer",
-        "Reformer"
+        "Reformer",
+        "Scientist",
+        "Artist"
       ],
       "region": "Americas",
       "era": "Early modern (1500–1800)",
@@ -4841,7 +4882,9 @@
       "y": 1743,
       "roles": [
         "Reformer",
-        "Scientist"
+        "Scientist",
+        "Ruler",
+        "Writer"
       ],
       "region": "Europe",
       "era": "Early modern (1500–1800)",
@@ -4942,7 +4985,8 @@
       "roles": [
         "Ruler",
         "Military",
-        "Reformer"
+        "Reformer",
+        "Writer"
       ],
       "region": "Americas",
       "era": "Early modern (1500–1800)",
@@ -5059,7 +5103,8 @@
       "dates": "1766–1817",
       "y": 1766,
       "roles": [
-        "Writer"
+        "Writer",
+        "Ruler"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Anne Louise Germaine de Staël-Holstein, commonly known as Madame de Staël, was a prominent French novelist, woman of letters, philosopher, and political theorist.",
@@ -5464,7 +5509,8 @@
       "dates": "1778–1829",
       "y": 1778,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Writer"
       ],
       "region": "Europe",
       "era": "Early modern (1500–1800)",
@@ -5579,7 +5625,8 @@
       "y": 1782,
       "roles": [
         "Ruler",
-        "Reformer"
+        "Reformer",
+        "Writer"
       ],
       "region": "Americas",
       "era": "Early modern (1500–1800)",
@@ -5662,7 +5709,8 @@
       "dates": "1787–1875",
       "y": 1787,
       "roles": [
-        "Military"
+        "Military",
+        "Ruler"
       ],
       "region": "Europe",
       "era": "Early modern (1500–1800)",
@@ -6025,7 +6073,8 @@
       "y": 1797,
       "roles": [
         "Writer",
-        "Reformer"
+        "Reformer",
+        "Religious"
       ],
       "region": "Europe",
       "era": "Early modern (1500–1800)",
@@ -6048,7 +6097,8 @@
       "y": 1797,
       "roles": [
         "Military",
-        "Writer"
+        "Writer",
+        "Reformer"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Alexander Alexandrovich Bestuzhev was a Russian writer and Decembrist who, after the failed revolt, was exiled to the Caucasus where he wrote romantic fiction under the pseudonym Marlinsky.",
@@ -6074,7 +6124,8 @@
       "y": 1798,
       "roles": [
         "Scientist",
-        "Writer"
+        "Writer",
+        "Explorer"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Charles Wilkes was an American naval officer, ship's captain, and explorer. He led the first United States Exploring Expedition (1838–1842).",
@@ -6446,7 +6497,8 @@
       "dates": "1812–1904",
       "y": 1812,
       "roles": [
-        "Writer"
+        "Writer",
+        "Scientist"
       ],
       "era": "19th century",
       "desc": "Samuel Smiles was a British author and government reformer. His primary work, Self-Help (1859), promoted thrift and claimed that poverty was caused largely by irresponsible habits.",
@@ -6519,7 +6571,8 @@
       "y": 1815,
       "roles": [
         "Writer",
-        "Scientist"
+        "Scientist",
+        "Ruler"
       ],
       "era": "19th century",
       "region": "Europe",
@@ -6682,7 +6735,8 @@
       "dates": "1817–1862",
       "y": 1817,
       "roles": [
-        "Writer"
+        "Writer",
+        "Scientist"
       ],
       "era": "19th century",
       "desc": "American writer and philosopher known for Walden, on simple living, and the essay \"Civil Disobedience.\"",
@@ -6736,7 +6790,8 @@
       "dates": "1819–1890",
       "y": 1819,
       "roles": [
-        "Writer"
+        "Writer",
+        "Artist"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -6882,7 +6937,9 @@
       "roles": [
         "Explorer",
         "Military",
-        "Writer"
+        "Writer",
+        "Ruler",
+        "Scientist"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -6919,7 +6976,8 @@
       "dates": "1821–1915",
       "y": 1821,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Scientist"
       ],
       "era": "19th century",
       "desc": "Sir Charles Tupper, 1st Baronet, was a Canadian Father of Confederation who served as the sixth prime minister of Canada from May 1 to July 8, 1896.",
@@ -6964,7 +7022,9 @@
       "y": 1822,
       "roles": [
         "Ruler",
-        "Writer"
+        "Writer",
+        "Scientist",
+        "Reformer"
       ],
       "era": "19th century",
       "desc": "Nikolay Yakovlevich Danilevsky was a Russian naturalist, economist, ethnologist, philosopher, historian and ideologue of pan-Slavism and the Slavophile movement.",
@@ -6992,7 +7052,8 @@
       "dates": "1822–1896",
       "y": 1822,
       "roles": [
-        "Writer"
+        "Writer",
+        "Ruler"
       ],
       "era": "19th century",
       "region": "Europe",
@@ -7069,7 +7130,8 @@
       "dates": "1823–1917",
       "y": 1823,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Sir Mackenzie Bowell was the fifth prime minister of Canada, serving from 1894 to 1896.",
@@ -7092,7 +7154,9 @@
       "dates": "1824–1907",
       "y": 1824,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Ruler",
+        "Writer"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -7171,7 +7235,8 @@
       "dates": "1826–1910",
       "y": 1826,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Ruler"
       ],
       "era": "19th century",
       "desc": "Stanislao Cannizzaro was an Italian chemist. He is famous for the Cannizzaro reaction and for his influential role in the atomic-weight deliberations of the Karlsruhe Congress in 1860.",
@@ -7235,7 +7300,9 @@
       "y": 1827,
       "roles": [
         "Explorer",
-        "Military"
+        "Military",
+        "Scientist",
+        "Writer"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -7308,7 +7375,8 @@
       "dates": "1828–1871",
       "y": 1828,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -7342,7 +7410,8 @@
       "roles": [
         "Military",
         "Ruler",
-        "Writer"
+        "Writer",
+        "Reformer"
       ],
       "era": "19th century",
       "desc": "Carl Schurz was a German-American revolutionary who became a prominent American statesman, journalist and reformer after emigrating following the 1848–1849 German revolutions.",
@@ -7563,7 +7632,9 @@
       "dates": "1833–1906",
       "y": 1833,
       "roles": [
-        "Reformer"
+        "Reformer",
+        "Ruler",
+        "Writer"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -7584,7 +7655,8 @@
       "dates": "1835–1910",
       "y": 1835,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Alexander Emmanuel Rodolphe Agassiz was an American scientist and engineer. He was the son of Louis Agassiz and stepson of Elizabeth Cabot Agassiz.",
@@ -7851,7 +7923,9 @@
       "dates": "1839–1881",
       "y": 1839,
       "roles": [
-        "Artist"
+        "Artist",
+        "Military",
+        "Writer"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -8003,7 +8077,8 @@
       "y": 1842,
       "roles": [
         "Artist",
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Osman Hamdi Bey was an Ottoman Greek administrator, intellectual, art expert and also a prominent and pioneering painter. He was the Ottoman Empire's first archaeologist and first museologist.",
@@ -8050,7 +8125,8 @@
       "y": 1842,
       "roles": [
         "Artist",
-        "Military"
+        "Military",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Vasily Vasilyevich Vereshchagin was a Russian painter, war artist, and traveller. The graphic nature of his realist scenes led to many of them never being printed or exhibited to the public.",
@@ -8321,7 +8397,8 @@
       "y": 1853,
       "roles": [
         "Scientist",
-        "Writer"
+        "Writer",
+        "Artist"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -8488,7 +8565,8 @@
       "y": 1857,
       "roles": [
         "Military",
-        "Writer"
+        "Writer",
+        "Ruler"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -8531,7 +8609,8 @@
       "dates": "1857–1919",
       "y": 1857,
       "roles": [
-        "Writer"
+        "Writer",
+        "Religious"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -8622,7 +8701,8 @@
       "y": 1859,
       "roles": [
         "Writer",
-        "Reformer"
+        "Reformer",
+        "Scientist"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -8760,7 +8840,8 @@
       "y": 1862,
       "roles": [
         "Writer",
-        "Reformer"
+        "Reformer",
+        "Ruler"
       ],
       "era": "19th century",
       "desc": "Nitobe Inazō  was a Japanese agronomist, diplomat, political scientist, politician, and writer. He studied at Sapporo Agricultural College under the influence of its first president William S.",
@@ -8803,7 +8884,8 @@
       "dates": "1863–1943",
       "y": 1863,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Explorer"
       ],
       "era": "19th century",
       "region": "Europe",
@@ -9028,7 +9110,8 @@
       "y": 1868,
       "roles": [
         "Writer",
-        "Reformer"
+        "Reformer",
+        "Ruler"
       ],
       "era": "19th century",
       "desc": "Alexei Maximovich Peshkov, popularly known as Maxim Gorky, was a Russian and Soviet writer, journalist, and proponent of socialism. He was nominated five times for the Nobel Prize in Literature.",
@@ -9208,7 +9291,8 @@
       "dates": "1874–1926",
       "y": 1874,
       "roles": [
-        "Artist"
+        "Artist",
+        "Writer"
       ],
       "region": "Americas",
       "era": "19th century",
@@ -9425,7 +9509,9 @@
       "dates": "1879–1935",
       "y": 1879,
       "roles": [
-        "Artist"
+        "Artist",
+        "Writer",
+        "Reformer"
       ],
       "era": "19th century",
       "desc": "Kazimir Malevich was a Russian avant-garde artist and art theorist who pioneered abstract painting in the 20th century. He founded Suprematism, a non-objective style, in 1915.",
@@ -9481,7 +9567,8 @@
       "y": 1881,
       "roles": [
         "Ruler",
-        "Writer"
+        "Writer",
+        "Reformer"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -9521,7 +9608,8 @@
       "dates": "1882–1927",
       "y": 1882,
       "roles": [
-        "Writer"
+        "Writer",
+        "Artist"
       ],
       "era": "19th century",
       "desc": "Inayat Khan Rehmat Khan was an Indian professor of musicology, singer, poet, philosopher, writer, and pioneer of the transmission of Sufism to the West.",
@@ -9643,7 +9731,8 @@
       "dates": "1892–1946",
       "y": 1892,
       "roles": [
-        "Writer"
+        "Writer",
+        "Ruler"
       ],
       "era": "19th century",
       "desc": "Alexander Aleksandrovich Alekhine was a Russian and French chess player and the fourth World Chess Champion, a title he held for two reigns.",
@@ -9703,7 +9792,8 @@
       "y": 1893,
       "roles": [
         "Writer",
-        "Artist"
+        "Artist",
+        "Reformer"
       ],
       "region": "Europe",
       "era": "19th century",
@@ -9753,7 +9843,8 @@
       "y": 1895,
       "roles": [
         "Military",
-        "Reformer"
+        "Reformer",
+        "Ruler"
       ],
       "era": "19th century",
       "desc": "Shote Galica was a Kachak Albanian insurgent. She has been declared a People's Heroine of Albania.",
@@ -9891,7 +9982,8 @@
       "dates": "1888–1946",
       "y": 1888,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "John Logie Baird was a Scottish inventor and electrical engineer who demonstrated the world's first mechanical television system on 26 January 1926.",
@@ -9974,7 +10066,8 @@
       "dates": "316–397",
       "y": 316,
       "roles": [
-        "Religious"
+        "Religious",
+        "Ruler"
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Martin of Tours was the third bishop of Tours. He is the patron saint of many communities and organizations across Europe, including of the former French Third Republic.",
@@ -10125,7 +10218,8 @@
       "dates": "1870–1942",
       "y": 1870,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Artist"
       ],
       "era": "19th century",
       "desc": "French physicist who verified Einstein's explanation of Brownian motion, confirming the atomic nature of matter, and won the 1926 Nobel Prize in Physics.",
@@ -10149,7 +10243,8 @@
       "y": 994,
       "roles": [
         "Ruler",
-        "Military"
+        "Military",
+        "Writer"
       ],
       "era": "Medieval (500–1500)",
       "desc": "Cnut the Great was King of England from 1016, King of Denmark from 1018, and King of Norway from 1028 until his death in 1035, ruling the North Sea Empire.",
@@ -10293,7 +10388,8 @@
       "dates": "1878–1947",
       "y": 1878,
       "roles": [
-        "Artist"
+        "Artist",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Harry Carey may refer to:Harry Carey (actor) (1878–1947), American actor\nHarry Carey Jr. (1921–2012), American actor\nHarry Carey (footballer) (1916–1991), Australian rules footballer",
@@ -10338,7 +10434,8 @@
       "y": 1876,
       "roles": [
         "Scientist",
-        "Reformer"
+        "Reformer",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Georgian historian and linguist whose scholarship shaped modern study of Georgian history and culture; a founder of Tbilisi State University.",
@@ -10426,7 +10523,8 @@
       "roles": [
         "Scientist",
         "Explorer",
-        "Writer"
+        "Writer",
+        "Ruler"
       ],
       "era": "19th century",
       "desc": "Grigory Nikolayevich Potanin was a Russian botanist, ethnographer, and natural historian. He was an explorer of Inner Asia and was the first to catalogue many of the area's native plants.",
@@ -10454,7 +10552,8 @@
       "dates": "1512–1542",
       "y": 1512,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "James V was King of Scotland from 9 September 1513 until his death in 1542. He was crowned on 21 September 1513 at the age of seventeen months.",
@@ -10498,7 +10597,8 @@
       "roles": [
         "Religious",
         "Ruler",
-        "Writer"
+        "Writer",
+        "Artist"
       ],
       "era": "Medieval (500–1500)",
       "desc": "Suger was a French abbot and statesman. He was a key advisor to King Louis VI and his son Louis VII, acting as the latter's regent during the Second Crusade.",
@@ -10545,7 +10645,8 @@
       "y": 1169,
       "roles": [
         "Religious",
-        "Writer"
+        "Writer",
+        "Ruler"
       ],
       "era": "Medieval (500–1500)",
       "desc": "Serbian prince and Eastern Orthodox monk known as the Enlightener, who became the first Archbishop of the autocephalous Serbian Church, and also served as a writer and diplomat.",
@@ -10612,7 +10713,8 @@
       "dates": "1864–1949",
       "y": 1864,
       "roles": [
-        "Artist"
+        "Artist",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Richard Strauss was a German composer and conductor known for his tone poems and operas, a leading figure of the late Romantic and early Modern era and successor to Wagner and Liszt.",
@@ -10636,7 +10738,8 @@
       "y": 1570,
       "roles": [
         "Military",
-        "Reformer"
+        "Reformer",
+        "Ruler"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "English Catholic conspirator caught guarding explosives beneath the House of Lords in the 1605 Gunpowder Plot to kill King James I.",
@@ -10891,7 +10994,9 @@
       "y": 37,
       "roles": [
         "Ruler",
-        "Military"
+        "Military",
+        "Artist",
+        "Writer"
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Nero was Roman emperor from 54 AD until his suicide in 68 AD, as the final emperor of the Julio-Claudian dynasty.",
@@ -11109,7 +11214,8 @@
       "dates": "1893–1937",
       "y": 1893,
       "roles": [
-        "Military"
+        "Military",
+        "Ruler"
       ],
       "era": "19th century",
       "desc": "Mikhail Tukhachevsky, nicknamed the Red Napoleon, was a Soviet general prominent from 1918 to 1937 as a military officer and theoretician. He was executed during the Moscow trials.",
@@ -11245,7 +11351,8 @@
       "y": 76,
       "roles": [
         "Military",
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Hadrian was Roman emperor from 117 to 138. His form of address as Roman emperor was Imperator Caesar Traianus Hadrianus Augustus.",
@@ -11318,7 +11425,8 @@
       "dates": "1835–1910",
       "y": 1835,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Ruler"
       ],
       "era": "19th century",
       "desc": "Italian astronomer who mapped Mars and named its surface features, work later associated with the \"canali\" controversy.",
@@ -11636,7 +11744,8 @@
       "dates": "1847–1912",
       "y": 1847,
       "roles": [
-        "Writer"
+        "Writer",
+        "Reformer"
       ],
       "era": "19th century",
       "desc": "Bolesław Prus, pen name of Aleksander Głowacki, was a Polish journalist and novelist, a leading figure in the history of Polish literature.",
@@ -11920,7 +12029,8 @@
       "dates": "685–737",
       "y": 685,
       "roles": [
-        "Religious"
+        "Religious",
+        "Ruler"
       ],
       "region": "Europe",
       "era": "Medieval (500–1500)",
@@ -12003,7 +12113,8 @@
       "dates": "1872–1939",
       "y": 1872,
       "roles": [
-        "Writer"
+        "Writer",
+        "Artist"
       ],
       "region": "Americas",
       "era": "19th century",
@@ -12031,7 +12142,8 @@
       "y": 1716,
       "roles": [
         "Writer",
-        "Artist"
+        "Artist",
+        "Ruler"
       ],
       "region": "East Asia",
       "era": "Early modern (1500–1800)",
@@ -12258,7 +12370,10 @@
       "y": 1861,
       "roles": [
         "Writer",
-        "Reformer"
+        "Reformer",
+        "Ruler",
+        "Scientist",
+        "Artist"
       ],
       "era": "19th century",
       "desc": "José Rizal was a Filipino nationalist, writer, and polymath active at the end of Spanish colonial rule in the Philippines. He is popularly considered a national hero.",
@@ -12294,7 +12409,8 @@
       "y": 1795,
       "roles": [
         "Writer",
-        "Artist"
+        "Artist",
+        "Ruler"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Alexander Sergeyevich Griboyedov was a Russian diplomat, playwright, poet, and composer. His one notable work is the 1823 verse comedy Woe from Wit.",
@@ -12406,7 +12522,8 @@
       "y": 1776,
       "roles": [
         "Writer",
-        "Artist"
+        "Artist",
+        "Ruler"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "E. T. A. Hoffmann was a German Romantic author of fantasy and gothic horror, and also a jurist, composer, and music critic. His story The Sandman is a pioneering work of horror fiction.",
@@ -12445,7 +12562,8 @@
       "dates": "1640–1705",
       "y": 1640,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Artist"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Leopold I was Holy Roman Emperor, King of Germany, Hungary, Croatia, and Bohemia. The second son of Ferdinand III, he ruled the empire from 1658 until his death in 1705.",
@@ -12466,7 +12584,8 @@
       "dates": "955–983",
       "y": 955,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "era": "Medieval (500–1500)",
       "desc": "Otto II, called the Red, was Holy Roman Emperor from 973 until his death in 983. A member of the Ottonian dynasty, he was the youngest son of Otto the Great.",
@@ -12486,7 +12605,9 @@
       "dates": "1852–1934",
       "y": 1852,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Ruler",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Spanish neuroscientist, pathologist, and histologist who shared the 1906 Nobel Prize in Physiology or Medicine with Camillo Golgi, the first Spaniard to win a scientific Nobel.",
@@ -12515,7 +12636,8 @@
       "dates": "1608–1657",
       "y": 1608,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Artist"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Ferdinand III was Archduke of Austria, King of Hungary and Croatia from 1625, King of Bohemia from 1627 and Holy Roman Emperor from 1637 to his death.",
@@ -12636,7 +12758,8 @@
         "Q39631"
       ],
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Ruler"
       ],
       "region": "Europe"
     },
@@ -12728,7 +12851,8 @@
         "Q984276"
       ],
       "roles": [
-        "Artist"
+        "Artist",
+        "Writer"
       ],
       "region": "Europe"
     },
@@ -12788,7 +12912,8 @@
         "Q36180"
       ],
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "region": "Europe"
     },
@@ -12890,7 +13015,8 @@
         "Q36180"
       ],
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "region": "Europe"
     },
@@ -12995,7 +13121,8 @@
         "Q39018"
       ],
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "region": "Europe"
     },
@@ -13285,7 +13412,8 @@
       "dates": "1795–1881",
       "y": 1795,
       "roles": [
-        "Writer"
+        "Writer",
+        "Scientist"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Thomas Carlyle was a Scottish essayist, historian and philosopher. Known as the \"sage of Chelsea\", his writings strongly influenced the intellectual and artistic culture of the Victorian era.",
@@ -13400,7 +13528,8 @@
       "dates": "1804–1892",
       "y": 1804,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Richard Owen was an English biologist, comparative anatomist, and palaeontologist regarded as an outstanding naturalist with a remarkable gift for interpreting fossils.",
@@ -13453,7 +13582,8 @@
       "y": 1886,
       "roles": [
         "Ruler",
-        "Reformer"
+        "Reformer",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Béla Kun was a Hungarian communist revolutionary and politician who in 1919 governed the Hungarian Soviet Republic.",
@@ -13479,7 +13609,10 @@
       "dates": "1861–1948",
       "y": 1861,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Military",
+        "Scientist",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Ferdinand I was monarch of Bulgaria from 1887 to 1918, reigning as Prince from 1887 and Tsar from 1908 until his abdication. Under his rule Bulgaria modernized its industry and military.",
@@ -13527,7 +13660,8 @@
       "y": 1638,
       "roles": [
         "Scientist",
-        "Religious"
+        "Religious",
+        "Ruler"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Niels Steensen was a Danish scientist, a pioneer in both anatomy and geology who became a Catholic bishop in his later years. He has been beatified by the Catholic Church.",
@@ -13642,7 +13776,8 @@
       "dates": "1691–1754",
       "y": 1691,
       "roles": [
-        "Writer"
+        "Writer",
+        "Scientist"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Edward Cave was an English printer, editor, and publisher. He coined the term magazine for a periodical, founding The Gentleman's Magazine in 1731.",
@@ -13666,7 +13801,8 @@
       "dates": "1872–1944",
       "y": 1872,
       "roles": [
-        "Artist"
+        "Artist",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Piet Mondrian was a Dutch painter and art theoretician regarded as one of the 20th century's greatest artists, and a pioneer of abstract art.",
@@ -13897,7 +14033,8 @@
       "dates": "1854–1941",
       "y": 1854,
       "roles": [
-        "Writer"
+        "Writer",
+        "Religious"
       ],
       "era": "19th century",
       "desc": "Sir James George Frazer was a Scottish social anthropologist and folklorist influential in the early stages of the modern studies of mythology and comparative religion.",
@@ -14009,7 +14146,8 @@
       "dates": "1872–1918",
       "y": 1872,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Artist"
       ],
       "era": "19th century",
       "desc": "Alexandra Feodorovna was the last empress of Russia as the consort of Nicholas II from their marriage on 26 November [O.S. 14 November] 1894 until his forced abdication on 15 March [O.S.",
@@ -14205,7 +14343,8 @@
       "dates": "1819–1861",
       "y": 1819,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Artist"
       ],
       "era": "19th century",
       "desc": "Prince Albert of Saxe-Coburg and Gotha was the husband of Queen Victoria and consort of the British monarch from 1840 until his death in 1861. Victoria granted him the title Prince Consort in 1857.",
@@ -14248,7 +14387,8 @@
       "dates": "1844–1925",
       "y": 1844,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Artist"
       ],
       "era": "19th century",
       "desc": "Alexandra of Denmark was Queen of the United Kingdom and the British Dominions, and Empress of India, from 22 January 1901 to 6 May 1910 as the wife of King Edward VII.",
@@ -14300,7 +14440,8 @@
       "dates": "1884–1948",
       "y": 1884,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Edvard Beneš was a Czech politician who served as president of Czechoslovakia from 1935 to 1938 and again from 1939 to 1948. He led the Czechoslovak government-in-exile during World War II.",
@@ -14604,7 +14745,8 @@
       "dates": "1843–1912",
       "y": 1843,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Military"
       ],
       "era": "19th century",
       "desc": "Frederik VIII was King of Denmark from 29 January 1906 until his death in 1912.",
@@ -14625,7 +14767,8 @@
       "dates": "1883–1925",
       "y": 1883,
       "roles": [
-        "Artist"
+        "Artist",
+        "Writer"
       ],
       "era": "19th century",
       "desc": "Max Linder, born Gabriel-Maximilien Leuvielle, was a French actor, director, screenwriter, producer, and comedian of the silent film era, cited as the first international movie star.",
@@ -14737,7 +14880,8 @@
       "y": 1591,
       "roles": [
         "Military",
-        "Scientist"
+        "Scientist",
+        "Artist"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Girard Desargues was a French mathematician and engineer, who is considered one of the founders of projective geometry. Desargues's theorem, the Desargues graph, and the crater Desargues on the Moon are named in his honour.",
@@ -14759,7 +14903,8 @@
       "dates": "1552–1615",
       "y": 1552,
       "roles": [
-        "Artist"
+        "Artist",
+        "Ruler"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Hans von Aachen was a German painter who was one of the leading representatives of Northern Mannerism.",
@@ -14809,7 +14954,8 @@
       "y": 1858,
       "roles": [
         "Ruler",
-        "Military"
+        "Military",
+        "Scientist"
       ],
       "era": "19th century",
       "desc": "Rudolf, Crown Prince of Austria was the only son of Emperor Franz Joseph I and Empress Elisabeth, heir to the Austro-Hungarian throne from birth. In 1889 he died in a suicide pact at Mayerling.",
@@ -14850,7 +14996,8 @@
       "dates": "1016–1056",
       "y": 1016,
       "roles": [
-        "Ruler"
+        "Ruler",
+        "Writer"
       ],
       "era": "Medieval (500–1500)",
       "desc": "Henry III may refer to: Henry III, Holy Roman Emperor (1017–1056); King Henry III of Castile (1379–1406); King Henry III of England (1207–1272); and other medieval monarchs sharing the name.",
@@ -14984,7 +15131,8 @@
       "dates": "1778–1850",
       "y": 1778,
       "roles": [
-        "Scientist"
+        "Scientist",
+        "Ruler"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Joseph Louis Gay-Lussac was a French chemist and physicist known for his law on combining gas volumes and for showing water is two parts hydrogen to one part oxygen.",
@@ -15028,7 +15176,8 @@
       "y": 1717,
       "roles": [
         "Writer",
-        "Scientist"
+        "Scientist",
+        "Artist"
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Jean Le Rond d'Alembert was a French mathematician, physicist, philosopher, and music theorist. Until 1759 he was, together with Denis Diderot, a co-editor of the Encyclopédie.",
