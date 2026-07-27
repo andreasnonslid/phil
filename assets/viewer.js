@@ -4,11 +4,23 @@ let FILTERS=[];      // CFG.filters
 const state={q:"",filters:{},sort:"az",showFavs:false,view:"list"};
 const formatViews=n=>Number(n||0).toLocaleString(undefined,{maximumFractionDigits:0});
 
-// Available topics. The ?d= param selects one; anything else falls back to phil.
-const DATASETS=["phil","hist-events","hist-chars"];
+// Available topics, loaded from data/topics.json in initApp(). The ?d= param selects
+// one; anything unknown falls back to phil.
+let TOPICS=[];
+const FALLBACK_TOPICS=[{id:"phil"},{id:"hist-events"},{id:"hist-chars"}];
+async function loadTopics(){
+  try{
+    const manifest=await fetch("data/topics.json").then(r=>r.json());
+    if(!Array.isArray(manifest.topics)||!manifest.topics.length)throw new Error("empty manifest");
+    TOPICS=manifest.topics;
+  }catch(err){
+    console.warn("Could not load data/topics.json, falling back to built-in topic list.",err);
+    TOPICS=FALLBACK_TOPICS;
+  }
+}
 function currentDataset(){
   const d=new URLSearchParams(location.search).get("d");
-  return DATASETS.includes(d)?d:"phil";
+  return TOPICS.some(t=>t.id===d)?d:"phil";
 }
 const filterById=id=>FILTERS.find(f=>f.id===id);
 const groupFilter=()=>FILTERS.find(f=>f.grouping);
@@ -734,6 +746,7 @@ $("#copyLinkBtn").addEventListener("click", () => {
 // ---- end share / deeplink ----
 
 async function initApp(){
+  await loadTopics();
   try{
     await loadData();
     buildUI();
