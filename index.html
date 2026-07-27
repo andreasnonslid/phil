@@ -72,31 +72,30 @@ footer a{color:var(--accent);text-decoration:none}
   <div class="kicker">A browsable reference</div>
   <h1>The Index</h1>
   <p class="lead">Pick a topic to search, filter, and sort a curated collection.</p>
-  <div class="grid">
-    <a class="topic" href="viewer.html?d=phil">
-      <div class="t-kicker">Philosophy</div>
-      <h2>The Philosophers' Index</h2>
-      <p>317 thinkers across twenty-six centuries — by field, tradition, era, and popularity.</p>
-      <span class="arrow">Browse &rarr;</span>
-    </a>
-    <a class="topic" href="viewer.html?d=hist-events">
-      <div class="t-kicker">History</div>
-      <h2>Historical Events</h2>
-      <p>Turning points across world history — by region and period.</p>
-      <span class="arrow">Browse &rarr;</span>
-    </a>
-    <a class="topic" href="viewer.html?d=hist-chars">
-      <div class="t-kicker">History</div>
-      <h2>Historical Figures</h2>
-      <p>People who shaped the historical record — by role and era.</p>
-      <span class="arrow">Browse &rarr;</span>
-    </a>
-  </div>
+  <div class="grid" id="topicGrid"></div>
 </main>
 <footer>
   <a href="https://github.com/andreasnonslid/phil" target="_blank" rel="noopener">Source on GitHub &rarr;</a>
 </footer>
 <script>
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const topicGrid=document.getElementById("topicGrid");
+fetch("data/topics.json")
+  .then(r=>{ if(!r.ok) throw new Error("bad response"); return r.json(); })
+  .then(data=>{
+    topicGrid.innerHTML=(data.topics||[]).map(t=>{
+      const soon=t.status==="soon";
+      return `<a class="topic${soon?" soon":""}" href="viewer.html?d=${esc(t.id)}">`+
+        `<div class="t-kicker">${esc(t.kicker)}</div>`+
+        `<h2>${esc(t.title)}</h2>`+
+        `<p>${esc(t.blurb)}</p>`+
+        `<span class="arrow">${soon?"Coming soon":"Browse &rarr;"}</span>`+
+        `</a>`;
+    }).join("");
+  })
+  .catch(()=>{
+    topicGrid.innerHTML='<a class="topic" href="viewer.html?d=phil">Browse the index &rarr;</a>';
+  });
 const themeBtn=document.getElementById("themeBtn");
 themeBtn.textContent=document.documentElement.getAttribute("data-theme")==="dark"?"Light mode":"Dark mode";
 themeBtn.addEventListener("click",()=>{
