@@ -101,11 +101,20 @@ Keys prefixed `_` are pipeline internals, not rendered.
 
 ## How to verify your work
 
-There is no automated test suite unless `E0-03` has landed. Verify manually:
+Verify manually:
 
 ```bash
 python3 -m http.server 8000     # then open http://localhost:8000/
 ```
+
+If `tools/smoke_test.py` exists, also run it (Playwright, headless Chromium):
+
+```bash
+python3 tools/smoke_test.py
+```
+
+It prints `SMOKE OK` and exits zero on success, or a readable failure naming the topic and
+assertion that failed. It is a developer tool, not a required build step or CI gate.
 
 Every PR must confirm, in its description:
 

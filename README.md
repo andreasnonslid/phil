@@ -21,7 +21,7 @@ sharing one engine.
 
 ## Stack
 
-Static HTML/CSS/JS. No build step.
+Static HTML/CSS/JS. No build step. Optional smoke test: `python3 tools/smoke_test.py` (requires Playwright).
 
 ## License
 
