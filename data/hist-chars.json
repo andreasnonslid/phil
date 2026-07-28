@@ -198,6 +198,7 @@
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Founding king of the Zhou dynasty who overthrew the Shang at the Battle of Muye and became a Confucian model of virtuous rule.",
+      "tldr": "King Wu, personal name Ji Fa, completed the conquest his father Wen had begun, defeating King Zhou of Shang at the Battle of Muye and founding the Zhou dynasty, which ruled, at least nominally, for nearly eight centuries. He justified the overthrow with the Mandate of Heaven, arguing the Shang king had forfeited divine sanction through misrule, a concept that shaped Chinese political theory ever after. He died only a few years into his reign, leaving consolidation of the new state to his brother, the Duke of Zhou, acting as regent.",
       "url": "https://en.wikipedia.org/wiki/King_Wu_of_Zhou",
       "region": "East Asia"
     },
@@ -535,6 +536,7 @@
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Roman general and statesman whose rise ended the Republic and led to the Empire.",
+      "tldr": "Caesar rose through Rome's cursus honorum before conquering Gaul in a decade-long campaign, then crossed the Rubicon in 49 BCE to seize power in the civil war that followed. As dictator he pushed through land reform and introduced the Julian calendar, but his accumulation of personal power alarmed the old aristocracy. He was stabbed to death by senators, including his former ally Brutus, on the Ides of March, 44 BCE. His death did not restore the Republic; it triggered the wars that produced the Empire under his heir Octavian.",
       "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
       "region": "Europe"
     },
@@ -571,6 +573,7 @@
       "era": "Ancient (to 500 CE)",
       "region": "Europe",
       "desc": "Roman general who formed the Second Triumvirate with Octavian and Mark Antony after Caesar’s assassination, later sidelined as Pontifex Maximus.",
+      "tldr": "A patrician general and ally of Julius Caesar, Lepidus joined Octavian and Mark Antony in 43 BCE to form the Second Triumvirate, the dictatorship that proscribed and executed thousands of political enemies, including Cicero. Allotted the weakest share of the empire, Africa, he was gradually squeezed out and, after challenging Octavian for Sicily in 36 BCE, was stripped of his armies and forced into retirement. He kept the ceremonial title of Pontifex Maximus until his death, living his final decades under discreet house arrest.",
       "url": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)"
     },
     {
@@ -930,6 +933,7 @@
       "era": "Ancient (to 500 CE)",
       "region": "Europe",
       "desc": "Roman emperor of the West (474–475) who was deposed by Orestes but retained recognition from the East until his murder in 480.",
+      "tldr": "A relative by marriage of the Eastern emperor Leo I, Nepos was installed as Western emperor in 474 with Constantinople's backing after ousting the usurper Glycerius. His own military master, Orestes, turned on him the next year, forcing him to flee to Dalmatia while Orestes placed his son Romulus Augustulus on the throne instead. Constantinople kept recognizing Nepos as the legitimate Western emperor even after Romulus Augustulus was deposed in 476, making him, on paper, the last Western Roman emperor. He was murdered by his own retainers in 480.",
       "url": "https://en.wikipedia.org/wiki/Julius_Nepos"
     },
     {
@@ -1035,7 +1039,7 @@
       "region": "Europe",
       "era": "Ancient (to 500 CE)",
       "desc": "Jordanes, also written as Jordanis or Jornandes, was a 6th-century Eastern Roman bureaucrat, of Gothic descent, who became a historian later in life.",
-      "tldr": "Jordanes, also written as Jordanis or Jornandes, was a 6th-century Eastern Roman bureaucrat, of Gothic descent, who became a historian later in life.",
+      "tldr": "A Romanized Goth working as a notary in Constantinople, Jordanes turned to history writing relatively late in life, producing two works around 551: the Getica, a history of the Goths, and the Romana, a brief history of Rome. The Getica claims to condense a much longer, lost work by the Roman statesman Cassiodorus, though how faithfully is debated. Despite its legendary material and errors, it remains one of the few substantial sources on early Gothic history, making Jordanes an indispensable, if unreliable, witness for Late Antiquity.",
       "url": "https://en.wikipedia.org/wiki/Jordanes",
       "_country_qids": [
         "Q12544"
@@ -1140,6 +1144,7 @@
       "era": "Medieval (500–1500)",
       "region": "Europe",
       "desc": "Pope (682–683) who ratified the Third Council of Constantinople, condemning Monothelitism and rehabilitating orthodox theology.",
+      "tldr": "Leo II became pope in 682 after a delay of over a year, reportedly because imperial confirmation from Constantinople was slow to arrive. His short reign is chiefly remembered for formally ratifying the Third Council of Constantinople's condemnation of Monothelitism, the doctrine that Christ possessed only a single divine will, as heretical. In doing so he also confirmed the council's condemnation of his own predecessor, Pope Honorius I, for tolerating the heresy. Contemporaries praised his charity toward the poor and his oratory.",
       "url": "https://en.wikipedia.org/wiki/Pope_Leo_II"
     },
     {
@@ -1598,6 +1603,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Anglo-Saxon noblewoman and patron of churches, legendary for riding naked through Coventry to persuade her husband to lower taxes on the poor.",
+      "tldr": "Godiva was an 11th-century Anglo-Saxon noblewoman, wife of Leofric, Earl of Mercia, whose documented life consisted of endowing monasteries and churches across the Midlands. Her fame rests on a legend recorded over a century after her death, first by the chronicler Roger of Wendover: that she rode naked through Coventry to shame her husband into lifting a tax on the townspeople. The later addition of a voyeur, “Peeping Tom,” has no basis in the earliest versions. Historians treat the ride as folklore layered onto a real woman known for piety and patronage.",
       "url": "https://en.wikipedia.org/wiki/Lady_Godiva",
       "region": "Europe"
     },
@@ -1685,6 +1691,7 @@
       "region": "Europe",
       "era": "Medieval (500–1500)",
       "desc": "Lulach mac Gille Coemgáin was King of Alba (Scotland) between 15 August 1057 and 17 March 1058.",
+      "tldr": "Known to later chroniclers as ‘Lulach the Simple’ or ‘the Fool,’ Lulach was the stepson of Macbeth, King of Alba, whom he succeeded after Macbeth was killed in 1057 by the forces of Malcolm Canmore. His own reign lasted barely half a year: he was killed, reportedly through treachery, in March 1058, and Malcolm took the throne as Malcolm III. Little reliable information survives about his brief rule beyond king lists and later, often hostile, chronicles. His death ended the line of Scottish kings descended from the House of Moray.",
       "url": "https://en.wikipedia.org/wiki/Lulach",
       "_country_qids": [
         "Q230791"
@@ -1838,7 +1845,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Lu You was a Chinese historian and poet of the Southern Song Dynasty (南宋).",
-      "tldr": "Lu You was a Chinese historian and poet of the Southern Song Dynasty (南宋).",
+      "tldr": "Lu You was one of the most prolific poets of imperial China, credited with roughly ten thousand surviving poems from a career spent partly as a Southern Song official and partly in enforced retirement in his native Shaoxing. A fierce patriot, he repeatedly urged reconquest of northern China lost to the Jurchen Jin dynasty, a stance that cost him official favor and shaped the anguished tone of much of his verse. His deathbed poem urging his sons to celebrate if the north was ever retaken remains one of the most quoted in Chinese literature.",
       "url": "https://en.wikipedia.org/wiki/Lu_You",
       "_country_qids": [
         "Q1147043"
@@ -1914,6 +1921,7 @@
       "region": "Europe",
       "era": "Medieval (500–1500)",
       "desc": "Malcolm IV, nicknamed Virgo, \"the Maiden\" was King of Scotland from 1153 until his death.",
+      "tldr": "Malcolm IV inherited the Scottish throne at only twelve, nicknamed ‘the Maiden’ for his youth and delicate health, and never married. His reign was dominated by the far more powerful Henry II of England, to whom he surrendered the northern English territories his grandfather David I had won, in exchange for the earldom of Huntingdon. He also faced repeated revolts, notably from Somerled, Lord of the Isles, most of which he suppressed with English backing. He died young and unmarried, succeeded by his brother William the Lion.",
       "url": "https://en.wikipedia.org/wiki/Malcolm_IV_of_Scotland",
       "_country_qids": [
         "Q230791"
@@ -2164,6 +2172,7 @@
       "era": "Medieval (500–1500)",
       "region": "Middle East",
       "desc": "Second wife of Osman I, founder of the Ottoman dynasty, whose family alliances helped consolidate the early Ottoman state.",
+      "tldr": "Malhun Hatun is remembered in Ottoman tradition as a wife of Osman I, the eponymous founder of the Ottoman dynasty, and by some accounts the mother of his successor Orhan. Sources on the earliest Ottoman rulers are thin and often written generations later, so many details of her life, and even her identity relative to Osman's other reputed wives, remain uncertain and debated. She is nonetheless treated in later Ottoman genealogical tradition as a founding matriarch whose marriage alliance helped bind Osman's frontier principality to established regional families.",
       "url": "https://en.wikipedia.org/wiki/Malhun_Hatun"
     },
     {
@@ -2393,6 +2402,7 @@
       "region": "Europe",
       "era": "Medieval (500–1500)",
       "desc": "Ladislaus the Posthumous, known as Ladislaus V, was Duke of Austria and King of Hungary, Croatia and Bohemia.",
+      "tldr": "Born four months after the death of his father, Albert II of Habsburg, Ladislaus inherited the crowns of Hungary, Bohemia, and Austria as an infant, giving him the name by which he is known. His minority was dominated by powerful regents, notably his great-uncle Frederick III in Austria and, in Hungary, the general John Hunyadi. He was crowned in each realm as he came of age but exercised little independent power before dying suddenly at seventeen, on the eve of his planned wedding, amid rumors of poisoning historians now attribute more likely to leukemia.",
       "url": "https://en.wikipedia.org/wiki/Ladislaus_the_Posthumous",
       "_country_qids": [
         "Q28"
@@ -2433,6 +2443,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Italian polymath of the Renaissance, painter of the Mona Lisa and prolific inventor.",
+      "tldr": "Trained in Florence under Andrea del Verrocchio, Leonardo became the archetype of the Renaissance polymath, working as painter, engineer, anatomist, and military designer for patrons including the Sforza of Milan and the French crown. Only a handful of paintings are securely his, among them the Mona Lisa and The Last Supper, but his true output was far larger: thousands of notebook pages on anatomy, flight, hydraulics, and optics, mostly unpublished in his lifetime. He dissected cadavers to study musculature and sketched flying machines centuries before the technology existed.",
       "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
     },
     {
@@ -2902,6 +2913,7 @@
       "era": "Early modern (1500–1800)",
       "region": "East Asia",
       "desc": "13th emperor of the Ming dynasty (1567–1572), whose brief reign brought pragmatic diplomatic and trade reforms.",
+      "tldr": "Born Zhu Zaiji, the Longqing Emperor took the Ming throne in 1567 after the death of his reclusive, Taoist-obsessed father, the Jiajing Emperor, and reversed several of his father's more damaging policies. His short reign is best remembered for lifting the long-standing ban on private maritime trade, opening Chinese ports to silver-driven commerce with Spanish Manila and Japan. He also negotiated a lasting peace with the Mongol leader Altan Khan, ending decades of border warfare. He died after only six years, leaving a young, disengaged successor, the Wanli Emperor.",
       "url": "https://en.wikipedia.org/wiki/Longqing_Emperor"
     },
     {
@@ -2984,7 +2996,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "Jost Bürgi, active primarily at the courts in Kassel and Prague, was a Swiss clockmaker, mathematician, and writer. Burgi was the brother-in-law and adoptive father of Benjamin Bramer.",
-      "tldr": "Jost Bürgi, active primarily at the courts in Kassel and Prague, was a Swiss clockmaker, mathematician, and writer. Burgi was the brother-in-law and adoptive father of Benjamin Bramer.",
+      "tldr": "A self-taught Swiss instrument maker with no formal mathematical training, Bürgi built astronomical clocks and globes of exceptional precision for the courts of Hesse-Kassel and, later, Emperor Rudolf II in Prague. Working independently of, and slightly before, John Napier, he devised his own system of logarithms to ease astronomical calculation, though he published his tables years after Napier's and to far less attention. In Prague he worked closely with Johannes Kepler, supplying him with instruments for his planetary observations.",
       "url": "https://en.wikipedia.org/wiki/Jost_B%C3%BCrgi",
       "_country_qids": [
         "Q39"
@@ -3243,6 +3255,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Habsburg archduke who served as Prince-Bishop of Passau and Strasbourg before assuming secular rule over Further Austria.",
+      "tldr": "A younger son of the Habsburg archduke Charles II of Inner Austria, Leopold was raised for the Church and became Prince-Bishop of both Passau and Strasbourg while young, though he never took full holy orders. In 1619 he set these roles aside for secular rule over Further Austria and Tyrol, territories granted by his cousin, Emperor Ferdinand II, early in the Thirty Years' War. He backed the Catholic cause militarily and worked to consolidate Habsburg control over the fractious Tyrolean estates, and his descendants ruled the region for decades after.",
       "url": "https://en.wikipedia.org/wiki/Leopold_V%2C_Archduke_of_Austria",
       "region": "Europe"
     },
@@ -3418,6 +3431,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "First Braganza king, restored Portuguese independence from Spain in 1640; also a prolific composer and patron of music.",
+      "tldr": "A wealthy nobleman with a strong hereditary claim, John was proclaimed king in December 1640 when conspirators overthrew sixty years of Spanish Habsburg rule over Portugal in a coup later celebrated as the Restoration. He spent much of his reign fighting the long Portuguese Restoration War to defend that independence, while rebuilding Portugal's overseas empire and navy. Away from politics he was a serious composer, amassing one of Europe's largest music libraries and writing several surviving sacred works. The library was destroyed in the 1755 Lisbon earthquake.",
       "url": "https://en.wikipedia.org/wiki/John_IV_of_Portugal",
       "region": "Europe"
     },
@@ -3978,6 +3992,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Grandson of Louis XIV known as le Petit Dauphin, groomed by Fénelon to be an enlightened king but died of measles before acceding.",
+      "tldr": "Grandson of Louis XIV and heir to the French throne, the young Duke of Burgundy was notorious as a child for a violent temper before undergoing a widely noted transformation under the theologian Fénelon, who used the prince as inspiration for his didactic novel Télémaque. By adulthood he was known for piety and reforming ambitions that raised hopes he might correct his grandfather's excesses. Those hopes ended in 1712, when he died of measles within days of his wife, briefly leaving the succession resting on an infant, the future Louis XV.",
       "url": "https://en.wikipedia.org/wiki/Louis%2C_Duke_of_Burgundy",
       "region": "Europe"
     },
@@ -4138,6 +4153,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Johann Jakob Bodmer was a Swiss author, academic, critic and poet.",
+      "tldr": "A Zurich literary critic and professor, Bodmer became one of the most influential arbiters of German-language taste in the eighteenth century, championing imagination and feeling in poetry against the rigid classicism then dominant in Leipzig under Johann Christoph Gottsched. His 1757 edition of the medieval epic the Nibelungenlied helped revive interest in Germanic literary heritage decades before Romanticism made it fashionable. Working with his collaborator Johann Jakob Breitinger, he mentored younger writers and helped shape the Sturm und Drang movement that followed.",
       "url": "https://en.wikipedia.org/wiki/Johann_Jakob_Bodmer",
       "_country_qids": [
         "Q39",
@@ -4344,6 +4360,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Dom Joseph I, known as the Reformer, was King of Portugal from 1750 until his death in 1777, with his reign dominated by the Marquis of Pombal.",
+      "tldr": "Known to history chiefly through the man who ran his government, José I left the administration of Portugal almost entirely to his powerful chief minister, the Marquis of Pombal, while devoting himself to hunting, opera, and court entertainments. Pombal used this latitude to rebuild the capital on a modern grid plan after the catastrophic 1755 Lisbon earthquake and to curb the power of the Jesuits and old nobility. José survived an assassination attempt in 1758 that Pombal used as pretext to execute several rival nobles, the Távora family, in a brutal purge.",
       "url": "https://en.wikipedia.org/wiki/Joseph_I_of_Portugal",
       "region": "Europe"
     },
@@ -4491,6 +4508,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Son of Louis XV of France and father of three kings (Louis XVI, Louis XVIII, Charles X) who never himself ascended the throne.",
+      "tldr": "Eldest son of Louis XV, this Dauphin was raised to be king but never reigned, dying of tuberculosis at thirty-six, eleven years before his father. He was known for genuine piety and a conservative religious outlook that put him at odds with Enlightenment currents at Versailles, earning him quiet influence as leader of a conservative faction, the parti dévot. His true historical weight came through his children: three of his sons became kings of France in turn, as Louis XVI, Louis XVIII, and Charles X. He did not live to see any of them crowned.",
       "url": "https://en.wikipedia.org/wiki/Louis%2C_Dauphin_of_France_(son_of_Louis_XV)",
       "region": "Europe"
     },
@@ -4617,6 +4635,7 @@
       "region": "Americas",
       "era": "Early modern (1500–1800)",
       "desc": "John Adams was a Founding Father and the second president of the United States from 1797 to 1801. He was a leader of the American Revolution that achieved independence from Great Britain.",
+      "tldr": "A Massachusetts lawyer who first gained prominence defending the British soldiers accused in the Boston Massacre, insisting even unpopular defendants deserved a fair trial, Adams became one of the most forceful advocates for independence in the Continental Congress. He helped draft the Declaration of Independence and served as a wartime diplomat securing loans and recognition from the Dutch and French. As the first vice president and second president, he steered a fragile young republic through the divisive Quasi-War with France, at real cost to his own re-election.",
       "url": "https://en.wikipedia.org/wiki/John_Adams",
       "_country_qids": [
         "Q30",
@@ -4833,7 +4852,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "Johann Kaspar Lavater was a Swiss poet, writer, philosopher, physiognomist and Reformed theologian.",
-      "tldr": "Johann Kaspar Lavater was a Swiss poet, writer, philosopher, physiognomist and Reformed theologian.",
+      "tldr": "A Zurich pastor and prolific writer, Lavater is best remembered for popularizing physiognomy, the now-discredited theory that character could be read from the fixed features of the face, in his widely translated Physiognomic Fragments. The work made him a celebrity, corresponding with figures including Goethe, though critics like Georg Christoph Lichtenberg mocked its pseudoscientific claims. A public attempt to convert Moses Mendelssohn to Christianity embroiled him in controversy. He died from wounds tending the injured during the French occupation of Zurich in 1799.",
       "url": "https://en.wikipedia.org/wiki/Johann_Kaspar_Lavater",
       "_country_qids": [
         "Q39"
@@ -5224,6 +5243,7 @@
       "region": "Americas",
       "era": "Early modern (1500–1800)",
       "desc": "John Quincy Adams was the sixth president of the United States, serving from 1825 to 1829. He previously served as the eighth United States secretary of state from 1817 to 1825.",
+      "tldr": "Son of the second president, Adams built an extraordinary diplomatic career before reaching the White House himself, serving as minister to the Netherlands, Prussia, Russia, and Britain, and as secretary of state negotiating the treaty that brought Florida into the United States. His single term as president, won in a contested 1824 election decided by the House, was hampered by opponents who denounced it as a “corrupt bargain.” He later returned to Congress, spending nearly two decades as a leading opponent of slavery, and died on the House floor in 1848.",
       "url": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
       "_country_qids": [
         "Q258532",
@@ -5861,6 +5881,7 @@
       "region": "Americas",
       "era": "Early modern (1500–1800)",
       "desc": "John Tyler was the tenth president of the United States, serving from 1841 to 1845. He succeeded to the presidency following Harrison's death 31 days after assuming office.",
+      "tldr": "Elected vice president in 1840 on a ticket meant to balance regional interests, Tyler became the first vice president to assume the presidency on a sitting president's death when William Henry Harrison died a month into office. He insisted, against considerable objection, that he had become president in full rather than a mere caretaker, establishing the ‘Tyler Precedent’ for succession, later codified in the 25th Amendment. His independence from party discipline led most of his cabinet to resign and the Whigs to expel him. He later sided with the Confederacy at the Civil War's outbreak.",
       "url": "https://en.wikipedia.org/wiki/John_Tyler",
       "_country_qids": [
         "Q30"
@@ -5908,7 +5929,7 @@
       "region": "Americas",
       "era": "Early modern (1500–1800)",
       "desc": "Manuel José Blanco y Calvo de Encalada was a vice-admiral in the Chilean Navy, a political figure, and Chile's first President (Provisional) (1826).",
-      "tldr": "Manuel José Blanco y Calvo de Encalada was a vice-admiral in the Chilean Navy, a political figure, and Chile's first President (Provisional) (1826).",
+      "tldr": "Born in Buenos Aires and educated in the Spanish navy, Blanco Encalada joined the Chilean independence movement and became the founding commander of the Chilean Navy, leading its first ships against Spanish forces along the Pacific coast. He served briefly as Chile's first head of state, as Supreme Director in 1826, though internal conflict forced his resignation within months. He later commanded Chilean forces during the war against the Peru-Bolivia Confederation and held senior diplomatic posts, including ambassador to France and Britain, before his death in 1876.",
       "url": "https://en.wikipedia.org/wiki/Manuel_Blanco_Encalada",
       "_country_qids": [
         "Q414"
@@ -6485,6 +6506,7 @@
       ],
       "era": "19th century",
       "desc": "Jean Louis Rodolphe Agassiz was a Swiss-born American biologist and geologist who is recognized as a scholar of Earth's natural history.",
+      "tldr": "Trained in Switzerland and Germany, Agassiz first made his name studying fossil fish before turning to the glaciers of the Alps, where his fieldwork established that much of Europe had once been covered by ice sheets, founding the concept of past ice ages. After emigrating to the United States in 1846 to lecture at Harvard, he built one of the era's leading natural history museums. He was also a vocal proponent of polygenism, the now-discredited and racist theory that human races were separately created, an idea he used to support arguments controversial even among his contemporaries.",
       "url": "https://en.wikipedia.org/wiki/Louis_Agassiz",
       "_country_qids": [
         "Q30",
@@ -7089,7 +7111,7 @@
       ],
       "era": "19th century",
       "desc": "Sir John Joseph Caldwell Abbott was the third prime minister of Canada, serving from 1891 to 1892. He held office as the leader of the Conservative Party.",
-      "tldr": "Sir John Joseph Caldwell Abbott was the third prime minister of Canada, serving from 1891 to 1892. He held office as the leader of the Conservative Party.",
+      "tldr": "A Montreal lawyer and longtime member of Canada's Parliament, Abbott became the country's third prime minister in 1891 almost by default, chosen as a compromise candidate after the sudden death of Sir John A. Macdonald left the Conservatives without an obvious successor. He led from the Senate rather than the Commons, the only Canadian prime minister ever to do so, and spent his brief eighteen months managing party divisions and his own declining health. Already suffering from the brain cancer that would kill him, he resigned in 1892 and died the following year.",
       "url": "https://en.wikipedia.org/wiki/John_Abbott",
       "_country_qids": [
         "Q16"
@@ -7221,7 +7243,7 @@
       ],
       "era": "19th century",
       "desc": "Sir Mackenzie Bowell was the fifth prime minister of Canada, serving from 1894 to 1896.",
-      "tldr": "Sir Mackenzie Bowell was the fifth prime minister of Canada, serving from 1894 to 1896.",
+      "tldr": "An Ontario newspaper publisher and long-serving cabinet minister, Bowell became Canada's fifth prime minister in 1894, again largely by default after a previous succession arrangement collapsed. His seventeen months in office were dominated by the Manitoba Schools Question, a bitter dispute over funding for French Catholic schools that split his cabinet, seven of whose members resigned in revolt in early 1896. He was forced to step aside for Charles Tupper shortly before that year's election, which the Conservatives lost to Wilfrid Laurier's Liberals.",
       "url": "https://en.wikipedia.org/wiki/Mackenzie_Bowell",
       "_country_qids": [
         "Q16"
@@ -7285,6 +7307,7 @@
       ],
       "era": "19th century",
       "desc": "Johann Jakob Balmer was a Swiss mathematician best known for his work in physics, the Balmer series of the hydrogen atom.",
+      "tldr": "A Swiss schoolteacher with no formal training in physics, Balmer was in his sixties, teaching at a girls' school in Basel, when in 1885 he found a simple formula that precisely predicted the wavelengths of hydrogen's visible spectral lines. He had no explanation for why it worked, having derived it purely by pattern-matching against data supplied by a colleague. The Balmer series later proved crucial evidence for Niels Bohr's 1913 quantum model of the atom, which finally explained why hydrogen's electron produced exactly those wavelengths. He published little else of note.",
       "url": "https://en.wikipedia.org/wiki/Johann_Jakob_Balmer",
       "_country_qids": [
         "Q39"
@@ -7348,6 +7371,7 @@
       ],
       "era": "19th century",
       "desc": "Johanna Spyri was a Swiss author of novels, notably children's stories. She wrote the popular book Heidi.",
+      "tldr": "A Swiss pastor's wife who began writing relatively late in life to support charitable causes, Spyri achieved lasting fame with Heidi, published in two parts in 1880 and 1881, the story of an orphaned girl sent to live with her reclusive grandfather in the Swiss Alps. The novel's vivid depiction of alpine landscape, combined with its themes of homesickness and healing, made it an enduring international success, translated into dozens of languages and repeatedly adapted for film. She wrote roughly fifty other stories, though none matched Heidi's popularity, until her death in 1901.",
       "url": "https://en.wikipedia.org/wiki/Johanna_Spyri",
       "_country_qids": [
         "Q39"
@@ -7584,6 +7608,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Georg Leo Graf von Caprivi de Caprara de Montecuccoli was a German general and statesman. He served as the imperial chancellor of the German Empire from March 1890 to October 1894, succeeding longtime chancellor Otto von Bismarck.",
+      "tldr": "A career Prussian army officer with no political experience, Caprivi was picked by Kaiser Wilhelm II in 1890 specifically because he was not Bismarck, whose long domination of policy the young emperor wanted to end. As chancellor, Caprivi pursued a ‘New Course’ that lowered protective tariffs to build a network of trade treaties across Europe and let Bismarck's anti-socialist laws lapse. He also concluded the Heligoland-Zanzibar Treaty with Britain, trading German colonial claims in East Africa for the North Sea island of Heligoland, before being dismissed in 1894.",
       "url": "https://en.wikipedia.org/wiki/Leo_von_Caprivi",
       "_country_qids": [
         "Q27306",
@@ -7604,7 +7629,7 @@
       ],
       "era": "19th century",
       "desc": "Johann Martin Schleyer was a German Catholic priest who invented the constructed language Volapük. His official name was “Martin Schleyer”; he added the name “Johann” unofficially.",
-      "tldr": "Johann Martin Schleyer was a German Catholic priest who invented the constructed language Volapük. His official name was “Martin Schleyer”; he added the name “Johann” unofficially.",
+      "tldr": "A German Catholic priest serving a rural parish, Schleyer conceived the constructed language Volapük in 1879, reportedly after a sleepless night in which the idea came to him as a kind of religious calling. Built from heavily altered English, German, and Romance vocabulary wrapped in an elaborate original grammar, Volapük spread rapidly in the 1880s, acquiring hundreds of thousands of speakers and dozens of dedicated journals across Europe and the Americas. Its complexity and Schleyer's insistence on personal control alienated speakers, most of whom defected to the simpler, newer Esperanto.",
       "url": "https://en.wikipedia.org/wiki/Johann_Martin_Schleyer",
       "_country_qids": [
         "Q186320"
@@ -7975,6 +8000,7 @@
       "region": "Americas",
       "era": "19th century",
       "desc": "John Milton Hay was an American statesman and official whose career in government stretched over almost half a century. He served as United States Secretary of State under Presidents William McKinley and Theodore Roosevelt.",
+      "tldr": "A former private secretary to Abraham Lincoln who co-authored a monumental ten-volume biography of him, Hay went on to a diplomatic career culminating in his appointment as secretary of state under both William McKinley and Theodore Roosevelt. In that role he negotiated the Open Door Policy notes seeking equal trading access to China, and the treaties securing American rights to build the Panama Canal after Panama's engineered secession from Colombia. He had earlier served as ambassador to Britain, remaining in office until his death in 1905.",
       "url": "https://en.wikipedia.org/wiki/John_Hay",
       "_country_qids": [
         "Q30"
@@ -8486,6 +8512,7 @@
       "era": "19th century",
       "region": "Americas",
       "desc": "Cuban poet, journalist, and independence leader who organised the 1895 war against Spanish rule and died in its first skirmish.",
+      "tldr": "A Cuban poet and journalist exiled repeatedly by Spanish colonial authorities for his revolutionary writing, Martí spent most of his adult life organizing Cuban independence from abroad, principally in New York, where he founded the Cuban Revolutionary Party. He was also a major figure in Spanish American letters, credited as a founder of the modernismo literary movement, and his poetry collection Versos Sencillos remains widely read across Latin America. In 1895 he returned to Cuba to help launch the war of independence he had planned, only to be killed weeks after landing.",
       "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD"
     },
     {
@@ -8806,6 +8833,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "L. L. Zamenhof (1859–1917) was the creator of Esperanto, the most widely used constructed international auxiliary language.",
+      "tldr": "An ophthalmologist practicing in Warsaw, then part of the Russian Empire, Zamenhof grew up amid the ethnic and linguistic tensions of his multilingual hometown, Białystok, an experience he credited with inspiring his lifelong project of a universal second language. He published the first Esperanto textbook in 1887 under the pseudonym ‘Doktoro Esperanto,’ meaning ‘one who hopes,’ a name that came to designate the language itself. Built with simple, regular grammar drawn mainly from Romance and Germanic roots, Esperanto grew a genuine international speaking community that persists today.",
       "url": "https://en.wikipedia.org/wiki/L._L._Zamenhof",
       "_country_qids": [
         "Q696908",
@@ -8907,7 +8935,7 @@
       "region": "Middle East",
       "era": "19th century",
       "desc": "Jurji Zaydan was a prolific Lebanese novelist, journalist, editor and teacher, most noted for his creation of the magazine Al-Hilal, which he used to serialize his twenty three historical novels.",
-      "tldr": "Jurji Zaydan was a prolific Lebanese novelist, journalist, editor and teacher, most noted for his creation of the magazine Al-Hilal, which he used to serialize his twenty three historical novels.",
+      "tldr": "A Beirut-born Christian intellectual who settled in Cairo, Zaydan became one of the most influential figures of the Nahda, the Arab cultural and literary revival of the late nineteenth century. In 1892 he founded the magazine Al-Hilal, using it both as a vehicle for popular education across the Arab world and to serialize his own sequence of twenty-three historical novels dramatizing episodes of Islamic and Arab history. He also wrote widely used scholarly histories of Arabic literature, aiming to present a modern, secular account of the Arab past accessible to general readers.",
       "url": "https://en.wikipedia.org/wiki/Jurji_Zaydan",
       "_country_qids": [
         "Q12560"
@@ -9249,6 +9277,7 @@
       ],
       "era": "20th century onward",
       "desc": "Leader of India's nonviolent independence movement against British rule.",
+      "tldr": "Trained as a lawyer in London, Gandhi first developed his philosophy of nonviolent civil resistance, satyagraha, while campaigning for the rights of the Indian community in South Africa over two decades before returning to India in 1915. He then took leadership of the Indian National Congress and transformed it into a mass movement, organizing nationwide campaigns of noncooperation, most famously the 1930 Salt March protesting the British salt tax. India achieved independence in 1947, accompanied by a violent partition that devastated him; he was assassinated months later, in January 1948.",
       "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
       "region": "South Asia"
     },
@@ -9274,6 +9303,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Johannes Linnankoski was a Finnish author and playwright. His most famous work is the romance novel, The Song of the Blood-Red Flower (1905). His primary themes were guilt, punishment, and redemption as moral questions.",
+      "tldr": "Born Johannes Vihtori Peltonen to a poor farming family, Linnankoski worked as a journalist and printer before achieving literary fame with his 1905 novel The Song of the Blood-Red Flower, a romance following a restless woodsman through love affairs across the Finnish countryside. The book's frank treatment of sexuality and lush nature writing made it popular in Finland and, in translation, abroad, and it was adapted into several films. His other major novel, The Fugitives, dealt with religious dissenters fleeing persecution. He died young, in 1913, at the height of his fame.",
       "url": "https://en.wikipedia.org/wiki/Johannes_Linnankoski",
       "_country_qids": [
         "Q62633"
@@ -9707,6 +9737,7 @@
       ],
       "era": "19th century",
       "desc": "Danish painter and one of the earliest known recipients of gender reassignment surgery.",
+      "tldr": "Born Einar Wegener, Lili Elbe trained as a painter in Copenhagen and worked professionally alongside her wife, the artist Gerda Gottlieb, who often used her as a model under the name Lili. In the late 1920s, after years of gender dysphoria initially treated by doctors as illness, she underwent a pioneering series of surgeries in Germany, becoming one of the first documented recipients of what would later be called gender-affirming surgery. She adopted the legal name Lili Elbe and died in 1931 from complications following a later, experimental operation intended to allow her to have children.",
       "url": "https://en.wikipedia.org/wiki/Lili_Elbe",
       "region": "Europe"
     },
@@ -10069,6 +10100,7 @@
       "era": "20th century onward",
       "region": "Europe",
       "desc": "Kazakh machine-gunner in the Red Army who single-handedly held off a German assault near Nevel in 1943, posthumously awarded Hero of the Soviet Union.",
+      "tldr": "A Kazakh student in Alma-Ata when the Soviet Union entered the Second World War, Mametova volunteered for the Red Army and, after initially being assigned clerical duties, insisted on retraining as a machine gunner. Serving with the 21st Guards Rifle Division, she was killed in October 1943 defending a position near Nevel in western Russia, reportedly continuing to fire after her crew was wiped out and covering her unit's retreat. She was posthumously awarded Hero of the Soviet Union in 1944 and remains a celebrated national figure in Kazakhstan.",
       "url": "https://en.wikipedia.org/wiki/Manshuk_Mametova"
     },
     {
@@ -10534,7 +10566,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Khalil Sultan was the Timurid ruler of Transoxiana from 18 February 1405 to 1409. He was a son of Miran Shah and a grandson of Timur.",
-      "tldr": "Khalil Sultan was the Timurid ruler of Transoxiana from 18 February 1405 to 1409. He was a son of Miran Shah and a grandson of Timur.",
+      "tldr": "A grandson of Timur through his son Miran Shah, Khalil Sultan seized control of Transoxiana and the Timurid capital Samarkand in 1405 immediately after his grandfather's death, outmaneuvering rival claimants in the succession struggle that followed. His four-year rule was undermined by a controversial marriage to a former slave woman, widely blamed by chroniclers for depleting the treasury and alienating the Timurid nobility. He was overthrown in 1409 by his uncle Shah Rukh, another son of Timur, who reunified most of the empire; Khalil Sultan died two years later, still in his twenties.",
       "url": "https://en.wikipedia.org/wiki/Khalil_Sultan",
       "_country_qids": [
         "Q484195"
@@ -10579,7 +10611,7 @@
       ],
       "era": "19th century",
       "desc": "Raden Adjeng Kartini, also known as Raden Ayu Kartini, was a prominent Indonesian advocate of women's rights and female education.",
-      "tldr": "Raden Adjeng Kartini, also known as Raden Ayu Kartini, was a prominent Indonesian advocate of women's rights and female education.",
+      "tldr": "Born into Javanese aristocracy under Dutch colonial rule, Kartini received a Dutch-language education unusual for girls of her era before being confined, per local custom, to the family home from age twelve until her arranged marriage. During this seclusion she corresponded extensively with Dutch friends about the position of Indonesian women, arguing for access to education and against polygamy and forced early marriage. She died at twenty-five, days after giving birth; her letters, published posthumously as Through Darkness to Light, made her a founding figure of Indonesian feminism.",
       "url": "https://en.wikipedia.org/wiki/Kartini",
       "_country_qids": [
         "Q188161"
@@ -11287,7 +11319,7 @@
       ],
       "era": "20th century onward",
       "desc": "Julius Fučík may refer to:Julius Fučík (composer) (1872–1916), Czech composer and conductor\nJulius Fučík (journalist) (1903–1943), Czech journalist and writer",
-      "tldr": "Julius Fučík may refer to:Julius Fučík (composer) (1872–1916), Czech composer and conductor\nJulius Fučík (journalist) (1903–1943), Czech journalist and writer",
+      "tldr": "A Czech literary critic and committed Communist journalist, Fučík wrote for party newspapers through the 1920s and 1930s and traveled to the Soviet Union, producing enthusiastic reportage on Soviet life. After the Nazi occupation he went underground to lead the banned Communist Party's resistance, until his arrest by the Gestapo in Prague in 1942. While imprisoned and awaiting execution, he secretly wrote Notes from the Gallows on smuggled paper, a memoir that became a defining text of wartime resistance literature after its 1945 publication. He was executed in Berlin in 1943.",
       "url": "https://en.wikipedia.org/wiki/Julius_Fu%C4%8D%C3%ADk",
       "_country_qids": [
         "Q533534",
@@ -12173,7 +12205,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Louis Antoine of France, Duke of Angoulême was the elder son of Charles X of France and the last Dauphin of France from 1824 to 1830.",
-      "tldr": "Louis Antoine of France, Duke of Angoulême was the elder son of Charles X of France and the last Dauphin of France from 1824 to 1830.",
+      "tldr": "The elder son of the future Charles X, Angoulême grew up in exile during the French Revolution and later commanded royalist forces sent into Spain in 1823 to help restore the absolutist rule of Ferdinand VII, a campaign that succeeded but did little to help the reactionary Bourbon regime's popularity at home. When his father was overthrown in the July Revolution of 1830, Angoulême briefly held the title of King Louis XIX for perhaps twenty minutes before both he and Charles X signed abdication documents. He spent the rest of his life in exile, dying in Austria in 1844.",
       "url": "https://en.wikipedia.org/wiki/Louis_Antoine%2C_Duke_of_Angoul%C3%AAme",
       "_country_qids": [
         "Q142"
@@ -13018,7 +13050,7 @@
       "y": 795,
       "era": "Medieval (500–1500)",
       "desc": "Lothair I was a 9th-century Emperor of the Carolingian Empire and King of Italy (818–855) and Middle Francia (843–855).",
-      "tldr": "Lothair I was a 9th-century Emperor of the Carolingian Empire and King of Italy (818–855) and Middle Francia (843–855).",
+      "tldr": "Eldest son of Louis the Pious and grandson of Charlemagne, Lothair was crowned co-emperor young but spent much of his early adulthood in rebellion against his father over the repeated redivision of the Carolingian inheritance. After Louis's death, Lothair's claim to supremacy was defeated by his brothers at the bloody Battle of Fontenoy in 841, forcing the settlement known as the Treaty of Verdun in 843. That treaty split the empire into three kingdoms, leaving Lothair the imperial title and an unstable central strip, Middle Francia, which he further divided before dying in 855.",
       "url": "https://en.wikipedia.org/wiki/Lothair_I",
       "_country_qids": [
         "Q31929"
@@ -13205,7 +13237,7 @@
       "y": 1784,
       "era": "Early modern (1500–1800)",
       "desc": "Jérôme Bonaparte was the youngest brother of Napoleon I who reigned as Jérôme Napoleon I, King of Westphalia, between 1807 and 1813.",
-      "tldr": "Jérôme Bonaparte was the youngest brother of Napoleon I who reigned as Jérôme Napoleon I, King of Westphalia, between 1807 and 1813.",
+      "tldr": "The youngest of Napoleon's brothers, Jérôme served briefly in the French navy before his 1803 marriage to the American Elizabeth Patterson was annulled by Napoleon, who wanted his siblings married for dynastic advantage; Jérôme complied, later marrying a Württemberg princess instead. Napoleon rewarded him with the newly created Kingdom of Westphalia in 1807, a patchwork German state Jérôme ruled with a lavish court that also introduced the Napoleonic legal code to the region. He commanded a corps at Waterloo in 1815 and died in 1860, the last surviving Bonaparte sibling.",
       "url": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Bonaparte",
       "_country_qids": [
         "Q142"
@@ -15414,7 +15446,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Sir Joseph Banks, 1st Baronet was an English naturalist, botanist, and patron of the natural sciences.",
-      "tldr": "Sir Joseph Banks, 1st Baronet was an English naturalist, botanist, and patron of the natural sciences.",
+      "tldr": "A wealthy English landowner with a passion for natural history, Banks financed his own participation in James Cook's first Pacific voyage aboard HMS Endeavour, returning in 1771 with vast collections of previously unknown plants and animals, including specimens from Australia, that made him instantly famous. He went on to serve as president of the Royal Society for over four decades, directing British scientific patronage and the exchange of plants across the empire through Kew Gardens. He was central to recommending Botany Bay as a site for British settlement in Australia.",
       "url": "https://en.wikipedia.org/wiki/Joseph_Banks",
       "_country_qids": [
         "Q174193"
