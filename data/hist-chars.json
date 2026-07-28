@@ -856,6 +856,7 @@
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Huiyuan refers to Lushan Huiyuan (334–416), a Chinese Buddhist monk.",
+      "tldr": "A Chinese Buddhist monk of the Eastern Jin dynasty, Huiyuan founded a monastic community at Donglin Temple on Mount Lu that became a major center of Buddhist practice and scholarship. He corresponded with the great translator Kumarajiva on points of doctrine and worked to reconcile Buddhism with Chinese philosophical and ritual traditions, arguing that monks need not bow to the emperor. Later tradition credits him as a founding patriarch of Pure Land Buddhism's devotion to Amitabha.",
       "url": "https://en.wikipedia.org/wiki/Huiyuan",
       "_country_qids": [
         "Q29520"
@@ -892,6 +893,7 @@
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Hypatia was a Neoplatonist philosopher, astronomer, and mathematician who lived in Alexandria. In Alexandria, Hypatia was a prominent thinker who taught subjects including philosophy and astronomy.",
+      "tldr": "A Neoplatonist philosopher, mathematician, and astronomer in Roman Alexandria, Hypatia headed a school teaching students drawn from across the Mediterranean and produced commentaries on works by Diophantus and Apollonius of Perga, refining earlier mathematical texts. Respected as a public intellectual who advised city officials, she became a target amid escalating conflict between the prefect Orestes and the bishop Cyril. In 415 she was murdered by a mob, an event later mythologized as a symbol of reason destroyed by religious fanaticism.",
       "url": "https://en.wikipedia.org/wiki/Hypatia",
       "_country_qids": [
         "Q12544"
@@ -1169,6 +1171,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Grandson of the Prophet Muhammad and third Imam of Shia Islam; his death at the Battle of Karbala became the central tragedy of Shia faith.",
+      "tldr": "A grandson of the Prophet Muhammad through his daughter Fatima, Husayn was the third Imam recognized by Shia Muslims. In 680 he refused to pledge allegiance to the Umayyad caliph Yazid I and marched toward Kufa with a small band of family and supporters, only to be surrounded and killed at Karbala in present-day Iraq. His death, commemorated annually during the mourning rituals of Ashura, became the central narrative of martyrdom, injustice, and sacrifice in Shia religious identity.",
       "url": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
       "region": "Middle East"
     },
@@ -1228,7 +1231,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Hisham ibn Abd al-Malik ibn Marwan was the tenth Umayyad caliph, ruling from 724 until his death in 743. His grandson Abd al-Rahman I was the founder and first emir of the Emirate of Córdoba.",
-      "tldr": "Hisham ibn Abd al-Malik ibn Marwan was the tenth Umayyad caliph, ruling from 724 until his death in 743. His grandson Abd al-Rahman I was the founder and first emir of the Emirate of Córdoba.",
+      "tldr": "The tenth Umayyad caliph, Hisham ruled from 724 to 743 during the dynasty's longest and arguably most stable reign, overseeing an efficient tax administration and continued expansion even as revolts, including a major Berber uprising in North Africa, strained the empire's resources. His court patronized poets and scholars, and though the Umayyads fell within a decade of his death, his grandson Abd al-Rahman I escaped the Abbasid purge to found the Emirate of Córdoba in Spain.",
       "url": "https://en.wikipedia.org/wiki/Hisham_ibn_Abd_al-Malik",
       "_country_qids": [
         "Q8575586"
@@ -1332,6 +1335,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Persian-born author and translator who rendered Kalila wa Dimna into Arabic, becoming a foundational figure of classical Arabic prose.",
+      "tldr": "Born into a Persian family serving the late Umayyad and early Abbasid administrations, Ibn al-Muqaffa' translated the Middle Persian Kalila wa-Dimna, a collection of animal fables originally from India, into Arabic prose so elegant and precise that it became a founding model for classical Arabic literary style. He also translated Persian historical and courtly works and wrote original treatises on statecraft and ethics, shaping Arabic prose at a formative moment in Islamic intellectual history.",
       "url": "https://en.wikipedia.org/wiki/Ibn_al-Muqaffa%27",
       "region": "Middle East"
     },
@@ -1530,6 +1534,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Arab mathematician and physicist from Iraq known as “the father of modern optics”; his Book of Optics transformed the science of vision.",
+      "tldr": "An Iraqi-born polymath working chiefly in Cairo, Ibn al-Haytham wrote the Book of Optics, which overturned ancient theories that vision worked by rays emitted from the eye and instead argued correctly that sight results from light entering it, grounding the claim in careful experiment rather than pure reasoning. This rigorous, testable method has led some historians to call him a father of the modern scientific method. He reportedly feigned madness for years to escape the wrath of the volatile Fatimid caliph al-Hakim.",
       "url": "https://en.wikipedia.org/wiki/Ibn_al-Haytham",
       "region": "Middle East"
     },
@@ -1543,6 +1548,7 @@
       "era": "Medieval (500–1500)",
       "region": "Europe",
       "desc": "Holy Roman Emperor (1014–1024) and the last Ottonian emperor, later canonised for his support of Church reform.",
+      "tldr": "The last Ottonian emperor, Henry II ruled from 1014 to 1024 and devoted his reign to consolidating royal power in Germany while campaigning in Italy and against the Polish duke Bolesław I. A famously devout ruler, he founded the diocese of Bamberg as a center of church reform and endowed monasteries throughout his realm. He and his wife Cunigunde had no children, and in 1146 he became the only German monarch ever canonized a saint.",
       "url": "https://en.wikipedia.org/wiki/Henry_II%2C_Holy_Roman_Emperor"
     },
     {
@@ -1737,6 +1743,7 @@
       "era": "Medieval (500–1500)",
       "region": "Europe",
       "desc": "Fourth son of William the Conqueror who seized the English throne in 1100 and stabilised the realm.",
+      "tldr": "Fourth son of William the Conqueror, Henry seized the English throne in 1100 within days of his brother William II's suspicious death in a hunting accident, then defeated and imprisoned his elder brother Robert Curthose for life to secure Normandy too. He strengthened royal administration, notably the Exchequer, but his only legitimate son drowned in the White Ship disaster of 1120, leaving a succession crisis that plunged England into civil war after his death.",
       "url": "https://en.wikipedia.org/wiki/Henry_I_of_England"
     },
     {
@@ -1854,6 +1861,7 @@
       "era": "Medieval (500–1500)",
       "region": "Europe",
       "desc": "King of England (1154–1189) who presided over the Angevin Empire, spanning England, much of France, and parts of Ireland and Wales.",
+      "tldr": "The first Plantagenet king, Henry II ruled the vast Angevin Empire stretching from Scotland to the Pyrenees and reformed English law by expanding royal courts and trial by jury. His close friendship with Thomas Becket curdled after he made him Archbishop of Canterbury and the two clashed over church authority; Becket's murder in his own cathedral in 1170 scandalized Christendom. Henry's final years were consumed by rebellions led by his wife Eleanor of Aquitaine and his own sons.",
       "url": "https://en.wikipedia.org/wiki/Henry_II_of_England"
     },
     {
@@ -2225,6 +2233,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Persian astronomer and mathematician who calculated pi to 16 decimal places under Timurid patronage.",
+      "tldr": "A Persian astronomer and mathematician working under Timurid patronage, al-Kashi joined the great observatory founded by Ulugh Beg at Samarkand, where his precise calculations of planetary positions and calendars proved invaluable. He calculated the value of pi to sixteen decimal places using an iterative geometric method far more accurate than any before it, and his treatise The Key to Arithmetic advanced the use of decimal fractions in systematic mathematical practice.",
       "url": "https://en.wikipedia.org/wiki/Jamshid_al-Kashi",
       "region": "Middle East"
     },
@@ -2278,6 +2287,7 @@
       "era": "Medieval (500–1500)",
       "region": "Europe",
       "desc": "Early Netherlandish painter active in Bruges, renowned as one of the supreme innovators of Early Northern Renaissance oil painting.",
+      "tldr": "Court painter to Philip the Good, Duke of Burgundy, Jan van Eyck worked in Bruges and became one of the most celebrated innovators of Early Netherlandish painting, prized for his mastery of oil glazes that achieved unprecedented luminosity and minute detail in fabrics, light, and reflection. His Ghent Altarpiece and the enigmatic Arnolfini Portrait, with its convex mirror reflecting the room, remain landmarks of Northern Renaissance art; he often signed works with the motto “Als ich kan.”",
       "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
     },
     {
@@ -2315,6 +2325,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "French peasant who led armies during the Hundred Years' War and was later canonised.",
+      "tldr": "A peasant girl from Domrémy in northeastern France, Joan claimed visions of saints instructing her to support the Dauphin Charles against English and Burgundian forces during the Hundred Years' War. Given command of troops despite her age and sex, she led the relief of the besieged city of Orléans in 1429 and saw Charles crowned king at Reims. Captured by Burgundian allies of England the following year, she was tried for heresy and burned at the stake in Rouen in 1431 at just nineteen; a later retrial nullified the verdict, and she was canonized in 1920.",
       "url": "https://en.wikipedia.org/wiki/Joan_of_Arc"
     },
     {
@@ -2581,6 +2592,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Huldrych Zwingli was a Swiss Christian theologian, musician, and leader of the Reformation in Switzerland.",
+      "tldr": "A parish priest in Zurich, Zwingli launched a Reformation independent of and roughly simultaneous with Luther's, preaching that scripture alone, not church tradition, should govern Christian life and stripping Zurich's churches of images, relics, and the Mass. He and Luther could not reconcile their views on the Eucharist at the 1529 Marburg Colloquy, splitting the Protestant movement into separate camps. Zwingli was killed in 1531 fighting alongside Zurich's troops against Catholic cantons at Kappel.",
       "url": "https://en.wikipedia.org/wiki/Huldrych_Zwingli",
       "_country_qids": [
         "Q435583"
@@ -2846,6 +2858,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Ismail II was the third shah of Safavid Iran from 1576 to 1577.",
+      "tldr": "The third shah of Safavid Iran, Ismail II spent roughly two decades imprisoned in the fortress of Qahqaha by his father, Shah Tahmasp I, who feared his ambition. On finally taking the throne in 1576 he moved swiftly and brutally against rival claimants, executing several of his own brothers to eliminate threats to his rule. His brief, erratic reign ended after little more than a year when he died suddenly in 1577, in circumstances widely believed to involve poison.",
       "url": "https://en.wikipedia.org/wiki/Ismail_II",
       "_country_qids": [
         "Q18234383"
@@ -3122,6 +3135,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Dutch composer, organist, and pedagogue whose work bridged the Renaissance and Baroque eras; shaped the north German organ tradition.",
+      "tldr": "A Dutch organist and composer based at Amsterdam's Oude Kerk for most of his life, Sweelinck bridged the Renaissance and Baroque eras through keyboard works that developed the chorale variation and organ fantasia into mature forms. So many German students traveled to study under him that he became known as the “maker of German organists,” and his teaching lineage runs directly through Samuel Scheidt and Dieterich Buxtehude to Johann Sebastian Bach.",
       "url": "https://en.wikipedia.org/wiki/Jan_Pieterszoon_Sweelinck",
       "region": "Europe"
     },
@@ -3177,6 +3191,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "Pope (1644–1655) who condemned the Peace of Westphalia and was immortalized by Velázquez's portrait.",
+      "tldr": "Pope from 1644 to 1655, Innocent X formally condemned the Peace of Westphalia for its concessions to Protestant states, a protest that history ultimately ignored as the treaty reshaped European sovereignty. He commissioned the transformation of Piazza Navona in Rome, including the church of Sant'Agnese in Agone, and sat for Diego Velázquez's searingly honest portrait, of which he is said to have remarked that it was “too truthful.” His reign was also marked by the controversial influence of his sister-in-law, Olimpia Maidalchini.",
       "url": "https://en.wikipedia.org/wiki/Pope_Innocent_X"
     },
     {
@@ -3508,6 +3523,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "Pope (1676–1689) who led the Holy League against Ottoman expansion and championed Church reform.",
+      "tldr": "Pope from 1676 to 1689, Innocent XI pursued austere financial and moral reform within the Vatican while building and funding the Holy League, the coalition of Christian powers that broke the Ottoman siege of Vienna in 1683 and began rolling back Ottoman power in central Europe. He clashed repeatedly with Louis XIV of France over the king's Gallican assertions of authority over the French church. Renowned for his personal piety, he was beatified in 1956.",
       "url": "https://en.wikipedia.org/wiki/Pope_Innocent_XI"
     },
     {
@@ -3537,7 +3553,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Pope Innocent XII, born Antonio Pignatelli, was head of the Catholic Church and ruler of the Papal States from 12 July 1691 until his death in September 1700.",
-      "tldr": "Pope Innocent XII, born Antonio Pignatelli, was head of the Catholic Church and ruler of the Papal States from 12 July 1691 until his death in September 1700.",
+      "tldr": "Pope from 1691 to 1700, Innocent XII is best remembered for the bull Romanum decet Pontificem, which banned popes from enriching their relatives with land, offices, or revenues and effectively ended the long-standing practice of papal nepotism. He also intervened in the Quietism controversy, ultimately siding against the mystic Madame Guyon and her defender Archbishop Fénelon, and worked to reform the Papal States' finances and charitable institutions during his relatively brief reign.",
       "url": "https://en.wikipedia.org/wiki/Pope_Innocent_XII",
       "_country_qids": [
         "Q170174",
@@ -3680,6 +3696,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Jean-Baptiste Lully was an Italian-French composer, dancer and instrumentalist, who is considered a master of the French Baroque music style. Best known for his operas, he spent most of his life working in the court of Louis XIV.",
+      "tldr": "An Italian-born composer who rose from kitchen servant to dominate the musical life of Louis XIV's court, Lully essentially invented French opera with his tragédies en musique, works combining spoken declamation, dance, and spectacle in a style distinct from Italian models. Granted a royal monopoly over musical theater in France, he controlled the field ruthlessly for two decades. He died in 1687 of gangrene after accidentally striking his own foot with a heavy conducting staff.",
       "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Lully",
       "_country_qids": [
         "Q154849",
@@ -3746,6 +3763,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "English physicist and mathematician who formulated the laws of motion and gravitation.",
+      "tldr": "An English physicist and mathematician at Cambridge, Newton laid out the laws of motion and universal gravitation in his 1687 Principia Mathematica, unifying terrestrial and celestial mechanics under a single mathematical framework for the first time. He independently developed calculus alongside Leibniz, conducted foundational experiments in optics showing that white light is composed of a spectrum of colors, and later served as Warden of the Royal Mint and president of the Royal Society.",
       "url": "https://en.wikipedia.org/wiki/Isaac_Newton"
     },
     {
@@ -3793,6 +3811,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Jacob Bernoulli was a Swiss mathematician and an early proponent of Leibnizian calculus. Along with his brother Johann, he was one of the founders of the calculus of variations.",
+      "tldr": "A Swiss mathematician and early champion of Leibniz's calculus, Jacob Bernoulli helped found the calculus of variations alongside his younger brother Johann, though the siblings' collaboration curdled into a bitter rivalry over priority and credit. His most influential work, Ars Conjectandi, published posthumously in 1713, laid the foundations of probability theory, introducing the Law of Large Numbers and the sequence of Bernoulli numbers still used across mathematics today.",
       "url": "https://en.wikipedia.org/wiki/Jacob_Bernoulli",
       "_country_qids": [
         "Q39"
@@ -3972,6 +3991,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "French Baroque composer and music theorist who became the dominant figure in French opera.",
+      "tldr": "A French composer who did not achieve prominence until his forties, Rameau first made his name as a music theorist with the 1722 Traité de l'harmonie, which grounded harmonic analysis in the concept of a fundamental bass and shaped Western music theory for centuries afterward. He went on to become the dominant figure in French opera after Lully, composing works like Hippolyte et Aricie and Les Indes galantes that were prized for their harmonic daring and orchestral color.",
       "url": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau",
       "region": "Europe"
     },
@@ -4447,6 +4467,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Johann Heinrich Lambert was a polymath who made important contributions to mathematics, physics, philosophy, astronomy and map projections.",
+      "tldr": "A largely self-taught polymath from Alsace, Lambert proved in 1761 that pi is an irrational number, the first rigorous demonstration of that fact, and made significant contributions to hyperbolic geometry, photometry, and cartography, including the Lambert conformal conic projection still used in mapmaking. He also invented the first practical hygrometer for measuring humidity and corresponded with Kant on the philosophical foundations of geometry and physical measurement.",
       "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert",
       "_country_qids": [
         "Q142",
@@ -4534,6 +4555,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Jacques Necker was a Genevan banker, financier and statesman who served as finance minister of France for Louis XVI.",
+      "tldr": "A Genevan banker who rose to serve as Louis XVI's finance minister, Necker gained huge popularity by publishing the Compte rendu au roi in 1781, an unprecedented public account of royal finances that concealed France's mounting debt behind an appearance of solvency. His dismissal in July 1789, seen as a blow against fiscal reform, helped spark the crowd unrest that culminated in the storming of the Bastille days later. He was the father of the writer Madame de Staël.",
       "url": "https://en.wikipedia.org/wiki/Jacques_Necker",
       "_country_qids": [
         "Q23366230",
@@ -4579,6 +4601,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Youngest son of J.S. Bach, German-born Classical composer who settled in London and profoundly influenced the young Mozart.",
+      "tldr": "The youngest son of Johann Sebastian Bach, known as the “London Bach,” Johann Christian broke from his father's contrapuntal style after converting to Catholicism in Italy and settling in London, where he became music master to Queen Charlotte and a leading composer of the emerging galant, pre-Classical style. His warm friendship with the young Mozart during the boy's 1764-65 London visit left a lasting imprint on Mozart's piano concertos and symphonic writing.",
       "url": "https://en.wikipedia.org/wiki/Johann_Christian_Bach",
       "region": "Europe"
     },
@@ -4676,6 +4699,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Horace Bénédict de Saussure was a Genevan geologist, meteorologist, physicist, mountaineer and Alpine explorer, often called the founder of alpinism and modern meteorology.",
+      "tldr": "A Genevan naturalist often called the founder of alpinism, Saussure spent decades studying the geology, botany, and weather of the Alps, inventing an improved hygrometer to measure atmospheric humidity along the way. In 1760 he offered a prize for the first ascent of Mont Blanc, finally claimed in 1786, and the following year he made the second ascent himself, hauling scientific instruments to the summit to take the first measurements of temperature and pressure at that altitude.",
       "url": "https://en.wikipedia.org/wiki/Horace_B%C3%A9n%C3%A9dict_de_Saussure",
       "_country_qids": [
         "Q142",
@@ -4756,6 +4780,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Henry Fuseli was a Swiss painter, draughtsman, and writer on art who spent much of his career in Britain.",
+      "tldr": "Trained as a Zwinglian minister in Zurich before turning to painting, Fuseli settled in London and became a central figure of Romantic art. He is best known for The Nightmare (1781), a startling image of a demon crouched on a sleeping woman that fixed the visual language of gothic horror. A close friend of William Blake, he taught as Professor of Painting at the Royal Academy and drew heavily on Shakespeare, Milton, and classical myth for his theatrical, unsettling compositions.",
       "url": "https://en.wikipedia.org/wiki/Henry_Fuseli",
       "_country_qids": [
         "Q39",
@@ -4925,6 +4950,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Jean-Paul Marat was a French political theorist, physician, and scientist. A journalist and politician during the French Revolution, he was a vigorous defender of the sans-culottes.",
+      "tldr": "A physician and scientist before the French Revolution, Marat became one of its most radical journalistic voices through his newspaper L'Ami du Peuple, relentlessly denouncing counter-revolutionaries and demanding harsh measures against them. Suffering from a painful skin disease, he worked from a medicated bath for relief, and it was there in 1793 that the Girondin sympathizer Charlotte Corday stabbed him to death, an assassination immortalized in Jacques-Louis David's painting The Death of Marat.",
       "url": "https://en.wikipedia.org/wiki/Jean-Paul_Marat",
       "_country_qids": [
         "Q142"
@@ -4945,6 +4971,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "Swiss educational reformer who pioneered child-centred learning methods emphasising hands-on experience, shaping the foundations of modern elementary education.",
+      "tldr": "A Swiss educational reformer often called the father of modern pedagogy, Pestalozzi ran schools for poor and orphaned children where he pioneered child-centered methods built on direct sensory observation, or Anschauung, rather than rote memorization and harsh discipline. His conviction that education should engage “head, heart, and hands” together influenced Friedrich Fröbel's invention of the kindergarten and shaped elementary education systems across Europe and North America.",
       "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi"
     },
     {
@@ -4972,6 +4999,7 @@
       "region": "Americas",
       "era": "Early modern (1500–1800)",
       "desc": "James Madison was an American statesman, diplomat, and Founding Father who served as the fourth president of the United States from 1809 to 1817. He was popularly acclaimed as the \"Father of the Constitution\".",
+      "tldr": "A Virginia statesman and principal architect of the United States Constitution, Madison earned the title Father of the Constitution for his role drafting its framework and later co-authoring the Federalist Papers defending its ratification. As the fourth president, from 1809 to 1817, he led the country through the War of 1812 against Britain, including the burning of Washington, before overseeing the postwar recovery. He also authored the Bill of Rights as a member of the first Congress.",
       "url": "https://en.wikipedia.org/wiki/James_Madison",
       "_country_qids": [
         "Q30"
@@ -5027,6 +5055,7 @@
       "region": "Americas",
       "era": "Early modern (1500–1800)",
       "desc": "James Monroe was an American Founding Father who served as the fifth president of the United States from 1817 to 1825. He was the last Founding Father to serve as president.",
+      "tldr": "The fifth president of the United States and the last of the Founding Fathers to hold the office, Monroe served from 1817 to 1825 during a period later called the Era of Good Feelings for its relative absence of partisan strife. His presidency is best remembered for the Monroe Doctrine of 1823, which warned European powers against further colonization or intervention in the Americas and became a cornerstone of American foreign policy for generations afterward.",
       "url": "https://en.wikipedia.org/wiki/James_Monroe",
       "_country_qids": [
         "Q30"
@@ -5086,6 +5115,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "German philosopher and founding figure of German Idealism who extended Kant's ethics and epistemology into a systematic philosophy of the self.",
+      "tldr": "A German philosopher who studied under Kant, Fichte developed the Wissenschaftslehre, a systematic idealist philosophy grounding all reality and knowledge in the self-positing activity of the “I,” extending Kant's critical project into a more radically subject-centered system. During the Napoleonic occupation of Berlin he delivered his stirring Addresses to the German Nation, calling for national cultural renewal through education, and later became the first rector of the newly founded University of Berlin.",
       "url": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte"
     },
     {
@@ -5703,7 +5733,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Count Ivan Fyodorovich Paskevich-Erevansky, Serene Prince of Warsaw was a Russian military leader who was the namiestnik of Poland.",
-      "tldr": "Count Ivan Fyodorovich Paskevich-Erevansky, Serene Prince of Warsaw was a Russian military leader who was the namiestnik of Poland.",
+      "tldr": "A Russian field marshal under three tsars, Paskevich built his reputation defeating Persian and Ottoman forces in the 1820s, capturing Erivan and earning the title Count of Erivan. He crushed the Polish uprising of 1830 to 1831 and was rewarded with the title Prince of Warsaw and appointment as the kingdom's viceroy, ruling it with an iron hand for over two decades. In 1849 he led Russian forces into Hungary at Austria's request, helping suppress its revolution.",
       "url": "https://en.wikipedia.org/wiki/Ivan_Paskevich",
       "_country_qids": [
         "Q34266",
@@ -5980,6 +6010,7 @@
       "region": "Americas",
       "era": "Early modern (1500–1800)",
       "desc": "James Knox Polk was the 11th president of the United States, serving from 1845 to 1849. He was an advocate of American expansionism and Jacksonian democracy.",
+      "tldr": "The eleventh president of the United States, Polk took office in 1845 pledging to fulfill a single ambitious term focused on territorial expansion. He oversaw the annexation of Texas, negotiated a treaty with Britain fixing the Oregon boundary, and led the country into the Mexican-American War, which added California and the Southwest to the United States. True to his pledge, he declined to seek reelection and died just months after leaving office in 1849.",
       "url": "https://en.wikipedia.org/wiki/James_K._Polk",
       "_country_qids": [
         "Q30"
@@ -6002,6 +6033,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "American educational reformer who championed public schooling, known as the Father of American Education.",
+      "tldr": "An American lawyer turned educational reformer, Mann became the first secretary of the Massachusetts Board of Education in 1837 and used the post to campaign nationally for free, tax-supported public schooling open to all children regardless of class. He professionalized teacher training through the first state normal schools and standardized curricula and school terms, work that earned him the title Father of the American Public School. He later served in Congress opposing the expansion of slavery.",
       "url": "https://en.wikipedia.org/wiki/Horace_Mann",
       "region": "Americas"
     },
@@ -6124,6 +6156,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Albert Bitzius was a Swiss novelist, best known by his pen name of Jeremias Gotthelf.",
+      "tldr": "The pen name of Albert Bitzius, a Swiss Reformed pastor who turned to fiction in his forties to reach his rural parishioners more effectively than sermons could. His novels and tales, most famously the eerie allegorical novella Die schwarze Spinne (The Black Spider), depicted Bernese peasant life with unsentimental realism while pressing moral and social reform, including temperance, thrift, and responsible farming, making him one of Switzerland's most distinctive nineteenth-century writers.",
       "url": "https://en.wikipedia.org/wiki/Jeremias_Gotthelf",
       "_country_qids": [
         "Q39"
@@ -6626,7 +6659,7 @@
       "era": "19th century",
       "region": "Europe",
       "desc": "Johann Jakob Bachofen was a Swiss antiquarian, jurist, philologist, anthropologist, and professor of Roman law at the University of Basel from 1841 to 1844.",
-      "tldr": "Johann Jakob Bachofen was a Swiss antiquarian, jurist, philologist, anthropologist, and professor of Roman law at the University of Basel from 1841 to 1844.",
+      "tldr": "A Swiss jurist and classical scholar who taught Roman law at the University of Basel, Bachofen is best remembered for Das Mutterrecht (1861), a sweeping study of ancient myth and law arguing that human societies had passed through an early matriarchal stage of “mother right” before patriarchy took hold. Though later anthropologists largely rejected its evidentiary basis, the theory profoundly influenced Friedrich Engels, Freud, and later feminist and anthropological thought.",
       "url": "https://en.wikipedia.org/wiki/Johann_Jakob_Bachofen",
       "_country_qids": [
         "Q39"
@@ -8383,6 +8416,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Henry Louis Le Chatelier was a French chemist who devised Le Chatelier’s principle, used by chemists to predict the effect a changing condition has on a system in chemical equilibrium.",
+      "tldr": "A French chemist and mining engineer, Le Chatelier formulated the principle bearing his name: a chemical system at equilibrium shifts to counteract any change imposed on its concentration, temperature, or pressure. He applied this and broader thermodynamic reasoning to industrial processes such as steelmaking and ammonia synthesis, and separately pioneered high-temperature thermocouples. His studies of mine explosions and combustion also helped found the field of industrial safety research.",
       "url": "https://en.wikipedia.org/wiki/Henry_Louis_Le_Chatelier",
       "_country_qids": [
         "Q142"
@@ -8415,6 +8449,7 @@
       "era": "19th century",
       "region": "Europe",
       "desc": "Dutch physical chemist who won the inaugural Nobel Prize in Chemistry (1901) for discovering the laws of chemical dynamics and osmotic pressure.",
+      "tldr": "A Dutch physical chemist, van 't Hoff won the first Nobel Prize in Chemistry in 1901 for work establishing the laws governing chemical dynamics and osmotic pressure in solutions, effectively founding physical chemistry as a discipline. Earlier in his career he had proposed, controversially at the time, that carbon atoms bond in a three-dimensional tetrahedral arrangement, a stereochemical insight that explained why certain molecules exist as mirror-image forms.",
       "url": "https://en.wikipedia.org/wiki/Jacobus_Henricus_van_%27t_Hoff"
     },
     {
@@ -8979,6 +9014,7 @@
       ],
       "era": "19th century",
       "desc": "British Jewish author and Zionist leader known for novels exploring immigrant life and the play The Melting Pot.",
+      "tldr": "A British-born son of Jewish immigrants, Zangwill won acclaim for novels such as Children of the Ghetto depicting the crowded immigrant life of London's East End, and coined the enduring phrase “melting pot” with his 1908 play of that name, popularizing the idea of America absorbing and blending its newcomers. A committed Zionist, he broke with the mainstream movement over the rejected British offer of land in East Africa and founded the Jewish Territorial Organization to seek a homeland elsewhere.",
       "url": "https://en.wikipedia.org/wiki/Israel_Zangwill",
       "region": "Europe"
     },
@@ -9464,6 +9500,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Hans Max Gamper-Haessig, commonly known as Joan Gamper, was a Swiss-born football executive and versatile athlete. He founded football clubs in Switzerland and Spain, most notably Barcelona.",
+      "tldr": "A Swiss-born accountant and versatile amateur athlete, Gamper moved to Barcelona for work and in 1899 placed a newspaper advertisement seeking fellow football enthusiasts, leading directly to the founding of FC Barcelona, which he served as player, coach, and president across several terms. He also helped found clubs in Switzerland and elsewhere in Spain. Financial ruin and depression, worsened by the dictatorship-era closure of the club he had built, led him to take his own life in 1930.",
       "url": "https://en.wikipedia.org/wiki/Joan_Gamper",
       "_country_qids": [
         "Q39"
@@ -9683,6 +9720,7 @@
       ],
       "era": "19th century",
       "desc": "Inayat Khan Rehmat Khan was an Indian professor of musicology, singer, poet, philosopher, writer, and pioneer of the transmission of Sufism to the West.",
+      "tldr": "An accomplished singer and vina player from a distinguished Indian musical family, Inayat Khan left India in 1910 to bring Sufi mysticism to the West, founding what became the Sufi Order International. He taught a Universal Sufism that drew on Vedanta as well as Islamic mysticism, emphasizing the unity underlying all religions and treating music as a path to spiritual awakening. His daughter Noor Inayat Khan later became a celebrated Allied secret agent killed by the Nazis in the Second World War.",
       "url": "https://en.wikipedia.org/wiki/Inayat_Khan",
       "_country_qids": [
         "Q129286"
@@ -9740,6 +9778,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Hermann Rorschach was a Swiss psychiatrist and psychoanalyst who developed the famous inkblot test that bears his name.",
+      "tldr": "A Swiss psychiatrist trained under Eugen Bleuler, Rorschach developed the inkblot test that bears his name, asking patients to describe what they saw in ten symmetrical ink patterns to reveal underlying personality and thought patterns. Published in 1921 as Psychodiagnostik, the method drew on his own boyhood fascination with klecksography, the parlour game of making pictures from blots. He died of complications from appendicitis the following year, just as the test began attracting clinical attention.",
       "url": "https://en.wikipedia.org/wiki/Hermann_Rorschach",
       "_country_qids": [
         "Q39"
@@ -9760,6 +9799,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Jacques Feyder was a Belgian film director, screenwriter and actor who worked principally in France. He was associated with the style of poetic realism in French cinema.",
+      "tldr": "A Belgian-born filmmaker who worked mainly in France, Feyder became one of the leading directors of poetic realism, a style blending naturalistic settings with romantic, fatalistic storytelling that shaped French cinema of the 1930s. His 1934 film Le Grand Jeu and 1935 La Kermesse héroïque, made after a spell directing in Hollywood, are considered high points of the movement and influenced later directors including his own assistant, Marcel Carné.",
       "url": "https://en.wikipedia.org/wiki/Jacques_Feyder",
       "_country_qids": [
         "Q142",
@@ -9836,6 +9876,7 @@
       "era": "19th century",
       "region": "Europe",
       "desc": "German politician and diplomat who served as Nazi Germany's Foreign Minister 1938–1945; executed at Nuremberg as a war criminal.",
+      "tldr": "A former champagne salesman who cultivated ties to the Nazi elite, Ribbentrop became Hitler's foreign minister in 1938 and negotiated the 1939 Molotov-Ribbentrop Pact, a nonaggression treaty with the Soviet Union that secretly carved up Poland and the Baltic states between the two powers and cleared the way for Germany's invasion. He oversaw Axis diplomacy throughout the war, was convicted of war crimes at Nuremberg, and became the first defendant hanged following the trials in 1946.",
       "url": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
     },
     {
@@ -9942,6 +9983,7 @@
       "era": "20th century onward",
       "region": "Europe",
       "desc": "Italian fascist politician and aviator who led pioneering transatlantic air expeditions in the 1930s and served as Governor-General of Libya until his death.",
+      "tldr": "An early and prominent Italian fascist, Balbo organized the Blackshirt squads that helped bring Mussolini to power before turning to aviation, where he led two spectacular mass transatlantic flights, including a 1933 formation crossing to Chicago that made him an international celebrity and gave Chicago's Balbo Drive its name. His growing popularity unsettled Mussolini, who sidelined him as Governor-General of Libya. Balbo died in 1940 when Italian anti-aircraft gunners mistakenly shot down his own aircraft over Tobruk.",
       "url": "https://en.wikipedia.org/wiki/Italo_Balbo"
     },
     {
@@ -10014,6 +10056,7 @@
       "era": "20th century onward",
       "region": "Americas",
       "desc": "American actress and 1930s sex symbol dubbed the ‘Platinum Blonde’ whose comedic roles at MGM made her one of Hollywood’s biggest stars before her early death at 26.",
+      "tldr": "An American actress who became MGM's biggest star of the early 1930s, Harlow was marketed as the “Platinum Blonde” and built her fame on a string of brassy comedic performances in films including Red-Headed Woman and Bombshell that made her a defining sex symbol of the pre-Code Hollywood era. Beneath the glamour she suffered chronic illness, and she died suddenly in 1937 at age 26 from kidney failure, cutting short a career still at its peak.",
       "url": "https://en.wikipedia.org/wiki/Jean_Harlow"
     },
     {
@@ -10961,7 +11004,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "James Hargreaves was an English weaver, carpenter and inventor who lived and worked in Lancashire, England. Hargreaves is credited with inventing the spinning jenny in 1764.",
-      "tldr": "James Hargreaves was an English weaver, carpenter and inventor who lived and worked in Lancashire, England. Hargreaves is credited with inventing the spinning jenny in 1764.",
+      "tldr": "An English weaver and carpenter in Lancashire, Hargreaves is credited with inventing the spinning jenny around 1764, a hand-powered machine that let a single worker spin multiple threads of yarn at once. The device dramatically boosted textile output and became one of the pivotal innovations of the early Industrial Revolution, though it also provoked fear among hand-spinners for displacing their labor, and a mob reportedly destroyed his early machines before he patented an improved version in 1770.",
       "url": "https://en.wikipedia.org/wiki/James_Hargreaves",
       "_country_qids": [
         "Q161885"
@@ -13716,7 +13759,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Henry V may refer to:",
-      "tldr": "Henry V may refer to:",
+      "tldr": "Son and successor of Henry IV, Henry V became Holy Roman Emperor in 1111 after years spent leading rebellions against his own father over control of church appointments. He continued the long Investiture Controversy between empire and papacy, seizing and briefly imprisoning Pope Paschal II to extract concessions before the dispute was finally settled by the Concordat of Worms in 1122. His marriage to Matilda, daughter of England's Henry I, tied the German crown to the English royal house.",
       "url": "https://en.wikipedia.org/wiki/Henry_V",
       "_country_qids": [
         "Q12548"
@@ -14111,7 +14154,7 @@
       ],
       "era": "19th century",
       "desc": "Sir James George Frazer was a Scottish social anthropologist and folklorist influential in the early stages of the modern studies of mythology and comparative religion.",
-      "tldr": "Sir James George Frazer was a Scottish social anthropologist and folklorist influential in the early stages of the modern studies of mythology and comparative religion.",
+      "tldr": "A Scottish social anthropologist, Frazer became internationally famous for The Golden Bough, a sprawling comparative study tracing myths of dying and resurrecting gods, fertility rites, and sacred kingship across cultures from ancient Rome to contemporary folklore. Though he never conducted fieldwork himself, relying instead on missionary and traveler accounts, the book profoundly shaped early anthropology and inspired writers including T. S. Eliot and James Joyce, even as later scholars criticized its armchair methods.",
       "url": "https://en.wikipedia.org/wiki/James_George_Frazer",
       "_country_qids": [
         "Q145"
