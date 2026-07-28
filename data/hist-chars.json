@@ -292,6 +292,7 @@
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Chinese teacher and philosopher whose ideas on ethics and governance shaped East Asian thought.",
+      "tldr": "Chinese thinker and teacher whose sayings, compiled by disciples as the Analects, became the foundation of Confucianism, a system of ethics and statecraft that shaped Chinese and East Asian civilization for over two millennia. He taught that social harmony depended on cultivating virtues such as ren (benevolence) and li (proper ritual and conduct), and on rulers governing by moral example rather than force. Though he held only minor official posts in his lifetime, later dynasties made Confucian learning the basis of the imperial examination system.",
       "url": "https://en.wikipedia.org/wiki/Confucius"
     },
     {
@@ -394,6 +395,7 @@
       "region": "Europe",
       "era": "Ancient (to 500 CE)",
       "desc": "Demosthenes was a Greek statesman and orator in ancient Athens. His orations provide insight into the politics and culture of ancient Greece during the 4th century BC.",
+      "tldr": "Athenian orator and statesman whose speeches against the growing power of Macedon, known as the Philippics, made him ancient Greece's most celebrated public speaker, according to tradition after overcoming a childhood speech impediment through years of practice. He led the political resistance urging Greek states to unite against Philip II, though the coalition he assembled was decisively defeated at the Battle of Chaeronea in 338 BCE. He continued opposing Macedonian dominance under Alexander and his successors, and took his own life in 322 BCE rather than be captured after a failed uprising.",
       "url": "https://en.wikipedia.org/wiki/Demosthenes",
       "_country_qids": [
         "Q844930"
@@ -416,6 +418,7 @@
       "era": "Ancient (to 500 CE)",
       "region": "Middle East",
       "desc": "Last Achaemenid King of Kings of Persia (336–330 BCE), defeated by Alexander the Great at Issus and Gaugamela.",
+      "tldr": "Last king of the Achaemenid Persian Empire, who came to the throne in 336 BCE amid court intrigue and almost immediately faced the invasion of Alexander the Great. He was defeated in major battles at Issus in 333 BCE and Gaugamela in 331 BCE, losing his empire despite commanding far larger armies than the Macedonians. Fleeing eastward after Gaugamela, he was betrayed and killed by his own satrap Bessus in 330 BCE, ending nearly two centuries of Achaemenid rule. Alexander gave him a royal burial, presenting himself as Darius's legitimate successor.",
       "url": "https://en.wikipedia.org/wiki/Darius_III"
     },
     {
@@ -545,7 +548,7 @@
       "region": "Europe",
       "era": "Ancient (to 500 CE)",
       "desc": "Cornelius Nepos was a Roman biographer.",
-      "tldr": "Cornelius Nepos was a Roman biographer.",
+      "tldr": "Roman biographer and friend of Catullus and Cicero whose Lives of the Eminent Commanders is among the earliest surviving works of Latin biography, though most of his other writings are lost. The book pairs short lives of Greek and Roman generals and statesmen, comparing the two cultures' approaches to leadership for a Roman readership. His prose is plain rather than literary, which made his work a staple Latin textbook for later students, a role it still plays today. Little else is known of his own life beyond his friendships with leading literary figures of his day.",
       "url": "https://en.wikipedia.org/wiki/Cornelius_Nepos",
       "_country_qids": [
         "Q1747689"
@@ -579,6 +582,7 @@
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Last active ruler of Ptolemaic Egypt, allied with Julius Caesar and Mark Antony.",
+      "tldr": "Last active ruler of Ptolemaic Egypt, a Greek-descended dynasty that had governed Egypt since Alexander the Great's conquest, and one of history's most mythologized monarchs. She allied with, and bore a child by, Julius Caesar, then after his assassination formed a political and romantic partnership with Mark Antony, combining Roman military power with Egyptian wealth. Their defeat by Octavian at the Battle of Actium in 31 BCE ended her bid to preserve Egyptian independence; she died by suicide the following year rather than be paraded in a Roman triumph.",
       "url": "https://en.wikipedia.org/wiki/Cleopatra"
     },
     {
@@ -1146,6 +1150,7 @@
       "region": "Europe",
       "era": "Medieval (500–1500)",
       "desc": "Dagobert I was King of the Franks. He ruled Austrasia (623–634) and Neustria and Burgundy (629–639). He has been described as the last king of the Merovingian dynasty to wield real royal power.",
+      "tldr": "Merovingian king of the Franks, ruling first Austrasia and later reuniting Neustria and Burgundy, who is remembered as the last Merovingian monarch to hold genuine royal power rather than being a figurehead for his own officials. He centralized administration, promoted the abbey of Saint-Denis near Paris as a royal burial site, and issued law codes for his Alemannic and Bavarian subjects. His court patronized the goldsmith and later saint Eligius. His reign is often seen as a final flourish of Merovingian authority before the dynasty declined into the so-called 'do-nothing kings.'",
       "url": "https://en.wikipedia.org/wiki/Dagobert_I",
       "_country_qids": [
         "Q142"
@@ -1340,6 +1345,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "King of the Franks who united much of western Europe and was crowned Emperor in 800.",
+      "tldr": "King of the Franks who conquered and unified most of Western Europe, from the Pyrenees to the Elbe, through decades of campaigning against the Lombards, Saxons, and others. Crowned Emperor of the Romans by Pope Leo III in Rome on Christmas Day 800, he revived the idea of a unified Christian empire in the West and is regarded as the founder of the Carolingian Empire. He promoted a revival of learning known as the Carolingian Renaissance, gathering scholars like Alcuin at his court in Aachen.",
       "url": "https://en.wikipedia.org/wiki/Charlemagne"
     },
     {
@@ -2098,6 +2104,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Florentine poet whose Divine Comedy is widely regarded as the greatest literary work of the Middle Ages and the foundation of the Italian language.",
+      "tldr": "Florentine poet whose Divine Comedy, an imagined journey through Hell, Purgatory, and Paradise guided first by the poet Virgil and then by his beloved Beatrice, is considered the supreme work of Italian literature. Exiled from Florence in 1302 after a political upheaval, he never returned to his native city and completed the poem while moving between the courts of northern Italy. By writing in the Tuscan vernacular rather than Latin, he helped establish it as the literary language that would become modern Italian.",
       "url": "https://en.wikipedia.org/wiki/Dante_Alighieri",
       "region": "Europe"
     },
@@ -2658,6 +2665,7 @@
       "region": "Europe",
       "era": "Medieval (500–1500)",
       "desc": "Clément Marot was a French Renaissance poet. He was influenced by the writers of the late 15th century and paved the way for the Pléiade, and is undoubtedly the most important poet at the court of Francis I.",
+      "tldr": "French Renaissance poet who served at the court of Francis I and is credited with modernizing French verse between the medieval tradition and the Pléiade poets who followed him. His graceful epigrams, elegies, and rondeaux popularized a lighter, more personal style than the rigid forms of his predecessors. His French translation of the Psalms, later adopted by Protestant congregations, made him a target of suspicion during the Reformation, and he was twice forced into exile. He died in Turin, still regarded as the finest French poet of his generation.",
       "url": "https://en.wikipedia.org/wiki/Cl%C3%A9ment_Marot",
       "_country_qids": [
         "Q70972"
@@ -2916,7 +2924,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Francis II was King of France from 1559 to 1560. He was also King of Scotland as the husband of Mary, Queen of Scots, from 1558 until his death in 1560.",
-      "tldr": "Francis II was King of France from 1559 to 1560. He was also King of Scotland as the husband of Mary, Queen of Scots, from 1558 until his death in 1560.",
+      "tldr": "King of France for barely a year and a half, having succeeded his father Henry II after a fatal jousting accident, and already married to Mary, Queen of Scots, making him briefly King consort of Scotland as well. Sickly since childhood and only fifteen when he took the throne, he left governing largely to his wife's powerful Guise uncles, whose aggressive suppression of Protestants helped inflame tensions that erupted into the French Wars of Religion soon after his death. He died of an ear infection that spread to his brain, and the throne passed to his young brother Charles IX.",
       "url": "https://en.wikipedia.org/wiki/Francis_II_of_France",
       "_country_qids": [
         "Q142"
@@ -3028,6 +3036,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Carlo Maderno was an Italian architect, born in today’s Ticino, Switzerland, who is remembered as one of the fathers of Baroque architecture.",
+      "tldr": "Italian architect from Ticino who became the leading figure in early Roman Baroque architecture. He completed St. Peter's Basilica by adding its long nave and dramatic façade, work that gave the church its familiar Latin-cross silhouette. He also designed the façade of Santa Susanna, widely considered the first true Baroque façade in Rome, and worked on the Palazzo Barberini. His innovations in massing and surface decoration shaped Roman architecture for a century after his death.",
       "url": "https://en.wikipedia.org/wiki/Carlo_Maderno",
       "_country_qids": [
         "Q39"
@@ -3438,6 +3447,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "Italian physicist and mathematician, student of Galileo, best known for inventing the barometer.",
+      "tldr": "Italian physicist and mathematician who studied under Galileo in the last months of the older scientist's life and succeeded him as court mathematician to the Grand Duke of Tuscany. In 1643 he built the first mercury barometer, demonstrating that the atmosphere exerts measurable pressure and that a vacuum could exist above the mercury column, a finding that overturned the Aristotelian belief that nature abhorred a vacuum. His experiments settled a long-running dispute over why suction pumps could not lift water more than about ten meters. The unit of pressure the torr is named in his honor.",
       "url": "https://en.wikipedia.org/wiki/Evangelista_Torricelli"
     },
     {
@@ -3484,6 +3494,7 @@
       "era": "Early modern (1500–1800)",
       "region": "East Asia",
       "desc": "Last emperor of the Ming dynasty (1627–1644), who hanged himself as rebel forces captured Beijing.",
+      "tldr": "Sixteenth and final emperor of China's Ming dynasty, who inherited a state crippled by factional court politics, a ruinous treasury, and rebellions provoked by famine and misrule. Despite personal industry and attempts at reform, he could not halt the empire's decline, and in 1644 the rebel leader Li Zicheng's forces breached Beijing. Rather than be captured, he hanged himself from a tree on Coal Hill overlooking the Forbidden City, reportedly leaving a note blaming his ministers. His death is conventionally taken to mark the end of Ming rule.",
       "url": "https://en.wikipedia.org/wiki/Chongzhen_Emperor"
     },
     {
@@ -3573,6 +3584,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Empress Meishō was the 109th monarch of Japan. Her reign lasted from 1629 to 1643.",
+      "tldr": "109th monarch of Japan and one of only a handful of women to have reigned as empress regnant, ascending the Chrysanthemum Throne in 1629 as a young child after her father, Emperor Go-Mizunoo, abdicated in protest at pressure from the shogunate. Because she was unmarried and a minor throughout her reign, real power lay with regents and the Tokugawa shogunate, which used her accession to assert authority over the imperial court. She abdicated in 1643 in favor of her half-brother, later Emperor Go-Kōmyō, and lived for decades afterward as a retired empress.",
       "url": "https://en.wikipedia.org/wiki/Empress_Meish%C5%8D",
       "_country_qids": [
         "Q17"
@@ -3646,6 +3658,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Charles II was King of Scotland from 1649 until 1651 and King of England, Scotland, and Ireland from the 1660 Restoration of the monarchy until his death in 1685.",
+      "tldr": "King of England, Scotland, and Ireland whose restoration to the throne in 1660, after the execution of his father Charles I and the collapse of Oliver Cromwell's Commonwealth, ended eleven years of republican rule. Known as the 'Merry Monarch' for his lavish court and many mistresses, he presided over a cultural flowering that reopened the theatres and founded the Royal Society. His reign also weathered the Great Plague of 1665 and the Great Fire of London in 1666. He fathered no legitimate heir, so the crown passed to his brother James.",
       "url": "https://en.wikipedia.org/wiki/Charles_II_of_England",
       "_country_qids": [
         "Q179876"
@@ -3744,6 +3757,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "French Huguenot physicist and inventor of the steam digester, forerunner of both the pressure cooker and the steam engine.",
+      "tldr": "French Huguenot physicist and inventor whose 'steam digester,' a sealed vessel that cooked food faster under pressure, was the ancestor of both the modern pressure cooker and, through its safety valve, mechanisms essential to later steam engines. Forced into exile in England and then Germany by the persecution of French Protestants, he worked alongside figures such as Robert Boyle and Gottfried Leibniz. He went on to design early experimental steam-powered pumps and a crude piston engine, anticipating key elements of the engines that would drive the Industrial Revolution.",
       "url": "https://en.wikipedia.org/wiki/Denis_Papin",
       "region": "Europe"
     },
@@ -4130,6 +4144,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Daniel Bernoulli was a Swiss mathematician and physicist particularly remembered for his applications of mathematics to fluid mechanics and his pioneering work in probability and statistics.",
+      "tldr": "Swiss mathematician and physicist, member of the prolific Bernoulli family of scientists, best known for Bernoulli's principle, which relates the speed of a moving fluid to the pressure it exerts and underlies much of fluid mechanics and the physics of flight. His 1738 book Hydrodynamica was among the first works to apply calculus systematically to fluid flow. He also made foundational contributions to probability, including an early formulation of expected utility explaining why people value risk differently than pure expected value would predict.",
       "url": "https://en.wikipedia.org/wiki/Daniel_Bernoulli",
       "_country_qids": [
         "Q39"
@@ -4217,6 +4232,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "Swedish biologist who formalised binomial nomenclature and is known as the father of modern taxonomy.",
+      "tldr": "Swedish botanist and physician who devised the binomial system of naming species still used today, pairing a genus and species name for every organism. His Systema Naturae classified plants, animals, and minerals into a nested hierarchy of kingdoms, classes, orders, genera, and species. He trained student 'apostles' who traveled the globe collecting specimens for him, and personally named or described thousands of species, including humans as Homo sapiens. He is remembered as the father of modern taxonomy.",
       "url": "https://en.wikipedia.org/wiki/Carl_Linnaeus"
     },
     {
@@ -5351,6 +5367,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "German Romantic painter whose landscapes, including Wanderer above the Sea of Fog, express spiritual solitude and the sublime power of nature.",
+      "tldr": "German Romantic painter whose brooding landscapes of ruins, fog, and solitary figures gazing into vast nature became emblematic of Romanticism's search for the sublime. His best-known work, Wanderer above the Sea of Fog, depicts a lone man surveying a mist-shrouded mountain range, a composition endlessly reproduced as shorthand for Romantic yearning. He often painted figures from behind, inviting the viewer to share their contemplative gaze. Neglected for decades after his death, his reputation was revived in the early 20th century.",
       "url": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich"
     },
     {
@@ -5436,6 +5453,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Eugène-François Vidocq was a French criminal turned criminalist. He was the founder and first director of France's Sûreté Nationale, and the head of the first known private detective agency.",
+      "tldr": "French adventurer and former criminal who, after years as a fugitive and prison escapee, offered his knowledge of the Parisian underworld to the police and in 1811 founded the Sûreté, a plainclothes unit largely staffed by ex-convicts like himself. His network of informants and use of undercover disguise were novel for their time and dramatically improved arrest rates, though his past also drew suspicion. After leaving the police, he opened what is considered the first private detective agency. His memoirs helped inspire fictional detectives from Vautrin to Sherlock Holmes.",
       "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne-Fran%C3%A7ois_Vidocq",
       "_country_qids": [
         "Q142"
@@ -5641,6 +5659,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "American lawyer and statesman who served as U.S. Senator and twice as Secretary of State, a dominant voice for Union and constitutional law.",
+      "tldr": "American lawyer and statesman who served as a U.S. senator from Massachusetts and twice as Secretary of State, and was renowned as the most formidable orator of his generation. He argued many landmark cases before the Supreme Court, including Dartmouth College v. Woodward, and negotiated the Webster-Ashburton Treaty settling the U.S.-Canada border dispute. His 1850 Senate speech supporting the Compromise of 1850, including a stronger fugitive slave law, aimed to preserve the Union but cost him support among Northern abolitionists who felt betrayed.",
       "url": "https://en.wikipedia.org/wiki/Daniel_Webster",
       "region": "Americas"
     },
@@ -5936,7 +5955,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Jean-François Casimir Delavigne was a French poet and dramatist.",
-      "tldr": "Jean-François Casimir Delavigne was a French poet and dramatist.",
+      "tldr": "French poet and playwright whose patriotic verses, the Messéniennes, made him famous after France's 1815 defeat at Waterloo, capturing public grief while skirting censorship under the restored monarchy. He turned to the stage with historical dramas and comedies, including Les Vêpres siciliennes and Louis XI, that were hugely popular with Parisian audiences. Positioned between classical and Romantic drama, he softened classical form with more contemporary subject matter, and was elected to the Académie française in 1825.",
       "url": "https://en.wikipedia.org/wiki/Casimir_Delavigne",
       "_country_qids": [
         "Q142"
@@ -6155,6 +6174,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Charles Wilkes was an American naval officer, ship's captain, and explorer. He led the first United States Exploring Expedition (1838–1842).",
+      "tldr": "American naval officer who commanded the United States Exploring Expedition of 1838–1842, a four-year voyage of six ships that charted vast stretches of the Pacific and confirmed the existence of the Antarctic continent, later named Wilkes Land in his honor. The expedition's scientific collections helped found the Smithsonian Institution. His combative temperament led to a court-martial after the voyage, yet the survey stood as a landmark of American exploration. He later gained notoriety during the Civil War for the Trent Affair, seizing Confederate envoys from a British ship.",
       "url": "https://en.wikipedia.org/wiki/Charles_Wilkes",
       "_country_qids": [
         "Q30"
@@ -6219,6 +6239,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "Slovene Romantic poet whose sonnets and the poem Zdravljica established him as the national poet of Slovenia.",
+      "tldr": "Slovene Romantic poet whose sonnets and longer narrative poems established the modern Slovene literary language and are credited with shaping Slovene national identity in the 19th century. His best-known work, the Sonnet Wreath, is a technically demanding cycle of interlinked sonnets combining unrequited love with reflections on his people's history and fate. A stanza from his drinking song Zdravljica later became the lyrics of independent Slovenia's national anthem. Despite this later acclaim, his life was marked by unrequited love and struggles with alcohol and the Habsburg censors.",
       "url": "https://en.wikipedia.org/wiki/France_Pre%C5%A1eren"
     },
     {
@@ -6308,6 +6329,7 @@
       ],
       "era": "19th century",
       "desc": "Foremost French literary critic of the 19th century, influential for his biographical method of contextualizing authors' lives and works.",
+      "tldr": "The dominant French literary critic of the 19th century, who argued that a work of literature could only be understood through close study of its author's biography, character, and milieu. His weekly essays, later collected as the Causeries du lundi, surveyed centuries of French letters with an authority that made or broke reputations in his own time. Marcel Proust later attacked this biographical method at length, arguing a book's true self is separate from its author's everyday self. He began his career as a Romantic poet before turning almost entirely to criticism.",
       "url": "https://en.wikipedia.org/wiki/Charles_Augustin_Sainte-Beuve",
       "region": "Europe"
     },
@@ -6465,6 +6487,7 @@
       ],
       "era": "19th century",
       "desc": "English naturalist whose theory of evolution by natural selection transformed biology.",
+      "tldr": "English naturalist whose five-year voyage aboard HMS Beagle exposed him to the geology, fossils, and living species of South America and the Galápagos Islands that reshaped his understanding of life. In On the Origin of Species (1859) he laid out the theory of evolution by natural selection, arguing that species change over time as favorable variations are passed on and unfavorable ones are weeded out. The idea overturned centuries of belief in the fixity of species and provoked fierce controversy that continues in some quarters today.",
       "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
     },
     {
@@ -6897,6 +6920,7 @@
       ],
       "era": "19th century",
       "desc": "Founder of modern nursing and a pioneer of statistics in public health.",
+      "tldr": "English social reformer regarded as the founder of modern nursing, whose work organizing care for wounded soldiers during the Crimean War earned her the nickname 'the Lady with the Lamp' for her nighttime rounds of the wards. Appalled by unsanitary conditions that killed far more soldiers from disease than combat, she pushed through hygiene reforms that sharply cut mortality and used statistical charts, including an early pie chart, to make her case to policymakers. After the war she founded a nursing school at St Thomas' Hospital, establishing nursing as a trained profession.",
       "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
     },
     {
@@ -7087,7 +7111,7 @@
       "era": "19th century",
       "region": "Europe",
       "desc": "Edmond Louis Antoine Huot de Goncourt was a French writer, literary critic, art critic, book publisher and the founder of the Académie Goncourt.",
-      "tldr": "Edmond Louis Antoine Huot de Goncourt was a French writer, literary critic, art critic, book publisher and the founder of the Académie Goncourt.",
+      "tldr": "French writer who, with his brother Jules, pioneered a documentary, unsparingly detailed style of naturalist fiction, producing novels such as Germinie Lacerteux that influenced Émile Zola and the naturalist movement. Together the brothers also kept an extensive journal recording Parisian literary and artistic life, a vivid firsthand record of the era's salons and rivalries. After Jules's death in 1870, Edmond continued writing alone and used his estate to endow the Académie Goncourt, whose annual Prix Goncourt remains France's most prestigious literary award.",
       "url": "https://en.wikipedia.org/wiki/Edmond_de_Goncourt",
       "_country_qids": [
         "Q142"
@@ -7216,6 +7240,7 @@
       "era": "19th century",
       "region": "South Asia",
       "desc": "Indian political leader, founding member of the Indian National Congress, and the first Indian elected to the British Parliament.",
+      "tldr": "Indian scholar and political leader known as the 'Grand Old Man of India' for his decades of work founding and leading the Indian National Congress. In 1892 he became the first Indian, and first person of Asian descent, elected to the British Parliament, sitting as a Liberal MP for a London constituency. His book Poverty and Un-British Rule in India developed the influential 'drain theory,' arguing that British colonial policy systematically transferred India's wealth to Britain. His writings and activism laid groundwork for the later independence movement.",
       "url": "https://en.wikipedia.org/wiki/Dadabhai_Naoroji"
     },
     {
@@ -7605,6 +7630,7 @@
       ],
       "era": "19th century",
       "desc": "English poet and journalist best known for The Light of Asia, a verse biography of the Buddha.",
+      "tldr": "English poet and journalist who spent years teaching in colonial India before returning to London to work as a newspaper editor. His 1879 narrative poem The Light of Asia retold the life and teachings of the Buddha in verse for a Victorian English readership, becoming a surprise bestseller that introduced Buddhism to many Western readers for the first time. The poem's popularity contributed to a broader wave of European interest in Asian religion and philosophy in the late 19th century. He was knighted in 1888 in recognition of his literary and journalistic career.",
       "url": "https://en.wikipedia.org/wiki/Edwin_Arnold",
       "region": "Europe"
     },
@@ -7646,6 +7672,7 @@
       ],
       "era": "19th century",
       "desc": "Ernesto Teodoro Moneta was an Italian journalist, nationalist, revolutionary soldier and later a pacifist and Nobel Peace Prize Laureate. He adopted the motto In varietate unitas!",
+      "tldr": "Italian journalist and former soldier who fought in several wars of Italian unification before undergoing a conversion to pacifism later in life. As editor of the Milan newspaper Il Secolo, he campaigned for international arbitration and disarmament, arguing that lasting peace required binding agreements between states rather than a balance of military power. He co-founded the Lombard Union for Peace and International Arbitration and became a prominent voice of the European peace movement. In 1907 he won the Nobel Peace Prize, the first Italian laureate.",
       "url": "https://en.wikipedia.org/wiki/Ernesto_Teodoro_Moneta",
       "_country_qids": [
         "Q172579"
@@ -8064,6 +8091,7 @@
       ],
       "era": "19th century",
       "desc": "Swiss surgeon who won the 1909 Nobel Prize in Physiology for pioneering work on thyroid surgery.",
+      "tldr": "Swiss surgeon who transformed thyroid surgery from a notoriously dangerous procedure into a routine one, developing meticulous techniques that sharply reduced surgical mortality and popularizing the sterile, careful operating methods of the era. His research also established that removing the entire thyroid gland caused a debilitating condition, now understood as hypothyroidism, clarifying the gland's essential role in metabolism. For this work he received the 1909 Nobel Prize in Physiology or Medicine, the first Nobel awarded for surgery.",
       "url": "https://en.wikipedia.org/wiki/Emil_Theodor_Kocher",
       "region": "Europe"
     },
@@ -8559,6 +8587,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Paul Eugen Bleuler was a Swiss psychiatrist and eugenicist most notable for his influence on modern concepts of mental illness. He coined several psychiatric terms including schizophrenia, schizoid, autism, and depth psychology.",
+      "tldr": "Swiss psychiatrist who in 1908 coined the term 'schizophrenia' to replace 'dementia praecox,' arguing the disorder was defined less by inevitable mental decline than by a characteristic splitting of psychic functions such as thought, emotion, and behavior. He also introduced the terms 'schizoid' and 'autism,' the latter originally describing a symptom within schizophrenia rather than the distinct condition it denotes today. As director of the Burghölzli psychiatric hospital in Zurich, he brought Freud's psychoanalytic ideas into mainstream psychiatry and mentored Carl Jung early on.",
       "url": "https://en.wikipedia.org/wiki/Eugen_Bleuler",
       "_country_qids": [
         "Q39"
@@ -8821,6 +8850,7 @@
       ],
       "era": "19th century",
       "desc": "Charles-Édouard Guillaume was a Swiss physicist who received the Nobel Prize in Physics in 1920 for his discovery of anomalies in nickel steel alloys.",
+      "tldr": "Swiss physicist at the International Bureau of Weights and Measures who discovered invar, a nickel-steel alloy with an almost zero coefficient of thermal expansion, and elinvar, whose elasticity likewise barely changes with temperature. Invar transformed the precision of scientific instruments and clocks, since it no longer expanded or contracted with heat the way ordinary metals did. For this discovery he received the 1920 Nobel Prize in Physics. He spent his career refining international standards of measurement, work that depended directly on the alloys he invented.",
       "url": "https://en.wikipedia.org/wiki/Charles-%C3%89douard_Guillaume",
       "_country_qids": [
         "Q142",
@@ -8866,6 +8896,7 @@
       ],
       "era": "19th century",
       "desc": "Ottoman Turkish novelist and feminist considered the first female novelist in Turkish literature.",
+      "tldr": "Ottoman Turkish novelist widely credited as the first female novelist in Turkish literature, publishing her debut novel Muhadarat in 1892 under conditions where women's authorship was still viewed with suspicion. Daughter of a prominent Ottoman historian, she was largely self-taught in a household that initially tried to discourage her from writing, and she used pseudonyms and family connections to get her early work published. Her fiction and essays argued for women's education and rights within an Islamic framework, and she was active in Ottoman feminist and charitable circles.",
       "url": "https://en.wikipedia.org/wiki/Fatma_Aliye_Topuz",
       "region": "Middle East"
     },
@@ -8960,6 +8991,7 @@
       ],
       "era": "19th century",
       "desc": "Camille Rosalie Claudel was a French sculptor known for her figurative works in bronze and marble.",
+      "tldr": "A gifted French sculptor whose sinuous, expressive bronzes and marbles rivaled the work of her mentor and lover Auguste Rodin, though she long struggled for recognition in her own right. Works like The Waltz and The Mature Age channel her tempestuous private life into startling physical drama. After her final break with Rodin she grew isolated and paranoid, and in 1913, following her father's death, her family committed her to an asylum, where she remained for the rest of her life.",
       "url": "https://en.wikipedia.org/wiki/Camille_Claudel",
       "_country_qids": [
         "Q142"
@@ -9384,6 +9416,7 @@
       "era": "19th century",
       "region": "Europe",
       "desc": "British physicist and chemist who won the 1922 Nobel Prize in Chemistry for discovering isotopes in non-radioactive elements via his mass spectrograph.",
+      "tldr": "British chemist and physicist who built the mass spectrograph, an instrument that separates atoms by the ratio of their mass to electric charge, letting him identify and measure the masses of dozens of isotopes. His measurements proved that many elements thought pure were actually mixtures of isotopes with the same chemical properties but different atomic weights, resolving longstanding puzzles in atomic weight measurements. He formulated the 'whole number rule,' showing isotope masses are close to whole-number multiples of hydrogen's mass, a clue supporting the model of atomic nuclei.",
       "url": "https://en.wikipedia.org/wiki/Francis_William_Aston"
     },
     {
@@ -9495,6 +9528,7 @@
       ],
       "era": "19th century",
       "desc": "Austrian cultural historian, playwright, and actor whose three-volume Cultural History of the Modern Age remains a landmark of popular historiography.",
+      "tldr": "Austrian cultural historian, essayist, playwright, and cabaret performer whose three-volume Cultural History of the Modern Age traced European civilization from the Black Death to the First World War with unusual wit and breadth for a work of popular scholarship. A fixture of Vienna's coffeehouse intellectual scene, he was as well known for his stage performances and aphorisms as for his historical writing. When German troops entered Austria in the 1938 Anschluss, he took his own life by jumping from his apartment window rather than be arrested for his Jewish ancestry.",
       "url": "https://en.wikipedia.org/wiki/Egon_Friedell",
       "region": "Europe"
     },
@@ -9672,6 +9706,7 @@
       "era": "19th century",
       "region": "Americas",
       "desc": "American actor famed for swashbuckling silent-film roles including Zorro and Robin Hood, and co-founder of United Artists.",
+      "tldr": "American silent-film star whose swashbuckling roles in The Mark of Zorro, The Three Musketeers, Robin Hood, and The Thief of Bagdad made him Hollywood's leading action hero of the 1920s, celebrated for performing his own athletic stunts. In 1919 he co-founded United Artists with Charlie Chaplin, Mary Pickford, and D. W. Griffith, giving major stars control over the distribution of their own films. His marriage to Pickford made the couple Hollywood's first celebrity power pair. His career declined with the arrival of sound film, which suited his flamboyant silent-era style less well.",
       "url": "https://en.wikipedia.org/wiki/Douglas_Fairbanks"
     },
     {
@@ -9752,6 +9787,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Engelbert Dollfuss was an Austrian politician and dictator who served as chancellor of Austria between 1932 and 1934.",
+      "tldr": "Austrian politician who became chancellor in 1932 and, facing a fractured parliament and rising Nazi and socialist paramilitaries, suspended the constitution the following year to rule by decree. In February 1934 he crushed an armed socialist uprising in Vienna, then established an authoritarian, corporatist one-party state modeled partly on fascist Italy, banning both the Social Democratic and Nazi parties. His government aimed to keep Austria out of Nazi Germany's orbit. In July 1934 he was shot during a failed Nazi coup attempt and left to bleed to death.",
       "url": "https://en.wikipedia.org/wiki/Engelbert_Dollfuss",
       "_country_qids": [
         "Q40"
@@ -10663,7 +10699,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Sir Francis Walsingham was principal secretary to Queen Elizabeth I of England from 20 December 1573 until his death and is popularly remembered as her \"spymaster\".",
-      "tldr": "Sir Francis Walsingham was principal secretary to Queen Elizabeth I of England from 20 December 1573 until his death and is popularly remembered as her \"spymaster\".",
+      "tldr": "English statesman who served as Elizabeth I's principal secretary and built one of early modern Europe's most sophisticated intelligence networks, earning his lasting reputation as her 'spymaster.' His agents decoded correspondence that implicated Mary, Queen of Scots, in the Babington Plot, providing evidence used to convict and execute her in 1587. A committed Protestant, he saw Catholic Spain as an existential threat and used espionage to uncover plots against the queen and gather intelligence ahead of the 1588 Spanish Armada. He died in debt, having funded his own operations.",
       "url": "https://en.wikipedia.org/wiki/Francis_Walsingham",
       "_country_qids": [
         "Q179876"
@@ -10987,7 +11023,7 @@
       ],
       "era": "19th century",
       "desc": "Sir Edward Burnett Tylor was an English anthropologist, and professor of anthropology.",
-      "tldr": "Sir Edward Burnett Tylor was an English anthropologist, and professor of anthropology.",
+      "tldr": "English anthropologist widely regarded as a founder of cultural anthropology, whose 1871 book Primitive Culture proposed one of the discipline's first influential definitions of culture, as the complex whole of knowledge, belief, art, morals, law, and custom acquired by people as members of society. He developed the theory of animism, arguing that belief in spirits and souls formed the earliest stage of religious thought. In 1896 he became Oxford's first professor of anthropology, helping establish the field as an academic discipline in Britain.",
       "url": "https://en.wikipedia.org/wiki/Edward_Burnett_Tylor",
       "_country_qids": [
         "Q174193"
@@ -12678,7 +12714,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Ferdinand III was Archduke of Austria, King of Hungary and Croatia from 1625, King of Bohemia from 1627 and Holy Roman Emperor from 1637 to his death.",
-      "tldr": "Ferdinand III was Archduke of Austria, King of Hungary and Croatia from 1625, King of Bohemia from 1627 and Holy Roman Emperor from 1637 to his death.",
+      "tldr": "Holy Roman Emperor and King of Hungary, Croatia, and Bohemia who inherited the Thirty Years' War from his father Ferdinand II and, unlike him, worked seriously toward ending it. A capable military commander earlier in his life, as emperor he pursued a more conciliatory religious and political policy, recognizing that outright Habsburg victory was no longer achievable. His diplomacy contributed to the Peace of Westphalia in 1648, which ended the war, curtailed imperial authority over the German princes, and established a framework of religious toleration. He was also a composer of some skill.",
       "url": "https://en.wikipedia.org/wiki/Ferdinand_III%2C_Holy_Roman_Emperor",
       "_country_qids": [
         "Q28",
@@ -12699,7 +12735,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Rudolf II was Holy Roman Emperor (1576–1612), King of Hungary and Croatia, King of Bohemia (1575–1608/1611) and Archduke of Austria (1576–1608). He was a member of the House of Habsburg.",
-      "tldr": "Rudolf II was Holy Roman Emperor (1576–1612), King of Hungary and Croatia, King of Bohemia (1575–1608/1611) and Archduke of Austria (1576–1608). He was a member of the House of Habsburg.",
+      "tldr": "Holy Roman Emperor who ruled from Prague rather than Vienna, turning his court into one of Europe's great centers of art, science, and the occult, patronizing astronomers Tycho Brahe and Johannes Kepler alongside alchemists and painters such as Giuseppe Arcimboldo. His famously eclectic Kunstkammer, or cabinet of curiosities, gathered artworks, scientific instruments, and natural wonders from across the known world. Politically he proved far less effective, and crises within the Habsburg lands eventually forced his own family to strip him of most of his powers in his final years.",
       "url": "https://en.wikipedia.org/wiki/Rudolf_II%2C_Holy_Roman_Emperor",
       "_country_qids": [
         "Q153136",
@@ -12960,7 +12996,7 @@
       "y": 1837,
       "era": "19th century",
       "desc": "Elisabeth, nicknamed Sisi, was Empress of Austria and Queen of Hungary from her marriage to Franz Joseph I on 24 April 1854 until her assassination in 1898.",
-      "tldr": "Elisabeth, nicknamed Sisi, was Empress of Austria and Queen of Hungary from her marriage to Franz Joseph I on 24 April 1854 until her assassination in 1898.",
+      "tldr": "Empress consort of Austria and Queen of Hungary through her marriage to Franz Joseph I, celebrated in her lifetime, and mythologized ever since, for her striking beauty and restless dissatisfaction with the rigid etiquette of the Habsburg court. Known familiarly as Sisi, she spent much of her later life traveling around Europe, often alone, seeking relief from depression and the losses of her son Rudolf's suicide at Mayerling and her sister's death in a fire. In 1898 she was fatally stabbed in Geneva by an Italian anarchist who had originally targeted a different royal.",
       "url": "https://en.wikipedia.org/wiki/Empress_Elisabeth_of_Austria",
       "_country_qids": [
         "Q131964",
@@ -13911,7 +13947,7 @@
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Den may refer to:Den (room), a small room in a house\nMaternity den, a lair where an animal gives birth",
-      "tldr": "Den may refer to:Den (room), a small room in a house\nMaternity den, a lair where an animal gives birth",
+      "tldr": "Ruler conventionally identified as Den, also called Hor-Den or Udimu, a pharaoh of Egypt's First Dynasty believed to have reigned for several decades, among the longest reigns recorded for the period. Surviving labels and reliefs from his tomb at Abydos preserve the first known depiction of a pharaoh smiting a foreign enemy, an image that became a standard motif of Egyptian royal art for millennia. He appears to have been the first ruler to use the title 'King of Upper and Lower Egypt.' As with most rulers of this era, his exact dates rest on later king-lists rather than contemporary records.",
       "url": "https://en.wikipedia.org/wiki/Den",
       "_country_qids": [
         "Q11768"
@@ -13949,7 +13985,7 @@
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Djet, also known as Wadjet, Wadj, Zet, and Uadji, was the fourth pharaoh of the First Dynasty, successor of Djer. Djet's Horus name means \"Horus Cobra\" or \"Serpent of Horus\".",
-      "tldr": "Djet, also known as Wadjet, Wadj, Zet, and Uadji, was the fourth pharaoh of the First Dynasty, successor of Djer. Djet's Horus name means \"Horus Cobra\" or \"Serpent of Horus\".",
+      "tldr": "Fourth pharaoh of Egypt's First Dynasty, who succeeded his father Djer and is known chiefly through the elegant carved stela that marked his tomb at Abydos, now held in the Louvre. The stela's serpent framed beneath a falcon, spelling his Horus name, is among the most admired examples of early Egyptian relief carving, showing royal artistic conventions were already refined just centuries after unification. His reign, like those of his predecessors, is associated with a subsidiary cemetery of retainer burials around his tomb, a practice that faded out within a few generations.",
       "url": "https://en.wikipedia.org/wiki/Djet",
       "_country_qids": [
         "Q11768"
