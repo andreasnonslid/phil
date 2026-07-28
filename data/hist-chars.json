@@ -323,6 +323,7 @@
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Ancient Greek architect who co-designed the Parthenon in Athens alongside Ictinus.",
+      "tldr": "Ancient Greek architect active in fifth-century BCE Athens, who together with Ictinus designed the Parthenon, the Doric temple to Athena that crowned the Acropolis as centerpiece of Pericles' building program. Built between 447 and 432 BCE under the general oversight of the sculptor Phidias, the temple became renowned for its refined proportions and subtle adjustments correcting for optical distortion. Callicrates is also credited with the small, elegant Temple of Athena Nike on the Acropolis's southwest bastion. Little else is known of his life beyond these attributions.",
       "url": "https://en.wikipedia.org/wiki/Callicrates",
       "region": "Europe"
     },
@@ -743,6 +744,7 @@
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "Alexandrian presbyter whose theology on Christ's nature sparked the Arian controversy, prompting the Council of Nicaea in 325 CE.",
+      "tldr": "Presbyter in Alexandria whose teaching that Christ the Son was created by God the Father, and therefore not co-eternal with him, ignited the fourth century's defining Christian theological dispute. The controversy grew serious enough that Emperor Constantine convened the Council of Nicaea in 325 to settle it, where bishops condemned Arius's position and produced the Nicene Creed affirming the Son's full divinity. Arius was exiled but the dispute persisted for decades. He died suddenly in Constantinople shortly before his formal reinstatement, a death his opponents took as divine judgment.",
       "url": "https://en.wikipedia.org/wiki/Arius",
       "region": "Middle East"
     },
@@ -980,6 +982,7 @@
       ],
       "era": "Ancient (to 500 CE)",
       "desc": "King of the Visigoths from 484 who issued the Breviary of Alaric, a landmark codification of Roman law for his subjects.",
+      "tldr": "King of the Visigoths from 484, ruling a kingdom centered on Toulouse that stretched across Gaul and most of Iberia. In 506 he issued the Breviary of Alaric, a codification of Roman law drawn from the Theodosian Code intended for his Roman, non-Gothic subjects, who continued to live under Roman rather than Visigothic law. The following year he was defeated and killed by the Frankish king Clovis I at the Battle of Vouillé, a defeat that stripped the Visigoths of nearly all their territory north of the Pyrenees.",
       "url": "https://en.wikipedia.org/wiki/Alaric_II",
       "region": "Europe"
     },
@@ -1013,6 +1016,7 @@
       "era": "Ancient (to 500 CE)",
       "region": "Europe",
       "desc": "Roman senator, philosopher, and polymath of the Early Middle Ages whose Consolation of Philosophy became a cornerstone of medieval thought.",
+      "tldr": "Roman senator and philosopher who served as chief minister at the Ostrogothic court of Theodoric the Great, before being accused of conspiring with the Byzantine emperor and imprisoned on charges of treason. While awaiting execution around 524 he wrote Consolation of Philosophy, a dialogue between the condemned author and the personification of Philosophy that became one of the most widely read works of the Middle Ages. He also translated Aristotle's works on logic, preserving Greek philosophy for the early medieval West. He was executed without trial on Theodoric's orders.",
       "url": "https://en.wikipedia.org/wiki/Boethius"
     },
     {
@@ -1064,6 +1068,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "King of the Ostrogoths in Italy from 526, grandson of Theodoric the Great, who reigned under the regency of his mother Amalasuintha.",
+      "tldr": "King of the Ostrogoths in Italy from the age of ten, succeeding his grandfather Theodoric the Great in 526 under the regency of his mother, Amalasuintha. Ancient sources, hostile to her strict Roman-style education of the young king, claim Gothic nobles pushed him toward a dissolute lifestyle that undermined his health and his mother's authority. He died around 534 at about eighteen, reportedly of illness worsened by drink, without ruling independently. His death forced Amalasuintha to share power with her cousin Theodahad, which soon collapsed into political crisis.",
       "url": "https://en.wikipedia.org/wiki/Athalaric",
       "region": "Europe"
     },
@@ -1077,6 +1082,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Companion of the Prophet Muhammad whose parents were the first martyrs of Islam; later a commander in the early Muslim conquests.",
+      "tldr": "Early convert to Islam whose parents, Yasir and Sumayyah, were tortured to death by the Prophet Muhammad's opponents in Mecca and are venerated as the faith's first martyrs. Ammar himself survived torture and became one of Muhammad's closest companions, later serving as a provincial governor and commander during the Muslim conquests. In the first civil war among Muslims, he sided with Caliph Ali and was killed at the Battle of Siffin in 657 at an advanced age. A saying attributed to Muhammad, that Ammar would be killed by a \"rebellious group,\" was invoked by both sides of the conflict.",
       "url": "https://en.wikipedia.org/wiki/Ammar_ibn_Yasir",
       "region": "Middle East"
     },
@@ -1090,6 +1096,7 @@
       "era": "Medieval (500–1500)",
       "region": "Europe",
       "desc": "Pope (678–681) who presided over the Third Council of Constantinople, decisively condemning Monothelitism.",
+      "tldr": "Pope from 678 to 681, remembered chiefly for the Third Council of Constantinople held near the end of his pontificate. Through his legates he secured the council's condemnation of Monothelitism, the doctrine that Christ possessed only a single divine will, ending decades of theological dispute between Rome and Constantinople. He also negotiated with Emperor Constantine IV to end Ravenna's independence from papal authority. Later tradition credited him with an implausibly long life, and he died within months of the council's close.",
       "url": "https://en.wikipedia.org/wiki/Pope_Agatho"
     },
     {
@@ -1252,6 +1259,7 @@
       "era": "Medieval (500–1500)",
       "region": "Europe",
       "desc": "Pope (772–795) who forged a lasting alliance with Charlemagne, shaping the political foundations of medieval Christendom.",
+      "tldr": "Pope from 772 to 795, whose appeal to Charlemagne for protection against the Lombard king Desiderius led the Frankish ruler to invade Italy and confirm the Papal States' territory. Their alliance became the political backbone of medieval Christendom, binding the papacy to Frankish protection for centuries. Adrian also presided, through legates, over the Second Council of Nicaea in 787, which restored the veneration of icons after decades of Byzantine iconoclasm. He rebuilt Rome's aqueducts, walls, and churches during a long and stable pontificate.",
       "url": "https://en.wikipedia.org/wiki/Pope_Adrian_I"
     },
     {
@@ -1417,6 +1425,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Persian astrologer and astronomer regarded as the greatest astrologer of the Abbasid court in Baghdad.",
+      "tldr": "Persian scholar who became the most influential astrologer of the Abbasid court in ninth-century Baghdad, said to have turned to the field under the influence of the philosopher al-Kindi. His Introduction to Astrology was translated into Latin and shaped European astrological thought well into the Renaissance. He also developed a theory of history based on planetary conjunctions, arguing that alignments of Jupiter and Saturn marked turning points such as the rise of religions and dynasties. His tables and almanacs remained in use long after his death.",
       "url": "https://en.wikipedia.org/wiki/Abu_Ma%27shar_al-Balkhi",
       "region": "Middle East"
     },
@@ -1450,6 +1459,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Archbishop of Hamburg-Bremen known as the “Apostle of the North” for missionary journeys that brought Christianity to Scandinavia.",
+      "tldr": "Frankish monk who became the first missionary bishop to preach Christianity in Scandinavia, traveling to Denmark and Sweden under the patronage of Louis the Pious in the 820s and 830s. He built the first known Christian church in Sweden, at the trading town of Birka, though conversions proved fragile and pagan resistance repeatedly undid his gains during his lifetime. As Archbishop of Hamburg-Bremen he oversaw the Church's northern missionary effort for decades despite Viking raids that destroyed his own cathedral. He was later canonized and remembered as the \"Apostle of the North.\"",
       "url": "https://en.wikipedia.org/wiki/Ansgar",
       "region": "Europe"
     },
@@ -1487,6 +1497,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Persian astronomer of the Islamic Golden Age whose Book of Fixed Stars gave the first recorded description of the Andromeda Galaxy.",
+      "tldr": "A leading astronomer of the tenth-century Islamic Golden Age, active at the Buyid court in Persia. His Book of Fixed Stars merged Ptolemy's Greek catalogue with indigenous Arabic star lore, correcting stellar magnitudes and adding new star names still used today, such as Algol and Deneb. In it he gave the first known written description of the Andromeda Galaxy, calling it a \"little cloud,\" centuries before telescopes existed. He also described the Large Magellanic Cloud, visible from Yemen but not from his own home city, showing he drew on observations beyond his own vantage point.",
       "url": "https://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi",
       "region": "Middle East"
     },
@@ -1539,6 +1550,7 @@
       "region": "Middle East",
       "era": "Medieval (500–1500)",
       "desc": "Abu Rayhan Muhammad ibn Ahmad al-Biruni was a Khwarazmian Iranic scholar and polymath during the Islamic Golden Age. He has been called the \"Father of Comparative Religion\" and \"Father of modern geodesy\".",
+      "tldr": "Khwarazmian polymath of the Islamic Golden Age who worked across astronomy, mathematics, geography, and comparative religion, and corresponded with fellow scholar Ibn Sina. Attached to the Ghaznavid court, he accompanied Mahmud of Ghazni's campaigns into India and wrote a strikingly even-handed study of Indian religion, science, and society. He calculated the Earth's radius to within a small margin of the modern figure by measuring a mountain's height and dip angle. His output across more than 140 works earned him the later title \"father of comparative religion.\"",
       "url": "https://en.wikipedia.org/wiki/Al-Biruni",
       "_country_qids": [
         "Q12150341"
@@ -1647,6 +1659,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Arab astronomer and instrument-maker from Al-Andalus who invented the saphaea and compiled the influential Toledo Tables.",
+      "tldr": "Arab astronomer and instrument-maker working in eleventh-century Toledo, known in Latin Europe as Arzachel. Trained as a metalworker, he invented the saphaea, a single astrolabe plate that worked at any latitude rather than requiring a different plate for each one. He led the team that compiled the Toledo Tables, planetary tables so accurate they remained in use across Europe for two centuries. His long solar observations also let him detect the slow motion of the solar apogee, a subtlety Ptolemy had missed.",
       "url": "https://en.wikipedia.org/wiki/Al-Zarqali",
       "region": "Europe"
     },
@@ -1761,6 +1774,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Andalusian Arab polymath who wrote on astronomy, physics, philosophy, and medicine in Al-Andalus.",
+      "tldr": "Andalusian polymath, known in Latin as Avempace, who served as vizier in Zaragoza and later Fez while producing influential work in philosophy, physics, medicine, and music. His treatise The Governance of the Solitary argued that a philosopher could reach intellectual perfection in an imperfect society by cultivating inner virtue apart from the corrupt state, an idea that shaped later thinkers including Ibn Tufail and Averroes. His critique of Aristotle's account of motion anticipated concepts later developed toward the theory of inertia. He died young, reportedly poisoned by a rival.",
       "url": "https://en.wikipedia.org/wiki/Avempace",
       "region": "Europe"
     },
@@ -1775,6 +1789,7 @@
       "region": "Europe",
       "era": "Medieval (500–1500)",
       "desc": "Adam of Bremen was a German medieval chronicler. He lived and worked in the second half of the eleventh century. Adam is most famous for his chronicle Gesta Hammaburgensis ecclesiae pontificum.",
+      "tldr": "A canon and schoolmaster at the cathedral of Bremen in the second half of the eleventh century, known almost entirely through his own chronicle, the Gesta Hammaburgensis ecclesiae pontificum. The work traces the history of the archbishopric of Hamburg-Bremen and its missionary reach across Scandinavia and the Baltic, and is prized by historians as one of the few written sources on pre-Christian Nordic religion and geography. A digression describing lands reported by the Danish king Sweyn Estridsson contains one of the earliest European references to Vinland, centuries before Columbus.",
       "url": "https://en.wikipedia.org/wiki/Adam_of_Bremen",
       "_country_qids": [
         "Q183"
@@ -2317,7 +2332,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Pope Alexander VI was head of the Catholic Church and leader of the Papal States from 11 August 1492 until his death in 1503.",
-      "tldr": "Pope Alexander VI was head of the Catholic Church and leader of the Papal States from 11 August 1492 until his death in 1503.",
+      "tldr": "Spanish-born pope, born Rodrigo Borgia, who reigned from 1492 to 1503 and became the most notorious Renaissance pope for open nepotism and the ambitions he advanced through his children Cesare and Lucrezia Borgia. His pontificate is remembered for the 1493 papal bulls dividing newly discovered lands between Spain and Portugal, later refined by the Treaty of Tordesillas. He used marriage alliances and campaigns led by Cesare to carve out Borgia territories in central Italy. Accusations of simony and scandal have shadowed his reputation ever since.",
       "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VI",
       "_country_qids": [
         "Q204920"
@@ -3216,6 +3231,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Ottoman sultan who commissioned the Blue Mosque in Istanbul and ruled the empire from 1603 to 1617.",
+      "tldr": "Ottoman sultan who came to the throne at just thirteen in 1603 and reigned until his death in 1617. He ended a century-old practice of fratricide among Ottoman princes, confining potential rivals to a secluded palace apartment known as the cage rather than having them killed. His reign saw the Peace of Zsitvatorok end the long war with the Habsburgs, alongside continued conflict with Safavid Persia. He is best remembered for commissioning the Blue Mosque in Istanbul, built directly across from Hagia Sophia to rival it in grandeur.",
       "url": "https://en.wikipedia.org/wiki/Ahmed_I",
       "region": "Middle East"
     },
@@ -3231,6 +3247,7 @@
       "region": "Americas",
       "era": "Early modern (1500–1800)",
       "desc": "Anne Hutchinson was an English-born religious figure who was an important participant in the Antinomian Controversy which shook the nascent Massachusetts Bay Colony from 1636 to 1638.",
+      "tldr": "English-born midwife and religious dissenter whose Boston home became a gathering place for discussing Puritan sermons, drawing large audiences that included women, unusual for the time. Her teachings, stressing direct divine revelation over the clergy's authority to interpret grace, triggered the Antinomian Controversy that split the Massachusetts Bay Colony from 1636 to 1638. Tried before the colony's General Court and church, she was banished as a danger to religious order. She resettled in Rhode Island and then Dutch New Netherland, where she was killed in a raid in 1643.",
       "url": "https://en.wikipedia.org/wiki/Anne_Hutchinson",
       "_country_qids": [
         "Q179876"
@@ -3333,7 +3350,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Pope Alexander VII, born Fabio Chigi, was head of the Catholic Church and ruler of the Papal States from 7 April 1655 to his death, in May 1667.",
-      "tldr": "Pope Alexander VII, born Fabio Chigi, was head of the Catholic Church and ruler of the Papal States from 7 April 1655 to his death, in May 1667.",
+      "tldr": "Pope from 1655 to 1667, born Fabio Chigi, who had earlier served as papal representative at the negotiations that produced the Peace of Westphalia, a settlement he formally protested as harmful to Catholic interests even as it ended the Thirty Years' War. As pope he became one of the great patrons of Baroque Rome, commissioning Gian Lorenzo Bernini to design the sweeping colonnade enclosing St Peter's Square. He also reorganized the Vatican Library and imposed strict quarantine measures that helped shield Rome from a plague then devastating southern Italy.",
       "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VII",
       "_country_qids": [
         "Q170174"
@@ -3454,6 +3471,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "Pope (1689–1691) known for nepotism and his condemnation of Jansenism during his brief pontificate.",
+      "tldr": "Venetian-born pope who reigned briefly from 1689 until his death in 1691, elected already in his late seventies after a long career as a canon lawyer and cardinal. His short pontificate was marked by conspicuous nepotism, including large grants of money and office to his relatives, alongside a formal condemnation of Jansenism and of the Gallican Articles that had asserted French royal authority over the church. He worked to mend relations with Louis XIV of France, strained under his predecessor, though a full reconciliation was left unfinished at his death.",
       "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VIII"
     },
     {
@@ -3823,6 +3841,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Anne of Great Britain may refer to Anne, Queen of Great Britain (1665–1714), who ruled after William III and before the House of Hanover.",
+      "tldr": "Queen who reigned from 1702 to 1714, and under whose rule England and Scotland merged into the single Kingdom of Great Britain by the 1707 Act of Union. Her reign coincided with the War of the Spanish Succession, in which the Duke of Marlborough's victories, such as Blenheim, established Britain as a major continental power. Despite seventeen pregnancies, none of her children survived to adulthood, leaving the crown to pass to the German House of Hanover after her death. Her close friendship with Sarah Churchill shaped much of her reign.",
       "url": "https://en.wikipedia.org/wiki/Anne_of_Great_Britain",
       "_country_qids": [
         "Q161885"
@@ -3848,7 +3867,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Pope Benedict XIV, born Prospero Lorenzo Lambertini, was head of the Catholic Church and ruler of the Papal States from 17 August 1740 to his death on 3 May 1758.",
-      "tldr": "Pope Benedict XIV, born Prospero Lorenzo Lambertini, was head of the Catholic Church and ruler of the Papal States from 17 August 1740 to his death on 3 May 1758.",
+      "tldr": "Pope from 1740 to 1758, born Prospero Lambertini, widely regarded as one of the most scholarly and broadly respected popes of the eighteenth century, admired even by Enlightenment figures such as Voltaire, who dedicated a play to him. A canon lawyer by training, he had earlier written the standard procedural manual on beatification and canonization still influential in Vatican practice. As pope he reduced nepotism at the papal court, encouraged scientific study in Rome, and negotiated concordats with several states. He also issued the definitive ban on Chinese and Malabar rites.",
       "url": "https://en.wikipedia.org/wiki/Pope_Benedict_XIV",
       "_country_qids": [
         "Q170174"
@@ -4747,6 +4766,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Maria Anna Angelika Kauffmann was a Swiss painter who had a successful career in London and Rome. She was one of two female painters among the founding members of the Royal Academy of Art in London in 1768.",
+      "tldr": "Swiss-born painter who achieved international success first in Rome and then in London, where in 1768 she became one of only two women among the founding members of the Royal Academy of Arts, a distinction no woman would match again for over a century. She specialized in history painting, a genre considered the most prestigious but largely closed to women artists, and her mythological scenes were also reproduced widely as decorative panels for Robert Adam's interiors. She later returned to Rome, remaining a leading figure in the international art world until her death.",
       "url": "https://en.wikipedia.org/wiki/Angelica_Kauffman",
       "_country_qids": [
         "Q39",
@@ -5136,6 +5156,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Andreas Hofer was a Tyrolean innkeeper and drover who became the leader of the 1809 Tyrolean Rebellion during the War of the Fifth Coalition.",
+      "tldr": "Tyrolean innkeeper and cattle trader who led a popular uprising in 1809 against Bavarian and French rule after Austria ceded Tyrol to Bavaria under the Peace of Pressburg. His irregular militia defeated Bavarian and French forces three times at the Battle of Bergisel near Innsbruck and briefly restored Tyrolean self-government. When Austria made peace with Napoleon without securing Tyrol's return, Hofer fought on alone until betrayed, captured, and, on Napoleon's order, shot in Mantua in 1810. He remains Tyrol's most celebrated national hero.",
       "url": "https://en.wikipedia.org/wiki/Andreas_Hofer",
       "_country_qids": [
         "Q153136"
@@ -5185,6 +5206,7 @@
       "region": "Americas",
       "era": "Early modern (1500–1800)",
       "desc": "Andrew Jackson was the seventh president of the United States from 1829 to 1837. He rose to fame as a U.S. Army general.",
+      "tldr": "Seventh president of the United States, who first won national fame as a general for his decisive victory over the British at the Battle of New Orleans in 1815. As president from 1829 to 1837 he championed an expanded popular democracy for white male voters while signing the Indian Removal Act of 1830, forcing tens of thousands of Native Americans westward on marches that killed thousands, remembered as the Trail of Tears. He fought a fierce battle against the Second Bank of the United States, ultimately destroying it, giving rise to the term Jacksonian democracy.",
       "url": "https://en.wikipedia.org/wiki/Andrew_Jackson",
       "_country_qids": [
         "Q30"
@@ -5209,6 +5231,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Henri-Benjamin Constant de Rebecque, or simply Benjamin Constant, was a Swiss and French political thinker, activist and writer on political theory and religion.",
+      "tldr": "Swiss-French writer and political theorist regarded as one of the founding figures of European liberalism, best known for his 1819 essay distinguishing the \"liberty of the ancients,\" rooted in collective political participation, from the \"liberty of the moderns,\" centered on individual rights and private life. He also wrote Adolphe, a short psychological novel about a doomed love affair drawn partly from his own turbulent relationship with Madame de Staël. Though a longtime opponent of Napoleon, he briefly helped draft a liberal constitution for him during the Hundred Days in 1815.",
       "url": "https://en.wikipedia.org/wiki/Benjamin_Constant",
       "_country_qids": [
         "Q142",
@@ -5460,6 +5483,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Augustin Pyramus de Candolle was a Swiss botanist who documented hundreds of plant families and created a new natural plant classification system.",
+      "tldr": "Swiss botanist who devoted his career to reorganizing plant classification around natural relationships rather than the artificial sexual system of Linnaeus, work that led him to coin the term \"taxonomy.\" His monumental Prodromus attempted to describe every known flowering plant species, eventually cataloguing more than 58,000, a project his son continued after his death. He also identified the principle of plant competition for resources, an idea Darwin later cited as an influence. He held professorships at Montpellier and Geneva.",
       "url": "https://en.wikipedia.org/wiki/Augustin_Pyramus_de_Candolle",
       "_country_qids": [
         "Q23366230",
@@ -5543,6 +5567,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Baron Antoine-Henri Jomini was a Swiss-French military officer who served as a general in French and later in Russian service, and one of the most celebrated writers on the Napoleonic art of war.",
+      "tldr": "Swiss-born soldier and military theorist who served as a staff officer under Napoleon, including as chief of staff to Marshal Ney, before defecting to Russian service in 1813 after feeling passed over for promotion. He is remembered chiefly as a writer, whose Summary of the Art of War distilled Napoleonic strategy into geometric principles of lines of operation and decisive points that dominated European and American military education for much of the nineteenth century. His systematic approach was later contrasted with the more philosophical theories of his rival Carl von Clausewitz.",
       "url": "https://en.wikipedia.org/wiki/Antoine-Henri_Jomini",
       "_country_qids": [
         "Q39",
@@ -5701,6 +5726,7 @@
       ],
       "era": "19th century",
       "desc": "Italian poet and novelist whose The Betrothed (1827) is considered the greatest Italian novel and a pillar of the Risorgimento.",
+      "tldr": "Italian novelist and poet whose 1827 novel The Betrothed, set during a seventeenth-century plague and famine in Spanish-ruled Lombardy, is widely regarded as the greatest work of Italian fiction. He rewrote the book's language after 1840 to match Florentine usage, a deliberate effort to forge a shared literary Italian ahead of national unification, and the novel became a set text that shaped the modern language itself. A committed Catholic and liberal, he was made a senator of the new Kingdom of Italy in 1860. When he died in 1873, Giuseppe Verdi composed his Requiem in tribute.",
       "url": "https://en.wikipedia.org/wiki/Alessandro_Manzoni",
       "region": "Europe"
     },
@@ -6653,6 +6679,7 @@
       "era": "19th century",
       "region": "Middle East",
       "desc": "Iranian founder of the Baháʼí Faith who proclaimed a new divine revelation in 1863 after decades of exile.",
+      "tldr": "Iranian nobleman born Mirza Husayn-Ali who became the founder and central prophetic figure of the Baháʼí Faith. A follower of the Báb, he was imprisoned and exiled by the Persian and Ottoman authorities through a series of cities — Baghdad, Istanbul, Edirne, and finally the prison city of Acre — over four decades. In 1863, in a garden outside Baghdad remembered as Ridván, he declared himself the messianic figure the Báb had foretold, and went on to write the faith's central scripture. His teachings on the unity of religions spread despite his lifelong confinement.",
       "url": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BCu%27ll%C3%A1h"
     },
     {
@@ -6771,6 +6798,7 @@
       "era": "19th century",
       "region": "Middle East",
       "desc": "Iranian religious leader who founded Bábism in 1844 and is revered as a central figure of the Baháʼí Faith.",
+      "tldr": "Iranian merchant born Siyyid Ali-Muhammad Shirazi, who in 1844 declared himself the Báb, or \"Gate,\" to a promised messianic figure, launching the Bábí movement that broke from Twelver Shia Islam. His teachings attracted a fervent following that alarmed clerical and state authorities in Qajar Persia. After followers were implicated in uprisings and an attempt on the shah's life, he was executed by firing squad in Tabriz in 1850; a famous account holds the first volley severed his ropes without killing him. He is venerated in the Baháʼí Faith as herald of Baháʼu'lláh.",
       "url": "https://en.wikipedia.org/wiki/B%C3%A1b"
     },
     {
@@ -6782,6 +6810,7 @@
       ],
       "era": "19th century",
       "desc": "Italian astronomer who discovered nine asteroids and contributed to theoretical astronomy from the Naples Observatory.",
+      "tldr": "Italian astronomer who worked for decades at the Capodimonte Observatory in Naples, where he discovered nine asteroids between 1849 and 1865, beginning with 10 Hygiea, the first asteroid ever found by an Italian observer. His discoveries, made through painstaking visual comparison of star charts against the night sky, came during the mid-nineteenth-century boom in asteroid hunting that followed the identification of Ceres. Beyond observation, he contributed to the theoretical mathematics of orbit determination used to confirm and track newly found bodies.",
       "url": "https://en.wikipedia.org/wiki/Annibale_de_Gasparis",
       "region": "Europe"
     },
@@ -7281,6 +7310,7 @@
       ],
       "era": "19th century",
       "desc": "Arnold Böcklin was a Swiss Symbolist painter. His five versions of the Isle of the Dead inspired works by several late Romantic composers.",
+      "tldr": "Swiss Symbolist painter best known for Isle of the Dead, a haunting image of a boat approaching a rocky, tomb-studded island that he painted in five versions between 1880 and 1886 after a widow commissioned a \"picture for dreaming.\" The painting became one of the most widely reproduced images of its era and directly inspired Sergei Rachmaninoff's tone poem of the same name. Böcklin's dreamlike, mythologically charged landscapes, populated with fauns, nymphs, and centaurs, anticipated the Surrealists, and painters such as Giorgio de Chirico and Salvador Dalí later acknowledged his influence.",
       "url": "https://en.wikipedia.org/wiki/Arnold_B%C3%B6cklin",
       "_country_qids": [
         "Q39"
@@ -7400,6 +7430,7 @@
       ],
       "era": "19th century",
       "desc": "American astronomer who in 1877 discovered Phobos and Deimos, the two moons of Mars, and determined the orbital mechanics of planetary satellites.",
+      "tldr": "American astronomer at the United States Naval Observatory who in August 1877 discovered both moons of Mars, Phobos and Deimos, during a systematic search timed to a close opposition of the planet. He had nearly abandoned the search after repeated failed nights before his wife, Angelina Stickney, urged him to continue, and he found Deimos the following night. His subsequent orbital calculations for the two tiny, irregularly shaped moons became foundational data for later study of Mars's satellite system. The discovery made him one of the best-known American astronomers of his generation.",
       "url": "https://en.wikipedia.org/wiki/Asaph_Hall",
       "region": "Americas"
     },
@@ -7660,6 +7691,7 @@
       ],
       "era": "19th century",
       "desc": "Alexander Emmanuel Rodolphe Agassiz was an American scientist and engineer. He was the son of Louis Agassiz and stepson of Elizabeth Cabot Agassiz.",
+      "tldr": "American zoologist and mining engineer, the son of the naturalist Louis Agassiz, who used a fortune made running the Calumet and Hecla copper mine in Michigan to fund a second career in science. He became a leading authority on marine invertebrates, particularly echinoderms and coral reefs, and led oceanographic expeditions through the Pacific and Caribbean. He directed and heavily funded Harvard's Museum of Comparative Zoology, founded by his father, greatly expanding its collections. His reef studies helped refine Darwin's theory of coral atoll formation.",
       "url": "https://en.wikipedia.org/wiki/Alexander_Agassiz",
       "_country_qids": [
         "Q39",
@@ -8020,6 +8052,7 @@
       "era": "19th century",
       "region": "Europe",
       "desc": "French Impressionist painter who exhibited at most Impressionist exhibitions and was known for intimate domestic scenes in a distinctive loose style.",
+      "tldr": "French painter and one of the founding members of the Impressionist movement, exhibiting in seven of the eight group shows held between 1874 and 1886, missing only one for the birth of her daughter. She specialized in intimate domestic and garden scenes rendered in the loose, light-filled brushwork characteristic of Impressionism, often depicting women and children in unposed moments. She was closely linked to Édouard Manet, who painted her repeatedly, and later married his brother Eugène. Long overshadowed by her male contemporaries, she is now seen as one of the movement's finest painters.",
       "url": "https://en.wikipedia.org/wiki/Berthe_Morisot"
     },
     {
@@ -8185,6 +8218,7 @@
       ],
       "era": "19th century",
       "desc": "Alexander III was Emperor of Russia, King of Poland and Grand Duke of Finland from 13 March 1881 until his death in 1894. He was highly reactionary in domestic affairs.",
+      "tldr": "Emperor of Russia from 1881 to 1894, who came to the throne after his father was assassinated by revolutionaries and responded by abandoning liberal reform for autocracy. His government tightened press censorship, curtailed local self-government, and pursued Russification of national minorities, while restrictive laws worsened conditions for Jews and contributed to a wave of pogroms. Despite this domestic repression, he kept Russia out of any major war, earning the epithet \"the Peacemaker.\" He began the Trans-Siberian Railway and was the father of the last tsar, Nicholas II.",
       "url": "https://en.wikipedia.org/wiki/Alexander_III_of_Russia",
       "_country_qids": [
         "Q34266"
@@ -8546,6 +8580,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Antoni Grabowski was a Polish chemical engineer, and an activist of the early Esperanto movement. His translations had an influential impact on the development of Esperanto into a language of literature.",
+      "tldr": "Polish chemical engineer who became one of the most important early contributors to Esperanto literature after adopting the newly invented language in the 1880s. He translated major works into Esperanto, including Adam Mickiewicz's epic Pan Tadeusz and an anthology of poetry drawn from thirty languages, demonstrating the young language's literary capacity. As a chemist he also compiled much of Esperanto's technical vocabulary, helping the language function beyond everyday conversation. He is often called the father of Esperanto poetry.",
       "url": "https://en.wikipedia.org/wiki/Antoni_Grabowski",
       "_country_qids": [
         "Q207272",
@@ -9027,6 +9062,7 @@
       ],
       "era": "19th century",
       "desc": "Alfred Werner was a Swiss chemist who won the Nobel Prize in Chemistry in 1913 for proposing the octahedral configuration of transition metal complexes.",
+      "tldr": "Swiss chemist who in 1893 proposed the coordination theory of transition metal complexes, explaining how a central metal atom bonds to a fixed number of surrounding ions or molecules in defined geometric arrangements. His model, including the octahedral configuration for many six-coordinate complexes, resolved decades of confusion over compounds whose formulas defied ordinary valence rules. He confirmed the theory by resolving optically active isomers that only made sense under his three-dimensional geometry. In 1913 he became the first inorganic chemist to win a Nobel Prize.",
       "url": "https://en.wikipedia.org/wiki/Alfred_Werner",
       "_country_qids": [
         "Q39",
@@ -9647,6 +9683,7 @@
       ],
       "era": "19th century",
       "desc": "Amedeo Clemente Modigliani was an Italian painter and sculptor of the École de Paris who worked mainly in France. He is known for portraits and nudes in a modern style.",
+      "tldr": "Italian painter and sculptor who moved to Paris in 1906 and became a central figure of the bohemian École de Paris, developing an instantly recognizable style of elongated faces and figures influenced by African and Cycladic sculpture. Chronic poverty, tuberculosis contracted in childhood, and heavy drinking marked most of his working life, bringing little recognition before his death. His nude paintings caused a scandal when exhibited in 1917 and were briefly shut down by police. He died in 1920 at thirty-five, and his pregnant partner took her own life the next day.",
       "url": "https://en.wikipedia.org/wiki/Amedeo_Modigliani",
       "_country_qids": [
         "Q172579"
@@ -9736,7 +9773,7 @@
       ],
       "era": "19th century",
       "desc": "Alexander Aleksandrovich Alekhine was a Russian and French chess player and the fourth World Chess Champion, a title he held for two reigns.",
-      "tldr": "Alexander Aleksandrovich Alekhine was a Russian and French chess player and the fourth World Chess Champion, a title he held for two reigns.",
+      "tldr": "Russian-born chess grandmaster who became the fourth World Chess Champion in 1927 by defeating the long-reigning José Raúl Capablanca in Buenos Aires, a result many considered an upset. He lost the title to Max Euwe in 1935 but won it back two years later, becoming the only world champion to die while still holding the crown, in 1946. Renowned for a sharp, combinative attacking style built on deep calculation, he emigrated from Soviet Russia and took French citizenship. Articles on chess and race attributed to him during the wartime occupation of France remain disputed.",
       "url": "https://en.wikipedia.org/wiki/Alexander_Alekhine",
       "_country_qids": [
         "Q142",
@@ -10119,7 +10156,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Agustín Cosme Damián de Iturbide y Arámburu, commonly known as Agustín de Iturbide and later by his regnal name Agustín I, was the first Emperor of Mexico from 1822 until his abdication in 1823.",
-      "tldr": "Agustín Cosme Damián de Iturbide y Arámburu, commonly known as Agustín de Iturbide and later by his regnal name Agustín I, was the first Emperor of Mexico from 1822 until his abdication in 1823.",
+      "tldr": "Mexican general who, after fighting for Spain against the independence insurgency, switched sides in 1821 and issued the Plan of Iguala, uniting royalists and rebels behind independence, a Catholic state church, and equal citizenship. The resulting Army of the Three Guarantees swept Spanish forces from Mexico within months. Proclaimed Emperor Agustín I in 1822, he ruled barely a year before a republican revolt forced his abdication and exile. He returned to Mexico in 1824 unaware Congress had sentenced him to death, and was captured and executed on landing.",
       "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_de_Iturbide",
       "_country_qids": [
         "Q96",
@@ -11951,7 +11988,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Anne Hyde was the first wife of James, Duke of York, who later became King James II and VII, in 1685.",
-      "tldr": "Anne Hyde was the first wife of James, Duke of York, who later became King James II and VII, in 1685.",
+      "tldr": "English noblewoman, the daughter of the statesman Edward Hyde, who secretly married James, Duke of York — the future King James II — in 1660 while already pregnant with his child, a scandal at the Restoration court. Two of their daughters, Mary and Anne, both later became queens of England in their own right, making her the mother of two reigning monarchs despite dying more than a decade before her husband took the throne. She converted privately to Catholicism shortly before her death in 1671, a decision she reportedly kept hidden from most of the court.",
       "url": "https://en.wikipedia.org/wiki/Anne_Hyde",
       "_country_qids": [
         "Q179876"
@@ -11971,7 +12008,7 @@
       "region": "Africa",
       "era": "Ancient (to 500 CE)",
       "desc": "Ay, AY or variants, may refer to:",
-      "tldr": "Ay, AY or variants, may refer to:",
+      "tldr": "Ancient Egyptian pharaoh who rose from courtier and vizier under Akhenaten to king in his own right around 1327 BCE, succeeding the young Tutankhamun. He secured the throne partly by marrying Tutankhamun's widow, Ankhesenamun, and organized his predecessor's elaborate burial in the Valley of the Kings. His own reign lasted only about four years and left few major monuments, reflecting his advanced age at accession. His successor, the general Horemheb, later tried to erase Ay from official king lists alongside the other rulers of the Amarna period.",
       "url": "https://en.wikipedia.org/wiki/Ay",
       "_country_qids": [
         "Q11768"
@@ -12308,7 +12345,7 @@
       ],
       "era": "19th century",
       "desc": "Bruno Schulz was a Polish-Jewish writer, literary critic, visual artist, and art teacher.",
-      "tldr": "Bruno Schulz was a Polish-Jewish writer, literary critic, visual artist, and art teacher.",
+      "tldr": "Polish-Jewish writer, graphic artist, and schoolteacher from Drohobycz, whose small body of fiction, chiefly the collection published in English as The Street of Crocodiles, is regarded as a major achievement of interwar modernist literature. His prose fused vivid, dreamlike imagery with memories of his father's shop and provincial Jewish life, drawing comparisons to Kafka. Under German occupation he was forced to paint murals for an SS officer who offered him limited protection, but was shot in the street by a rival officer in 1942. Mural fragments he painted were rediscovered in 2001.",
       "url": "https://en.wikipedia.org/wiki/Bruno_Schulz",
       "_country_qids": [
         "Q207272",
@@ -12832,7 +12869,7 @@
       "y": 1599,
       "era": "Early modern (1500–1800)",
       "desc": "Sir Anthony van Dyck was a Flemish Baroque artist, who became the leading court painter in England after success in the Spanish Netherlands and Italy.",
-      "tldr": "Sir Anthony van Dyck was a Flemish Baroque artist, who became the leading court painter in England after success in the Spanish Netherlands and Italy.",
+      "tldr": "Flemish painter who trained in Antwerp under Peter Paul Rubens before establishing his own reputation across Italy and the Spanish Netherlands. In 1632 King Charles I brought him to England, knighted him, and made him principal court painter, a role in which he produced the elegant royal portraits that came to define the image of the Stuart monarchy. His fluid brushwork and flattering yet naturalistic style set the template for English portraiture for the next two centuries. He died in London in 1641, shortly before the civil war that deposed his patron.",
       "url": "https://en.wikipedia.org/wiki/Anthony_van_Dyck",
       "_country_qids": [
         "Q622783"
@@ -13587,7 +13624,7 @@
       ],
       "era": "19th century",
       "desc": "Béla Kun was a Hungarian communist revolutionary and politician who in 1919 governed the Hungarian Soviet Republic.",
-      "tldr": "Béla Kun was a Hungarian communist revolutionary and politician who in 1919 governed the Hungarian Soviet Republic.",
+      "tldr": "Hungarian journalist and prisoner of war in Russia during World War I who was converted to Bolshevism in captivity and returned home to found the Hungarian Communist Party. In March 1919 he led a coup that established the short-lived Hungarian Soviet Republic, which he governed as de facto leader for 133 days through nationalization, Red Terror, and war with Romanian and Czechoslovak forces. The republic collapsed that August under a Romanian invasion, and Kun fled to Soviet Russia, where he worked for the Comintern. He fell victim to Stalin's purges and was secretly executed in 1938.",
       "url": "https://en.wikipedia.org/wiki/B%C3%A9la_Kun",
       "_country_qids": [
         "Q15180",
@@ -13694,7 +13731,7 @@
       ],
       "era": "19th century",
       "desc": "Alexander was King of Greece from 11 June 1917 until his death on 25 October 1920.",
-      "tldr": "Alexander was King of Greece from 11 June 1917 until his death on 25 October 1920.",
+      "tldr": "King of Greece from 1917 to 1920, placed on the throne by the Allied powers after they forced his father, Constantine I, into exile for pro-German sympathies during the First World War. With little real authority, he reigned largely as a figurehead while Prime Minister Eleftherios Venizelos directed policy and led Greece into the war on the Allied side. In October 1920 he died of sepsis after being bitten by a pet monkey at the royal estate, a freak death historians have argued helped trigger his father's return to the throne soon after. He was twenty-seven.",
       "url": "https://en.wikipedia.org/wiki/Alexander_of_Greece",
       "_country_qids": [
         "Q41"
@@ -14392,7 +14429,7 @@
       ],
       "era": "19th century",
       "desc": "Alexandra of Denmark was Queen of the United Kingdom and the British Dominions, and Empress of India, from 22 January 1901 to 6 May 1910 as the wife of King Edward VII.",
-      "tldr": "Alexandra of Denmark was Queen of the United Kingdom and the British Dominions, and Empress of India, from 22 January 1901 to 6 May 1910 as the wife of King Edward VII.",
+      "tldr": "Danish princess who became queen consort of the United Kingdom as the wife of Edward VII, a marriage arranged in 1863 to cement Anglo-Danish relations. Renowned for her beauty and fashion sense, she was so widely imitated that even a limp she developed after illness became a society trend, the \"Alexandra limp.\" Her siblings occupied thrones across Europe, including a sister as Empress of Russia and brothers as kings of Denmark and Greece. As queen dowager she founded Alexandra Rose Day, a charitable flower sale that endures in Britain today.",
       "url": "https://en.wikipedia.org/wiki/Alexandra_of_Denmark",
       "_country_qids": [
         "Q756617"
