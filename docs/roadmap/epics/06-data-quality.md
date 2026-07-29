@@ -235,7 +235,7 @@ This issue covers **batch `<N>` only** — the entries listed under "hist-chars 
 **Out of scope**
 
 - Editing `desc` (that is `E6-02`).
-- Adding `tldr` to `hist-events` (that is `E6-06`).
+- Adding `tldr` to `hist-events` (that is `E6-08`).
 - Regenerating `docs/roadmap/DATA_AUDIT.md`. Since your batch's entry list is frozen into
   this issue's body rather than read live, the report's staleness doesn't affect you either
   way — leave the regeneration to `E6-07`.
@@ -416,7 +416,7 @@ only**, per `docs/roadmap/DATA_AUDIT.md`.
 
 **Out of scope**
 
-- Adding `tldr` to this topic.
+- Adding `tldr` to this topic (that is `E6-08`).
 - Adding new events or fixing the Europe/Ancient coverage skew — that is editorial work fed by
   `E5-04`.
 
@@ -427,11 +427,93 @@ complete sentences.
 
 ---
 
+### `E6-08` — BATCH TEMPLATE: write hist-events tldr summaries
+
+> **To the issue creator:** expand this block into **13** issues, numbered
+> `E6-08a` … `E6-08m`, one per batch, replacing `<N>` with 1–13 and `<LETTER>` with a–m.
+>
+> **Freeze the batch list.** Run `tools/audit_data.py` fresh right before creating these
+> issues, then copy the exact `name` list for batch `<N>` from the regenerated
+> `DATA_AUDIT.md` **directly into each issue's body**, replacing step 1 of the Task section
+> below. Do not leave step 1 as a live reference to `DATA_AUDIT.md` — see the note on the
+> `E6-03` template above for why a dynamic reference goes stale between batches.
+
+**Labels:** `epic:data-quality`, `area:data`, `size:M`
+**Branch:** `claude/e6-08<LETTER>-hist-events-tldr-batch-<N>`
+**Depends on:** E6-01
+**Blocks:** E6-07
+
+**Context**
+
+`data/hist-events.json` measured 645 entries with no `tldr` at all — every entry in the topic
+— at the time this epic was scoped (see the problem table at the top of this file). Unlike
+`hist-chars` (`E6-03`), this topic never got a corresponding batch-template issue: `E6-06`
+only covers `desc`, and explicitly excludes `tldr` as out of scope. Nothing else in this epic
+or any other epic adds it either — it is not a deliberate permanent omission, it is a gap in
+the original plan, discovered when `E6-07`'s `audit_data.py --check` acceptance criterion
+turned out to be unsatisfiable without it. This issue closes that gap the same way `E6-03`
+closed it for `hist-chars`.
+
+`tldr` is the expandable paragraph behind the "tl;dr" button on a card — the bit that makes an
+entry worth reading rather than just listing. This issue covers **batch `<N>` only** — the
+entries listed under "hist-events — tldr — batch `<N>`" in `docs/roadmap/DATA_AUDIT.md`.
+
+The quality bar is `data/phil.json`, where every entry has a real one, for example:
+
+> "Medieval France's sharpest logician and one of its most dramatic figures. He argued that
+> universals are just words, not real things. His ethics turned on intention: what makes an
+> act wrong is inner consent to evil, not the deed itself. His catastrophic love affair with
+> Héloïse and subsequent castration by her uncle made him a legend in his own time."
+
+**Files**
+
+- `data/hist-events.json` — add `tldr` on the listed entries only
+
+**Task**
+
+1. Read the entry names for batch `<N>` from `docs/roadmap/DATA_AUDIT.md`.
+2. For each, write a `tldr` of **three to five sentences, 300–600 characters**: what happened,
+   who was involved, why it mattered, and one concrete or memorable detail.
+3. It must not duplicate `desc`. `desc` is the one-line label; `tldr` is the paragraph that
+   earns the click.
+4. **Do not invent facts.** Use the entry's `url` and existing `desc`. Where scholarship or
+   dating is genuinely disputed, say so briefly ("traditionally dated to…", "most historians
+   hold…") rather than picking a side.
+5. Insert `tldr` immediately after `desc` in the entry object, matching the key order used in
+   `data/phil.json`.
+6. Change nothing else on the entry. Write the file back with `ensure_ascii=False, indent=2`
+   and a trailing newline.
+
+**Acceptance criteria**
+
+- [ ] Every entry in batch `<N>` has a `tldr` of 300–600 characters, and none equals its
+      `desc`.
+- [ ] No entry outside batch `<N>` is modified.
+- [ ] Entry count is still exactly 645 and the file parses.
+- [ ] Expanding the tl;dr on one of these cards in the running viewer renders correctly, with
+      no raw HTML or broken characters.
+- [ ] `python3 tools/audit_data.py` shows the `hist-events` missing-tldr count reduced by the
+      batch size.
+
+**Out of scope**
+
+- Editing `desc` (that is `E6-06`).
+- Regenerating `docs/roadmap/DATA_AUDIT.md`. Since your batch's entry list is frozen into
+  this issue's body rather than read live, the report's staleness doesn't affect you either
+  way — leave the regeneration to `E6-07`.
+
+**Verify**
+
+Load `?d=hist-events`, find three entries from this batch, expand each tl;dr, screenshot one
+in the PR.
+
+---
+
 ### `E6-07` — Refresh the audit and drop the placeholder framing
 
 **Labels:** `epic:data-quality`, `area:data`, `area:docs`, `size:S`
 **Branch:** `claude/e6-07-drop-placeholder-copy`
-**Depends on:** E6-02, E6-03, E6-04, E6-05, E6-06
+**Depends on:** E6-02, E6-03, E6-04, E6-05, E6-06, E6-08
 **Blocks:** none
 
 **Context**

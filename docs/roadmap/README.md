@@ -33,16 +33,23 @@ Epic numbers match the original idea numbers, so `E7` is intentionally absent
 |---|---|---|---|---|
 | `E0` | `00-foundation.md` | 3 | 3 | — |
 | `E8` | `08-topic-manifest.md` | 4 | 4 | — |
-| `E6` | `06-data-quality.md` | 7 | **21** | — |
+| `E6` | `06-data-quality.md` | 8 | **34** | — |
 | `E1` | `01-entity-pages.md` | 6 | 6 | `E6-04` |
 | `E2` | `02-cross-topic.md` | 4 | 4 | `E1`, `E8` |
 | `E3` | `03-influence-graph.md` | 4 | 4 | `E1` |
 | `E4` | `04-learning-mode.md` | 4 | 4 | `E1` |
 | `E5` | `05-analytics.md` | 4 | 4 | — |
 
-**50 issues total.** Three blocks in `E6` are *batch templates* — one block that the issue
+**63 issues total.** Four blocks in `E6` are *batch templates* — one block that the issue
 creator expands into several numbered issues covering disjoint slices of the data. That is why
 its two counts differ.
+
+`E6-08` (hist-events `tldr`) was added after the rest of this roadmap was written: the
+original `E6` plan measured 645 missing `tldr` entries in `hist-events` (see the problem table
+in `epics/06-data-quality.md`) but never produced an issue to fix it — `E6-06` covers only
+`desc` for that topic, and an out-of-scope line in `E6-03` mistakenly pointed at `E6-06` for it.
+The gap surfaced when `E6-07`'s `audit_data.py --check` acceptance criterion could not pass.
+`E6-07` now depends on `E6-08` as well.
 
 ## Execution waves
 
@@ -73,11 +80,12 @@ E8-01 ──> E8-02 ──> E8-03 ──> E8-04        (manifest)
 E5-01 ──> E5-02 ──> E5-03                  (analytics; independent of E1)
       └─> E5-04
 
-E6-01 ──┬──> E6-02a..f  (desc batches)
-        ├──> E6-03a..h  (tldr batches)
-        ├──> E6-04 ──> E6-05                     ──┐
-        └──> E6-06a..c                             │  all ──> E6-07
-                                                   │
+E6-01 ──┬──> E6-02a..f  (hist-chars desc batches)
+        ├──> E6-03a..h  (hist-chars tldr batches)
+        ├──> E6-04 ──> E6-05
+        ├──> E6-06a..c  (hist-events desc batches)
+        └──> E6-08a..m  (hist-events tldr batches)
+                                     all of the above ──> E6-07
 E6-04 ──> E1-01 (ids) ──┬──> E1-02 ──> E1-03 ──> E1-04 ──┬──> E1-05
                         │                                └──> E1-06
                         ├──> E2-01 ──> E2-02 ──> E2-04
