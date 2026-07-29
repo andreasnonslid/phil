@@ -618,6 +618,7 @@
       "region": "Europe",
       "era": "Ancient (to 500 CE)",
       "desc": "Marcus Gavius Apicius is believed to have been a Roman gourmet and lover of luxury, who lived sometime in the 1st century AD. The Roman cookbook Apicius is often attributed to him.",
+      "tldr": "A wealthy Roman epicure active under Tiberius, Apicius was known less for cooking than for bankrolling lavish feasts and hunting rare delicacies, most memorably sailing to Libya chasing rumors of superior prawns, only to turn his ship around unimpressed once fishermen brought samples out. After squandering some 100 million sestertii on food, he judged his remaining wealth too meager for comfort and poisoned himself rather than live with reduced luxury. The cookbook bearing his name was likely compiled by others centuries later but preserved his reputation as antiquity's ultimate gourmand.",
       "url": "https://en.wikipedia.org/wiki/Marcus_Gavius_Apicius",
       "_country_qids": [
         "Q1747689"
@@ -740,6 +741,7 @@
       "era": "Ancient (to 500 CE)",
       "region": "Europe",
       "desc": "Roman emperor (253–268) who held the empire together during the Crisis of the Third Century and was a noted patron of philosophy and the arts.",
+      "tldr": "Ruling first alongside his father Valerian and then alone after Valerian was captured and killed by the Persians, Gallienus fought almost continuously against usurpers and Germanic invaders as the empire briefly split into three rival realms. He reformed the army by expanding cavalry units and reportedly barred senators from military commands. Despite the chaos, he was unusually cultured, a friend of the philosopher Plotinus, who asked him to fund a philosophers' commune called Platonopolis, a request Gallienus ultimately declined. He was murdered by his own officers during a siege in 268.",
       "url": "https://en.wikipedia.org/wiki/Gallienus"
     },
     {
@@ -784,6 +786,7 @@
       "era": "Ancient (to 500 CE)",
       "region": "Europe",
       "desc": "Pope from 308 to 309 CE, successor to Marcellinus; banished from Rome by Maxentius over disputes about Christian penance.",
+      "tldr": "Elected bishop of Rome around 308 after a vacancy caused by persecution under Diocletian, Marcellus faced a church divided over the lapsi, Christians who had renounced their faith to save themselves. He insisted returning apostates undergo genuine penance before rejoining communion, a hard line that provoked riots among those wanting easier readmission. The unrest gave Maxentius grounds to banish him from Rome, by some accounts to menial labor in a stable, where he died within months. His pontificate, among the shortest on record, is known mainly through later, contradictory accounts.",
       "url": "https://en.wikipedia.org/wiki/Pope_Marcellus_I"
     },
     {
@@ -1202,6 +1205,7 @@
       "era": "Medieval (500–1500)",
       "region": "Europe",
       "desc": "Pope (715–731) who condemned Byzantine iconoclasm and supported Boniface’s missionary work among the Germanic peoples.",
+      "tldr": "A Roman deacon and skilled administrator before his election, he governed amid Lombard threats to Rome and rising tension with Constantinople over taxation. When Byzantine Emperor Leo III banned the veneration of religious icons around 726, Gregory rejected the edict and withheld papal tax revenue, hastening Rome's political drift toward the West. He also backed the English missionary Wynfrith, renaming him Boniface and consecrating him bishop in 722 to spread Christianity among Germanic peoples east of the Rhine, a mission that reshaped medieval Europe's religious map. He died in Rome in 731.",
       "url": "https://en.wikipedia.org/wiki/Pope_Gregory_II"
     },
     {
@@ -1259,6 +1263,7 @@
       "era": "Medieval (500–1500)",
       "region": "Europe",
       "desc": "Pope (731–741) who condemned Byzantine iconoclasm and cemented the papacy’s ties with the Frankish kingdom.",
+      "tldr": "A Syrian-born priest chosen by popular acclamation right after Gregory II's funeral, he continued his predecessor's opposition to Byzantine iconoclasm, convening a Roman synod in 731 that excommunicated those who destroyed sacred images. Facing invasion of Rome's duchy by the Lombard king Liutprand, he appealed for protection to the Frankish leader Charles Martel, offering gifts and the honorary title of Roman patrician, but Charles declined since Liutprand was then his ally against Muslim incursions. The plea nonetheless marked an early step toward the papacy's later alliance with the Franks.",
       "url": "https://en.wikipedia.org/wiki/Pope_Gregory_III"
     },
     {
@@ -1714,7 +1719,7 @@
       "era": "Medieval (500–1500)",
       "region": "Middle East",
       "desc": "Hasan-i Sabbah, also known as Hasan I of Alamut, was a military leader, founder of the Nizari Ismai'li sect, Order of Assassins, as well as the Nizari Ismaili state, ruling from 1090 to 1124 AD.",
-      "tldr": "Hasan-i Sabbah, also known as Hasan I of Alamut, was a military leader, founder of the Nizari Ismai'li sect, Order of Assassins, as well as the Nizari Ismaili state, ruling from 1090 to 1124 AD.",
+      "tldr": "Converting to Ismaili Shia belief young, he seized the fortress of Alamut in 1090 and ruled it as founder of the Nizari Ismaili state until his death. From Alamut he directed fedayin who carried out targeted killings of rival leaders, the tactic that made his followers notorious and, via later Crusader accounts, gave the world the word Assassins. Medieval legend embellished this into tales of hashish-drugged youths lured with visions of paradise before being sent to kill. He was also a scholar of mathematics and astronomy, reportedly living an austere life within his own fortress.",
       "url": "https://en.wikipedia.org/wiki/Hasan-i_Sabbah",
       "_country_qids": [
         "Q3708094",
@@ -1833,6 +1838,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Count of Anjou and Duke of Normandy by conquest who founded the Plantagenet dynasty that would rule England for three centuries.",
+      "tldr": "Nicknamed Plantagenet for the sprig of yellow broom blossom, or planta genista, he wore in his helmet, Geoffrey married the much older Empress Matilda, heir to the English throne, in a stormy union marked by long separations. Between 1142 and 1144 he methodically conquered Normandy from King Stephen's supporters, taking the ducal title before eventually ceding it to his and Matilda's son, the future Henry II, in 1149. Though he never ruled England, this conquest and his son's accession founded the Plantagenet dynasty.",
       "url": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet%2C_Count_of_Anjou",
       "region": "Europe"
     },
@@ -2153,7 +2159,7 @@
       "era": "Medieval (500–1500)",
       "region": "Europe",
       "desc": "Frederick the Fair or the Handsome, from the House of Habsburg, was the duke of Austria and Styria from 1308 as well as the anti-king of Germany from 1314 until 1325 and then co-king until his death.",
-      "tldr": "Frederick the Fair or the Handsome, from the House of Habsburg, was the duke of Austria and Styria from 1308 as well as the anti-king of Germany from 1314 until 1325 and then co-king until his death.",
+      "tldr": "A Habsburg duke of Austria, Frederick was elected anti-king of Germany in 1314 in a contested double election against the Wittelsbach Louis IV, splitting the empire between rival claimants. In 1322 he was crushed at the Battle of Mühldorf and captured with some 1,300 nobles, then spent three years imprisoned at Trausnitz Castle. Freed under a treaty requiring him to recognize Louis as king, he voluntarily returned to captivity when he failed to win his brother's cooperation, a gesture of honor that so impressed Louis he agreed to rule jointly with him.",
       "url": "https://en.wikipedia.org/wiki/Frederick_the_Fair",
       "_country_qids": [
         "Q3624335"
@@ -2224,6 +2230,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Emperor Go-Komatsu was the 100th emperor of Japan, according to the traditional order of succession, and the sixth and final Emperor of the Northern Court.",
+      "tldr": "Installed as a child by the Ashikaga shogunate as the sixth Northern Court emperor during Japan's Nanboku-chō schism, he became sole emperor in 1392 when rival Southern Emperor Go-Kameyama, mediated by shogun Ashikaga Yoshimitsu, surrendered the sacred regalia on a promise the throne would afterward alternate between the two lines. Go-Komatsu never honored that bargain, reigning twenty more years and in 1411 naming his son Shōkō heir, cementing Northern Court dominance permanently. His reign coincided with Yoshimitsu's peak power. He abdicated in 1412 and died in 1433.",
       "url": "https://en.wikipedia.org/wiki/Emperor_Go-Komatsu",
       "_country_qids": [
         "Q17"
@@ -2308,6 +2315,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Queen of Aragon and longtime regent of the Crown, effectively governing Aragon for most of Alfonso V's reign while he campaigned in Italy.",
+      "tldr": "Married to Alfonso V in 1415 in a childless union that grew distant, Maria ran Aragon almost single-handedly once her husband sailed off to conquer Naples in 1420 and never returned. Holding the title of lieutenant-general, she governed through two long regencies, raising funds that helped ransom Alfonso after his capture by rival Italian forces in 1435 and dealing with the fractious Aragonese nobility. Historians credit her with real political skill in a role usually reserved for kings. She died in 1458, having spent most of her marriage as consort in title but head of government in practice.",
       "url": "https://en.wikipedia.org/wiki/Maria_of_Castile",
       "region": "Europe"
     },
@@ -2379,6 +2387,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Hans Memling was a German-Flemish painter who worked in the tradition of Early Netherlandish painting. Born in the Middle Rhine region, he probably spent his childhood in Mainz. During his apprenticeship as a painter he moved to the Netherlands and spent time in the Brussels workshop of Rogier van der Weyden.",
+      "tldr": "Born in Germany's Middle Rhine region, he trained in the Netherlands, likely in Rogier van der Weyden's Brussels workshop, before settling in Bruges in 1465, building one of the era's largest painting workshops. Blending Jan van Eyck's detail with van der Weyden's restraint, he became Bruges's leading painter of altarpieces and portraits, wealthy enough to rank among its richest residents by 1480. His half-length portrait format was widely imitated by Italian painters, including Ghirlandaio and Botticelli. Major works remain in Bruges's old hospital of St. John, now a museum devoted to him.",
       "url": "https://en.wikipedia.org/wiki/Hans_Memling",
       "_country_qids": [
         "Q183",
@@ -3216,6 +3225,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Guido Reni was an Italian Baroque painter, although his works showed a classical manner. He painted primarily religious works, but also mythological and allegorical subjects.",
+      "tldr": "Apprenticed at age ten to the Flemish painter Denis Calvaert before joining the rival Carracci academy in Bologna, he split his career between Bologna and Rome, blending Carracci naturalism with classical models like Raphael. His 1614 ceiling fresco Aurora, showing the dawn goddess leading Apollo's chariot, became a defining image of Roman Baroque classicism, endlessly copied by students. He was also a compulsive gambler whose debts reportedly forced him to churn out paintings rapidly late in life. His serene, luminous style made him one of the era's most imitated painters.",
       "url": "https://en.wikipedia.org/wiki/Guido_Reni",
       "_country_qids": [
         "Q170174"
@@ -4020,7 +4030,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "George II was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760.",
-      "tldr": "George II was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760.",
+      "tldr": "Born in Hanover and the last British monarch not born in Britain, George II personally led his troops into combat at the Battle of Dettingen in 1743, the last time a reigning British monarch ever fought on a battlefield. His reign saw the decisive defeat of the Jacobite cause at Culloden in 1746, ending Stuart hopes of reclaiming the throne. Though often overshadowed by capable ministers like Robert Walpole, he presided over Britain's rise as a global colonial power. He died suddenly in 1760, reportedly while sitting on the toilet.",
       "url": "https://en.wikipedia.org/wiki/George_II_of_Great_Britain",
       "_country_qids": [
         "Q161885",
@@ -4041,6 +4051,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "King of Prussia (1713–1740) known as the ‘Soldier King’ who built a highly disciplined army and centralised the Prussian state.",
+      "tldr": "Frugal, militaristic, and famously bad-tempered, Friedrich Wilhelm I tripled the Prussian army's size while personally living with near-miserly austerity, funneling state wealth into his military machine. His most eccentric obsession was the Potsdam Giants, an elite regiment recruited, bribed, or sometimes kidnapped from across Europe purely for their exceptional height. He clashed bitterly with his artistic, French-speaking son and heir, the future Frederick the Great, once forcing the young prince to witness the execution of a close friend as punishment for trying to flee.",
       "url": "https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia"
     },
     {
@@ -4053,6 +4064,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Giuseppe Tartini was an Italian composer and violinist of the Baroque era born in Pirano in the Republic of Venice. Tartini was a prolific composer, composing over a hundred pieces for the violin, the majority of them violin concertos. He is best remembered for his Violin Sonata in G Minor.",
+      "tldr": "Born in Pirano, he trained for the priesthood and law before a secret marriage forced him into hiding, where he spent years in solitary violin study reshaping his ideas on bowing. From age twenty-nine he led the orchestra of Padua's Basilica of St. Anthony for life and founded a violin school drawing students from across Europe. He claimed his best-known work, the Violin Sonata in G minor, came from a dream of the Devil playing astonishing music on his violin, hence its nickname, the Devil's Trill Sonata. He also studied acoustics, describing the combination tones now called Tartini tones.",
       "url": "https://en.wikipedia.org/wiki/Giuseppe_Tartini",
       "_country_qids": [
         "Q4948"
@@ -4226,6 +4238,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Gabriel Cramer was a Genevan mathematician.",
+      "tldr": "A professor of mathematics and philosophy in his native Geneva, Cramer spent much of his career editing and popularizing the work of earlier mathematicians, including the Bernoulli brothers and Christiaan Huygens, alongside his own research. He is remembered chiefly for Cramer's rule, a formula using determinants to solve systems of linear equations, though the idea did not originate entirely with him. Elected to the Royal Society and academies across Europe, he died in 1752 at just 47, having collapsed from exhaustion on a journey to southern France undertaken to recover his health.",
       "url": "https://en.wikipedia.org/wiki/Gabriel_Cramer",
       "_country_qids": [
         "Q23366230"
@@ -5193,6 +5206,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Anne Louise Germaine de Staël-Holstein, commonly known as Madame de Staël, was a prominent French novelist, woman of letters, philosopher, and political theorist.",
+      "tldr": "Daughter of Louis XVI's finance minister Jacques Necker, Staël turned her Paris salon into a center of intellectual opposition to Napoleon, whose regime she criticized for crushing individual liberty. Napoleon, threatened by her influence, banished her from Paris in 1803; she spent much of the following decade in exile at her family's château at Coppet and traveling across Europe. That exile inspired her novel Corinne, or Italy and her influential study of German Romantic culture, De l'Allemagne, whose print run Napoleon's police seized and pulped.",
       "url": "https://en.wikipedia.org/wiki/Germaine_de_Sta%C3%ABl",
       "_country_qids": [
         "Q70972",
@@ -5431,6 +5445,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "Giuseppe Gasparo Mezzofanti was an Italian cardinal known for being a hyperpolyglot. He spoke 38 to 50 languages.",
+      "tldr": "Born in Bologna to a carpenter, he showed a gift for languages from childhood and became a professor of Oriental languages at Bologna before serving as Vatican librarian and, from 1838, a cardinal. Sources disagree on how many languages he actually commanded, estimates ranging from about 38 spoken fluently to over 70 with some skill, and he reportedly conversed easily with foreign pilgrims in their native tongue. Lord Byron, no slouch at languages himself, once challenged him to a multilingual swearing match and lost. He learned nearly all his languages without ever leaving Italy.",
       "url": "https://en.wikipedia.org/wiki/Giuseppe_Gasparo_Mezzofanti",
       "_country_qids": [
         "Q4948",
@@ -5454,6 +5469,7 @@
       "region": "Europe",
       "era": "Early modern (1500–1800)",
       "desc": "François-Adrien Boieldieu was a French composer, mainly of operas, often called “the French Mozart”.",
+      "tldr": "Born in Rouen, Boieldieu made his name young with comic operas before spending 1804 to 1811 as court composer to Tsar Alexander I in St Petersburg, later teaching composition at the Paris Conservatoire. He worked mainly in opéra-comique, favoring elegant melody and light drama over grand tragedy. His masterpiece, La Dame blanche, premiered in 1825 with a libretto based on Walter Scott and had racked up 1,700 performances by 1914, making it one of the most durable French operas of its era.",
       "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Adrien_Boieldieu",
       "_country_qids": [
         "Q142"
@@ -5952,6 +5968,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "German-Jewish opera composer whose grand operas—including Les Huguenots—dominated Parisian stages for decades and influenced later Romantic opera.",
+      "tldr": "Born Jakob Liebmann Meyer Beer near Berlin, a piano prodigy who debuted at eleven, he studied with Salieri and first made his name with Italian operas in Rossini's style. In Paris, Robert le Diable (1831) was a sensation that helped create the lavish \"grand opera\" genre. Les Huguenots, set amid the Saint Bartholomew's Day Massacre, followed in 1836 as his greatest triumph, admired even by rivals like Wagner and Verdi who publicly scorned him. For decades he was Europe's wealthiest, most-performed opera composer, bridging Mozart's era and Wagner's.",
       "url": "https://en.wikipedia.org/wiki/Giacomo_Meyerbeer"
     },
     {
@@ -6128,6 +6145,7 @@
       "era": "Early modern (1500–1800)",
       "region": "Europe",
       "desc": "Italian composer of over 70 operas, a leading figure of the bel canto style alongside Rossini and Bellini.",
+      "tldr": "Born into a poor Bergamo family with no musical background, Donizetti composed at extraordinary speed, producing more than 70 operas, from comedies like Don Pasquale to tragedies. His 1835 masterpiece Lucia di Lammermoor, based on Walter Scott, became famous for its extended mad scene, still considered one of opera's great tests of a soprano. From the early 1840s he suffered from neurosyphilis, which progressively destroyed his mind; by 1846 he had to be institutionalized, and friends eventually brought him home to Bergamo, where he died paralyzed and largely unaware of his surroundings.",
       "url": "https://en.wikipedia.org/wiki/Gaetano_Donizetti"
     },
     {
@@ -6348,6 +6366,7 @@
       ],
       "era": "19th century",
       "desc": "French Romantic composer known for Symphonie fantastique and his influential innovations in orchestration.",
+      "tldr": "Berlioz fell into obsessive infatuation with Irish actress Harriet Smithson after seeing her play Ophelia, and channeled the heartbreak into the Symphonie fantastique, an autobiographical symphony depicting an opium-fueled artist's visions of love, execution, and a witches' sabbath. Smithson eventually heard the piece, met him, and the two married in 1833, though the marriage later collapsed. He also wrote the Treatise on Instrumentation and Modern Orchestration, a foundational text shaping how composers used the orchestra. He struggled for recognition at home, finding more acclaim abroad.",
       "url": "https://en.wikipedia.org/wiki/Hector_Berlioz",
       "region": "Europe"
     },
@@ -6397,6 +6416,7 @@
       ],
       "era": "19th century",
       "desc": "Franklin Pierce was the 14th president of the United States, serving from 1853 to 1857. He signed the Kansas–Nebraska Act and enforced the Fugitive Slave Act.",
+      "tldr": "A New Hampshire lawyer and Mexican-American War general, Pierce was a Bowdoin College classmate of Nathaniel Hawthorne, who wrote his campaign biography. Weeks before his inauguration, his young son Benjamin was killed before his eyes in a train derailment, a tragedy that darkened his presidency and left his wife Jane in lasting seclusion. Sympathetic to Southern interests, he pushed through the Kansas-Nebraska Act, helping ignite the violent Bleeding Kansas crisis. He later drank heavily and is generally ranked among the least effective American presidents.",
       "url": "https://en.wikipedia.org/wiki/Franklin_Pierce",
       "_country_qids": [
         "Q30"
@@ -6582,6 +6602,7 @@
       "era": "19th century",
       "region": "Americas",
       "desc": "American author and abolitionist whose novel Uncle Tom's Cabin (1852) galvanized the anti-slavery movement across the US and Britain.",
+      "tldr": "Daughter of the preacher Lyman Beecher, she was teaching in Cincinnati when exposure to fugitive slaves and the Fugitive Slave Act of 1850 drove her to write Uncle Tom's Cabin, serialized in 1851 before appearing as a book in 1852. It sold roughly 300,000 copies in the US within a year and over a million in Britain, becoming the century's best-selling novel after the Bible. Its depiction of families torn apart hardened Northern opinion and provoked rebuttals in the South. She is said to have been greeted by Lincoln in 1862 as \"the little woman who made this great war,\" likely apocryphal.",
       "url": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe"
     },
     {
@@ -6903,6 +6924,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Gottfried Keller was a Swiss poet and writer of German literature. Best known for his novel Green Henry, he became one of the most popular narrators of literary realism in the late 19th century.",
+      "tldr": "Expelled from school as a boy and raised by a struggling widowed mother, he trained as a landscape painter in Munich before abandoning art for literature in his thirties. He spent years in Berlin establishing himself as a writer, then returned to Zurich in 1861 to serve fifteen years as the canton's state secretary while still writing. His semi-autobiographical novel Green Henry, revised over decades, follows a young artist's failures and drew praise from Nietzsche, who reportedly called him the only living German writer worth reading. He also wrote the novella cycle The People of Seldwyla.",
       "url": "https://en.wikipedia.org/wiki/Gottfried_Keller",
       "_country_qids": [
         "Q39"
@@ -6988,6 +7010,7 @@
       "era": "19th century",
       "region": "Americas",
       "desc": "American abolitionist who escaped slavery and led some 70 people to freedom via the Underground Railroad, and later served as a Union spy.",
+      "tldr": "Born Araminta Ross into slavery in Maryland, she suffered a head injury from an overseer that caused lifelong seizures and visions she read as divine guidance. After escaping in 1849 she returned south some thirteen times as an Underground Railroad conductor despite a bounty on her head. In 1863 she became the first woman to lead an armed U.S. military raid, freeing nearly 700 enslaved people along the Combahee River in one night. She later scouted for the Union Army, championed women's suffrage, and died in a home for the elderly she herself had helped found.",
       "url": "https://en.wikipedia.org/wiki/Harriet_Tubman"
     },
     {
@@ -7023,7 +7046,7 @@
       "era": "19th century",
       "region": "Europe",
       "desc": "Henri Frédéric Amiel was a Swiss moral philosopher, poet, and critic.",
-      "tldr": "Henri Frédéric Amiel was a Swiss moral philosopher, poet, and critic.",
+      "tldr": "A Swiss academic who taught aesthetics and later moral philosophy at Geneva, orphaned young by his mother's tuberculosis and his father's suicide, Amiel felt himself a failure despite his post. His real work was private: a diary kept almost daily from 1847 until 1881, filling thousands of pages with unsparing self-analysis on doubt, love, and the gap between thought and action. Published posthumously as Fragments d'un journal intime, it became a European sensation, translated by novelist Mary Augusta Ward. It remains the work by which he is remembered, more than anything he published in life.",
       "url": "https://en.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel",
       "_country_qids": [
         "Q39"
@@ -7469,6 +7492,7 @@
       ],
       "era": "19th century",
       "desc": "Henry Dunant was a Swiss humanitarian, businessman, social activist, and co-founder of the Red Cross. His humanitarian efforts won him the first Nobel Peace Prize in 1901.",
+      "tldr": "A Swiss businessman traveling on unrelated matters, Dunant stumbled onto the aftermath of the 1859 Battle of Solferino, where some 40,000 casualties lay largely unattended, and organized locals, regardless of nationality, to nurse the wounded. His book A Memory of Solferino proposed neutral relief societies in every nation, leading to the Red Cross's founding in 1863 and the first Geneva Convention. He later went bankrupt from an unrelated venture, resigned in disgrace, and spent decades in poverty in a Swiss hospice, where a journalist found him; in 1901 he won the first Nobel Peace Prize.",
       "url": "https://en.wikipedia.org/wiki/Henry_Dunant",
       "_country_qids": [
         "Q142",
@@ -7839,6 +7863,7 @@
       ],
       "era": "19th century",
       "desc": "British Liberal Prime Minister 1905–1908 who granted self-government to the former Boer republics and was the first PM officially titled as such.",
+      "tldr": "As Liberal opposition leader during the Boer War, he broke with pro-war sentiment in 1901 by condemning British internment camps for Boer civilians as methods of barbarism, a remark that scandalized imperialists but proved prescient once camp death tolls emerged. As prime minister from 1905, he used an Order in Council to grant the former Boer republics self-government, bypassing a hostile House of Lords; South Africa's first premier credited this act with healing the war's wounds. Already ill, he resigned days before his 1908 death, the only PM to die at 10 Downing Street.",
       "url": "https://en.wikipedia.org/wiki/Henry_Campbell-Bannerman",
       "region": "Europe"
     },
@@ -7903,6 +7928,7 @@
       ],
       "era": "19th century",
       "desc": "French dramatist known for naturalistic plays depicting Parisian bourgeois life.",
+      "tldr": "Often called the father of French Naturalist drama, Becque wrote plays stripped of moralizing plots or tidy endings, presenting unvarnished slices of life instead. His 1882 Les Corbeaux, a bitter portrait of relatives circling an inheritance after a man's death, so unsettled audiences with its refusal to punish its selfish characters that it ran only three performances. His 1885 La Parisienne, following a married woman juggling two lovers, was similarly scandalous at first. Both went unappreciated until a decade later, when younger writers hailed him as a major influence on realist theatre.",
       "url": "https://en.wikipedia.org/wiki/Henry_Becque",
       "region": "Europe"
     },
@@ -7916,7 +7942,7 @@
       "region": "Americas",
       "era": "19th century",
       "desc": "Henry Draper was an American medical doctor and amateur astronomer. He is best known today as a pioneer of astrophotography.",
-      "tldr": "Henry Draper was an American medical doctor and amateur astronomer. He is best known today as a pioneer of astrophotography.",
+      "tldr": "An American physician who treated astronomy as a serious sideline, Draper built his own observatory and, working with his wealthy wife Anna, achieved photographic firsts: the first photograph of a star's spectrum, Vega, in 1872, and, in 1880, the first photograph ever taken of a nebula, Orion. He intended a comprehensive photographic catalogue of stellar spectra but died suddenly at 45 with it unfinished. Anna then funded Harvard Observatory's continuation of the work in his memory, producing the Henry Draper Catalogue, still a reference in stellar classification today.",
       "url": "https://en.wikipedia.org/wiki/Henry_Draper",
       "_country_qids": [
         "Q30"
@@ -8188,6 +8214,7 @@
       ],
       "era": "19th century",
       "desc": "Austrian politician and pan-German nationalist whose virulent antisemitism and rhetoric directly influenced the young Adolf Hitler.",
+      "tldr": "An Austrian landowner turned agitator, Schönerer led the pan-German nationalist movement seeking to detach German-speaking Austria from the multiethnic Habsburg Empire and unite it with the German Reich. His followers had to prove they had no Jewish or Slavic relatives before joining, and demonstrate Aryan ancestry before marrying, an early template for racial exclusion politics. His supporters addressed him as Führer and used the Heil greeting decades before the Nazis adopted the same practices, which the young Hitler later praised in Mein Kampf.",
       "url": "https://en.wikipedia.org/wiki/Georg_Ritter_von_Sch%C3%B6nerer",
       "region": "Europe"
     },
@@ -8274,6 +8301,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Johannes Friedrich Miescher was a Swiss physician and biologist. He was the first scientist to isolate nucleic acid in 1869.",
+      "tldr": "A Swiss physician working in a lab improvised in the kitchen of Tübingen Castle under Felix Hoppe-Seyler, Miescher extracted material from white blood cell nuclei he obtained by washing pus off used surgical bandages. In 1869 he identified a previously unknown, phosphorus-rich substance unlike any known protein, which he named nuclein; it is now recognized as DNA. He suspected it was linked to heredity but died decades before its structure and role were understood, so his discovery went largely unrecognized in his lifetime.",
       "url": "https://en.wikipedia.org/wiki/Friedrich_Miescher",
       "_country_qids": [
         "Q39"
@@ -8294,6 +8322,7 @@
       "era": "19th century",
       "region": "Europe",
       "desc": "French composer known for his Requiem, piano nocturnes, and chamber music who shaped the transition from Romanticism to modern French music.",
+      "tldr": "The son of a provincial schoolmaster, Fauré trained at the Niedermeyer School in Paris rather than the Conservatoire, studying under Camille Saint-Saëns, who became a lifelong mentor. He spent decades as organist at the Église de la Madeleine before becoming director of the Paris Conservatoire in 1905, where he taught Ravel and Boulanger. His gentle Requiem, composed without a fiery Dies Irae, broke from tradition and became his best-loved work. Progressive deafness set in around 1903, eventually forcing his retirement and leaving him largely unable to hear his own late music.",
       "url": "https://en.wikipedia.org/wiki/Gabriel_Faur%C3%A9"
     },
     {
@@ -8463,6 +8492,7 @@
       "era": "19th century",
       "region": "Europe",
       "desc": "French chemist who won the 1906 Nobel Prize in Chemistry for isolating fluorine and pioneering the electric arc furnace.",
+      "tldr": "This French chemist pursued hydrofluoric acid experiments that had maimed earlier researchers before he isolated elemental fluorine gas in 1886 by electrolyzing a potassium bifluoride solution at low temperature. He also invented the electric arc furnace to synthesize new compounds, work that earned him the 1906 Nobel Prize in Chemistry alongside the fluorine research. He spent years trying to replicate diamond formation under intense heat and died believing he had succeeded, though he had actually made silicon carbide, later named moissanite in his honor.",
       "url": "https://en.wikipedia.org/wiki/Henri_Moissan"
     },
     {
@@ -9227,7 +9257,7 @@
       "region": "Americas",
       "era": "19th century",
       "desc": "Henrietta Swan Leavitt was an American astronomer. Her discovery of how to effectively measure vast astronomical distances led to a shift in the understanding of the scale and nature of the universe.",
-      "tldr": "Henrietta Swan Leavitt was an American astronomer. Her discovery of how to effectively measure vast astronomical distances led to a shift in the understanding of the scale and nature of the universe.",
+      "tldr": "Working as one of Harvard Observatory's poorly paid female computers measuring star brightness on photographic plates, Leavitt studied variable stars in the Magellanic Clouds and in 1908 found a striking pattern: Cepheid variables with longer pulsation periods were reliably more luminous. That period-luminosity relation gave astronomers a standard candle for measuring cosmic distances, later used by Edwin Hubble to show some nebulae were separate galaxies and the universe is expanding. Leavitt lost most of her hearing young and received no Nobel recognition in her lifetime.",
       "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt",
       "_country_qids": [
         "Q30"
@@ -9431,7 +9461,7 @@
       "region": "Americas",
       "era": "19th century",
       "desc": "Erik Weisz, known professionally as Harry Houdini, was an American escapologist, illusionist, and stunt performer noted for his escape acts.",
-      "tldr": "Erik Weisz, known professionally as Harry Houdini, was an American escapologist, illusionist, and stunt performer noted for his escape acts.",
+      "tldr": "Born Erik Weisz in Budapest, he built his fame on death-defying escapes: chained jumps into icy rivers, a sealed milk can, and the Chinese Water Torture Cell, performed upside down in a straitjacket. Later he spent much time exposing fraudulent spirit mediums, even forging a fake photo of Lincoln's ghost to show how such tricks worked. He died on Halloween 1926 of peritonitis from a ruptured appendix, possibly worsened by a student's punch to his stomach. His widow held annual séances trying to reach him for a decade before giving up.",
       "url": "https://en.wikipedia.org/wiki/Harry_Houdini",
       "_country_qids": [
         "Q30",
@@ -9552,6 +9582,7 @@
       "era": "19th century",
       "region": "Europe",
       "desc": "German statesman who as chancellor and foreign minister steered Weimar Germany toward international reconciliation, sharing the 1926 Nobel Peace Prize.",
+      "tldr": "Son of a Berlin beer bottler, he earned a doctorate in economics before entering politics as a pragmatic liberal, briefly serving as chancellor in 1923 during hyperinflation, when he ended resistance in the Ruhr and introduced the Rentenmark currency. As foreign minister from 1923 until his death, he negotiated the 1925 Locarno treaties guaranteeing Germany's western borders, secured League of Nations entry in 1926, and pursued reparations relief via the Dawes Plan. For this diplomacy he shared the 1926 Nobel Peace Prize with Aristide Briand. Worn down by overwork, he died of a stroke in 1929.",
       "url": "https://en.wikipedia.org/wiki/Gustav_Stresemann"
     },
     {
@@ -9582,6 +9613,7 @@
       ],
       "era": "19th century",
       "desc": "Austro-Hungarian tailor and inventor known as “the Flying Tailor” who died testing his parachute suit by jumping from the Eiffel Tower.",
+      "tldr": "A Paris tailor originally from Austria-Hungary, Reichelt spent years designing a wearable parachute suit of silk meant to save falling aviators. After dummy drops from his apartment window kept failing, he got police permission to test the suit from the Eiffel Tower using a mannequin, but arrived intending to jump himself. On 4 February 1912, before a crowd and film cameras, he hesitated on the platform, said a few words, then leapt; the suit failed to open and he died instantly, his fall captured on newsreel footage.",
       "url": "https://en.wikipedia.org/wiki/Franz_Reichelt",
       "region": "Europe"
     },
@@ -9609,6 +9641,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Marcel Grossmann was a Swiss mathematician who was a friend and classmate of Albert Einstein.",
+      "tldr": "A Swiss mathematician who befriended Einstein as a fellow student at Zurich's Federal Polytechnic, Grossmann lent Einstein his meticulous lecture notes so he could pass exams for classes he had skipped. Years later, when Einstein needed mathematics equal to his physical intuition about gravity, he turned back to Grossmann, who introduced him to the tensor calculus of Ricci-Curbastro and Levi-Civita. Their joint 1913 papers on a gravitation theory supplied crucial scaffolding for what became general relativity in 1915. Grossmann remained a working geometer, outside his friend's later spotlight.",
       "url": "https://en.wikipedia.org/wiki/Marcel_Grossmann",
       "_country_qids": [
         "Q39"
@@ -9979,6 +10012,7 @@
       ],
       "era": "19th century",
       "desc": "Eldest daughter of Russia's last tsar Nicholas II, executed with her family by Bolsheviks in 1918.",
+      "tldr": "The eldest of Nicholas II's five children, tutors noted her strong memory and love of literature, music, and riding, and she was considered more independent-minded than her sisters. During the First World War she trained and worked as a nurse in a military hospital, tending wounded soldiers directly, though poor health eventually forced her to stop. Proposed marriages to European royalty fell through, leaving her unmarried when the 1917 revolution swept away the monarchy. She was shot alongside her parents and siblings by Bolshevik guards in Yekaterinburg in July 1918, at age twenty-two.",
       "url": "https://en.wikipedia.org/wiki/Grand_Duchess_Olga_Nikolaevna_of_Russia",
       "region": "Europe"
     },
@@ -10052,6 +10086,7 @@
       "era": "20th century onward",
       "region": "Americas",
       "desc": "American big band conductor and trombonist whose Orchestra was one of the most popular ensembles of the Swing era before he disappeared over the English Channel in 1944.",
+      "tldr": "A trombonist and arranger, he formed his own big band in 1938 after earlier failed ventures, and hits like In the Mood made it America's best-selling recording act by 1940. At the height of his fame in 1942 he gave up his career to join the Army Air Forces, leading an orchestra that toured bases to boost troop morale. On 15 December 1944 he boarded a small plane bound for Paris to arrange a Christmas concert for troops, and it vanished over the English Channel; no wreckage was ever recovered. A frozen carburetor likely caused the crash, but the disappearance was never conclusively solved.",
       "url": "https://en.wikipedia.org/wiki/Glenn_Miller"
     },
     {
@@ -10291,7 +10326,7 @@
       ],
       "era": "19th century",
       "desc": "Guillaume Apollinaire was a Polish-French poet, playwright, short story writer, novelist and art critic of Polish, Swiss and Italian descent.",
-      "tldr": "Guillaume Apollinaire was a Polish-French poet, playwright, short story writer, novelist and art critic of Polish, Swiss and Italian descent.",
+      "tldr": "Born Wilhelm Albert Włodzimierz Apolinary Kostrowicki in Rome to a Polish noblewoman, he settled in Paris in 1902 and became a central figure of the avant-garde, closely befriending Picasso and Braque. He coined the term Cubism in 1911, writing some of the first essays defending the movement, and also coined the word Surrealism in 1917. His 1918 collection Calligrammes arranged poems' printed words into the visual shapes of their subjects. Wounded by shrapnel in the trenches in 1916, he died two days before the armistice, weakened by the injury and the influenza pandemic.",
       "url": "https://en.wikipedia.org/wiki/Guillaume_Apollinaire",
       "_country_qids": [
         "Q142"
@@ -10541,7 +10576,7 @@
       ],
       "era": "19th century",
       "desc": "Harry Carey may refer to:Harry Carey (actor) (1878–1947), American actor\nHarry Carey Jr. (1921–2012), American actor\nHarry Carey (footballer) (1916–1991), Australian rules footballer",
-      "tldr": "Harry Carey may refer to:Harry Carey (actor) (1878–1947), American actor\nHarry Carey Jr. (1921–2012), American actor\nHarry Carey (footballer) (1916–1991), Australian rules footballer",
+      "tldr": "This entry's dates and roles point to Harry Carey, an American actor who became one of silent cinema's first Western stars, often playing the good-hearted outlaw Cheyenne Harry. He starred in Straight Shooting, the first feature directed by John Ford, and their partnership helped launch Ford's career until a rift split them in 1921. Carey later moved into character roles, earning a Best Supporting Actor nomination for playing the President of the Senate in Mr. Smith Goes to Washington. He died in 1947 of lung cancer and emphysema after decades of smoking.",
       "url": "https://en.wikipedia.org/wiki/Harry_Carey",
       "_country_qids": [
         "Q30"
@@ -13357,7 +13392,7 @@
       ],
       "era": "20th century onward",
       "desc": "Grand Duchess Anastasia Nikolaevna of Russia was the youngest daughter of Tsar Nicholas II, the last sovereign of Imperial Russia, and his wife, Tsarina Alexandra Feodorovna.",
-      "tldr": "Grand Duchess Anastasia Nikolaevna of Russia was the youngest daughter of Tsar Nicholas II, the last sovereign of Imperial Russia, and his wife, Tsarina Alexandra Feodorovna.",
+      "tldr": "The youngest of Nicholas II's four daughters, she grew up isolated within the imperial family's cloistered court, sharing a room with sister Maria and remembered for a mischievous streak. After the 1917 revolution she was held under house arrest, first at Tsarskoye Selo, later Siberia, before being shot with her family by Bolshevik guards in a Yekaterinburg cellar in July 1918. Rumors she alone had survived, supposedly shielded by jewels sewn into her clothing, fueled decades of impostor claims, most famously Anna Anderson's. DNA testing later confirmed she died with the rest of her family.",
       "url": "https://en.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia",
       "_country_qids": [
         "Q34266"
@@ -14425,7 +14460,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Frederick William II was King of Prussia from 1786 until his death in 1797. He was also Prince-elector of Brandenburg and Prince of Neuchâtel.",
-      "tldr": "Frederick William II was King of Prussia from 1786 until his death in 1797. He was also Prince-elector of Brandenburg and Prince of Neuchâtel.",
+      "tldr": "Nephew and successor of Frederick the Great, Friedrich Wilhelm II inherited a powerful state but preferred pleasure, mistresses, and lavish spending to the grinding work of kingship. Alongside his official queen he contracted two morganatic marriages and kept mistresses, most devoted to Wilhelmine Enke, with whom he had several children even before taking the throne. Under him Prussia drifted into costly, indecisive wars against Revolutionary France, though he did leave one lasting legacy by commissioning Berlin's Brandenburg Gate.",
       "url": "https://en.wikipedia.org/wiki/Frederick_William_II_of_Prussia",
       "_country_qids": [
         "Q27306"
@@ -14898,7 +14933,7 @@
       ],
       "era": "19th century",
       "desc": "Frederik VIII was King of Denmark from 29 January 1906 until his death in 1912.",
-      "tldr": "Frederik VIII was King of Denmark from 29 January 1906 until his death in 1912.",
+      "tldr": "Frederik spent over four decades as crown prince before becoming king in 1906 at age 62, an apprenticeship that made him unusually sympathetic to Denmark's new parliamentary system. His children and grandchildren went on to occupy thrones across Europe, including Norway and Greece, earning the Danish royals the nickname father-in-law of Europe. His reign ended abruptly in 1912 when, traveling home from Nice under a pseudonym, he collapsed and died on a Hamburg street at night; his body lay unidentified in the city morgue for hours before officials realized the dead man was a king.",
       "url": "https://en.wikipedia.org/wiki/Frederick_VIII_of_Denmark",
       "_country_qids": [
         "Q756617"
@@ -15033,7 +15068,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Girard Desargues was a French mathematician and engineer, who is considered one of the founders of projective geometry. Desargues's theorem, the Desargues graph, and the crater Desargues on the Moon are named in his honour.",
-      "tldr": "Girard Desargues was a French mathematician and engineer, who is considered one of the founders of projective geometry. Desargues's theorem, the Desargues graph, and the crater Desargues on the Moon are named in his honour.",
+      "tldr": "A military engineer and architect from Lyon who also worked on Parisian water-supply projects, he moved in the Paris circle of mathematicians around Marin Mersenne alongside Descartes and Pascal, who admired him as a mentor. In a dense, jargon-heavy 1639 treatise, he introduced points and lines \"at infinity,\" laying foundations of projective geometry as an alternative to Euclidean methods. His eponymous theorem on triangles in perspective proved essential centuries later to drawing and geometry alike, though his odd vocabulary meant it was ignored until rediscovered in the nineteenth century.",
       "url": "https://en.wikipedia.org/wiki/Girard_Desargues",
       "_country_qids": [
         "Q70972"
@@ -15056,7 +15091,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "Hans von Aachen was a German painter who was one of the leading representatives of Northern Mannerism.",
-      "tldr": "Hans von Aachen was a German painter who was one of the leading representatives of Northern Mannerism.",
+      "tldr": "Trained in Cologne and then in Italy for fourteen years, absorbing the Mannerist styles of Tintoretto's followers, he became a leading painter of the Northern Mannerist court style. In 1592 Emperor Rudolf II appointed him court painter, a post he could fulfill from home rather than living at Rudolf's Prague court, and the two formed a friendship contemporaries likened to Alexander and his painter Apelles. Alongside portraits, he produced sensuous mythological nudes prized by the secretive, art-obsessed Rudolf. He briefly served Rudolf's successor Matthias before dying in Prague in 1615.",
       "url": "https://en.wikipedia.org/wiki/Hans_von_Aachen",
       "_country_qids": [
         "Q12548"
@@ -15129,7 +15164,7 @@
       ],
       "era": "19th century",
       "desc": "George II was King of Greece from 27 September 1922 until 25 March 1924, and again from 25 November 1935 until his death on 1 April 1947.",
-      "tldr": "George II was King of Greece from 27 September 1922 until 25 March 1924, and again from 25 November 1935 until his death on 1 April 1947.",
+      "tldr": "Eldest son of King Constantine I, George ascended the Greek throne in 1922 after his father's forced abdication, only to be deposed himself in 1923 after a failed royalist coup and the declaration of a republic, which stripped him of his nationality and property. A 1935 coup and plebiscite restored the monarchy and brought him back from exile, whereupon he let his prime minister, Ioannis Metaxas, establish a dictatorship. Driven out again by the Axis invasion in 1941, he returned to Greece in 1946 and died less than a year later.",
       "url": "https://en.wikipedia.org/wiki/George_II_of_Greece",
       "_country_qids": [
         "Q41"
