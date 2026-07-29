@@ -99,6 +99,29 @@ Keys prefixed `_` are pipeline internals, not rendered.
   `fetch_hist_figures.py` for the pattern. Respect the same rate limiting.
 - A script must be idempotent: running it twice must not duplicate or corrupt data.
 
+## Batch issues
+
+Some issues cover one numbered "batch" of a larger defect (e.g. `E6-03c` — hist-chars tldr,
+batch 1). A well-formed batch issue has the exact entry list **frozen into its own body** —
+if yours does, work that list and ignore what `docs/roadmap/DATA_AUDIT.md` currently says,
+even if they disagree.
+
+If instead your issue's Task step says "read the entry names for batch `N` from
+`docs/roadmap/DATA_AUDIT.md`" with no list in the body itself, that reference is only valid
+the instant it's read: every sibling batch that has since merged shrinks the remaining defect
+pool and silently renumbers every batch after it. **Do not trust it blindly and do not
+guess.** Run `python3 tools/audit_data.py` yourself first and diff its fresh output against
+the committed `docs/roadmap/DATA_AUDIT.md`:
+
+- If they agree, proceed normally.
+- If they disagree, do not pick a batch by number. Work out what the disagreement actually
+  changed (a sibling batch issue merging is the near-universal cause — check recent commits
+  touching the same data file), regenerate and commit `docs/roadmap/DATA_AUDIT.md` yourself
+  as part of your PR even if your issue's `Files` section doesn't list it, and say so plainly
+  in the PR description. Only stop and add `blocked` if you cannot determine what changed —
+  this exact scenario has already recurred twice on this repo (see #150, #153, #172), so
+  resolving it yourself when the cause is clear beats blocking again.
+
 ## How to verify your work
 
 Verify manually:

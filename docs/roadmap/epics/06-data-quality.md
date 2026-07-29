@@ -90,6 +90,16 @@ Run it twice; `git diff` after the second run must be empty. Confirm the batch l
 > **To the issue creator:** expand this block into **6** issues, numbered
 > `E6-02a` … `E6-02f`, one per batch. In each, replace `<N>` with the batch number 1–6 and
 > `<LETTER>` with a–f. Everything else is identical. Do not create a single combined issue.
+>
+> **Freeze the batch list.** Run `tools/audit_data.py` fresh right before creating these
+> issues, then copy the exact `name` list for batch `<N>` from the regenerated
+> `DATA_AUDIT.md` **directly into each issue's body**, replacing step 1 of the Task section
+> below. Do not leave step 1 as a live reference to `DATA_AUDIT.md` — batch issues in this
+> epic are worked one at a time over days, and every sibling batch that lands shrinks the
+> remaining defect pool and renumbers every batch after it. A frozen, literal list makes each
+> issue immune to that renumbering forever; a dynamic "read batch `<N>` from the file"
+> reference goes stale the moment any other batch merges (this happened twice to `E6-03`'s
+> batches — see the comment threads on #150, #153, #172).
 
 **Labels:** `epic:data-quality`, `area:data`, `size:M`
 **Branch:** `claude/e6-02<LETTER>-hist-chars-desc-batch-<N>`
@@ -144,7 +154,9 @@ under "hist-chars — truncated desc — batch `<N>`" in `docs/roadmap/DATA_AUDI
 
 - Any entry not in batch `<N>`.
 - Fixing `tldr` (that is `E6-03`), roles (`E6-05`), or duplicates (`E6-04`).
-- Regenerating `docs/roadmap/DATA_AUDIT.md` — leave it stale; `E6-07` refreshes it.
+- Regenerating `docs/roadmap/DATA_AUDIT.md`. Since your batch's entry list is frozen into
+  this issue's body rather than read live, the report's staleness doesn't affect you either
+  way — leave the regeneration to `E6-07`.
 
 **Verify**
 
@@ -157,6 +169,16 @@ the PR description.
 
 > **To the issue creator:** expand this block into **8** issues, numbered
 > `E6-03a` … `E6-03h`, one per batch, replacing `<N>` with 1–8 and `<LETTER>` with a–h.
+>
+> **Freeze the batch list.** Run `tools/audit_data.py` fresh right before creating these
+> issues, then copy the exact `name` list for batch `<N>` from the regenerated
+> `DATA_AUDIT.md` **directly into each issue's body**, replacing step 1 of the Task section
+> below. Do not leave step 1 as a live reference to `DATA_AUDIT.md` — batch issues in this
+> epic are worked one at a time over days, and every sibling batch that lands shrinks the
+> remaining defect pool and renumbers every batch after it. A frozen, literal list makes each
+> issue immune to that renumbering forever; a dynamic "read batch `<N>` from the file"
+> reference goes stale the moment any other batch merges (this happened twice to this exact
+> batch set — see the comment threads on #150, #153, #172).
 
 **Labels:** `epic:data-quality`, `area:data`, `size:M`
 **Branch:** `claude/e6-03<LETTER>-hist-chars-tldr-batch-<N>`
@@ -214,6 +236,9 @@ This issue covers **batch `<N>` only** — the entries listed under "hist-chars 
 
 - Editing `desc` (that is `E6-02`).
 - Adding `tldr` to `hist-events` (that is `E6-06`).
+- Regenerating `docs/roadmap/DATA_AUDIT.md`. Since your batch's entry list is frozen into
+  this issue's body rather than read live, the report's staleness doesn't affect you either
+  way — leave the regeneration to `E6-07`.
 
 **Verify**
 
@@ -345,6 +370,12 @@ confirm the results are actually explorers.
 
 > **To the issue creator:** expand this block into **3** issues, numbered
 > `E6-06a` … `E6-06c`, replacing `<N>` with 1–3 and `<LETTER>` with a–c.
+>
+> **Freeze the batch list.** Run `tools/audit_data.py` fresh right before creating these
+> issues, then copy the exact `name` list for batch `<N>` from the regenerated
+> `DATA_AUDIT.md` **directly into each issue's body**, replacing step 1 of the Task section
+> below. Do not leave step 1 as a live reference to `DATA_AUDIT.md` — see the note on the
+> `E6-03` template above for why a dynamic reference goes stale between batches.
 
 **Labels:** `epic:data-quality`, `area:data`, `size:M`
 **Branch:** `claude/e6-06<LETTER>-hist-events-desc-batch-<N>`

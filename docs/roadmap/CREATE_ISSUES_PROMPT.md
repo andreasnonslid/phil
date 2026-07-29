@@ -53,6 +53,14 @@ templates. For those blocks ONLY:
 - In each copy, substitute every `<N>` and `<LETTER>` placeholder with that copy's values as
   the instruction specifies. Check the title, the Branch line and the body text — placeholders
   appear in all three.
+- If the blockquote says to "freeze the batch list": before creating these issues, run
+  `python3 tools/audit_data.py` fresh, then replace the Task section's step 1 (which says to
+  "read the entry names for batch `<N>` from `docs/roadmap/DATA_AUDIT.md`") with the exact,
+  literal `name` list for that batch, copied straight out of the regenerated report. Each
+  issue must be self-contained — do not leave a live reference to `DATA_AUDIT.md` in the
+  Task section, since sibling batches merging later renumber it out from under you. This
+  matters even if you are creating all batches in one run: the freeze protects whoever
+  implements batch 3 after batches 1 and 2 have already merged, days or weeks later.
 - Delete the "To the issue creator" blockquote itself from the issue body. It is an
   instruction to you, not to the implementer.
 - Everything else in the block is copied verbatim into every copy.
