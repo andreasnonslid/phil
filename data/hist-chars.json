@@ -1341,7 +1341,7 @@
       ],
       "era": "Medieval (500–1500)",
       "desc": "Yazid ibn al-Walid ibn Abd al-Malik, commonly known as Yazid III, was the twelfth Umayyad caliph, ruling from 744 until his death months later.",
-      "tldr": "Yazid ibn al-Walid ibn Abd al-Malik, commonly known as Yazid III, was the twelfth Umayyad caliph, ruling from 744 until his death months later.",
+      "tldr": "Yazid ibn al-Walid, known as Yazid III, was a great-grandson of the caliph Muawiya I who seized the Umayyad caliphate in 744 by revolting against his cousin al-Walid II, whom he accused of impiety and misrule. He justified the coup partly through appeals to social justice, promising fairer treatment of non-Arab Muslims and a more pious rule, ideas echoing early Kharijite and Qadarite thought. His reign lasted only about six months before he died of illness, plunging the caliphate into further chaos that hastened the Umayyad dynasty's collapse.",
       "url": "https://en.wikipedia.org/wiki/Yazid_III",
       "_country_qids": [
         "Q8575586"
@@ -2669,6 +2669,7 @@
       "era": "Medieval (500–1500)",
       "region": "East Asia",
       "desc": "11th emperor of the Ming dynasty (1505–1521), known for unconventional rule and fondness for military pursuits.",
+      "tldr": "The Zhengde Emperor ruled Ming China from 1505 to 1521, inheriting the throne as a teenager and quickly rejecting the ceremonial confines expected of an emperor. He built a private pleasure palace called the Leopard Quarter outside the Forbidden City, staffed with exotic animals and entertainers, and enjoyed disguising himself to travel and personally lead campaigns against Mongol raiders. His unconventional rule alarmed Confucian officials, who saw it as a dereliction of duty. He died without an heir after a boating accident, ending his direct line.",
       "url": "https://en.wikipedia.org/wiki/Zhengde_Emperor"
     },
     {
@@ -2828,7 +2829,7 @@
       "region": "Middle East",
       "era": "Early modern (1500–1800)",
       "desc": "Şehzade Mustafa may refer to:Şehzade Mustafa (1450–1474), Ottoman prince, son of Mehmed II and Gülşah Hatun\nŞehzade Mustafa, Ottoman prince, son of Suleiman the Magnificent and Mahidevran Hatun",
-      "tldr": "Şehzade Mustafa may refer to:Şehzade Mustafa (1450–1474), Ottoman prince, son of Mehmed II and Gülşah Hatun\nŞehzade Mustafa, Ottoman prince, son of Suleiman the Magnificent and Mahidevran Hatun",
+      "tldr": "Şehzade Mustafa was the eldest son of Suleiman the Magnificent, widely seen as capable, popular with the army, and the presumptive Ottoman heir. His rising influence as governor of Amasya threatened the succession hopes of Suleiman's other wife, Hurrem Sultan, and her ally, the grand vizier Rustem Pasha. Accused of plotting rebellion, likely on fabricated evidence from that rivalry, Mustafa was summoned to his father's camp in 1553 and strangled on Suleiman's order. His death, later dramatized in Ottoman and European literature, was among the most consequential Ottoman succession purges.",
       "url": "https://en.wikipedia.org/wiki/%C5%9Eehzade_Mustafa",
       "_country_qids": [
         "Q12560"
@@ -5424,6 +5425,7 @@
       "region": "Americas",
       "era": "Early modern (1500–1800)",
       "desc": "William Henry Harrison was the ninth president of the United States from March to April 1841. He died 31 days into his term, making him the shortest serving president and the first president to die in office.",
+      "tldr": "A military hero of the War of 1812 and the Battle of Tippecanoe, Harrison rode that fame to the presidency in 1840 as the Whig candidate, campaigning with the slogan \"Tippecanoe and Tyler Too.\" At 68 he was the oldest president elected up to that time, and he delivered the longest inaugural address in history, nearly two hours in cold weather without a coat. He fell ill soon after and died on his 31st day in office, the shortest presidency in U.S. history. His death triggered the first test of presidential succession, resolved when Vice President John Tyler claimed the full office.",
       "url": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
       "_country_qids": [
         "Q30"
@@ -5836,6 +5838,7 @@
       "region": "Americas",
       "era": "Early modern (1500–1800)",
       "desc": "Zachary Taylor was the 12th president of the United States, serving from 1849 until his death in 1850. He was a career officer in the United States Army, rising to major general.",
+      "tldr": "A career U.S. Army officer for four decades, Taylor rose to national fame commanding American forces to victory at the Battle of Buena Vista during the Mexican-American War, earning the nickname \"Old Rough and Ready.\" He had never voted in a presidential election before the Whigs nominated him in 1848, largely on his war celebrity. As president he resisted extending slavery into the new western territories, angering many in his own Southern, slaveholding base. He died suddenly in July 1850, after sixteen months in office, following a Fourth of July illness.",
       "url": "https://en.wikipedia.org/wiki/Zachary_Taylor",
       "_country_qids": [
         "Q30"
@@ -6344,6 +6347,7 @@
       ],
       "era": "Early modern (1500–1800)",
       "desc": "English merchant-astronomer who improved the reflecting telescope and discovered Triton, Ariel, Umbriel, and Hyperion.",
+      "tldr": "Lassell was a self-taught English astronomer who made his fortune brewing beer and poured it into building some of the largest, most precise reflecting telescopes of his era. Working from his own private observatory, he discovered Neptune's moon Triton just weeks after Neptune itself was found in 1846, and later found Uranus's moons Ariel and Umbriel and Saturn's moon Hyperion. He pioneered an equatorial mounting that let telescopes track the sky's rotation. His work turned amateur wealth into lasting contributions to planetary astronomy.",
       "url": "https://en.wikipedia.org/wiki/William_Lassell",
       "region": "Europe"
     },
@@ -6487,6 +6491,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Sir William Rowan Hamilton was an Irish mathematician, physicist, and astronomer who made numerous major contributions to algebra, classical mechanics, and optics.",
+      "tldr": "An Irish child prodigy, Hamilton was appointed Royal Astronomer of Ireland while still an undergraduate at Trinity College Dublin. His reformulation of classical mechanics, Hamiltonian mechanics, became foundational to physics and later to quantum theory. His best-known breakthrough came in a flash of insight in 1843 while walking along Dublin's Royal Canal: he carved the defining equations of quaternions, a number system extending complex numbers, into the stone of Broom Bridge. Quaternions remain essential today for computer graphics and spacecraft orientation.",
       "url": "https://en.wikipedia.org/wiki/William_Rowan_Hamilton",
       "_country_qids": [
         "Q174193"
@@ -7344,6 +7349,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "William Thomson, 1st Baron Kelvin was a Scottish mathematician, mathematical physicist and engineer.",
+      "tldr": "Thomson was a Scottish mathematical physicist and engineer whose work spanned thermodynamics, electricity, and telecommunications. He developed the absolute temperature scale that bears his title, Kelvin, and helped formulate the second law of thermodynamics. As chief scientific consultant on the first transatlantic telegraph cable, he solved the signal-degradation problems that had doomed earlier attempts, making the project commercially viable. His prominence earned him a peerage as Baron Kelvin in 1892.",
       "url": "https://en.wikipedia.org/wiki/Lord_Kelvin",
       "_country_qids": [
         "Q174193"
@@ -7831,6 +7837,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Élie Ducommun was a Swiss peace activist. He was a Nobel laureate, awarded the 1902 Nobel Peace Prize, which he shared with Charles Albert Gobat.",
+      "tldr": "Ducommun was a Swiss journalist and lifelong pacifist who spent decades editing newspapers and campaigning for arbitration between nations as an alternative to war. He served as the first honorary secretary of the International Peace Bureau in Bern, coordinating peace societies across Europe and helping organize international peace congresses. His tireless, unpaid organizational work was credited with holding the fragmented peace movement together amid rising nationalist tension. In 1902 he shared the Nobel Peace Prize with fellow Swiss pacifist Charles Albert Gobat.",
       "url": "https://en.wikipedia.org/wiki/%C3%89lie_Ducommun",
       "_country_qids": [
         "Q39"
@@ -7904,6 +7911,7 @@
       "era": "19th century",
       "region": "Europe",
       "desc": "Bohemian-Austrian chess player who became the first official World Chess Champion (1886–1894) and revolutionized chess theory.",
+      "tldr": "Steinitz was a Bohemian-Austrian chess master who held the unofficial title of world's strongest player for two decades before becoming the first official World Chess Champion in 1886. He rejected the swashbuckling attacking style that dominated 19th-century chess, developing a scientific theory of small positional advantages and defense that underpins modern strategy. He held the title until 1894, when his student-turned-rival Emanuel Lasker beat him. He died in poverty in New York in 1900, his final years marked by mental illness.",
       "url": "https://en.wikipedia.org/wiki/Wilhelm_Steinitz"
     },
     {
@@ -8488,6 +8496,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Édouard-Henri Avril was a French painter and commercial artist. Under the pseudonym Paul Avril, he was an illustrator of erotic literature.",
+      "tldr": "Avril was a 19th-century French painter trained in the academic tradition who built his public career illustrating adventure novels, including works by Jules Verne. Under the pseudonym Paul Avril, he became far better known for a separate body of work: finely detailed, technically accomplished erotic illustrations for clandestine editions of erotic literature. This dual career let him keep a respectable public reputation while his explicit work circulated privately among collectors. His erotic engravings remain the best-preserved examples of the genre from his era.",
       "url": "https://en.wikipedia.org/wiki/%C3%89douard-Henri_Avril",
       "_country_qids": [
         "Q142"
@@ -9285,6 +9294,7 @@
       "region": "Europe",
       "era": "19th century",
       "desc": "Władysław Stanisław Reymont was a Polish novelist and the laureate of the 1924 Nobel Prize in Literature.",
+      "tldr": "Reymont was a Polish novelist who worked as a railway clerk, monk, and traveling actor before turning to writing full time. His masterwork, the four-volume novel The Peasants, portrays a year in a Polish village through the changing seasons and was praised for its vivid depiction of rural life and folk speech. He survived a serious train accident early in his career, using the compensation payout to fund his literary work. In 1924 he was awarded the Nobel Prize in Literature, narrowly beating his countryman and rival Stefan Żeromski.",
       "url": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Reymont",
       "_country_qids": [
         "Q207272",
@@ -12401,7 +12411,7 @@
       "region": "East Asia",
       "era": "Early modern (1500–1800)",
       "desc": "Yuan Mei was a Chinese poet and artist. He was often mentioned with Ji Yun as the \"Nan Yuan Bei Ji\".",
-      "tldr": "Yuan Mei was a Chinese poet and artist. He was often mentioned with Ji Yun as the \"Nan Yuan Bei Ji\".",
+      "tldr": "Yuan Mei was an 18th-century Chinese poet, essayist, and gastronome of the Qing dynasty who retired early from a modest official career to live as a private literary man in a garden estate he called the Sui Yuan. He championed a poetics of natural feeling over rigid classical imitation, and unusually for his era, mentored numerous women poets and published their work. He also wrote a celebrated cookbook, the Suiyuan shidan, recording recipes and dining philosophy from his gourmet table. His independent persona made him one of the most widely read literary figures of his time.",
       "url": "https://en.wikipedia.org/wiki/Yuan_Mei",
       "_country_qids": [
         "Q8733"
