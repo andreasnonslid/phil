@@ -161,6 +161,7 @@
       "region": "Oceania",
       "period": "Early modern (1500–1800)",
       "desc": "British ships established the first European colony in Australia at Sydney Cove.",
+      "tldr": "Under Captain Arthur Phillip, eleven ships carrying over a thousand people, including roughly 780 convicts, arrived at Botany Bay in January 1788 before relocating to the better-watered harbor at Sydney Cove. There, on 26 January 1788, Phillip raised the British flag and founded the penal colony of New South Wales, beginning continuous European settlement in Australia. The arrival displaced the Eora Aboriginal people, and violence and disease soon devastated their communities. The date is now Australia Day.",
       "url": "https://en.wikipedia.org/wiki/First_Fleet"
     },
     {
@@ -206,6 +207,7 @@
       "region": "Americas",
       "period": "20th century onward",
       "desc": "First crewed landing on the Moon, by the United States' Apollo programme.",
+      "tldr": "On 20 July 1969, NASA's Apollo 11 mission achieved the first crewed landing on the Moon when the lunar module Eagle, piloted by Neil Armstrong and Buzz Aldrin, touched down in the Sea of Tranquility. Armstrong became the first human to step onto the lunar surface, famously describing it as \"one small step for man, one giant leap for mankind,\" while Michael Collins orbited above in the command module. The astronauts returned safely to Earth on 24 July, fulfilling Kennedy's 1961 pledge to reach the Moon.",
       "url": "https://en.wikipedia.org/wiki/Apollo_11"
     },
     {
@@ -413,6 +415,7 @@
       "region": "Africa",
       "period": "Early modern (1500–1800)",
       "desc": "Portuguese forces under King Sebastian were destroyed by a Moroccan army near Ksar-el-Kebir, ending Portugal's independent monarchy.",
+      "tldr": "In August 1578, the young King Sebastian I of Portugal led a large invasion force into Morocco to restore a deposed sultan, disregarding his own counselors' advice. Near Ksar-el-Kebir, a Moroccan army under Sultan Abd al-Malik overwhelmed the Portuguese force in a single day, killing Sebastian and most of the Portuguese nobility and army. Because Sebastian died without an heir, the resulting succession crisis let King Philip II of Spain claim the Portuguese throne, uniting the crowns for sixty years.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Alc%C3%A1cer_Quibir"
     },
     {
@@ -440,6 +443,7 @@
       "region": "Africa",
       "period": "Medieval (500–1500)",
       "desc": "Byzantine general Belisarius defeated the Vandal army near Carthage, opening the reconquest of North Africa.",
+      "tldr": "In 533, the Byzantine general Belisarius, commanding an expeditionary force sent by Emperor Justinian I, landed in North Africa and marched on the Vandal capital of Carthage. At a crossroads called Ad Decimum, ten miles from the city, his outnumbered troops defeated the Vandal king Gelimer's forces in a confused but decisive engagement. The victory opened the way for Belisarius to capture Carthage days later, ending nearly a century of independent Vandal rule and opening Justinian's reconquest of the West.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ad_Decimum"
     },
     {
@@ -800,6 +804,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Byzantine forces halted a major Umayyad invasion of Anatolia near Akroinon in 740, checking Arab expansion into Byzantine territory.",
+      "tldr": "In 740, Byzantine emperor Leo III personally led an army that intercepted a large Umayyad invasion force near Akroinon in central Anatolia. The Byzantines inflicted a heavy defeat on the Arab army, reportedly killing most of its soldiers, in one of the most significant Byzantine victories of the ongoing Arab-Byzantine wars. It came just before the Umayyad Caliphate descended into internal crisis, and marked a turning point after which large-scale Arab invasions of Byzantine Anatolia became rarer.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Akroinon"
     },
     {
@@ -989,6 +994,7 @@
       "region": "East Asia",
       "period": "20th century onward",
       "desc": "A catastrophic magnitude earthquake struck Haiyuan County in northwest China, one of the deadliest in history.",
+      "tldr": "On 16 December 1920, an earthquake estimated at magnitude 8.3 struck Haiyuan County in China's Gansu (now Ningxia) region, one of the most powerful ever recorded on the Chinese mainland. Massive landslides buried entire villages built into the region's soft loess soil, and the shaking was felt across much of northern China. Death toll estimates range from about 200,000 to over 270,000, with the following winter's famine compounding the losses. The remote epicenter means the exact scale is still debated.",
       "url": "https://en.wikipedia.org/wiki/1920_Haiyuan_earthquake"
     },
     {
@@ -998,6 +1004,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "A devastating earthquake and tsunami struck the Strait of Messina in southern Italy, killing around 120,000 people.",
+      "tldr": "Just before dawn on 28 December 1908, a violent earthquake struck the Strait of Messina between Sicily and Calabria, collapsing most buildings in Messina and Reggio Calabria within seconds. A tsunami generated by the quake then swept ashore, drowning survivors who had fled to the waterfront. Estimates of the dead range as high as 120,000, one of the deadliest earthquakes in European history. International relief poured in within days, and the disaster spurred Italy's first modern seismic building codes.",
       "url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake"
     },
     {
@@ -1007,6 +1014,7 @@
       "region": "Europe",
       "period": "Ancient (to 500 CE)",
       "desc": "A massive undersea earthquake near Crete caused widespread destruction and tsunamis across the eastern Mediterranean.",
+      "tldr": "On the morning of 21 July 365 CE, a huge undersea earthquake ruptured along the Hellenic Arc southwest of Crete, uplifting parts of the island's coastline by several meters. The quake triggered a tsunami that devastated coastal cities across the eastern Mediterranean, including Alexandria, where thousands reportedly drowned. Ancient writers such as Ammianus Marcellinus described the sea retreating before crashing back over harbors and towns. Modern seismologists rank it among the largest events ever recorded in the Mediterranean.",
       "url": "https://en.wikipedia.org/wiki/365_Crete_earthquake"
     },
     {
@@ -1070,6 +1078,7 @@
       "region": "South Asia",
       "period": "19th century",
       "desc": "A French gunboat standoff and ultimatum forced Siam to cede territory east of the Mekong, cementing French colonial control of Indochina.",
+      "tldr": "In July 1893, French gunboats forced their way up the Chao Phraya River to Bangkok, then delivered an ultimatum demanding Siam cede all territory east of the Mekong. King Chulalongkorn's government, isolated diplomatically and unable to match French naval power, capitulated rather than risk war. The resulting treaty stripped Siam of Laos and imposed a large indemnity. The crisis marked the high point of French expansion in Indochina and left Siam a diminished buffer state.",
       "url": "https://en.wikipedia.org/wiki/1893_Franco-Siamese_crisis"
     },
     {
@@ -1205,6 +1214,7 @@
       "region": "Europe",
       "period": "Ancient (to 500 CE)",
       "desc": "A federation of Gothic tribes defeated the Roman army and killed Emperor Decius, the first Roman emperor to die in battle against a foreign enemy.",
+      "tldr": "In 251 CE, Emperor Decius led a Roman army against a coalition of Gothic and allied tribes under the Gothic king Cniva, who had been raiding the Roman province of Moesia. Lured into marshy terrain near the town of Abritus, the Roman force was ambushed and annihilated, and Decius was killed along with his son and co-emperor Herennius Etruscus. He thus became the first Roman emperor to die in battle against a foreign enemy, a shocking blow during the turbulent Crisis of the Third Century.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Abritus"
     },
     {
@@ -1241,6 +1251,7 @@
       "region": "Europe",
       "period": "Ancient (to 500 CE)",
       "desc": "Gothic rebels under Fritigern annihilated a Roman army and killed Emperor Valens near Adrianople, a catastrophic defeat for the Eastern Roman Empire.",
+      "tldr": "On 9 August 378 CE, Emperor Valens led an Eastern Roman army against a large force of Gothic refugees under Fritigern who had rebelled after being mistreated by Roman officials following their admission across the Danube. Attacking before western reinforcements arrived, Valens's army was surrounded and annihilated near Adrianople, and the emperor was killed, his body never recovered. Ammianus Marcellinus compared the disaster to Rome's defeat at Cannae, and it is often cited as a turning point in Rome's decline.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Adrianople"
     },
     {
@@ -1322,6 +1333,7 @@
       "region": "South Asia",
       "period": "20th century onward",
       "desc": "Also known as the Treaty of Rawalpindi, this agreement ended the Third Anglo-Afghan War and secured Afghan control over its own foreign affairs.",
+      "tldr": "Signed in August 1919 at Rawalpindi, this treaty ended the brief Third Anglo-Afghan War that Emir Amanullah Khan had launched earlier that year after his father's assassination. Britain recognized Afghanistan's full independence in foreign affairs, ending restrictions from earlier Anglo-Afghan wars, and ceased its subsidy to the Afghan state. The war had been militarily inconclusive, with British air raids on Kabul shocking Afghan leaders even as ground fighting favored British India. Afghans still celebrate 19 August as Independence Day.",
       "url": "https://en.wikipedia.org/wiki/Anglo-Afghan_Treaty_of_1919"
     },
     {
@@ -1376,6 +1388,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Almohad forces under Abu Yusuf Ya'qub al-Mansur crushed the Castilian army of Alfonso VIII, forcing a Christian retreat to Toledo.",
+      "tldr": "In July 1195, the Almohad caliph Abu Yusuf Ya'qub al-Mansur crossed from North Africa with a large army to confront King Alfonso VIII of Castile, who had provoked conflict by breaking a truce. At Alarcos in central Spain, the Almohad forces crushed the Castilian army, inflicting heavy casualties and capturing the fortress town. The defeat forced Alfonso VIII to retreat to Toledo, temporarily halting the Reconquista, until Castile avenged the loss at Las Navas de Tolosa in 1212.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Alarcos"
     },
     {
@@ -1511,6 +1524,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "An anti-communist alliance between Nazi Germany and Imperial Japan, signed in Berlin and later joined by Italy and other states.",
+      "tldr": "Signed in Berlin in November 1936, the Anti-Comintern Pact bound Nazi Germany and Imperial Japan to cooperate against Soviet subversion, though secret protocols also pledged mutual neutrality if either fought the USSR. Fascist Italy joined a year later, and the pact eventually drew in other states aligned against communism, including Hungary and Spain. Though framed as ideological, it functioned as an early step toward the wartime Axis alliance formalized in the 1940 Tripartite Pact.",
       "url": "https://en.wikipedia.org/wiki/Anti-Comintern_Pact"
     },
     {
@@ -1601,6 +1615,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Short war in which Prussia defeated Austria, ending Austrian dominance in Germany and paving the way for Prussian-led unification.",
+      "tldr": "Fought over just seven weeks in the summer of 1866, the Austro-Prussian War pitted Prussia, allied with Italy, against Austria and most other German states for supremacy within the German Confederation. Prussia's modernized army, using breech-loading rifles and railway-based mobilization devised by Helmuth von Moltke, crushed Austrian forces at the Battle of Königgrätz. Chancellor Otto von Bismarck imposed lenient peace terms to avoid lasting enmity while dissolving the Confederation and excluding Austria from German affairs.",
       "url": "https://en.wikipedia.org/wiki/Austro-Prussian_War"
     },
     {
@@ -2024,6 +2039,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Declaration proclaiming the restoration of an independent Lithuanian state after more than a century under Russian rule.",
+      "tldr": "On 16 February 1918, the Council of Lithuania signed the Act of Independence in German-occupied Vilnius, declaring the restoration of an independent Lithuanian state. The declaration came after more than a century of Russian rule, exploiting the chaos of the First World War and Tsarist collapse. German occupiers initially suppressed its publication, and Lithuania still had to fight wars of independence against Soviet, Polish, and Bermontian forces before its statehood was secured. The date is now Lithuania's Day of Restoration of the State.",
       "url": "https://en.wikipedia.org/wiki/Act_of_Independence_of_Lithuania"
     },
     {
@@ -2042,6 +2058,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Alliance among Greece, Romania, Turkey, and Yugoslavia intended to preserve the territorial status quo in the Balkans.",
+      "tldr": "Signed in Athens in February 1934, the Balkan Pact united Greece, Romania, Turkey, and Yugoslavia in a mutual guarantee of their existing Balkan frontiers against revisionist claims, particularly from Bulgaria, Hungary, and Italy. The pact reflected interwar efforts by smaller powers to build regional security as the League of Nations' collective security system weakened. It fell short of a full military alliance, and effectively dissolved once the Second World War overran the region.",
       "url": "https://en.wikipedia.org/wiki/Balkan_Pact"
     },
     {
@@ -2060,6 +2077,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Alliance among Estonia, Latvia, and Lithuania for mutual political cooperation between the two world wars.",
+      "tldr": "Signed in Geneva in September 1934, the Baltic Entente formalized political cooperation among Estonia, Latvia, and Lithuania, states that had gained independence from the collapsing Russian Empire after the First World War. It called for regular consultation on foreign policy and mutual support in forums like the League of Nations, though it stopped short of a binding military alliance. Lithuania's territorial dispute with Poland over Vilnius limited its cohesion, and it could not stop Soviet annexation of all three states in 1940.",
       "url": "https://en.wikipedia.org/wiki/Baltic_Entente"
     },
     {
@@ -2096,6 +2114,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Agreement signed at Compiègne ending the Battle of France, dividing the country into a German-occupied zone and unoccupied Vichy France.",
+      "tldr": "Signed on 22 June 1940 in the same railway carriage at Compiègne where Germany had accepted defeat in 1918, this armistice ended the six-week Battle of France after the rapid German blitzkrieg overran French defenses. Hitler deliberately staged the ceremony there to humiliate France and reverse the earlier armistice's symbolism. The agreement divided France into a German-occupied zone and an unoccupied southern zone run from Vichy by Marshal Philippe Pétain's collaborationist government.",
       "url": "https://en.wikipedia.org/wiki/Armistice_of_22_June_1940"
     },
     {
@@ -2159,6 +2178,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "A British destroyer boarded the German supply ship Altmark in Norwegian waters to free Allied prisoners of war.",
+      "tldr": "In February 1940, the German tanker Altmark was returning to Germany through neutral Norwegian waters carrying around 300 British merchant sailors captured by the raider Admiral Graf Spee. Acting on Winston Churchill's orders, the destroyer HMS Cossack pursued the Altmark into a Norwegian fjord and boarded it, freeing the prisoners in brief hand-to-hand fighting. The incident violated Norwegian neutrality and embarrassed Norway's government, while boosting British morale during the quiet \"Phoney War.\" It fed German suspicion that Britain might violate Norway's neutrality first.",
       "url": "https://en.wikipedia.org/wiki/Altmark_incident"
     },
     {
@@ -2357,6 +2377,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Decisive English victory over a much larger French force during the Hundred Years' War.",
+      "tldr": "On 25 October 1415, an English army under King Henry V, exhausted and heavily outnumbered after a grueling march through Normandy, met a much larger French force near the village of Agincourt. Massed English and Welsh longbowmen, protected by narrow, muddy terrain that hampered the French knights, decimated the advancing cavalry and infantry with volleys of arrows. French casualties, including much of the nobility, vastly exceeded English losses, reviving English fortunes in the Hundred Years' War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Agincourt"
     },
     {
@@ -2456,6 +2477,7 @@
       "region": "South Asia",
       "period": "19th century",
       "desc": "Conflict between the British East India Company and the Gurkha Kingdom of Nepal that redrew the Himalayan frontier.",
+      "tldr": "Fought from 1814 to 1816, the Anglo-Nepalese War pitted the British East India Company against the expanding Gurkha Kingdom of Nepal over disputed lowland territory along their shared frontier. Nepalese troops, though heavily outnumbered, fought with skill that deeply impressed British officers, particularly kukri-wielding hill soldiers. The war ended with the Treaty of Sugauli, under which Nepal ceded roughly a third of its territory, including Sikkim and parts of the Terai, while keeping its independence. It began a long tradition of Gurkha service in British forces.",
       "url": "https://en.wikipedia.org/wiki/Anglo-Nepalese_War"
     },
     {
@@ -2492,6 +2514,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Treaty between the Russian and Ottoman Empires settling disputes over Serbia and the Danubian Principalities.",
+      "tldr": "Signed in October 1826 in the Bessarabian town of Akkerman, this convention between the Russian and Ottoman empires resolved disputes left unsettled by the 1812 Treaty of Bucharest. It confirmed Serbia's autonomy under Ottoman suzerainty and expanded Russian influence over the Danubian Principalities of Moldavia and Wallachia. Russia extracted the concessions under threat of renewed war while the Ottomans were busy suppressing the Greek War of Independence. It failed to prevent a fresh Russo-Turkish war two years later.",
       "url": "https://en.wikipedia.org/wiki/Akkerman_Convention"
     },
     {
@@ -2537,6 +2560,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Territorial conflict between the newly independent Armenian and Azerbaijani republics after the Russian Empire's collapse.",
+      "tldr": "After the Russian Empire's collapse in 1917–1918, the newly independent Democratic Republic of Armenia and Azerbaijan Democratic Republic fought over contested, ethnically mixed territories including Nagorno-Karabakh, Nakhchivan, and Zangezur. Both fledgling states waged intermittent fighting alongside massacres of civilians on both sides between 1918 and 1920. The conflict ended only when the Soviet Red Army invaded and absorbed both republics, imposing borders that left unresolved grievances over Karabakh.",
       "url": "https://en.wikipedia.org/wiki/Armenian%E2%80%93Azerbaijani_war"
     },
     {
@@ -2978,6 +3002,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Britain and the Netherlands divided their colonial spheres of influence in the Malay Archipelago along the Strait of Malacca.",
+      "tldr": "Signed in London in March 1824, this treaty resolved decades of overlapping British and Dutch colonial claims in Southeast Asia by dividing the Malay Archipelago along the Strait of Malacca. Britain ceded its settlement at Bencoolen on Sumatra to the Dutch and recognized Dutch dominance south of the strait, while the Netherlands ceded Malacca and dropped claims to the Malay Peninsula and Singapore. The line it drew shaped the later border between British Malaya and the Dutch East Indies, and by extension modern Malaysia and Indonesia.",
       "url": "https://en.wikipedia.org/wiki/Anglo-Dutch_Treaty_of_1824"
     },
     {
@@ -2996,6 +3021,7 @@
       "region": "Africa",
       "period": "19th century",
       "desc": "Britain invaded the Zulu Kingdom in southern Africa, suffering a stunning early defeat at Isandlwana before conquering Zululand.",
+      "tldr": "In January 1879, Britain invaded the independent Zulu Kingdom in southern Africa without authorization from London, seeking to remove it as an obstacle to a planned confederation of colonies. Zulu forces under King Cetshwayo inflicted a stunning defeat on a British column at Isandlwana, killing over a thousand soldiers in one of the worst losses in British colonial warfare. Britain rushed reinforcements and, after fighting including the defense at Rorke's Drift, crushed Zulu resistance at Ulundi in July 1879.",
       "url": "https://en.wikipedia.org/wiki/Anglo-Zulu_War"
     },
     {
@@ -3275,6 +3301,7 @@
       "region": "East Asia",
       "period": "20th century onward",
       "desc": "A magnitude-7.3 earthquake struck near Ashgabat, Turkmenistan, on 6 October 1948, devastating the city. Soviet censorship suppressed reporting of the disaster's true scale for decades.",
+      "tldr": "Shortly after midnight on 6 October 1948, a magnitude-7.3 earthquake struck near Ashgabat, capital of the Turkmen SSR, leveling most of the city's mud-brick buildings within seconds. Casualty estimates range from the tens of thousands to over 100,000, because Soviet authorities classified the true death toll for decades. Survivors described a nighttime catastrophe with little warning, and rebuilding Ashgabat became a major Soviet postwar project. The tragedy's scope only became public after Turkmen independence in 1991.",
       "url": "https://en.wikipedia.org/wiki/1948_Ashgabat_earthquake"
     },
     {
@@ -3356,6 +3383,7 @@
       "region": "Middle East",
       "period": "Medieval (500–1500)",
       "desc": "A battle between the Mamluks of Egypt and the Mongol Ilkhanate near Ain Jalut, marking the first major halt to Mongol expansion.",
+      "tldr": "In September 1260, a Mamluk army from Egypt met a Mongol force in the Jezreel Valley near the spring of Ain Jalut, in present-day northern Israel. Using feigned retreats and superior knowledge of the terrain, the Mamluk general Baibars lured the Mongols into an ambush, decisively defeating them and killing their commander Kitbuqa. The victory halted the westward advance of the Mongol Empire, which had already destroyed Baghdad, and preserved Mamluk control of Egypt and the Levant.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut"
     },
     {
@@ -3491,6 +3519,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "A war fought from 502 to 506 between the Byzantine and Sasanian empires, the first major conflict between the two powers in over sixty years.",
+      "tldr": "Fought from 502 to 506 between the Eastern Roman emperor Anastasius I and the Sasanian shah Kavad I, this war was the first major clash between Rome and Persia in over six decades. Kavad, needing funds after Rome refused to help pay tribute to the Huns, opened the war by storming the fortress city of Amida. Fighting see-sawed across Mesopotamia until both sides, distracted by other frontiers, agreed to a truce. Anastasius then built the fortress city of Dara to guard the frontier.",
       "url": "https://en.wikipedia.org/wiki/Anastasian_War"
     },
     {
@@ -3644,6 +3673,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Austro-Turkish War (1716–1718) was fought between the Habsburg monarchy and the Ottoman Empire. The 1699 Treaty of Karlowitz was not an acceptable permanent agreement for the Ottoman Empire.",
+      "tldr": "Seeking to reverse losses from the 1699 Treaty of Karlowitz, the Ottoman Empire went to war against Venice in 1714, prompting the Habsburg monarchy to intervene on Venice's behalf in 1716. Austrian forces led by the celebrated general Prince Eugene of Savoy won major victories at Petrovaradin and, after a lengthy siege, captured the fortress city of Belgrade in 1717. The 1718 Treaty of Passarowitz ended the war, with the Ottomans ceding Belgrade, northern Serbia, and parts of Wallachia to Austria.",
       "url": "https://en.wikipedia.org/wiki/Austro-Turkish_War_%281716%E2%80%931718%29"
     },
     {
@@ -3725,6 +3755,7 @@
       "region": "South Asia",
       "period": "19th century",
       "desc": "The Aceh War was an armed military conflict between the Sultanate of Aceh and the Kingdom of the Netherlands, part of the Dutch conquest of Sumatra and Indonesia.",
+      "tldr": "Beginning in 1873, the Netherlands invaded the independent Sultanate of Aceh in northern Sumatra to complete its control over the Indonesian archipelago. Dutch forces captured the sultan's palace early on but faced decades of tenacious guerrilla resistance led by religious and local leaders across Aceh's difficult terrain. The conflict dragged on with immense casualties until Dutch \"pacification\" campaigns finally suppressed organized resistance in the early twentieth century. It stands as one of the longest, costliest wars of Dutch colonial expansion.",
       "url": "https://en.wikipedia.org/wiki/Aceh_War"
     },
     {
@@ -3860,6 +3891,7 @@
       "region": "Africa",
       "period": "19th century",
       "desc": "Ethiopian forces under Emperor Menelik II decisively defeated an invading Italian army, securing Ethiopian independence.",
+      "tldr": "On 1 March 1896, a large Ethiopian army led by Emperor Menelik II overwhelmed an invading Italian colonial force near the town of Adwa in northern Ethiopia. Poor Italian intelligence and overconfidence led three separated columns into disaster against Menelik's larger, well-armed force, with thousands of Italian and colonial troops killed or captured. The defeat forced Italy to recognize Ethiopian sovereignty, making Ethiopia the only African state to repel a European colonial conquest during the Scramble for Africa.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Adwa"
     },
     {
@@ -3869,6 +3901,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "The United States purchased Alaska from the Russian Empire for $7.2 million, extending American territory into the Arctic.",
+      "tldr": "In 1867, US Secretary of State William Seward negotiated the purchase of Alaska from the Russian Empire for $7.2 million, roughly two cents per acre. Russia sold the territory partly for fear of losing it without compensation in a future war, particularly to Britain, and because the fur trade that justified the colony was in decline. American critics mocked the deal as \"Seward's Folly,\" doubting the value of the remote territory. The later discovery of gold and oil proved it enormously valuable.",
       "url": "https://en.wikipedia.org/wiki/Alaska_Purchase"
     },
     {
@@ -4058,6 +4091,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Bitter urban battle in which American forces captured the first major German city of World War II.",
+      "tldr": "In October 1944, American forces of the US First Army fought their way into Aachen, the first major German city to fall to the Allies in the Second World War and symbolically significant as Charlemagne's historic seat. Hitler ordered the city defended to the last man, leading to nearly three weeks of brutal house-to-house urban combat. American troops eventually reduced German strongpoints with tanks and artillery firing point-blank through city streets, forcing a garrison surrender on 21 October.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Aachen"
     },
     {
@@ -4229,6 +4263,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "Signed in 1819 by John Quincy Adams and Luis de Onís, this treaty ceded Spanish Florida to the United States and fixed the western border between the US and New Spain along a line to the Pacific.",
+      "tldr": "Negotiated by US Secretary of State John Quincy Adams and Spanish minister Luis de Onís, this treaty, signed in 1819 and ratified in 1821, ceded all of Spanish Florida to the United States in exchange for the US assuming $5 million in claims by American citizens against Spain. It also drew a definitive boundary between Louisiana Territory and Spain's remaining possessions, running to the Pacific and confirming US claims to Oregon. It followed years of tension over Florida, including Andrew Jackson's unauthorized incursions there.",
       "url": "https://en.wikipedia.org/wiki/Adams%E2%80%93On%C3%ADs_Treaty"
     },
     {
@@ -4247,6 +4282,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "A series of Rashidun Caliphate campaigns from 639 to 661 against Byzantine-held Armenia. The fighting brought Armenia under Arab suzerainty while its local nakharar princes retained considerable autonomy.",
+      "tldr": "Between 639 and 661, armies of the Rashidun Caliphate launched repeated campaigns into Armenia, then contested between Byzantine and Sasanian influence, eventually bringing the region under Arab suzerainty. Rather than direct rule, the caliphate let Armenia's local nakharar noble families keep considerable autonomy over their hereditary territories in exchange for tribute and nominal submission. This let Armenian Christian culture and church institutions survive largely intact under Muslim overlordship for centuries.",
       "url": "https://en.wikipedia.org/wiki/Arab_invasion_of_Armenia"
     },
     {
@@ -4265,6 +4301,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "A conflict from 1654 to 1660 in which Oliver Cromwell's England attacked Spain's American and European possessions as part of the \"Western Design.\" England seized Jamaica from Spain during the fighting.",
+      "tldr": "Launched in 1654 as part of Oliver Cromwell's \"Western Design\" to weaken Catholic Spain's American empire, this war saw an English fleet fail to capture Santo Domingo but succeed in seizing the lightly defended island of Jamaica in 1655. Fighting spread to European waters, where English admirals like Robert Blake intercepted Spanish treasure convoys and won a notable victory at Santa Cruz de Tenerife. Spain, weakened by its parallel war with France, could not recapture Jamaica. The war ended in 1660 with English possession of Jamaica confirmed.",
       "url": "https://en.wikipedia.org/wiki/Anglo-Spanish_War"
     },
     {
@@ -4481,6 +4518,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The Attack of the Dead Men, or the Battle of Osowiec Fortress, was a battle of World War I that took place at Osowiec Fortress, at 4:00 AM on August 6, 1915.",
+      "tldr": "During the German siege of the Russian-held Osowiec Fortress in present-day Poland, German forces released chlorine gas before attacking at 4 a.m. on 6 August 1915, expecting the garrison wiped out. Instead, surviving Russian defenders of the 226th Zemlyansky Regiment, badly burned and coughing blood from the gas, mounted a desperate bayonet counterattack. The horrifying sight of these disfigured, dying soldiers reportedly panicked the German attackers into a chaotic retreat, a legend of Russian wartime endurance.",
       "url": "https://en.wikipedia.org/wiki/Attack_of_the_Dead_Men"
     },
     {
@@ -4562,6 +4600,7 @@
       "region": "Americas",
       "period": "Early modern (1500–1800)",
       "desc": "Long conflict between Spanish colonizers and the Mapuche people in Chile's Araucanía region.",
+      "tldr": "Beginning in 1546 and lasting, with intermittent truces, into the nineteenth century, the Arauco War pitted Spanish colonial forces against the Mapuche people of southern Chile, who fiercely resisted conquest of their Araucanía homeland. Mapuche warriors adapted quickly to European tactics and horses, inflicting notable defeats on the Spanish, including the death of conquistador Pedro de Valdivia in 1553. Unable to achieve lasting conquest, Spain eventually recognized the Bío-Bío River as a de facto frontier for centuries.",
       "url": "https://en.wikipedia.org/wiki/Arauco_War"
     },
     {
@@ -4715,6 +4754,7 @@
       "region": "Middle East",
       "period": "20th century onward",
       "desc": "The interstate phase of the 1948 Palestine war, fought between Israel and neighboring Arab states after Israel declared independence. Israel won, gaining more land than the UN partition plan had proposed.",
+      "tldr": "When Israel declared independence on 14 May 1948, armies from Egypt, Jordan, Syria, Iraq, and Lebanon invaded, opening the interstate phase of the wider 1948 Palestine war. Israeli forces, better organized despite an international arms embargo, halted the invasions and went on the offensive. Armistice agreements in 1949 left Israel controlling more territory than the 1947 UN partition plan had allotted, while Jordan and Egypt held the West Bank and Gaza. The war produced hundreds of thousands of Palestinian refugees.",
       "url": "https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War"
     },
     {
@@ -4724,6 +4764,7 @@
       "region": "Middle East",
       "period": "20th century onward",
       "desc": "Civil war between Palestine's Arab and Jewish communities after the UN partition vote, ending with British withdrawal and Israeli independence. It caused Palestinian displacement and led into the wider Arab–Israeli war.",
+      "tldr": "Following the UN's November 1947 vote to partition Mandatory Palestine, fighting broke out between Arab and Jewish communities even before British forces completed their withdrawal. Jewish militias gradually gained the upper hand over Palestinian Arab irregulars and allied volunteers, capturing key cities as British administration collapsed. The war culminated in Israel's 14 May 1948 declaration of independence, which triggered invasion by Arab states. Roughly 700,000 Palestinians were displaced, an event Palestinians call the Nakba.",
       "url": "https://en.wikipedia.org/wiki/1948_Palestine_war"
     },
     {
@@ -4868,6 +4909,7 @@
       "region": "Americas",
       "period": "20th century onward",
       "desc": "Japan launched a surprise strike on the US Pacific Fleet at Pearl Harbor, Hawaii, on 7 December 1941, sinking or damaging much of the battle fleet. The attack brought the United States into the Second World War.",
+      "tldr": "On the morning of 7 December 1941, hundreds of Japanese carrier-based aircraft struck the US Pacific Fleet at Pearl Harbor, Hawaii, in a surprise attack meant to cripple American naval power before Japan expanded into Southeast Asia. The raid sank or damaged eight battleships and killed over 2,400 Americans, though the fleet's carriers were at sea and escaped destruction. President Roosevelt called it \"a date which will live in infamy\" the next day, and Congress declared war on Japan almost unanimously, bringing the US into the war.",
       "url": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor"
     },
     {
@@ -4931,6 +4973,7 @@
       "region": "East Asia",
       "period": "20th century onward",
       "desc": "A mutual-defense pact between Britain and Japan signed in 1902, aimed chiefly at containing Russian expansion in East Asia. It underpinned Japan's rise as a great power until it lapsed in 1923.",
+      "tldr": "Signed in London in January 1902, the Anglo-Japanese Alliance committed each power to aid the other if attacked by more than one enemy, primarily to check Russian expansion into Manchuria and Korea. It gave Japan diplomatic cover to fight the Russo-Japanese War of 1904–1905 without fear of French intervention on Russia's behalf, a war Japan won decisively. Renewed and broadened twice, it helped bring Japan into the First World War on the Allied side. Rising unease over Japan's power led it to lapse in 1923.",
       "url": "https://en.wikipedia.org/wiki/Anglo-Japanese_Alliance"
     },
     {
@@ -4958,6 +5001,7 @@
       "region": "Africa",
       "period": "20th century onward",
       "desc": "In late August and early September 1942, Britain's Eighth Army under Montgomery repelled Rommel's attempt to break through south of El Alamein. The failed offensive left the Axis unable to threaten Egypt again.",
+      "tldr": "In early September 1942, German field marshal Erwin Rommel launched an offensive to outflank the British Eighth Army's Alamein line and break through to the Suez Canal. British commander Bernard Montgomery, newly arrived and forewarned by Ultra intelligence, had fortified the Alam el Halfa ridge and let Rommel's tanks exhaust themselves against strong defenses. Short on fuel, Rommel withdrew, ending Axis hopes of reaching Egypt and setting the stage for Montgomery's later offensive at El Alamein.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Alam_el_Halfa"
     },
     {
@@ -5381,6 +5425,7 @@
       "region": "Africa",
       "period": "19th century",
       "desc": "The British conquest of Egypt, also known as the 2nd Anglo-Egyptian War, occurred in 1882 between mostly Egyptian and Sudanese forces under Ahmed 'Urabi and the United Kingdom.",
+      "tldr": "In 1882, Britain intervened militarily in Egypt after a nationalist uprising led by army officer Ahmed 'Urabi threatened foreign financial control and the Suez Canal. A British fleet bombarded Alexandria, and an expeditionary force under General Garnet Wolseley decisively defeated 'Urabi's army at the Battle of Tel el-Kebir. The victory left Egypt under de facto British military occupation for decades, even though it remained nominally part of the Ottoman Empire. The war marked the start of Britain's long, informal rule over Egypt.",
       "url": "https://en.wikipedia.org/wiki/Anglo-Egyptian_War"
     },
     {
@@ -5426,6 +5471,7 @@
       "region": "Africa",
       "period": "20th century onward",
       "desc": "This treaty between Britain and Egypt ended Britain's military occupation of most of Egypt but let British troops remain to defend the Suez Canal Zone, and paved the way for Egypt to join the League of Nations.",
+      "tldr": "Signed in August 1936 amid rising fears of Italian aggression in the region, this treaty formally ended Britain's decades-long military occupation of Egypt while permitting British forces to remain in the Suez Canal Zone to defend the waterway. It granted Egypt greater sovereignty, including the right to build its own army, and cleared the way for Egypt's admission to the League of Nations that year. Nationalist sentiment still viewed the continued British troop presence as an affront to full independence.",
       "url": "https://en.wikipedia.org/wiki/Anglo-Egyptian_treaty_of_1936"
     },
     {
@@ -5435,6 +5481,7 @@
       "region": "Middle East",
       "period": "19th century",
       "desc": "Fought in 1856–1857 after Persia besieged Herat in violation of an earlier pledge to Britain, this war ended with the Treaty of Paris, under which Persia withdrew its claim to Herat and Afghanistan.",
+      "tldr": "War broke out in late 1856 after Qajar Persia besieged and captured the Afghan city of Herat, breaking an earlier pledge to Britain not to interfere there. Concerned about Persian, and by extension Russian, influence encroaching toward British India, Britain declared war and landed a force that captured the port of Bushire and defeated Persian troops near the Tigris. The 1857 Treaty of Paris ended the conflict, with Persia withdrawing from Herat and renouncing any claim to Afghan territory.",
       "url": "https://en.wikipedia.org/wiki/Anglo-Persian_War"
     },
     {
@@ -5462,6 +5509,7 @@
       "region": "Middle East",
       "period": "Medieval (500–1500)",
       "desc": "On 28 June 1119, an Artuqid army under Ilghazi annihilated the Crusader field army of Antioch near Sarmada, killing its ruler Roger of Salerno. Antioch survived only because the Turks failed to press their advantage.",
+      "tldr": "On 28 June 1119, the Artuqid ruler Ilghazi led a Muslim army that ambushed and virtually annihilated the field army of the Crusader Principality of Antioch near Sarmada, so severe a disaster the site became known as the Field of Blood. Antioch's regent Roger of Salerno was killed along with most of his knights, leaving the principality almost undefended. Antioch survived only because Ilghazi's coalition, more interested in plunder than conquest, failed to follow up with an assault on the city itself.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Field_of_Blood"
     },
     {
@@ -5471,6 +5519,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "A 1284–1285 papal-sanctioned invasion of the Crown of Aragon by France, launched to punish King Peter III for seizing Sicily from the Angevins. The campaign collapsed after disease and defeat forced a French retreat.",
+      "tldr": "Declared by Pope Martin IV, the Aragonese Crusade of 1284–1285 authorized the French crown to invade Aragon and depose King Peter III as punishment for seizing Sicily from the Angevins during the Sicilian Vespers uprising. A large French army under King Philip III crossed the Pyrenees and besieged the Catalan city of Girona, initially making progress. An outbreak of dysentery, combined with an Aragonese naval victory that cut off supplies, forced a disastrous French retreat in which Philip III died.",
       "url": "https://en.wikipedia.org/wiki/Aragonese_Crusade"
     },
     {
@@ -5804,6 +5853,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Bulgarian forces under Tsar Simeon I crushed a Byzantine army near the Achelous river, a major Bulgarian victory over Byzantium.",
+      "tldr": "In 917, Bulgarian forces under Tsar Simeon I ambushed and crushed a Byzantine army near the Achelous river as it marched to confront the Bulgarians in the Balkans. The Byzantine commander Leo Phokas fled the field, and the rout was one of the most devastating Byzantine defeats of the medieval period, with heavy losses among veteran troops. The victory let Simeon press deep into Byzantine territory and strengthened his claim to the title of Emperor of the Bulgarians, marking the peak of Bulgarian power.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Achelous"
     },
     {
