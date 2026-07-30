@@ -342,6 +342,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Battle of Smolensk (1812), fought during Napoleon's invasion of Russia.",
+      "tldr": "In mid-August 1812, advancing French forces under Napoleon caught up with the retreating Russian army near Smolensk and bombarded the ancient city into ruins before capturing it. Russian commander Barclay de Tolly chose to abandon the burning city rather than risk his army in a decisive battle, continuing the scorched-earth withdrawal that would doom Napoleon's invasion. The devastation at Smolensk foreshadowed the wider destruction Napoleon's army would leave and later suffer during the Russian campaign.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Smolensk"
     },
     {
@@ -351,6 +352,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Stephen III of Moldavia's victory over Ottoman forces near Vaslui in 1475.",
+      "tldr": "In January 1475, Stephen III of Moldavia, later known as Stephen the Great, used the region's marshy terrain and a scorched-earth strategy to lure and defeat a much larger Ottoman invasion force under Suleiman Pasha near Vaslui. The stunning victory, achieved against overwhelming numerical odds, prompted Pope Sixtus IV to reportedly hail Stephen as an \"Athlete of Christ\" for the wider defense of Christendom. The Ottomans returned in force the following year seeking revenge, but Stephen's reputation as a defender of his small principality was cemented.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Vaslui"
     },
     {
@@ -654,6 +656,7 @@
       "region": "East Asia",
       "period": "19th century",
       "desc": "The Battle of Toba–Fushimi occurred between pro-Imperial and Tokugawa shogunate forces during the Boshin War in Japan, beginning on 27 January 1868 near Kyoto.",
+      "tldr": "Beginning on 27 January 1868 near Kyoto, a numerically smaller Imperial force, bolstered by modern rifles and artillery and carrying a banner claimed to represent the emperor, decisively defeated the much larger army of the Tokugawa shogunate. The unexpected Tokugawa collapse triggered the wider Boshin War and accelerated the fall of the shogunate that had ruled Japan for over two and a half centuries. The victory cleared the way for the sweeping reforms of the Meiji Restoration.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Toba%E2%80%93Fushimi"
     },
     {
@@ -861,6 +864,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The longest battle of the First World War, fought from February to December 1916 as German forces attacked French defences north of Verdun.",
+      "tldr": "Beginning in February 1916, German Chief of Staff Erich von Falkenhayn launched a massive offensive against the symbolically vital French fortress city of Verdun, intending to \"bleed France white\" through sheer attrition. French forces under General Philippe Pétain held the line via the improvised supply route known as the Voie Sacrée, under the rallying cry \"Ils ne passeront pas.\" By the time fighting wound down in December 1916, the ten-month battle had produced roughly 700,000 combined casualties and become a lasting symbol of the war's carnage.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Verdun"
     },
     {
@@ -956,6 +960,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Decisive Yorkist victory over Lancastrian forces in the Wars of the Roses, killing the Lancastrian heir Edward of Westminster.",
+      "tldr": "On 4 May 1471, King Edward IV's Yorkist army crushed the Lancastrian forces of Margaret of Anjou near Tewkesbury during the Wars of the Roses. Edward of Westminster, the seventeen-year-old Lancastrian heir and Henry VI's only son, was killed in the fighting or its immediate aftermath, ending the direct Lancastrian line of succession. Henry VI himself, held prisoner in the Tower of London, died shortly after the battle, leaving Edward IV's throne effectively secure.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury"
     },
     {
@@ -1128,6 +1133,7 @@
       "region": "South Asia",
       "period": "Early modern (1500–1800)",
       "desc": "An alliance of Deccan sultanates crushed the Vijayanagara Empire, triggering the eventual collapse of the last great Hindu empire of southern India.",
+      "tldr": "In January 1565, an alliance of the Deccan Sultanates of Bijapur, Ahmadnagar, Golconda, and Bidar united against their common rival, the Hindu Vijayanagara Empire, near the village of Talikota. The death of Vijayanagara's powerful regent Rama Raya on the battlefield triggered a collapse in the empire's army and command structure. In the aftermath, the victorious sultanates sacked and burned the magnificent capital city of Vijayanagara, ending the last great Hindu empire of southern India.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Talikota"
     },
     {
@@ -1166,6 +1172,7 @@
       "region": "Europe",
       "period": "Ancient (to 500 CE)",
       "desc": "Roman forces under Julian defeated the Alamanni confederation near modern Strasbourg, securing the Rhine frontier.",
+      "tldr": "In 357, the Roman Caesar Julian, later emperor, led a heavily outnumbered force against a large confederation of Alamanni tribes under King Chnodomarius near modern Strasbourg. Julian's disciplined legions broke the Alamanni line and captured Chnodomarius himself, securing the Rhine frontier against further incursions for years. The victory greatly enhanced Julian's military reputation among his troops, who would later acclaim him emperor in defiance of Constantius II.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Strasbourg"
     },
     {
@@ -1203,6 +1210,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Serbian forces defeated the Bulgarian Empire near Velbazhd, shifting the balance of power in the Balkans toward Serbia.",
+      "tldr": "In 1330, Serbian King Stefan Decanski defeated the Bulgarian Tsar Michael Shishman near Velbazhd, in modern North Macedonia, with Michael dying of wounds sustained in the fighting. The Bulgarian defeat marked a decisive shift in the balance of power in the Balkans away from Bulgaria and toward Serbia. It paved the way for Serbia's rapid rise under Stefan Dušan, who would go on to build the largest Serbian empire in history within a generation.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Velbazhd"
     },
     {
@@ -1403,6 +1411,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "One of the bloodiest engagements of the Spanish Civil War, fought in brutal winter conditions as the city changed hands before falling to Nationalist forces.",
+      "tldr": "Fought over the winter of 1937–38 in some of the harshest conditions of the Spanish Civil War, this battle saw Republican forces capture the city of Teruel before Nationalist troops recaptured it after months of brutal urban and winter fighting. Extreme cold killed and disabled as many soldiers on both sides as combat did. The exhausting struggle drained Republican reserves and manpower just before Franco's forces launched their decisive Aragon offensive.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Teruel"
     },
     {
@@ -1451,6 +1460,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The opening battle of World War I's Eastern Front, in which German forces under Hermann von François defeated a larger but disorganized Russian force.",
+      "tldr": "On 17 August 1914, German General Hermann von François disobeyed orders to fall back and instead attacked the advancing Russian First Army under Paul von Rennenkampf near Stallupönen in East Prussia. The German forces inflicted a sharp local defeat before withdrawing as planned, and the encounter boosted German confidence in the opening days of the Eastern Front. It set the stage for the far larger German victory at Tannenberg just days later.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Stallup%C3%B6nen"
     },
     {
@@ -1686,6 +1696,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Decisive German victory over the Russian army in East Prussia during the opening weeks of World War I.",
+      "tldr": "In late August 1914, the German Eighth Army under Paul von Hindenburg and Erich Ludendorff, aided by staff officer Max Hoffmann's use of intercepted Russian wireless signals, encircled and destroyed the Russian Second Army under Alexander Samsonov in East Prussia. Samsonov, facing the scale of the disaster, reportedly took his own life rather than report the defeat to the tsar. The German triumph, named after a nearby village to evoke an earlier medieval battle, shattered Russian offensive hopes on the Eastern Front for the rest of 1914.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tannenberg"
     },
     {
@@ -1705,6 +1716,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "Bloody two-week clash between Grant's and Lee's armies in Virginia during the American Civil War's Overland Campaign.",
+      "tldr": "Fought over nearly two weeks in May 1864 as part of Grant's Overland Campaign, this battle saw brutal, often hand-to-hand fighting between the Union and Confederate armies in Virginia, including at the notorious \"Bloody Angle\" salient. Neither side achieved a decisive breakthrough, but the fighting inflicted roughly 30,000 combined casualties. Rather than withdraw after the stalemate, as earlier Union commanders had, Grant continued pressing south, reflecting his strategy of relentless attrition against Lee's army.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Spotsylvania_Court_House"
     },
     {
@@ -1808,6 +1820,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "Inconclusive but bloody Civil War battle near Richmond, Virginia, notable for wounding Confederate general Joseph Johnston.",
+      "tldr": "Fought on 31 May and 1 June 1862 near Richmond during the Peninsula Campaign, this Civil War engagement ended inconclusively despite heavy casualties on both sides. Its lasting significance came off the battlefield: Confederate commander Joseph E. Johnston was severely wounded, and President Jefferson Davis replaced him with Robert E. Lee, who would lead the Army of Northern Virginia for the rest of the war. Also known as the Battle of Fair Oaks, it is remembered mainly as the moment that put Lee in command.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Seven_Pines"
     },
     {
@@ -1835,6 +1848,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Napoleon's forces broke through a Spanish mountain pass defense on the road to Madrid during the Peninsular War.",
+      "tldr": "On 30 November 1808, Napoleon personally ordered a squadron of his Polish light cavalry to charge directly up a narrow mountain pass into entrenched Spanish artillery batteries blocking the road to Madrid. The reckless charge, though costly, broke the Spanish defense and cleared the pass, allowing French forces to advance on the capital days later. The episode became one of the most celebrated cavalry actions of the Napoleonic Wars and cemented the reputation of Napoleon's Polish guard.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Somosierra"
     },
     {
@@ -1863,6 +1877,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Decisive Prussian victory that captured Napoleon III and effectively ended the Franco-Prussian War.",
+      "tldr": "In late August and early September 1870, Prussian and allied German forces under Helmuth von Moltke encircled a French army under Marshal MacMahon, with Emperor Napoleon III present, at the fortress town of Sedan. Trapped and pounded by artillery, Napoleon III surrendered himself and roughly 100,000 troops on 2 September 1870. The humiliating capture ended the Second French Empire almost immediately, as Paris proclaimed the Third Republic within days, though the wider war dragged on.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Sedan"
     },
     {
@@ -1908,6 +1923,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Napoleon's maneuvers forced the surrender of an Austrian army without a major battle, opening the road to Vienna.",
+      "tldr": "In October 1805, Napoleon's rapid and coordinated marches encircled an Austrian army under General Mack near the city of Ulm before a major battle could even develop. Cut off from supplies and reinforcement, Mack surrendered roughly 25,000 to 30,000 troops on 20 October, one of the largest bloodless capitulations of the era. The stunning maneuver opened the road to Vienna and showcased the operational brilliance that Napoleon would follow weeks later with his crushing victory at Austerlitz.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ulm"
     },
     {
@@ -2171,6 +2187,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Peninsular War battle in which Anglo-Spanish forces under Wellington fought Napoleon's army to a costly standstill in Spain.",
+      "tldr": "In late July 1809, an Anglo-Spanish army under the Duke of Wellington and General Cuesta fought two of Napoleon's marshals to a costly standstill near Talavera de la Reina in Spain. Both sides suffered heavy losses in the sweltering summer heat, and grass fires reportedly burned wounded soldiers where they lay on the field. The hard-fought stand earned Wellington his viscountcy, though supply shortages and the threat of encirclement forced the allied army to retreat into Portugal soon afterward.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Talavera"
     },
     {
@@ -2209,6 +2226,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Frankish and Burgundian forces under Charles Martel halted an Umayyad invasion force in western France.",
+      "tldr": "In October 732, near the border of Frankish Aquitaine, an infantry force under Charles Martel withstood repeated cavalry charges from an Umayyad army led by Abdul Rahman Al Ghafiqi, who was killed in the fighting. The Frankish and Burgundian victory, traditionally seen as halting further large-scale Muslim expansion into western Europe, cemented Martel's power and laid the foundation for the rise of the Carolingian dynasty. Modern historians debate how decisive the battle truly was strategically, even as its symbolic importance endured for centuries.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tours"
     },
     {
@@ -2237,6 +2255,7 @@
       "region": "Oceania",
       "period": "20th century onward",
       "desc": "US forces captured the Mariana Islands island of Tinian from Japan; it later served as the launch site for the atomic bomb missions.",
+      "tldr": "In late July and early August 1944, US forces landed on Tinian in the Mariana Islands shortly after capturing neighboring Saipan, using deceptive feints and, controversially, some of the first large-scale use of napalm against Japanese defenders. The island was secured within about a week at relatively low American cost compared to other Pacific landings. Its captured airfields were later expanded to become the launch point for the B-29 bombers Enola Gay and Bockscar on their atomic bombing missions against Japan.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tinian"
     },
     {
@@ -2302,6 +2321,7 @@
       "region": "East Asia",
       "period": "19th century",
       "desc": "Final battle of the Satsuma Rebellion in Japan, in which imperial forces crushed Saigō Takamori's samurai rebels.",
+      "tldr": "On 24 September 1877, the last few hundred samurai loyal to Saigō Takamori made their final stand on the hill of Shiroyama against a vastly larger imperial conscript army equipped with modern artillery. The rebels were annihilated, and Saigō himself died in the fighting, traditionally said to have been assisted to death by a retainer after being mortally wounded. The defeat crushed the Satsuma Rebellion and confirmed the supremacy of Japan's new Western-style national army over the old samurai class.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Shiroyama"
     },
     {
@@ -2329,6 +2349,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Christian Castilian and Portuguese forces defeated a Marinid-Nasrid invasion, ending major Muslim offensives on the Iberian Peninsula.",
+      "tldr": "In October 1340, King Alfonso XI of Castile and King Afonso IV of Portugal joined forces to crush an invading army led by the Marinid sultan Abu al-Hasan Ali and the Nasrid emir of Granada near the Salado River. The Christian victory broke the last serious attempt by a North African power to reverse the Reconquista through direct invasion. Losses among the Marinid army were reportedly catastrophic, and the sultan barely escaped back to Morocco, ending large-scale African intervention in Iberian affairs.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_R%C3%ADo_Salado"
     },
     {
@@ -2696,6 +2717,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "King Harold II's victory over Norwegian invaders in England, ending Viking claims to the English throne.",
+      "tldr": "On 25 September 1066, King Harold II of England force-marched his army north and caught the Norwegian king Harald Hardrada, allied with Harold's exiled brother Tostig, by surprise near York. The Norwegian invaders, many without their armor, were routed and both Hardrada and Tostig were killed, effectively ending Viking claims to the English throne. The victory came at a heavy cost, though: Harold's exhausted army then had to march south to face William of Normandy's invasion at Hastings just weeks later.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge"
     },
     {
@@ -2743,6 +2765,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "A decisive battle of the Finnish Civil War in which White forces captured the Red stronghold of Tampere.",
+      "tldr": "In March and April 1918, White Guard forces under Carl Gustaf Mannerheim laid siege to Tampere, an industrial stronghold held by Finland's Red Guards during the country's brief but bloody civil war. After weeks of intense street fighting, the city fell to the Whites, breaking the back of Red resistance in western Finland. It remains one of the deadliest single engagements of the Finnish Civil War and marked a decisive turning point toward the White side's eventual victory.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tampere"
     },
     {
@@ -3347,6 +3370,7 @@
       "region": "East Asia",
       "period": "Early modern (1500–1800)",
       "desc": "The Battle of Sekigahara was an important battle in Japan which occurred on October 21, 1600 in what is now Gifu Prefecture, Japan, at the end of the Sengoku period.",
+      "tldr": "On 21 October 1600, Tokugawa Ieyasu's Eastern army faced Ishida Mitsunari's Western coalition in a fog-shrouded valley in what is now Gifu Prefecture. The outcome hinged on mid-battle defections, most notably Kobayakawa Hideaki's switch to Ieyasu's side, which collapsed the Western line. Ieyasu's victory eliminated his rivals for control of Japan and led directly to his founding of the Tokugawa shogunate, closing out the chaotic Sengoku period.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Sekigahara"
     },
     {
@@ -3563,6 +3587,7 @@
       "region": "Oceania",
       "period": "20th century onward",
       "desc": "A bloody 1943 amphibious battle between the US and Japan on Tarawa Atoll in the Gilbert Islands, part of Operation Galvanic.",
+      "tldr": "In November 1943, US Marines launched a costly amphibious assault on the heavily fortified islet of Betio in Tarawa Atoll, part of Operation Galvanic in the Gilbert Islands. Miscalculated tides stranded landing craft on a coral reef far from shore, forcing many Marines to wade hundreds of yards under fire from entrenched Japanese defenders. The 76-hour battle killed roughly 1,000 Marines and nearly the entire Japanese garrison, and the shockingly high toll prompted major changes to American amphibious assault doctrine.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tarawa"
     },
     {
@@ -3572,6 +3597,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "A disastrous World War I engagement between Russian and Ottoman forces in the Caucasus campaign, fought in winter 1914–15.",
+      "tldr": "In the winter of 1914–15, Ottoman War Minister Enver Pasha personally led the Third Army on an ambitious encircling offensive against Russian forces in the Caucasus near Sarikamish. Poor planning and brutal sub-zero temperatures proved as deadly as combat: tens of thousands of Ottoman troops froze to death or were lost to exposure and disease during the failed maneuver. The catastrophic defeat gutted the Ottoman Third Army and is often cited among the grievances later used to scapegoat Armenian communities in the region.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Sarikamish"
     },
     {
@@ -3608,6 +3634,7 @@
       "region": "East Asia",
       "period": "20th century onward",
       "desc": "A major 1937 battle of the Second Sino-Japanese War fought in Shanghai, among the largest battles of the entire war.",
+      "tldr": "Beginning in August 1937, Chiang Kai-shek committed his best-trained divisions to defend Shanghai in a grinding, three-month urban battle against invading Japanese forces. Fighting street by street with modern weapons on both sides produced casualties that drew comparisons to World War I attrition battles. Chinese forces ultimately withdrew toward Nanjing after suffering enormous losses, but the prolonged resistance disrupted Japan's expectation of a swift victory and drew international attention to the war.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Shanghai"
     },
     {
@@ -3737,6 +3764,7 @@
       "region": "Europe",
       "period": "Ancient (to 500 CE)",
       "desc": "A battle between the Franks under Clovis I and the Alamanni, traditionally dated to 496, near what is now Zülpich, Germany.",
+      "tldr": "Traditionally dated to 496 near what is now Zülpich, Germany, this battle pitted the pagan Frankish king Clovis I against the Alamanni. According to a story recorded decades later by Gregory of Tours, Clovis, facing defeat, vowed to convert to the Christian God of his wife Clotilde if granted victory, and the tide of battle then turned in his favor. Whatever actually happened on the field, the tale became a foundational legend for Clovis's subsequent baptism and for Frankish Gaul's identification with Catholic Christianity.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tolbiac"
     },
     {
@@ -3971,6 +3999,7 @@
       "region": "South Asia",
       "period": "20th century onward",
       "desc": "Japanese forces captured Singapore from the British in February 1942, one of the largest surrenders in British military history.",
+      "tldr": "In early 1942, Japanese forces under Tomoyuki Yamashita advanced rapidly down the Malay Peninsula on bicycles and light transport before crossing the Johor Strait onto Singapore Island. Despite outnumbering the attackers, the British and Commonwealth garrison under Arthur Percival surrendered on 15 February 1942 after Japanese troops seized the island's water supply and key positions. Winston Churchill called the loss of some 80,000 troops the worst disaster in British military history.",
       "url": "https://en.wikipedia.org/wiki/Fall_of_Singapore"
     },
     {
@@ -3980,6 +4009,7 @@
       "region": "East Asia",
       "period": "Medieval (500–1500)",
       "desc": "Goguryeo forces annihilated a vastly larger Sui Chinese army at the Salsu River, a decisive victory in the Goguryeo–Sui War.",
+      "tldr": "In 612, a huge Sui Chinese invasion force under Yuwen Shu pushed deep into Goguryeo territory toward Pyongyang, only to find itself overextended and short of supplies. Goguryeo general Eulji Mundeok lured the retreating Sui army into a crossing of the Salsu (Chongchon) River, then annihilated it, with only a small fraction of the original force reportedly making it back to China. The disaster crippled Emperor Yang's authority and contributed to the Sui dynasty's collapse within a few years.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Salsu"
     },
     {
@@ -4161,6 +4191,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Franco-Piedmontese victory over Austria that was the climactic battle of the Second Italian War of Independence.",
+      "tldr": "On 24 June 1859, French and Piedmontese forces under Napoleon III and Victor Emmanuel II defeated the Austrian army commanded by Emperor Franz Joseph in the largest battle fought in Europe since Leipzig. The engagement, marked by chaotic close-quarters fighting and roughly 30,000 casualties, was the decisive clash of the Second Italian War of Independence. Swiss businessman Henry Dunant witnessed the aftermath and was so shaken by the suffering of wounded soldiers that he was inspired to found the Red Cross.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Solferino"
     },
     {
@@ -4247,6 +4278,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "German offensive that encircled and annihilated two Soviet armies near Uman, Ukraine, in 1941.",
+      "tldr": "In late July and early August 1941, German and allied Axis forces encircled the Soviet Sixth and Twelfth Armies near Uman in Ukraine during the opening months of Operation Barbarossa. The resulting \"Uman pocket\" trapped over 100,000 Soviet soldiers, most of whom were killed or captured as the encirclement closed. It was one of several catastrophic Soviet defeats in the summer of 1941 that nearly destroyed the Red Army's forces in Ukraine before the front stabilized later that year.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Uman"
     },
     {
@@ -4265,6 +4297,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Ottoman victory over a Crusader army led by Władysław III of Poland and Hungary, ending the Crusade of Varna.",
+      "tldr": "In November 1444, a Crusader army led by the young Polish-Hungarian king Wladyslaw III and the Hungarian commander John Hunyadi marched into the Balkans to expel the Ottomans from Europe, but was crushed by Sultan Murad II's forces near the Black Sea port of Varna. Wladyslaw was killed in the fighting, reportedly beheaded with his head displayed on a pike as proof of the Ottoman victory. The disastrous defeat ended the Crusade of Varna and secured Ottoman dominance in the Balkans for generations.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Varna"
     },
     {
@@ -4466,6 +4499,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "On 7 November 1811, American forces under William Henry Harrison defeated Tecumseh's Native confederacy while Tecumseh was away, dispersing the alliance and giving Harrison a reputation he later rode to the presidency.",
+      "tldr": "On 7 November 1811, Governor William Henry Harrison led a preemptive expedition against Prophetstown, the settlement built by Tecumseh and his brother Tenskwatawa to unite Native American resistance to US expansion. With Tecumseh away recruiting allies, Tenskwatawa's warriors launched a dawn attack on Harrison's camp instead of waiting to be struck, and both sides took heavy losses before the Americans burned the village. The battle badly weakened Tecumseh's confederacy and gave Harrison the nickname he later rode to the presidency in his 1840 \"Tippecanoe and Tyler Too\" campaign.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tippecanoe"
     },
     {
@@ -4493,6 +4527,7 @@
       "region": "South Asia",
       "period": "19th century",
       "desc": "On 12 September 1897, 21 soldiers of the 36th Sikhs held a signalling post against thousands of Afghan tribesmen, fighting to the last man; the stand is remembered as one of history's celebrated last stands.",
+      "tldr": "On 12 September 1897, twenty-one soldiers of the 36th Sikh Regiment held an isolated signalling post on the Samana Range against an assault by thousands of Orakzai and Afridi tribesmen. Every defender fought to the death, but their resistance delayed the attackers long enough for nearby forts to be reinforced and held. The stand is commemorated annually by Sikh regiments and is often ranked among history's most celebrated last stands for its extreme disparity in numbers.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Saragarhi"
     },
     {
@@ -4569,6 +4604,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Fought from August 1942 to February 1943, Soviet forces encircled and destroyed Germany's Sixth Army in the deadliest battle in history, marking the turning point of World War II on the Eastern Front.",
+      "tldr": "From August 1942 to February 1943, German and Soviet forces fought a grinding, house-by-house battle for the city of Stalingrad that became the deadliest single battle in history. Soviet commanders launched Operation Uranus in November 1942, encircling Germany's Sixth Army under Friedrich Paulus, who surrendered against Hitler's explicit orders once relief and resupply proved impossible. The German defeat, with roughly two million combined casualties, is widely seen as the psychological and strategic turning point of World War II on the Eastern Front.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad"
     },
     {
@@ -4587,6 +4623,7 @@
       "region": "Europe",
       "period": "Ancient (to 500 CE)",
       "desc": "In 486, Frankish king Clovis I defeated the Roman general Syagrius near Soissons, ending the last vestige of Roman rule in northern Gaul and opening the region to Frankish control.",
+      "tldr": "In 486, the Frankish king Clovis I defeated Syagrius, the last Roman military governor still holding territory in northern Gaul, near Soissons. The victory ended organized Roman rule in the region and opened the way for Frankish consolidation of what would become France. A famous later anecdote, the Vase of Soissons, in which Clovis executed a soldier who defied him over looted treasure, is often cited as an early demonstration of his growing royal authority over his warband.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Soissons"
     },
     {
@@ -4605,6 +4642,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "In 1086, Almoravid forces under Yusuf ibn Tashfin defeated Alfonso VI of Castile at Sagrajas, checking the Christian reconquest of Iberia and opening al-Andalus to decades of Almoravid rule.",
+      "tldr": "Yusuf ibn Tashfin, founder of the Almoravid dynasty, crossed from North Africa at the invitation of Iberia's Muslim rulers to help stem the Christian advance, and on 23 October 1086 his combined forces crushed Alfonso VI of Castile near Sagrajas. The defeat, one of the worst suffered by a Christian king during the Reconquista, cost Alfonso most of his army and stalled his expansion for years. The victory also gave the Almoravids the pretext to depose the fractious taifa kings and absorb al-Andalus directly into their empire.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Sagrajas"
     },
     {
@@ -4775,6 +4813,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "France's first major Revolutionary War victory, halting a Prussian advance on Paris.",
+      "tldr": "On 20 September 1792, a French revolutionary army, many of its soldiers raw volunteers, stood its ground against an invading Prussian force near Valmy in an engagement decided largely by an extended artillery duel rather than close combat. The Prussians, weakened by disease and logistical strain, unexpectedly withdrew rather than press the attack. The unlikely French stand, witnessed by the writer Goethe among the Prussian entourage, boosted revolutionary confidence and is often cited as marking a new era in European history.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Valmy"
     },
     {
@@ -4866,6 +4905,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Finnish forces defeated a much larger Soviet army during the Winter War of 1939–40.",
+      "tldr": "Over December 1939 and January 1940, Finnish ski troops under Colonel Hjalmar Siilasvuo used mobility and knowledge of the terrain to encircle and destroy two invading Soviet divisions in the forests around Suomussalmi. Fighting in temperatures far below freezing, the Finns broke the larger Soviet force into isolated pockets, or \"mottis,\" and picked them off piecemeal. The lopsided victory, achieved against a vastly larger enemy, became one of the most celebrated episodes of Finnish resistance during the Winter War.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Suomussalmi"
     },
     {
@@ -4904,6 +4944,7 @@
       "region": "Middle East",
       "period": "Medieval (500–1500)",
       "desc": "The Battle of Uhud was fought between the early Muslims and the Quraysh during the Muslim–Quraysh wars in a valley north of Medina near Mount Uhud on Saturday, 23 March 625 AD.",
+      "tldr": "Fought on 23 March 625 in a valley near Mount Uhud north of Medina, this battle initially favored the outnumbered Muslim forces under Muhammad until a group of archers left their post to seize plunder, abandoning a key defensive position. Meccan Quraysh cavalry under Khalid ibn al-Walid exploited the gap to encircle and rout the Muslims, wounding Muhammad and killing his uncle Hamza. The defeat, a stark contrast to the earlier victory at Badr, became a lasting lesson on discipline and obedience referenced in the Quran.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Uhud"
     },
     {
@@ -4942,6 +4983,7 @@
       "region": "East Asia",
       "period": "Medieval (500–1500)",
       "desc": "In July 751, Abbasid and allied forces defeated Tang China's army near the Talas River, halting Chinese expansion into Central Asia and, by tradition, helping papermaking technology spread to the Islamic world.",
+      "tldr": "In July 751, an Abbasid army under Ziyad ibn Salih clashed with a Tang Chinese force under Gao Xianzhi near the Talas River in Central Asia, with the battle's outcome decided when Karluk mercenaries fighting for the Chinese defected mid-fight. The Abbasid victory halted further Tang expansion westward and secured Central Asia for Islamic influence for centuries. According to tradition, though the details are debated, Chinese prisoners taken after the battle helped transmit papermaking technology to the Islamic world.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Talas"
     },
     {
@@ -4970,6 +5012,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "On 11 September 1297, Scottish forces under William Wallace and Andrew Moray defeated a larger English army by exploiting a narrow river crossing, a decisive early victory in the Wars of Scottish Independence.",
+      "tldr": "On 11 September 1297, Scottish forces under William Wallace and Andrew Moray watched as a much larger English army under the Earl of Surrey began crossing a narrow wooden bridge over the River Forth. The Scots attacked once enough English troops had crossed, trapping and slaughtering them while the rest of the army could only watch helplessly from the far bank. The decisive victory, one of the few times medieval infantry defeated mounted knights so completely, made Wallace's reputation and led to his appointment as Guardian of Scotland.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Stirling_Bridge"
     },
     {
@@ -5186,6 +5229,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "On the night of 11–12 November 1940, British carrier aircraft crippled the Italian fleet at anchor at Taranto in the first all-aircraft ship-to-ship attack in naval history, later studied by planners of Pearl Harbor.",
+      "tldr": "On the night of 11–12 November 1940, twenty-one obsolete Fairey Swordfish biplanes launched from the British carrier HMS Illustrious attacked the Italian fleet at anchor in its harbor at Taranto. The raid sank or crippled three battleships for the loss of just two aircraft, in the first all-aircraft ship-to-ship attack in naval history. Japanese naval officers studied the operation closely, and it is widely credited as an influence on the planning of the attack on Pearl Harbor a year later.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Taranto"
     },
     {
@@ -5470,6 +5514,7 @@
       "region": "Africa",
       "period": "Medieval (500–1500)",
       "desc": "On 15 December 533, Byzantine general Belisarius decisively defeated the Vandal army, effectively ending the Vandal Kingdom and returning North Africa to Roman rule.",
+      "tldr": "On 15 December 533, the Byzantine general Belisarius decisively defeated the army of the Vandal king Gelimer near Carthage during Emperor Justinian I's campaign to reconquer North Africa. Gelimer fled into the mountains and eventually surrendered the following year, ending nearly a century of independent Vandal rule. The victory restored North Africa to Roman control and stood as one of the signature triumphs of Justinian's ambitious reconquest of the western Mediterranean.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tricamarum"
     },
     {
@@ -5725,6 +5770,7 @@
       "region": "East Asia",
       "period": "20th century onward",
       "desc": "The Battle of Taierzhuang took place during the Second Sino-Japanese War in 1938. It was fought between the armies of the Republic of China and the Empire of Japan at the peak of the Xuzhou Campaign.",
+      "tldr": "Fought in the spring of 1938 as part of the wider Xuzhou Campaign, this battle saw Chinese forces under General Li Zongren surround and destroy a Japanese division that had advanced too aggressively into the walled town of Taierzhuang. It was the first major Chinese victory of the Second Sino-Japanese War and delivered a significant boost to national morale after a string of defeats. Japan nonetheless went on to capture Xuzhou soon after, limiting the battle's strategic impact.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Taierzhuang"
     },
     {
@@ -5799,6 +5845,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "The Battle of Towton took place on 29 March 1461 during the Wars of the Roses, near Towton in North Yorkshire. Yorkist forces decisively defeated Lancastrian supporters of Henry VI, securing the English throne for Edward IV.",
+      "tldr": "Fought during a blinding snowstorm on Palm Sunday, 29 March 1461, this clash between Yorkist and Lancastrian forces is often considered the largest and bloodiest battle ever fought on English soil, with estimates running well into the tens of thousands of dead. Edward IV's Yorkist army pressed a decisive advantage as the wind-driven snow favored their archers, eventually routing the Lancastrian forces loyal to Henry VI. The overwhelming victory secured Edward's hold on the English throne for the following decade.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Towton"
     },
     {
@@ -5855,6 +5902,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The Battle of Tolvajärvi began on 12 December 1939 and lasted about a week and a half between Finland and the Soviet Union, marking the first large Finnish offensive victory of the Winter War.",
+      "tldr": "Beginning on 12 December 1939 and lasting about ten days, Finnish forces under Colonel Paavo Talvela encircled and routed the Soviet 139th Division in the freezing forests near Lake Tolvajärvi. It was the first significant Finnish offensive victory of the Winter War, following a series of defensive stands elsewhere on the front. The win gave a considerable boost to Finnish morale and demonstrated the effectiveness of small, mobile units against the Red Army's larger but less adaptable formations.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tolvaj%C3%A4rvi"
     },
     {
@@ -5940,6 +5988,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "The Battle of Toulouse (721) was fought between the Duchy of Aquitaine and the Umayyad Caliphate near Toulouse, France, resulting in an Aquitanian victory that halted the Umayyad advance.",
+      "tldr": "In 721, Duke Odo of Aquitaine surprised and routed the besieging army of the Umayyad governor As-Samh ibn Malik outside the walls of Toulouse, killing As-Samh in the fighting. The Aquitanian victory halted the first major Umayyad thrust into Francia and bought roughly a decade before a later Muslim invasion force would be turned back again at Tours in 732. It remains a lesser-known but strategically important check on early Islamic expansion into western Europe.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Toulouse"
     },
     {
@@ -5977,6 +6026,7 @@
       "region": "Americas",
       "period": "Early modern (1500–1800)",
       "desc": "The Battle of Trenton was a pivotal American Revolutionary War battle on 26 December 1776 in Trenton, New Jersey, where Washington's Continental Army defeated Hessian forces after crossing the Delaware.",
+      "tldr": "In the early hours of 26 December 1776, George Washington's Continental Army, having crossed the ice-choked Delaware River the previous night, launched a surprise attack on the Hessian garrison holding Trenton, New Jersey. Caught off guard after Christmas celebrations, the Hessians were quickly overwhelmed, and nearly 900 were captured for minimal American losses. Coming after a string of demoralizing defeats, the victory revived flagging revolutionary morale and helped Washington reenlist troops whose terms were about to expire.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Trenton"
     },
     {
