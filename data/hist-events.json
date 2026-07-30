@@ -128,6 +128,7 @@
       "region": "Middle East",
       "period": "Medieval (500–1500)",
       "desc": "Muhammad's migration from Mecca to Medina, the starting point of the Islamic calendar.",
+      "tldr": "In 622 CE the Islamic prophet Muhammad and his followers migrated from Mecca, where they faced persecution from the ruling Quraysh tribe, to the city of Yathrib, later renamed Medina. There Muhammad established the first Muslim community and became its political and religious leader, drafting the Constitution of Medina to govern relations among its tribes and faiths. The migration transformed a persecuted minority into a self-governing polity capable of eventually returning to and controlling Mecca. Caliph Umar later designated the year of the Hijra as the start of the Islamic lunar calendar.",
       "url": "https://en.wikipedia.org/wiki/Hijrah"
     },
     {
@@ -227,6 +228,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Defense of Van (1915), the Armenian population's self-defense against Ottoman forces during the Armenian genocide.",
+      "tldr": "In April 1915, as Ottoman authorities began the mass killing of Armenians, the Armenian population of Van organized an armed self-defense against besieging Ottoman forces. Outnumbered residents held improvised defenses for about a month until a relieving Russian army and Armenian volunteers arrived and broke the siege. The defense became one of the few instances in which an Armenian community avoided the genocide underway elsewhere in the empire. Van was later depopulated when those forces withdrew, and the episode remains central to Armenian historical memory.",
       "url": "https://en.wikipedia.org/wiki/Defense_of_Van"
     },
     {
@@ -256,6 +258,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Treaty between the Russian Empire and the Ottoman Empire establishing a mutual defence alliance.",
+      "tldr": "Signed in 1833 after Russia sent naval and military aid to help the Ottoman Empire repel an invasion by its rebellious vassal Muhammad Ali of Egypt, this treaty established a formal defensive alliance between the two empires. A secret clause obliged the Ottomans to close the Dardanelles to foreign warships at Russia's request, giving Russia a decisive edge in the Black Sea. The treaty alarmed Britain and France, who saw a dangerous expansion of Russian influence over the weakening Ottoman state. It lasted only until 1841, when other powers replaced it with a multilateral convention.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_H%C3%BCnk%C3%A2r_%C4%B0skelesi"
     },
     {
@@ -315,6 +318,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "Final major military action of the Vicksburg campaign, ending in a decisive Union victory in the American Civil War.",
+      "tldr": "Union forces under Ulysses S. Grant surrounded the Confederate stronghold of Vicksburg, Mississippi, in May 1863 after a campaign of maneuver and river crossings, settling into a siege when direct assaults failed. Trapped soldiers and civilians endured weeks of bombardment and dwindling supplies, some reportedly reduced to eating mules, until the garrison surrendered on July 4. The victory gave the Union full control of the Mississippi River, splitting the Confederacy and coinciding with the triumph at Gettysburg the day before. It ranks among the war's decisive turning points.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Vicksburg"
     },
     {
@@ -404,6 +408,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Long Ottoman siege that ended in the capture of Bursa (Prusa) in 1326, an early Ottoman conquest.",
+      "tldr": "Ottoman forces under Osman I began blockading the Byzantine city of Bursa in Anatolia around 1317, cutting it off from relief rather than storming its walls outright. The prolonged siege dragged on for years under Osman and then his son Orhan, who completed the conquest in 1326. Bursa's fall gave the young Ottoman beylik its first major city, which served as capital for the emerging state. It remained the Ottoman capital until Adrianople was captured later in the fourteenth century.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Bursa"
     },
     {
@@ -551,6 +556,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Polish–Lithuanian Commonwealth fought Muscovy over control of Smolensk.",
+      "tldr": "Beginning in 1632, the Polish–Lithuanian Commonwealth and the Tsardom of Muscovy fought over control of Smolensk, a city Russia had lost to Poland decades earlier and now sought to reclaim while Poland was weakened by the death of King Sigismund III. A Russian army besieged the city but was itself encircled and forced to surrender after a new Polish king, Władysław IV, arrived with relief forces. The resulting Peace of Polyanov confirmed Polish possession of Smolensk and other border territories. Russia's defeat exposed weaknesses that spurred later military reforms.",
       "url": "https://en.wikipedia.org/wiki/Smolensk_War"
     },
     {
@@ -698,6 +704,7 @@
       "region": "South Asia",
       "period": "19th century",
       "desc": "The Third Anglo-Burmese War was the final of three 19th-century wars between the Burmese and the British, ending in the loss of Burmese sovereignty under the Konbaung dynasty.",
+      "tldr": "In November 1885 British forces invaded the Konbaung kingdom of Upper Burma, citing a trade dispute and King Thibaw's dealings with the French as pretexts for a war long anticipated by British administrators in India. The campaign lasted only about two weeks before Mandalay fell and Thibaw was captured and exiled to India. Britain formally annexed all of Burma into its Indian Empire on 1 January 1886, ending the Konbaung dynasty and centuries of Burmese monarchy. Resistance continued for years afterward in a prolonged guerrilla insurgency against British rule.",
       "url": "https://en.wikipedia.org/wiki/Third_Anglo-Burmese_War"
     },
     {
@@ -717,6 +724,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Russo-Turkish War of 1768–1774 was a major armed conflict that saw Russian armies victorious against the Ottoman Empire, bringing Crimea into the Russian sphere of influence.",
+      "tldr": "Fought between 1768 and 1774, this conflict pitted the Russian Empire of Catherine the Great against the Ottoman Empire over influence in the Black Sea region and the Crimean Khanate. Russian forces won a string of victories on land and destroyed the Ottoman fleet at the Battle of Chesma, forcing the Ottomans to sue for peace. The resulting Treaty of Küçük Kaynarca gave Russia its first Black Sea ports and recognized Crimea as nominally independent, paving the way for its annexation a decade later. The war marked a major shift in the balance of power, cementing Russian dominance in the region.",
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281768%E2%80%931774%29"
     },
     {
@@ -766,6 +774,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "A brief 1898 war between Spain and the United States, sparked by the sinking of the USS Maine, that ended Spanish colonial rule in Cuba, Puerto Rico, Guam, and the Philippines.",
+      "tldr": "The 1898 war began after the battleship USS Maine exploded in Havana harbor, an incident American newspapers blamed on Spain amid sympathy for Cuban independence fighters. American forces quickly defeated Spanish forces in both the Caribbean and the Pacific, notably destroying Spanish fleets at Manila Bay and Santiago de Cuba. The brief conflict, lasting only a few months, ended Spain's centuries-old colonial empire and transferred control of Cuba, Puerto Rico, Guam, and the Philippines to the United States. It marked the emergence of the United States as a global colonial and naval power.",
       "url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War"
     },
     {
@@ -775,6 +784,7 @@
       "region": "South Asia",
       "period": "Early modern (1500–1800)",
       "desc": "The Maratha Empire suffered a devastating defeat to the invading Durrani Empire near Panipat in 1761, reshaping the balance of power in northern India.",
+      "tldr": "In January 1761 the Maratha Empire, then the dominant power across much of India, suffered a catastrophic defeat near Panipat at the hands of Ahmad Shah Durrani's invading Afghan army, allied with the Rohilla Afghans and the Nawab of Awadh. Tens of thousands of Maratha soldiers were killed in the battle and its aftermath, including much of a generation of Maratha leadership. Though Durrani withdrew to Afghanistan without consolidating gains in India, the defeat crippled Maratha power, creating a vacuum that helped the British East India Company expand its influence over later decades.",
       "url": "https://en.wikipedia.org/wiki/Third_Battle_of_Panipat"
     },
     {
@@ -784,6 +794,7 @@
       "region": "South Asia",
       "period": "20th century onward",
       "desc": "A short 1919 war in which Afghanistan's new emir declared jihad against British India, ultimately securing full Afghan independence in foreign affairs.",
+      "tldr": "In May 1919 Afghanistan's new emir, Amanullah Khan, launched an invasion of British India and declared jihad, partly to rally domestic support after his father's assassination and to press for independence from British oversight of Afghan foreign policy. Fighting lasted only about a month before both exhausted sides agreed to a ceasefire. The resulting Treaty of Rawalpindi ended the British subsidy that had propped up earlier Afghan rulers and confirmed Afghanistan's right to its own foreign relations. Afghans still celebrate the outcome as full independence.",
       "url": "https://en.wikipedia.org/wiki/Third_Anglo-Afghan_War"
     },
     {
@@ -982,6 +993,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Treaty between Edward III of England and John II of France that ended the first phase of the Hundred Years' War.",
+      "tldr": "Signed in 1360, the Treaty of Brétigny concluded the first phase of the Hundred Years' War between England and France after French king John II was captured at the Battle of Poitiers four years earlier. Under its terms England renounced its claim to the French throne in exchange for full sovereignty over an enlarged territory in southwestern France, plus a massive ransom for John's release. The settlement proved unstable, as both sides struggled to fulfill its obligations. Fighting resumed within a decade, and the war ultimately dragged on for nearly a century more before ending in 1453.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny"
     },
     {
@@ -1041,6 +1053,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Naval conflict between the Dutch Republic and an England allied with France, part of the wider Franco-Dutch War.",
+      "tldr": "Fought from 1672 to 1674, this war saw England ally with France against the Dutch Republic as part of the wider Franco-Dutch War, in which Louis XIV sought to crush Dutch power. English and French fleets fought major naval battles against the Dutch navy under Michiel de Ruyter, who repeatedly frustrated attempts at invasion or blockade. Unlike France, England gained little and grew increasingly unpopular with its own Parliament over the costly, inconclusive alliance. England withdrew via the Treaty of Westminster in 1674, ending Anglo-Dutch hostilities as France fought on alone.",
       "url": "https://en.wikipedia.org/wiki/Third_Anglo-Dutch_War"
     },
     {
@@ -1286,6 +1299,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Sweden defeated Denmark–Norway in a conflict tied to the wider Thirty Years' War, boosting Swedish power in the Baltic.",
+      "tldr": "In 1643, during the wider Thirty Years' War, Sweden under military commander Lennart Torstenson launched a surprise invasion of Denmark–Norway, seeking to weaken a rival power and secure Swedish trade routes free of Danish tolls. Swedish forces overran much of Jutland and won a decisive naval victory, leaving Denmark unable to continue the fight. The 1645 Treaty of Brömsebro forced Denmark to cede territory, including islands and mainland provinces, and to exempt Swedish ships from the Sound Dues. The war marked a turning point that shifted Baltic dominance decisively from Denmark to Sweden.",
       "url": "https://en.wikipedia.org/wiki/Torstenson_War"
     },
     {
@@ -1889,6 +1903,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Prolonged Soviet siege that captured the Hungarian capital from German and Hungarian forces in the closing months of World War II.",
+      "tldr": "From late 1944 into February 1945, Soviet and Romanian forces encircled and besieged Budapest, defended by German and Hungarian troops under orders to hold at all costs. The nearly two-month siege devastated the city, destroying every bridge across the Danube and killing tens of thousands of civilians and soldiers. Fighting was especially brutal in Buda's hilltop castle district, the last pocket to fall. It ranks among the war's costliest urban battles and left Hungary under Soviet occupation for decades afterward.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Budapest"
     },
     {
@@ -1928,6 +1943,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Agreement between Weimar Germany and Soviet Russia restoring diplomatic relations and renouncing wartime claims.",
+      "tldr": "Signed in April 1922 during the Genoa Economic Conference, the Treaty of Rapallo restored full diplomatic relations between Weimar Germany and Soviet Russia, both isolated by the victorious Allied powers after the First World War. Each side renounced wartime financial claims against the other and agreed to expand trade. It also opened the door to secret military collaboration, letting Germany train with arms on Soviet territory in circumvention of the disarmament limits of Versailles, which alarmed the Western Allies as a troubling alignment of two revisionist powers.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Rapallo"
     },
     {
@@ -1966,6 +1982,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "German counteroffensive that recaptured the Ukrainian city of Kharkov after the Soviet victory at Stalingrad.",
+      "tldr": "In February and March 1943, following the Soviet victory at Stalingrad and a Red Army offensive that overextended its supply lines, German field marshal Erich von Manstein launched a counteroffensive that recaptured the Ukrainian city of Kharkov. The success, achieved through a mobile armored counterattack against exposed Soviet spearheads, restored a stable front and is often cited as one of the finest operational feats of the war for the German army. It cost tens of thousands of casualties on both sides. The stabilized front set the stage for the Battle of Kursk that summer.",
       "url": "https://en.wikipedia.org/wiki/Third_Battle_of_Kharkov"
     },
     {
@@ -2015,6 +2032,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Partition of the Carolingian Middle Kingdom between the East and West Frankish rulers.",
+      "tldr": "Signed in 870 at Meerssen, this treaty divided the Middle Kingdom of Lotharingia, the central strip of the former Carolingian Empire carved out for Emperor Lothair I's line a generation earlier, between the East and West Frankish kingdoms after Lothair II's death without a legitimate heir. West Frankish king Charles the Bald and East Frankish king Louis the German split the territory along a rough north–south line, with no claimant from Lothair II's own family receiving a share. The partition redrew borders that, in broad outline, still echo in the modern boundary between France and Germany.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Meerssen"
     },
     {
@@ -2143,6 +2161,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Conflict between the Swiss Confederacy and the Habsburgs that secured de facto Swiss independence from the Holy Roman Empire.",
+      "tldr": "In 1499 the Swiss Confederacy fought the Swabian League, backed by Holy Roman Emperor Maximilian I, over disputed rights and long-standing tensions between the Swiss cantons and the empire. Swiss forces won a series of battles, and the brief but bloody war ended with the Peace of Basel later that year. The peace effectively released the Swiss Confederacy from imperial jurisdiction and taxation, even though full legal independence was not formally recognized until the Peace of Westphalia in 1648. The war is often seen as the moment Swiss independence became a practical reality.",
       "url": "https://en.wikipedia.org/wiki/Swabian_War"
     },
     {
@@ -2342,6 +2361,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Brief border conflict between the newly independent Slovak state and Hungary over territory in eastern Slovakia.",
+      "tldr": "In March 1939, days after Slovakia declared independence under German protection following the breakup of Czechoslovakia, Hungary launched an attack to seize territory in eastern Slovakia. The brief, roughly week-long conflict saw Hungarian forces, backed by air support, push Slovak troops back and occupy a strip of borderland. A ceasefire brokered under German pressure ended the fighting, with Hungary retaining most of the disputed territory. The episode is remembered as one of the earliest armed conflicts among the states carved from Nazi Germany's dismantling of Czechoslovakia.",
       "url": "https://en.wikipedia.org/wiki/Slovak%E2%80%93Hungarian_War"
     },
     {
@@ -2381,6 +2401,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Agreement between Bohemond I of Antioch and Byzantine Emperor Alexios I, subordinating the Principality of Antioch to Byzantium.",
+      "tldr": "Signed in 1108 after Byzantine forces defeated Bohemond I of Antioch's invasion of the Balkans, this treaty required Bohemond to acknowledge Byzantine Emperor Alexios I Komnenos as overlord and hold Antioch as an imperial fief. It was meant to resolve the awkward status of Antioch, a Crusader state carved from formerly Byzantine land, by subordinating it to Constantinople. In practice, Bohemond's successors ignored its terms, and Antioch kept functioning as an effectively independent crusader state.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Devol"
     },
     {
@@ -2509,6 +2530,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "First major Cuban uprising against Spanish colonial rule, a precursor to the later Cuban War of Independence.",
+      "tldr": "Beginning in October 1868, Cuban planters and other rebels declared independence from Spain and launched a decade-long insurgency, the first major armed uprising against Spanish colonial rule. Guerrilla fighting spread across eastern Cuba, and rebel leaders such as Carlos Manuel de Céspedes and Máximo Gómez became early heroes of the independence movement. The war ended in 1878 with the Pact of Zanjón, which fell short of independence but promised reforms only partly kept. The conflict is remembered as the opening chapter of Cuba's struggle for independence.",
       "url": "https://en.wikipedia.org/wiki/Ten_Years%27_War"
     },
     {
@@ -2927,6 +2949,7 @@
       "region": "Americas",
       "period": "Early modern (1500–1800)",
       "desc": "French and Native American forces besieged and captured a British fort in colonial New York during the French and Indian War.",
+      "tldr": "In August 1757, during the French and Indian War, a French force under the Marquis de Montcalm, joined by allied Native American warriors, besieged the British-held Fort William Henry on Lake George. After days of bombardment the outnumbered garrison surrendered on terms allowing safe withdrawal. Despite this, Native American allies of the French attacked the retreating column, killing and capturing dozens of soldiers and civilians in an episode later notorious as a massacre. The siege and its aftermath were dramatized in James Fenimore Cooper's The Last of the Mohicans.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Fort_William_Henry"
     },
     {
@@ -3016,6 +3039,7 @@
       "region": "Middle East",
       "period": "20th century onward",
       "desc": "A secret Anglo-French agreement that divided the Ottoman Empire's Arab provinces into spheres of influence, shaping the modern Middle East.",
+      "tldr": "Negotiated secretly in 1916 by British diplomat Mark Sykes and French diplomat François Georges-Picot, this agreement carved the Ottoman Empire's Arab territories into future British and French zones, anticipating an Ottoman defeat in the First World War. It was drawn up even as Britain was encouraging Arab revolt with promises of independence, a contradiction that fueled resentment once terms became public after the Russian Revolution. Its borders shaped the later British and French mandates over Iraq, Syria, Lebanon, and Palestine.",
       "url": "https://en.wikipedia.org/wiki/Sykes%E2%80%93Picot_Agreement"
     },
     {
@@ -3112,6 +3136,7 @@
       "region": "East Asia",
       "period": "20th century onward",
       "desc": "The Soviet Union's invasion of Japanese-held Manchuria, Korea, and the Kuril Islands in the final days of World War II.",
+      "tldr": "In August 1945, days after the atomic bombing of Hiroshima and honoring a promise made at Yalta, the Soviet Union declared war on Japan and launched a massive offensive into Japanese-held Manchuria, Korea, and the Kuril Islands. Soviet forces rapidly overran the Japanese Kwantung Army, weakened by years of drawing troops for the Pacific war. The invasion, alongside the atomic bombings, contributed to Japan's decision to surrender within days. Soviet occupation of the Kurils and southern Sakhalin from this campaign remains a territorial dispute with Japan today.",
       "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Japanese_War"
     },
     {
@@ -3259,6 +3284,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The Ottoman Empire imposed a peace settlement on the newly independent South Caucasus republics of Armenia, Georgia, and Azerbaijan.",
+      "tldr": "Signed in June 1918, the Treaty of Batum was imposed by the Ottoman Empire on the newly independent republics of Armenia, Georgia, and Azerbaijan following the collapse of Russian authority in the Caucasus during World War I. Its harsh terms ceded substantial territory to the Ottomans and left the fragile new states, especially Armenia, with little room to maneuver. The settlement was rendered largely moot within months by the Ottoman Empire's own defeat and armistice that October. It nonetheless illustrates the chaotic redrawing of Caucasus borders as empires collapsed at the war's end.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Batum"
     },
     {
@@ -3298,6 +3324,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Romania ceded Southern Dobruja to Bulgaria under pressure from Nazi Germany and the Soviet Union.",
+      "tldr": "Signed in August 1940 under pressure from Nazi Germany and Fascist Italy, who were arbitrating Balkan territorial disputes ahead of the coming war, the Treaty of Craiova forced Romania to cede Southern Dobruja to Bulgaria. The transfer also involved a population exchange between Romanian and Bulgarian residents there. It came amid a wave of territorial losses for Romania that year, following cessions to Hungary and the Soviet Union, and helped topple King Carol II. Unlike those other losses, this cession was never reversed, and Southern Dobruja remains part of Bulgaria today.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Craiova"
     },
     {
@@ -3674,6 +3701,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "The 1456 siege in which Hungarian forces under John Hunyadi repelled an Ottoman attempt to capture Belgrade.",
+      "tldr": "In July 1456 an Ottoman army under Sultan Mehmed II, fresh from conquering Constantinople three years earlier, besieged the Hungarian fortress of Belgrade. A relief force led by the Hungarian noble John Hunyadi, joined by peasant crusaders rallied by the preaching of John of Capistrano, broke the siege and forced an Ottoman retreat. The victory halted the Ottoman advance into central Europe for decades. Hunyadi died of plague days later, and the relief is still marked by midday church bells rung across much of the Catholic world.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Belgrade_(1456)"
     },
     {
@@ -3850,6 +3878,7 @@
       "region": "South Asia",
       "period": "19th century",
       "desc": "An 1879 treaty ending the first phase of the Second Anglo-Afghan War, in which Afghan emir Mohammad Yaqub Khan ceded frontier territory and control of foreign affairs to Britain.",
+      "tldr": "Signed in May 1879, the Treaty of Gandamak ended the first phase of the Second Anglo-Afghan War after British forces invaded Afghanistan to counter perceived Russian influence at the Afghan court. Under it, Emir Mohammad Yaqub Khan ceded frontier districts to British India and accepted a resident British envoy in Kabul, effectively ceding control of Afghan foreign policy. The arrangement collapsed within months when the envoy and his escort were massacred in an uprising, reigniting the war, a lasting lesson in the difficulty of imposing settlements on Afghanistan.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Gandamak"
     },
     {
@@ -4086,6 +4115,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Constantinople, built on the land linking Europe to Asia, had strategic value for many empires and kingdoms who tried to conquer it throughout history.",
+      "tldr": "In 717 an Umayyad Arab army and fleet under Maslama ibn Abd al-Malik besieged Constantinople by land and sea, aiming to conquer the Byzantine capital where earlier Arab attempts had failed. Byzantine forces under Emperor Leo III used the incendiary weapon Greek fire to destroy much of the Arab navy, while a harsh winter and disease decimated the besieging army. The siege was lifted in 718, and the failure is often credited with checking further Arab expansion into southeastern Europe. It remains one of several sieges the city withstood owing to its strategic position linking Europe and Asia.",
       "url": "https://en.wikipedia.org/wiki/List_of_sieges_of_Constantinople"
     },
     {
@@ -4295,6 +4325,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "War between the Prussian Confederation, backed by Poland, and the Teutonic Order, ending Teutonic dominance over western Prussia.",
+      "tldr": "Beginning in 1454, the Prussian Confederation, an alliance of cities and nobles resentful of the Teutonic Order's rule, rose in revolt and sought protection from the Kingdom of Poland, triggering more than a decade of warfare. Fighting was costly and inconclusive for long stretches, straining both sides financially, until the war ended with the Second Peace of Thorn in 1466. The treaty split Prussia, granting western Prussia directly to Poland while the Order retained eastern Prussia as a Polish fief. The settlement marked the start of the Order's long decline as an independent power.",
       "url": "https://en.wikipedia.org/wiki/Thirteen_Years%27_War"
     },
     {
@@ -4672,6 +4703,7 @@
       "region": "Middle East",
       "period": "Medieval (500–1500)",
       "desc": "The 1258 Siege of Baghdad saw a Mongol army under Hulegu Khan capture and sack the city, killing the last Abbasid caliph and ending the Abbasid Caliphate's five centuries of rule.",
+      "tldr": "In February 1258 a Mongol army led by Hulegu Khan, grandson of Genghis Khan, surrounded and stormed Baghdad, then the intellectual capital of the Islamic world. The city's libraries, including the House of Wisdom, were destroyed and much of the population massacred over days of sack. Caliph al-Musta'sim was executed, ending the Abbasid Caliphate's five-century rule and shattering the political unity of the Islamic heartland. The destruction is often cited as a lasting blow to Mesopotamia's irrigation-based agriculture and scholarly culture.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Baghdad"
     },
     {
@@ -4701,6 +4733,7 @@
       "region": "Middle East",
       "period": "Medieval (500–1500)",
       "desc": "The 1148 Siege of Damascus was the main campaign of the Second Crusade: crusader forces besieged the Muslim-ruled city before abandoning the effort after only four days, effectively ending the crusade.",
+      "tldr": "In July 1148 the leaders of the Second Crusade, newly arrived in the Holy Land, chose to besiege the Muslim-ruled city of Damascus rather than pursue their original goal of retaking Edessa. The crusader army camped in orchards outside the city but was forced onto more exposed ground after only four days, and Muslim relief forces compelled a full withdrawal. The failed siege effectively ended the Second Crusade in humiliation and pushed Damascus toward closer alliance with other Muslim powers. It is often cited as a turning point that hardened Muslim unity against the Crusades.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Damascus"
     },
     {
@@ -4769,6 +4802,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Treaty of Hadiach was a treaty signed on 16 September 1658 in Hadiach, Cossack Hetmanate between representatives of the Polish–Lithuanian Commonwealth and Zaporozhian Cossacks.",
+      "tldr": "Signed in September 1658, this treaty between the Polish–Lithuanian Commonwealth and Cossack hetman Ivan Vyhovsky sought to reincorporate Cossack Ukraine as an autonomous third component, styled the Grand Duchy of Rus'. Its terms promised Cossack self-governance, religious rights for the Orthodox Church, and elevated status for the Cossack elite. Opposition among rank-and-file Cossacks favoring closer ties with Muscovy, plus Polish resistance to its generous terms, left it only partly ratified. Renewed warfare and Vyhovsky's downfall soon left Ukraine divided among rival powers.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Hadiach"
     },
     {
@@ -4818,6 +4852,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "The Siege of Orléans (1428–1429) was the turning point of the Hundred Years' War: English forces besieged the city until Joan of Arc rallied French troops to break the siege, reviving French morale.",
+      "tldr": "English forces besieged the strategically vital city of Orléans in October 1428, and its fall would have opened the way to conquer the rest of unoccupied France during the Hundred Years' War. In 1429 a young woman named Joan of Arc arrived claiming divine guidance, rallied dispirited French troops, and led an assault that forced the English to lift the siege within days. The victory reversed the war's momentum and led directly to the coronation of Charles VII at Reims. Joan's role at Orléans made her a national symbol, though she was captured and executed only two years later.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Orl%C3%A9ans"
     },
     {
@@ -4847,6 +4882,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Treaty of Paris may refer to one of many treaties signed in Paris, France:",
+      "tldr": "The Treaty of Paris signed in 1259 settled a long-running dispute between King Henry III of England and King Louis IX of France dating back to the loss of the Angevin lands earlier in the century. Henry formally renounced his claims to Normandy, Anjou, Maine, and Poitou. In return Louis recognized Henry's continued possession of Gascony, now held as a vassal fief of the French crown rather than outright sovereign territory. That awkward feudal relationship, with an English king owing homage to a French one, later fed renewed conflict, including the Hundred Years' War.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris"
     },
     {
@@ -4856,6 +4892,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The Third Geneva Convention of 1949 set standards for the humane treatment of prisoners of war. It expanded protections established after the mistreatment of POWs during the Second World War.",
+      "tldr": "Adopted in 1949 alongside three companion conventions, this convention established detailed legal protections for prisoners of war, building on earlier agreements that proved inadequate during the mass captivity and abuse of POWs in the Second World War. It sets standards covering humane treatment, food and medical care, and protection from violence and intimidation, while prohibiting coercive interrogation. It applies to international armed conflicts and binds nearly every country, remaining the core legal framework invoked in disputes over treatment of captured combatants.",
       "url": "https://en.wikipedia.org/wiki/Third_Geneva_Convention"
     },
     {
@@ -4955,6 +4992,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Also known as Passchendaele, a WWI campaign fought by the Allies against Germany near Ypres, Belgium.",
+      "tldr": "Fought from July to November 1917 near Ypres, Belgium, this British-led offensive, commonly known by the name of its final objective, Passchendaele, aimed to break through German lines and reach the coast. Heavy rain turned the battlefield into a notorious quagmire that bogged down tanks, artillery, and infantry alike. Allied forces eventually captured the ruined village of Passchendaele after months of attrition, advancing only a few miles at a cost of hundreds of thousands of casualties on each side. The battle became emblematic of the horror of First World War trench warfare.",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Passchendaele"
     },
     {
@@ -5024,6 +5062,7 @@
       "region": "Americas",
       "period": "Early modern (1500–1800)",
       "desc": "Final major land battle of the American Revolutionary War, won by American and French forces.",
+      "tldr": "In autumn 1781, American forces under George Washington and French troops under the Comte de Rochambeau trapped a British army led by Lord Cornwallis at Yorktown, Virginia. A French fleet under the Comte de Grasse blocked British reinforcement or evacuation by sea, sealing the garrison's fate. After weeks of bombardment Cornwallis surrendered his roughly 8,000 troops on October 19, effectively ending major fighting in the Revolutionary War. News of the defeat helped bring down the British government and led to peace talks recognizing American independence.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Yorktown"
     },
     {
@@ -5043,6 +5082,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Recognized Norwegian sovereignty over the Svalbard archipelago while restricting its military use.",
+      "tldr": "Signed in 1920 after the First World War, the Svalbard Treaty recognized Norwegian sovereignty over the Arctic archipelago of Svalbard, previously no one's territory despite competing mining and fishing interests. In exchange, it guaranteed citizens of signatory nations equal rights to economic activity there, such as coal mining, and required Norway to keep the islands demilitarized. Dozens of countries, including Russia, have since acceded to its terms. It still shapes Svalbard's governance, allowing a Russian mining settlement to operate on Norwegian soil.",
       "url": "https://en.wikipedia.org/wiki/Svalbard_Treaty"
     },
     {
@@ -5351,6 +5391,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Treaty of Pereyaslav (1654) was an agreement in which Zaporozhian Cossacks pledged allegiance to the Russian tsar. It brought Cossack Ukraine under Russian protection, away from Polish-Lithuanian rule.",
+      "tldr": "Signed in January 1654, the Treaty of Pereyaslav recorded the allegiance sworn by Zaporozhian Cossack hetman Bohdan Khmelnytsky and his officers to Tsar Alexis of Russia, seeking protection after years of revolt against Polish–Lithuanian rule. In return, the Cossacks retained substantial autonomy over their own administration, courts, and military structure. The treaty's exact meaning remains disputed, variously read as a personal union, a military alliance, or a fuller incorporation of Ukraine into Russia. It is seen by many as a foundational moment in that long, contested relationship.",
       "url": "https://en.wikipedia.org/wiki/Pereiaslav_Agreement"
     },
     {
@@ -5360,6 +5401,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Treaty of Georgievsk (1783) made the eastern Georgian kingdom of Kartli-Kakheti a protectorate of the Russian Empire. It marked the start of Russian expansion into the Caucasus.",
+      "tldr": "Signed in 1783 at Georgievsk in the North Caucasus, this treaty placed the eastern Georgian kingdom of Kartli-Kakheti under Russian protection in exchange for military guarantees against Persian and Ottoman threats. King Erekle II sought the arrangement to shield his kingdom from stronger regional powers, but Russia failed to intervene when Persian forces devastated Tbilisi in 1795. The treaty nonetheless became the legal basis Russia later used to formally annex the Georgian kingdom in 1801. It marked an early step in Russia's long expansion into the Caucasus.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Georgievsk"
     },
     {
@@ -5665,6 +5707,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Great Siege of Malta in 1565 saw the Knights Hospitaller and Maltese defenders withstand a months-long Ottoman assault. Their survival halted Ottoman expansion in the western Mediterranean.",
+      "tldr": "In May 1565 an Ottoman armada carrying tens of thousands of troops landed on Malta to seize the island from the Knights Hospitaller, based there since losing Rhodes decades earlier. Grand Master Jean Parisot de Valette led a heavily outnumbered garrison of knights and Maltese defenders through nearly four months of siege and repeated assaults before a relief force arrived from Sicily. The Ottoman withdrawal was seen across Christian Europe as a deliverance and became a celebrated symbol of resistance. Valette later founded the city of Valletta on the site to commemorate the victory.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Malta"
     },
     {
@@ -5704,6 +5747,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "The Treaty of Alcáçovas (1479) ended the War of the Castilian Succession between Castile and Portugal. It also divided their rival claims to Atlantic exploration, foreshadowing the later Treaty of Tordesillas.",
+      "tldr": "Signed in 1479, the Treaty of Alcáçovas ended the War of the Castilian Succession, fought after Isabella I's contested accession to the Castilian throne, in which Portugal had backed a rival claimant. Beyond settling the succession, it divided the Atlantic's newly explored and yet-to-be-explored territories between the two crowns, granting Portugal exclusive rights south of the Canaries, Guinea, and the Azores, while Castile kept the Canary Islands. This early division of overseas claims set a precedent for the more famous 1494 Treaty of Tordesillas after Columbus's voyages.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Alc%C3%A1%C3%A7ovas"
     },
     {
@@ -5822,6 +5866,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The 1566 Siege of Szigetvár saw Croatian commander Nikola Zrinski's garrison hold the fortress against Suleiman the Magnificent's army before it fell. The delay is credited with slowing the Ottoman advance on Vienna.",
+      "tldr": "In August 1566 Sultan Suleiman the Magnificent led a massive Ottoman army against the small Hungarian fortress of Szigetvár, defended by Croatian nobleman Nikola Zrinski and a garrison of a few thousand men. The defenders held out for over a month before Zrinski led a final charge into the Ottoman ranks rather than surrender, and the fortress fell only after being reduced to ruins. Suleiman died of illness during the siege, and the delay is credited with slowing that year's Ottoman advance enough to spare Vienna. The siege became a foundational legend of Croatian and Hungarian national memory.",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Szigetv%C3%A1r"
     },
     {
@@ -5900,6 +5945,7 @@
       "region": "South Asia",
       "period": "19th century",
       "desc": "The Third Anglo-Maratha War (1817–1819) was the final and decisive conflict between Britain and the Maratha Empire. The war left the Company in control of most of India.",
+      "tldr": "Fought from 1817 to 1819, this was the culminating conflict between the British East India Company and the Maratha Confederacy, the last major independent power resisting British expansion across much of India. Company forces defeated the Maratha peshwa and allied chieftains in a series of campaigns, exploiting divisions among the Maratha states. The war's end dissolved the Maratha Confederacy as a political entity and left the Company the dominant power across most of the subcontinent. It marked a decisive step toward British paramountcy in India that lasted until independence in 1947.",
       "url": "https://en.wikipedia.org/wiki/Third_Anglo-Maratha_War"
     },
     {
@@ -5919,6 +5965,7 @@
       "region": "South Asia",
       "period": "Early modern (1500–1800)",
       "desc": "The Third Anglo-Mysore War (1790–1792) pitted Tipu Sultan of Mysore against a coalition of the East India Company, the Marathas, and Hyderabad. Defeat forced Tipu to cede half his territory at the Treaty of Seringapatam.",
+      "tldr": "From 1790 to 1792, Tipu Sultan of Mysore fought a coalition of the British East India Company, the Maratha Empire, and the Nizam of Hyderabad, allied against him after years of prior Anglo-Mysore conflict. British and allied forces besieged Tipu's capital at Seringapatam, forcing his surrender in 1792. Under the Treaty of Seringapatam, Tipu ceded roughly half his territory and paid a large indemnity, handing over two sons as hostages to guarantee the terms. The defeat weakened Mysore ahead of the final Anglo-Mysore war that ended Tipu's rule and life in 1799.",
       "url": "https://en.wikipedia.org/wiki/Third_Anglo-Mysore_War"
     },
     {
@@ -6127,6 +6174,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "The Smyrniote crusades (1343–1351) were two Crusades sent by Pope Clement VI against the Beylik of Aydin under Umur Bey, targeting the coastal city of Smyrna in Asia Minor.",
+      "tldr": "Pope Clement VI organized these naval crusades against the Turkish beylik of Aydin, ruled by the emir Umur Bey, whose fleets were raiding Christian shipping and towns in the Aegean. A combined fleet of Venetian, Cypriot, Hospitaller, and papal forces captured the port of Smyrna in 1344, and Umur Bey was killed years later attempting to retake it. The Christian-held enclave around Smyrna's harbor fortress persisted for decades under Hospitaller control. The campaigns were among the last crusading efforts against Anatolian Turkish states before the Ottomans came to dominate the region.",
       "url": "https://en.wikipedia.org/wiki/Smyrniote_crusades"
     },
     {
@@ -6196,6 +6244,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "The Treaty of 1818, an international treaty signed between the United States and the United Kingdom, resolved standing boundary and fisheries disputes and allowed joint occupation of Oregon Country.",
+      "tldr": "Signed in 1818 between the United States and the United Kingdom, this treaty resolved several outstanding disputes left from the War of 1812 and earlier agreements. It fixed the border along the 49th parallel from Minnesota to the Rockies, granted American fishermen rights in parts of British North American waters, and set up joint occupation of the disputed Oregon Country. That joint occupation lasted until the two countries divided the territory permanently in 1846. The treaty is remembered as an early example of peaceful boundary settlement between the two nations.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_1818"
     },
     {
@@ -6275,6 +6324,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Parisian revolutionaries stormed the Bastille fortress-prison on 14 July 1789, a flashpoint that ignited the French Revolution.",
+      "tldr": "On 14 July 1789, a crowd of Parisians seeking arms and gunpowder attacked the Bastille, a royal fortress-prison that had come to symbolize the arbitrary power of the monarchy. After a chaotic battle the garrison surrendered, and its governor was killed by the crowd despite promises of safe conduct. Though the prison held only a handful of inmates at the time, the fall of the Bastille became the defining symbolic moment igniting the French Revolution. The date is still celebrated annually in France as Bastille Day, the national holiday.",
       "url": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille"
     },
     {
