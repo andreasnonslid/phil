@@ -137,6 +137,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "William of Normandy's victory at Hastings reshaped English language, law, and aristocracy.",
+      "tldr": "William, Duke of Normandy, crossed the Channel and defeated King Harold II's army at the Battle of Hastings, where Harold was reportedly killed by an arrow to the eye, an image immortalized in the Bayeux Tapestry. William subdued remaining Anglo-Saxon resistance and had himself crowned king in Westminster Abbey on Christmas Day 1066. He replaced the Anglo-Saxon aristocracy with Norman lords, commissioned the Domesday Book to survey his kingdom's wealth, and infused English with thousands of French-derived words still in use today.",
       "url": "https://en.wikipedia.org/wiki/Norman_Conquest"
     },
     {
@@ -186,6 +187,7 @@
       "region": "East Asia",
       "period": "19th century",
       "desc": "Restoration of imperial rule in Japan and the start of rapid modernisation.",
+      "tldr": "A coalition of samurai from rival domains overthrew the Tokugawa shogunate and restored the young Emperor Meiji as nominal ruler, ending over two and a half centuries of feudal military government. The new government abolished the samurai class's legal privileges, adopted Western industrial technology, built a conscript army and navy, and rewrote Japan's legal and educational systems within a single generation. The pace was so fast that Japan defeated China in 1895 and, a decade later, Russia, the first non-Western power to beat a European empire in a modern war.",
       "url": "https://en.wikipedia.org/wiki/Meiji_Restoration"
     },
     {
@@ -205,6 +207,7 @@
       "region": "South Asia",
       "period": "20th century onward",
       "desc": "Independence and division of British India into India and Pakistan.",
+      "tldr": "As British rule over India ended, the departing colonial administration divided the subcontinent along religious lines into a Hindu-majority India and a Muslim-majority Pakistan, the latter split into two wings a thousand miles apart. The boundary, drawn hastily by British lawyer Cyril Radcliffe, who had never visited India before, was announced only after independence, triggering one of history's largest mass migrations as roughly 15 million people crossed the new borders. Communal violence killed an estimated one to two million people amid widespread massacres and displacement.",
       "url": "https://en.wikipedia.org/wiki/Partition_of_India"
     },
     {
@@ -301,6 +304,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "Largely bloodless 1859 border confrontation between the United States and the British Colony of Vancouver Island.",
+      "tldr": "Tensions between American and British settlers on San Juan Island, whose ownership both the United States and Britain claimed under an ambiguously worded boundary treaty, boiled over when an American farmer shot a British-owned pig rooting in his garden. Both sides rushed troops and warships to the tiny island, and for a tense period hundreds of soldiers faced off across fortified positions, but cooler heads on both sides ensured the pig remained the conflict's only fatality. The dispute was resolved through arbitration, with Kaiser Wilhelm I awarding the island to the US in 1872.",
       "url": "https://en.wikipedia.org/wiki/Pig_War"
     },
     {
@@ -339,6 +343,7 @@
       "region": "Americas",
       "period": "Early modern (1500–1800)",
       "desc": "North American theater of the Nine Years' War, fought between New France and New England and their Native allies.",
+      "tldr": "The North American extension of the Nine Years' War, it pitted the English colonies of New England and New York against New France and their Native allies, including the Iroquois and Wabanaki confederacies. Fighting consisted mostly of small frontier raids, such as the 1690 attack that destroyed Schenectady, rather than large pitched battles. It was the first of four colonial wars fought between Britain and France in North America over the following decades. The 1697 Treaty of Ryswick restored the prewar status quo, settling nothing.",
       "url": "https://en.wikipedia.org/wiki/King_William%27s_War"
     },
     {
@@ -651,6 +656,7 @@
       "region": "Oceania",
       "period": "19th century",
       "desc": "The Musket Wars were a series of as many as 3,000 battles and raids fought throughout New Zealand among Māori between 1806 and 1845, after Māori first obtained muskets.",
+      "tldr": "After Māori iwi in the north of New Zealand began acquiring European muskets through trade, most notably the Ngāpuhi chief Hongi Hika, they gained a decisive military advantage that triggered a wave of intertribal warfare as other iwi rushed to arm themselves. Estimates put the death toll at 20,000 or more across roughly 3,000 engagements, alongside mass enslavement and territorial displacement. The fighting subsided as muskets became common to all sides and exhaustion grew. The upheaval was still reshaping Māori society when the Crown negotiated the Treaty of Waitangi in 1840.",
       "url": "https://en.wikipedia.org/wiki/Musket_Wars"
     },
     {
@@ -903,6 +909,7 @@
       "region": "Americas",
       "period": "Early modern (1500–1800)",
       "desc": "Hernán Cortés and his Spanish and native allied forces were driven out of the Aztec capital Tenochtitlan in a bloody 1520 retreat.",
+      "tldr": "After Hernán Cortés's Spanish expedition and its Tlaxcalan allies were besieged inside Tenochtitlan following the death of Aztec ruler Moctezuma II, the conquistadors attempted a desperate nighttime escape across the city's causeways. Aztec warriors attacked from canoes and rooftops, and hundreds of Spaniards drowned in the lake trying to carry looted gold, giving the retreat its name, 'the night of sorrows.' Cortés reportedly wept beneath a tree afterward. He regrouped with Tlaxcalan support and returned within a year to conquer the city.",
       "url": "https://en.wikipedia.org/wiki/La_Noche_Triste"
     },
     {
@@ -1243,6 +1250,7 @@
       "region": "South Asia",
       "period": "20th century onward",
       "desc": "A territorial dispute between India and Pakistan over the former princely state of Jammu and Kashmir, ongoing since the 1947 partition of India.",
+      "tldr": "When British India was partitioned in 1947, Kashmir's Hindu maharaja hesitated before acceding to India after Pakistani-backed tribal raiders invaded, triggering the first Indo-Pakistani war. A UN-brokered ceasefire in 1949 split the region along the Line of Control, a division that still stands. India and Pakistan have since fought two more wars and one limited conflict over the territory, and both claim it in full. Kashmir remains one of the world's most militarized and enduring unresolved disputes.",
       "url": "https://en.wikipedia.org/wiki/Kashmir_conflict"
     },
     {
@@ -1612,6 +1620,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The opening German offensive of the 1918 spring campaign, launched from the Hindenburg Line to break the Allied lines.",
+      "tldr": "Launched along the Somme front using newly developed 'stormtrooper' infiltration tactics, this was the first and largest of five German offensives in the 1918 spring campaign, aiming to break through Allied lines before American reinforcements arrived. German forces achieved the deepest advance on the Western Front since 1914, pushing the British Fifth Army back roughly 40 miles. But the advance outran its supply lines, and Allied forces stabilized the front, appointing French general Ferdinand Foch supreme Allied commander, and Germany exhausted reserves it could not replace.",
       "url": "https://en.wikipedia.org/wiki/Operation_Michael"
     },
     {
@@ -1631,6 +1640,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "A European great-power war from 1688 to 1697 pitting France against the Grand Alliance.",
+      "tldr": "Louis XIV's France fought a coalition known as the Grand Alliance, including England, the Dutch Republic, Spain, and the Holy Roman Empire, in a war spanning fronts from Flanders to Ireland to the Mediterranean. William of Orange's 1688 seizure of the English throne in the Glorious Revolution helped trigger the conflict by uniting England and the Dutch against French expansion under one monarch. French forces devastated the Palatinate with a scorched-earth campaign that left lasting German resentment. The 1697 Treaty of Ryswick restored prewar borders.",
       "url": "https://en.wikipedia.org/wiki/Nine_Years%27_War"
     },
     {
@@ -1679,6 +1689,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "A set of post-WWI agreements among Germany, France, Britain, Belgium, Italy, Poland and Czechoslovakia guaranteeing western European borders.",
+      "tldr": "Negotiated in the Swiss town of Locarno, these agreements had Germany, France, and Belgium mutually guarantee their shared borders, with Britain and Italy as guarantors, while Germany separately agreed only to arbitrate its borders with Poland and Czechoslovakia. The treaties enabled Germany's admission to the League of Nations the following year and were hailed as a new 'spirit of Locarno.' That optimism proved short-lived: Hitler repudiated the treaties in 1936 by remilitarizing the Rhineland. The asymmetric eastern borders later left Poland and Czechoslovakia exposed.",
       "url": "https://en.wikipedia.org/wiki/Locarno_Treaties"
     },
     {
@@ -1776,6 +1787,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Agreement by Britain, France, Germany, and Italy permitting Nazi annexation of the Sudetenland, widely seen as a failed act of appeasement.",
+      "tldr": "Meeting in Munich without any Czechoslovak representatives present, British prime minister Neville Chamberlain, France's Édouard Daladier, Hitler, and Mussolini agreed to let Germany annex the Sudetenland, Czechoslovakia's German-speaking border region, in exchange for Hitler's promise to seek no further territory. Chamberlain returned to London declaring he had secured 'peace for our time,' waving the signed agreement for cameras. Hitler broke the promise within six months, occupying the rest of Czechoslovakia in March 1939.",
       "url": "https://en.wikipedia.org/wiki/Munich_Agreement"
     },
     {
@@ -1795,6 +1807,7 @@
       "region": "Oceania",
       "period": "19th century",
       "desc": "Series of conflicts between the British Crown and Māori iwi over land and sovereignty in colonial New Zealand.",
+      "tldr": "A series of conflicts fought across the North Island between the British Crown, supported by colonial militia, and Māori iwi resisting the sale and confiscation of their land amid rising European settlement. The wars produced the innovative Māori pā, fortified defensive works with trench and bunker systems that inflicted heavy casualties on attacking British troops, most notably at Gate Pā in 1864. Following military defeats, the colonial government confiscated millions of acres of Māori land, confiscations still contested in Treaty of Waitangi settlements today.",
       "url": "https://en.wikipedia.org/wiki/New_Zealand_Wars"
     },
     {
@@ -1824,6 +1837,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Conflict in which Finland fought to expel German troops from Finnish Lapland after Finland's armistice with the Soviet Union.",
+      "tldr": "Under its 1944 armistice with the Soviet Union, Finland was obligated to expel the German troops still stationed in northern Lapland, its former co-belligerents against the USSR. The retreating Wehrmacht carried out a scorched-earth campaign, burning much of Lapland's capital, Rovaniemi, as it withdrew into occupied Norway. Fighting was intermittent and casualties far lower than in Finland's earlier wars, but the destruction left tens of thousands homeless. The war ended in April 1945 with the last German units pushed into Norway.",
       "url": "https://en.wikipedia.org/wiki/Lapland_War"
     },
     {
@@ -1947,6 +1961,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Baltic conflict between Denmark-Norway and Sweden, ended by the Treaty of Stettin.",
+      "tldr": "Denmark-Norway and Sweden, rivals for dominance of the Baltic and its lucrative Sound tolls, fought an inconclusive war triggered partly by King Frederick II of Denmark's claim to the Swedish crown, symbolized in the 'three crowns' heraldry. Fighting ranged across southern Sweden and the Baltic Sea, with neither side able to secure a decisive advantage despite years of costly campaigning. The 1570 Treaty of Stettin restored the prewar borders essentially unchanged. The unresolved rivalry between the two Scandinavian powers erupted again within a century.",
       "url": "https://en.wikipedia.org/wiki/Northern_Seven_Years%27_War"
     },
     {
@@ -2062,6 +2077,7 @@
       "region": "Middle East",
       "period": "Early modern (1500–1800)",
       "desc": "Conflict between the Ottoman and Safavid empires over control of Iraq and the Caucasus.",
+      "tldr": "The Ottoman and Safavid empires, divided by sectarian rivalry between Sunni and Shia Islam as well as territorial ambition, fought over control of Iraq and the Caucasus in the last and longest of their recurring wars. Safavid Shah Abbas I recaptured Baghdad in 1624, but the Ottomans retook it in a brutal 1638 siege under Sultan Murad IV that ended with a massacre of much of the city's Shia population. The 1639 Treaty of Zuhab that followed fixed a border still roughly tracing the modern Turkey-Iran-Iraq frontier.",
       "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_Wars"
     },
     {
@@ -2101,6 +2117,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Allied amphibious invasion of northern France that opened the Western Front and hastened Nazi Germany's defeat.",
+      "tldr": "On D-Day, 6 June 1944, Allied forces under Dwight Eisenhower landed on five beaches codenamed Utah, Omaha, Gold, Juno, and Sword along the Normandy coast, the largest seaborne invasion in history. Elaborate deception operations had convinced German commanders the main invasion would come further north at Calais, leaving Normandy's defenses comparatively thin, though American troops still suffered heavy casualties storming Omaha Beach. Within weeks Allied forces broke out and began liberating France, opening the long-delayed Western Front.",
       "url": "https://en.wikipedia.org/wiki/Normandy_landings"
     },
     {
@@ -2177,6 +2194,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "German commando operation using English-speaking soldiers in captured American uniforms during the Battle of the Bulge.",
+      "tldr": "As part of the Battle of the Bulge, German commando leader Otto Skorzeny assembled English-speaking soldiers, many recruited from POW camps, and dressed them in captured American uniforms to infiltrate Allied lines, spread confusion, and seize bridges over the Meuse River. Though the unit captured few objectives, rumors of German infiltrators triggered widespread paranoia among Allied troops, who began quizzing suspected soldiers on American trivia like baseball statistics. Captured commandos were executed as spies under the laws of war for fighting out of uniform.",
       "url": "https://en.wikipedia.org/wiki/Operation_Greif"
     },
     {
@@ -2440,6 +2458,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "International treaty signed in Paris establishing the first global framework for protecting patents, trademarks, and industrial designs.",
+      "tldr": "Negotiated among eleven founding states meeting in Paris, this treaty established the first international framework recognizing patents, trademarks, and industrial designs across national borders, addressing inventors' growing fear of having new inventions copied abroad without recourse. Its 'right of priority' provision let an applicant who filed in one member country claim the same filing date in others within a set window. Revised several times since, the convention now has well over a hundred member states and underpins later bodies like the World Intellectual Property Organization.",
       "url": "https://en.wikipedia.org/wiki/Paris_Convention_for_the_Protection_of_Industrial_Property"
     },
     {
@@ -2595,6 +2614,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "British convoy operation that fought through heavy Axis air and naval attacks to resupply besieged Malta.",
+      "tldr": "With Malta on the brink of starvation and surrender after two years of Axis siege and bombing, Britain assembled a heavily escorted convoy of merchant ships to force through the resupply, sailing from Gibraltar into Italian and German air and submarine attacks. Nine of fourteen merchant ships were sunk, along with an aircraft carrier and several escorts, in some of the fiercest fighting of the Mediterranean naval war. The battered tanker Ohio, kept afloat by two destroyers lashed to its sides, limped into Valletta harbor carrying vital fuel, letting Malta hold out.",
       "url": "https://en.wikipedia.org/wiki/Operation_Pedestal"
     },
     {
@@ -2654,6 +2674,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Baltic campaigns by German and Danish crusaders to conquer and Christianize the pagan peoples of Livonia and Estonia.",
+      "tldr": "Sanctioned by successive popes, this series of campaigns by German crusading orders, chiefly the Livonian Brothers of the Sword and later the Teutonic Knights, together with Danish forces, sought to conquer and Christianize the pagan Baltic peoples of Livonia, Estonia, and Courland. Bishop Albert of Riga, who founded that city in 1201, became a central organizer, and the Sword Brothers were founded to garrison conquered land. Resistance was fierce, including the 1236 Battle of Saule, where the Sword Brothers were nearly annihilated. By 1290 the last Baltic tribes had been subdued.",
       "url": "https://en.wikipedia.org/wiki/Livonian_Crusade"
     },
     {
@@ -2743,6 +2764,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Surprise nighttime assault by Vlad the Impaler on the Ottoman army encamped in Wallachia.",
+      "tldr": "Vlad III of Wallachia, later known as Vlad the Impaler and the historical basis for Dracula, led a small force in a surprise nighttime raid on the vastly larger Ottoman army of Sultan Mehmed II encamped near his capital, Târgoviște. Vlad's men, disguised in Ottoman dress, penetrated deep into the camp seeking to kill the sultan before being repulsed with heavy losses on both sides. Though the raid failed, it inflicted serious casualties and shook Ottoman morale. Vlad later impaled thousands of captured soldiers along the road to Târgoviște, reportedly unnerving Mehmed's army into retreat.",
       "url": "https://en.wikipedia.org/wiki/Night_attack_at_T%C3%A2rgovi%C8%99te"
     },
     {
@@ -2752,6 +2774,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "German offensive against Soviet Russia that forced the Bolsheviks to accept the Treaty of Brest-Litovsk.",
+      "tldr": "Also known as the 'Eleven Days' War,' this German and Austro-Hungarian offensive resumed hostilities against Soviet Russia after peace talks at Brest-Litovsk stalled, advancing rapidly as the demoralized, largely disbanded Russian army offered little resistance. German forces covered vast distances in days, reaching close to Petrograd before Lenin's government, fearing the capital's fall, accepted harsher terms than initially offered. The resulting Treaty of Brest-Litovsk stripped Soviet Russia of Ukraine, the Baltic states, Finland, and other populous, industrial territory.",
       "url": "https://en.wikipedia.org/wiki/Operation_Faustschlag"
     },
     {
@@ -2831,6 +2854,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "An international agreement, signed in Paris, in which signatory states renounced war as an instrument of national policy.",
+      "tldr": "Negotiated by US Secretary of State Frank Kellogg and French Foreign Minister Aristide Briand, the pact bound its signatories to renounce war as a tool of national policy and settle disputes peacefully. Sixty-two nations eventually signed, including Germany, Japan, and Italy, all of whom later broke it. It had no enforcement mechanism, and Japan's 1931 invasion of Manchuria exposed its limits within a few years. Even so, its language later underpinned the postwar prosecution of 'crimes against peace' at Nuremberg.",
       "url": "https://en.wikipedia.org/wiki/Kellogg%E2%80%93Briand_Pact"
     },
     {
@@ -2889,6 +2913,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "A protracted conflict between the Byzantine and Sasanian empires for control of Lazica, on the eastern Black Sea coast.",
+      "tldr": "Also called the Roman-Persian War of 541-562, this protracted conflict pitted the Byzantine Empire against the Sasanian Empire for control of Lazica, a kingdom on the eastern Black Sea coast valued for its trade routes. Control of the region's fortresses, especially Petra, changed hands repeatedly through sieges and naval actions. Both sides courted Lazic nobility, whose loyalties shifted with the fortunes of war. The conflict ended with the 562 Fifty-Year Peace, which left Lazica under Byzantine influence in exchange for tribute to Persia.",
       "url": "https://en.wikipedia.org/wiki/Lazic_War"
     },
     {
@@ -2918,6 +2943,7 @@
       "region": "East Asia",
       "period": "Medieval (500–1500)",
       "desc": "Beginning under Genghis Khan in Mongolia, Mongol armies built the largest contiguous land empire in history, stretching across Asia and into Europe.",
+      "tldr": "Genghis Khan unified the Mongol and Turkic tribes of the steppe in 1206 and turned their cavalry outward, beginning campaigns his sons and grandsons continued for over a century. At its height the resulting empire stretched from Korea and China to Poland and the Middle East, the largest contiguous land empire ever assembled, moving people, goods, and ideas across Eurasia via the 'Pax Mongolica.' The conquests were also extraordinarily destructive: parts of Iran and Iraq suffered population collapse from massacre and ruined irrigation. The empire later fractured into successor khanates.",
       "url": "https://en.wikipedia.org/wiki/Mongol_conquests"
     },
     {
@@ -2957,6 +2983,7 @@
       "region": "Americas",
       "period": "20th century onward",
       "desc": "A treaty signed in Montevideo, Uruguay, codifying the widely cited criteria for statehood in international law.",
+      "tldr": "Signed at the Seventh International Conference of American States in Montevideo, Uruguay, this treaty set out the four-part definition of statehood still cited today: a permanent population, a defined territory, a government, and the capacity to enter relations with other states. It also codified the 'declarative theory' of recognition, holding that a state's existence does not depend on other states recognizing it, aimed partly at protecting smaller Latin American nations. Its criteria still shape debates over Taiwan, Kosovo, and Somaliland.",
       "url": "https://en.wikipedia.org/wiki/Montevideo_Convention"
     },
     {
@@ -2994,6 +3021,7 @@
       "region": "South Asia",
       "period": "19th century",
       "desc": "An armed conflict between the First Philippine Republic and the United States following the Spanish-American War, resulting in American colonial rule of the islands.",
+      "tldr": "Filipino revolutionaries under Emilio Aguinaldo, who had declared independence after Spain's defeat, found themselves fighting their former ally the United States after Washington opted to annex the islands rather than recognize Philippine sovereignty. Conventional battles gave way to a brutal guerrilla insurgency, met by American tactics including forced relocation into 'zones' and reprisal campaigns such as the one on Samar following the Balangiga massacre. Aguinaldo's 1901 capture effectively ended organized resistance, though the islands stayed under US rule until 1946.",
       "url": "https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War"
     },
     {
@@ -3040,6 +3068,7 @@
       "region": "East Asia",
       "period": "20th century onward",
       "desc": "A clash between Chinese and Japanese troops near Beijing that escalated into full-scale war between China and Japan.",
+      "tldr": "During night exercises near the Marco Polo Bridge outside Beijing, Japanese troops garrisoned there under a prior treaty exchanged fire with Chinese forces after a soldier went briefly missing, an incident Japanese commanders used to demand further concessions. When Chinese Nationalist forces refused to back down, skirmishing escalated within weeks into full mobilization on both sides. The clash marked the start of the Second Sino-Japanese War, which killed millions and eventually merged into the Pacific theater of World War II.",
       "url": "https://en.wikipedia.org/wiki/Marco_Polo_Bridge_incident"
     },
     {
@@ -3274,6 +3303,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Venice and its Holy League allies fought the Ottoman Empire for control of the Peloponnese peninsula in Greece.",
+      "tldr": "Also called the Sixth Ottoman-Venetian War, this conflict saw Venice, backed by the Holy League formed after the failed 1683 Ottoman siege of Vienna, invade the Ottoman-held Peloponnese, known to Venetians as the Morea. Venetian forces under Francesco Morosini captured the region, but Morosini's 1687 bombardment of Ottoman-held Athens struck the Parthenon, then used as a gunpowder magazine, destroying much of the ancient temple. The 1699 Treaty of Karlowitz confirmed Venice's hold on the Morea, its last major gain, lost back to the Ottomans by 1715.",
       "url": "https://en.wikipedia.org/wiki/Morean_War"
     },
     {
@@ -3322,6 +3352,7 @@
       "region": "East Asia",
       "period": "Medieval (500–1500)",
       "desc": "Genghis Khan's Mongol armies destroyed the Khwarezmian Empire, conquering Transoxiana and Persia's eastern territories.",
+      "tldr": "Genghis Khan launched this campaign after the Khwarezmian shah executed a Mongol trade delegation and mutilated its envoys, an insult he answered by annihilating the empire that had committed it. Cities including Bukhara, Samarkand, and Urgench were sacked in succession, with populations massacred and irrigation systems destroyed, devastation parts of Central Asia arguably never fully recovered from. Generals Jebe and Subutai then pursued the fleeing shah's son on a raid that circled the Caspian Sea and defeated Russian princes at the Kalka River, a logistical feat unmatched for centuries.",
       "url": "https://en.wikipedia.org/wiki/Mongol_campaigns_in_Central_Asia"
     },
     {
@@ -3481,6 +3512,7 @@
       "region": "South Asia",
       "period": "20th century onward",
       "desc": "The Malayan Emergency (1948–1960) was a guerrilla war between communist insurgents seeking independence and Commonwealth forces defending colonial Malaya. Counter-insurgency tactics eventually defeated the insurgents.",
+      "tldr": "Communist guerrillas of the Malayan Races' Liberation Army, drawing on anti-Japanese resistance fighters from World War II, waged a jungle insurgency against British colonial rule and the region's plantation owners. British forces pioneered counter-insurgency tactics later studied worldwide, including forced resettlement of rural Chinese communities into fortified 'New Villages' to cut off guerrilla support. The 'Emergency' label rather than 'war' was a deliberate choice, since insurers would not have covered plantation losses in a declared war. The insurgency was defeated by 1960.",
       "url": "https://en.wikipedia.org/wiki/Malayan_Emergency"
     },
     {
@@ -3625,6 +3657,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "A 1558–1583 war for control of Old Livonia between the Tsardom of Russia and a coalition of Nordic and Polish-Lithuanian powers.",
+      "tldr": "Ivan the Terrible's Russia invaded the crumbling Livonian Confederation in 1558 seeking Baltic ports, drawing in Sweden, Denmark, and the Polish-Lithuanian Commonwealth as rival claimants. Poland-Lithuania's union under King Stephen Báthory eventually turned the tide, driving Russian forces back after a long siege of Pskov. The 1583 Treaty of Plussa left Russia stripped of nearly all its Baltic gains. The failure to secure a warm-water port was a setback Russia would not reverse until Peter the Great, over a century later.",
       "url": "https://en.wikipedia.org/wiki/Livonian_War"
     },
     {
@@ -3644,6 +3677,7 @@
       "region": "Middle East",
       "period": "Medieval (500–1500)",
       "desc": "The Rashidun Caliphate's conquest of Byzantine Syria between 634–638 CE, part of the wider early Muslim conquests.",
+      "tldr": "Following the death of the Prophet Muhammad, the Rashidun Caliphate under Caliph Umar sent armies north to conquer Byzantine-held Syria and Palestine, led in its decisive phase by general Khalid ibn al-Walid. The 636 Battle of Yarmouk, fought during a sandstorm that blinded Byzantine ranks, destroyed the main imperial army and effectively ended Byzantine rule in the region. Jerusalem surrendered in 637, reportedly to Caliph Umar in person, and Damascus and Antioch fell in quick succession, ending nearly seven centuries of Roman rule.",
       "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Syria"
     },
     {
@@ -3877,6 +3911,7 @@
       "region": "Americas",
       "period": "Early modern (1500–1800)",
       "desc": "A conflict for control of the Northwest Territory between the United States and a confederation of Native American nations, considered the first American Indian War.",
+      "tldr": "The newly independent United States fought a confederation of Native American nations, including the Shawnee, Miami, and Delaware led by war chiefs Blue Jacket and Little Turtle, for control of the Northwest Territory north of the Ohio River. Native forces inflicted the worst defeat in US military history relative to force size at St. Clair's Defeat in 1791, wiping out roughly a quarter of the Army. General Anthony Wayne's campaign finally broke the confederacy at the 1794 Battle of Fallen Timbers, and the 1795 Treaty of Greenville opened most of Ohio to settlement.",
       "url": "https://en.wikipedia.org/wiki/Northwest_Indian_War"
     },
     {
@@ -3972,6 +4007,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The Lithuanian Wars of Independence, also known as the Freedom Struggles, refer to three wars Lithuania fought defending its independence at the end of World War I.",
+      "tldr": "As German occupation of Lithuania collapsed at the end of World War I, the new Lithuanian state fought off three opponents to secure independence: Soviet Russia, the Bermontians (a mixed German-Russian force), and Poland. The Polish war proved most bitter, since Polish forces seized the historic capital Vilnius in 1920, a loss Lithuania refused to accept for two decades. Despite that dispute, Lithuania secured Soviet recognition of its independence in the 1920 Treaty of Moscow, but Kaunas, not Vilnius, became its interwar capital.",
       "url": "https://en.wikipedia.org/wiki/Lithuanian_Wars_of_Independence"
     },
     {
@@ -4050,6 +4086,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "The Russo-Turkish War of 1828–1829 resulted from the Greek War of Independence; war broke out after the Ottoman Sultan closed the Dardanelles to Russian ships.",
+      "tldr": "Russia declared war on the Ottoman Empire after Sultan Mahmud II closed the Bosphorus and Dardanelles to Russian shipping, in response to Russian, British, and French intervention supporting Greek independence. Russian forces advanced through the Balkans and Caucasus, capturing Adrianople within striking distance of Constantinople before the Ottomans sued for peace. The 1829 Treaty of Adrianople granted Russia territorial gains, autonomy for Serbia, and confirmed Greek independence, further weakening an Ottoman Empire already reeling from losing its Janissary corps.",
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281828%E2%80%931829%29"
     },
     {
@@ -4268,6 +4305,7 @@
       "region": "Africa",
       "period": "19th century",
       "desc": "Muhammad Ahmad's Mahdist Sudanese forces overthrew Ottoman-Egyptian rule and later fought the British, establishing an independent Mahdist state in Sudan.",
+      "tldr": "Muhammad Ahmad, a religious leader who declared himself the Mahdi, led a Sudanese uprising that destroyed an Egyptian army under British general William Hicks and, in 1885, captured Khartoum after a long siege, killing governor-general Charles Gordon. Gordon's death made him a martyr in Britain and delayed reconquest for over a decade. The Mahdist state that followed ruled most of Sudan until an Anglo-Egyptian force under Herbert Kitchener crushed it at the 1898 Battle of Omdurman, using Maxim guns against Mahdist cavalry to devastating effect.",
       "url": "https://en.wikipedia.org/wiki/Mahdist_War"
     },
     {
@@ -4316,6 +4354,7 @@
       "region": "Middle East",
       "period": "20th century onward",
       "desc": "Mass displacement and dispossession of Palestinian Arabs accompanying the establishment of Israel in 1948.",
+      "tldr": "Arabic for 'catastrophe,' the term describes the mass flight and expulsion of roughly 700,000 Palestinian Arabs from their homes during the 1947-49 war surrounding the creation of the state of Israel. Around 400 Palestinian villages were depopulated and largely destroyed or repopulated, and most of the displaced were never permitted to return, becoming refugees in neighboring Arab states. Israel disputes aspects of the causes and scale, but the event, commemorated each May, remains central to Palestinian national identity and the unresolved refugee question.",
       "url": "https://en.wikipedia.org/wiki/Nakba"
     },
     {
@@ -4345,6 +4384,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Last major German offensive on the Western Front, launched to relieve pressure from the Battle of the Bulge.",
+      "tldr": "With the Battle of the Bulge stalling in the Ardennes, German forces launched this second, simultaneous offensive further south in Alsace, aiming to destroy the US Seventh Army and retake Strasbourg, recently liberated by Free French forces. Fierce fighting around Hatten-Rittershoffen and the Colmar Pocket produced heavy casualties on both sides before the German advance was halted. Hitler ordered the operation partly to relieve pressure on the Ardennes offensive, spreading thin German reserves across two fronts. Its failure marked the last major German offensive in the west.",
       "url": "https://en.wikipedia.org/wiki/Operation_Northwind_%281944%29"
     },
     {
@@ -4384,6 +4424,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Adolf Hitler's rise to the German chancellorship and the Nazi Party's subsequent consolidation of dictatorial power.",
+      "tldr": "Meaning 'seizure of power,' this term covers the weeks after Adolf Hitler's January 1933 appointment as German chancellor by President Hindenburg, during which the Nazi Party rapidly dismantled Weimar democracy. The Reichstag fire that February was used to justify emergency decrees suspending civil liberties, and the Enabling Act let Hitler's cabinet legislate without parliament. Rival parties and unions were banned within months, and by Hindenburg's 1934 death Hitler had merged the presidency and chancellorship into the Führer title.",
       "url": "https://en.wikipedia.org/wiki/Adolf_Hitler%27s_rise_to_power"
     },
     {
@@ -4550,6 +4591,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "The Partitio terrarum imperii Romaniae was the 1204 treaty dividing the conquered Byzantine Empire among the crusaders after they sacked Constantinople. It created a patchwork of Latin states on former Byzantine soil.",
+      "tldr": "After the knights of the Fourth Crusade sacked Constantinople in 1204, diverting from their original goal of Jerusalem, the crusade's Venetian and Frankish leaders drew up this treaty dividing the conquered Byzantine Empire among themselves. Venice secured coastal ports and islands that built its Mediterranean trading empire for centuries, while Frankish nobles carved out feudal states including the Latin Empire of Constantinople. The partition proved hard to enforce, since Byzantine successor states resisted and retook Constantinople in 1261, but it permanently fragmented Byzantine territory.",
       "url": "https://en.wikipedia.org/wiki/Partitio_terrarum_imperii_Romaniae"
     },
     {
@@ -4851,6 +4893,7 @@
       "region": "South Asia",
       "period": "19th century",
       "desc": "The Philippine Revolution (1896–1898) was an independence war waged by the Katipunan movement against Spanish colonial rule. It ended over 300 years of Spanish rule but was soon followed by American annexation.",
+      "tldr": "The Katipunan, a secret society founded by Andrés Bonifacio, launched an armed uprising against Spanish colonial rule after its existence was discovered, forcing an early revolt rather than the planned rising. Emilio Aguinaldo emerged as the movement's leading general, eventually displacing and executing Bonifacio before declaring a short-lived Philippine Republic. Fighting stalled into a truce in 1897, but revolution reignited in 1898 alongside the Spanish-American War, with American naval support helping revolutionaries defeat Spain, only for the islands to pass to American control.",
       "url": "https://en.wikipedia.org/wiki/Philippine_Revolution"
     },
     {
@@ -4967,6 +5010,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Armed rebellion by Polish officers in Warsaw against Russian imperial rule, 1830–31.",
+      "tldr": "Polish army cadets in Warsaw rose up against Russian imperial rule after learning their forces might be used to suppress revolutions elsewhere in Europe, quickly drawing in much of Congress Poland's population and army. The rebels declared the dethronement of Tsar Nicholas I as King of Poland, but divisions between conservative and radical factions slowed effective military organization. Russian forces under Ivan Paskevich crushed the uprising after a year, capturing Warsaw in September 1831, and harsh Russification followed alongside the 'Great Emigration' of Polish exiles.",
       "url": "https://en.wikipedia.org/wiki/November_Uprising"
     },
     {
@@ -5193,6 +5237,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "The People's Crusade of 1096 was a popular, poorly organized march to the Holy Land that preceded the main armies of the First Crusade. Most participants were killed by Seljuk forces after crossing into Anatolia.",
+      "tldr": "Inspired by the preaching of Peter the Hermit, this loosely organized mass of peasants, minor knights, and pilgrims set out for the Holy Land months ahead of the main armies later gathered by the great lords of the First Crusade. Poorly supplied and undisciplined, bands within the movement carried out massacres of Jewish communities in the Rhineland en route, among the first large-scale pogroms in European history. After crossing into Anatolia, most crusaders were ambushed and slaughtered by Seljuk forces near Nicaea, with only a small remnant surviving to join the main crusade later.",
       "url": "https://en.wikipedia.org/wiki/People%27s_Crusade"
     },
     {
@@ -5212,6 +5257,7 @@
       "region": "Americas",
       "period": "Early modern (1500–1800)",
       "desc": "King George's War (1744–1748) was the North American theatre of the War of the Austrian Succession, fought between British and French colonists and their Native allies. Peace restored prewar borders, settling little.",
+      "tldr": "Fought as the North American theater of the War of the Austrian Succession, this conflict pitted British colonists, chiefly from New England, against New France and its Native allies. Its most celebrated episode was the 1745 New England militia capture of the supposedly impregnable French fortress of Louisbourg on Cape Breton Island. The 1748 Treaty of Aix-la-Chapelle handed captured Louisbourg back to France, infuriating New Englanders who felt their sacrifice had been wasted. The unresolved rivalry set the stage for the French and Indian War a few years later.",
       "url": "https://en.wikipedia.org/wiki/King_George%27s_War"
     },
     {
@@ -5251,6 +5297,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Persian Expedition of 1796, ordered by Catherine the Great, was a Russian campaign against Persia following the sack of Tbilisi. Catherine's death soon after led her successor Paul I to abandon its gains.",
+      "tldr": "Catherine the Great ordered this Russian campaign into the Caucasus and northern Persia in retaliation for the Persian ruler Agha Mohammad Khan's brutal 1795 sack of Tbilisi, capital of Russia's Georgian ally. Russian forces under General Valerian Zubov advanced rapidly, capturing Derbent and Baku and occupying much of the eastern Caucasus with little resistance. Catherine's death in November 1796, however, brought her son Paul I to the throne, and he reversed her expansionist policy, ordering Zubov's forces to withdraw entirely, leaving Russian control of the Caucasus to wait for later tsars.",
       "url": "https://en.wikipedia.org/wiki/Persian_expedition_of_1796"
     },
     {
@@ -5444,6 +5491,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "The League of the Three Emperors (1873–1887) allied Germany, Russia, and Austria-Hungary under Bismarck's diplomacy to isolate France. Balkan rivalry between Austria-Hungary and Russia eventually broke it apart.",
+      "tldr": "Otto von Bismarck engineered this alliance among the conservative monarchies of Germany, Russia, and Austria-Hungary primarily to keep republican France diplomatically isolated after the Franco-Prussian War. It rested on the three emperors' shared interest in suppressing nationalist and socialist movements at home. The pact collapsed over Balkan rivalry between Austria-Hungary and Russia, especially the 1875-78 crisis over Bulgaria. Its failure showed how Balkan nationalism could fracture even careful great-power diplomacy.",
       "url": "https://en.wikipedia.org/wiki/League_of_the_Three_Emperors"
     },
     {
@@ -5591,6 +5639,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "The Paraguayan War, or War of the Triple Alliance (1864–1870), pitted Paraguay against the allied forces of Argentina, Brazil, and Uruguay. Paraguay's defeat cost it much of its population and territory.",
+      "tldr": "Paraguayan dictator Francisco Solano López invaded Brazil and Argentina in a dispute over regional influence in Uruguay, uniting the two larger powers with Uruguay itself into the Triple Alliance against him. Despite early Paraguayan advances, the far larger allied forces eventually overwhelmed Paraguay's army, and López refused to surrender even as his country was devastated. He was killed in 1870 still resisting, and Paraguay lost an estimated 60 to 70 percent of its prewar population, plus large stretches of territory, making it the deadliest interstate war in South American history.",
       "url": "https://en.wikipedia.org/wiki/Paraguayan_War"
     },
     {
@@ -6335,6 +6384,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "The United States invaded Mexico following the annexation of Texas, resulting in major territorial expansion of the US Southwest.",
+      "tldr": "After the United States annexed Texas in 1845, a border dispute with Mexico over whether the boundary lay at the Nueces River or the Rio Grande escalated into open war the following year. American forces under Winfield Scott captured Mexico City itself in 1847, forcing Mexico's surrender. The 1848 Treaty of Guadalupe Hidalgo ceded roughly half of Mexico's territory to the US, including present-day California, Nevada, Utah, and much of Arizona and New Mexico, for $15 million, reopening the fight over slavery in new states.",
       "url": "https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War"
     }
   ]
