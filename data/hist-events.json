@@ -109,6 +109,7 @@
       "region": "East Asia",
       "period": "Ancient (to 500 CE)",
       "desc": "Qin Shi Huang united the warring states into the first centralised Chinese empire.",
+      "tldr": "King Zheng of Qin spent years conquering the last rival Warring States, Han, Zhao, Wei, Chu, Yan, and finally Qi, then proclaimed himself Qin Shi Huang, the first emperor of a unified China. His regime standardized script, currency, weights and measures, and law across the former warring territories, replacing feudal arrangements with direct imperial administration, and linked early wall fortifications into what became the Great Wall. The Qin dynasty itself collapsed within a few years of his death, but the centralized model it created shaped Chinese governance for two millennia.",
       "url": "https://en.wikipedia.org/wiki/Qin_dynasty"
     },
     {
@@ -438,6 +439,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Grand Duke Jogaila of Lithuania pledged to marry Queen Jadwiga of Poland, laying the groundwork for a Polish-Lithuanian union.",
+      "tldr": "Grand Duke Jogaila of Lithuania, the last major pagan ruler in Europe, agreed to marry the young Queen Jadwiga of Poland, convert to Christianity, and have his realm baptized in exchange for the Polish crown, becoming King Władysław II Jagiełło. The agreement bound two of the largest states in the region into a personal union under a single ruler while each kept its own institutions. It laid the groundwork for the closer, more formal Union of Lublin nearly two centuries later, which created the Polish-Lithuanian Commonwealth.",
       "url": "https://en.wikipedia.org/wiki/Union_of_Krewo"
     },
     {
@@ -517,6 +519,7 @@
       "region": "Africa",
       "period": "Medieval (500–1500)",
       "desc": "Byzantine forces under Justinian I reconquered North Africa from the Vandal Kingdom.",
+      "tldr": "Byzantine emperor Justinian I sent his general Belisarius with a modest expeditionary force to North Africa, where he defeated the Vandal king Gelimer at the battles of Ad Decimum and Tricamarum in quick succession, ending a Germanic kingdom that had ruled the region for a century. The reconquest restored Roman authority over the former province and its grain-rich lands, giving the campaign lasting fame for how swiftly it was won. It was the opening move in Justinian's broader ambition to reclaim the western empire, followed soon after by the far longer Gothic War in Italy.",
       "url": "https://en.wikipedia.org/wiki/Vandalic_War"
     },
     {
@@ -646,6 +649,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "The War of the Oranges was a brief 1801 conflict in which Spanish forces, instigated and supported by France, invaded Portugal, resulting in the Treaty of Badajoz.",
+      "tldr": "At Napoleon's instigation, Spanish forces under chief minister Manuel Godoy briefly invaded Portugal to pressure it into breaking its long alliance with Britain and closing its ports to British ships. The campaign met little resistance, and after capturing the border town of Olivenza, Godoy sent orange blossoms picked there to the Spanish queen as a token of victory, giving the war its name. The resulting Treaty of Badajoz forced Portuguese concessions and ceded Olivenza to Spain, a transfer Portugal has disputed ever since.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Oranges"
     },
     {
@@ -655,6 +659,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "The Webster–Ashburton Treaty resolved several border issues between the United States and the British North American colonies, signed in Washington, DC in 1842.",
+      "tldr": "Negotiated in Washington by U.S. Secretary of State Daniel Webster and British envoy Lord Ashburton, this treaty resolved the long-disputed border between Maine and British New Brunswick, whose ambiguity had sparked the near-armed Aroostook War. It also clarified the boundary further west through the Great Lakes, set procedures for extraditing criminals, and committed both nations to jointly patrol the Atlantic to suppress the slave trade. The agreement eased a period of tense Anglo-American relations before the two countries' interests diverged again over Oregon.",
       "url": "https://en.wikipedia.org/wiki/Webster%E2%80%93Ashburton_Treaty"
     },
     {
@@ -844,6 +849,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "A series of dynastic civil wars fought between the houses of Lancaster and York for control of the English throne from 1455 to 1487.",
+      "tldr": "Rival branches of the English royal house, Lancaster and York, fought a series of intermittent civil wars for the throne, rooted in the weak and intermittently incapacitated rule of Henry VI and competing claims descended from Edward III's sons. Fortunes swung repeatedly through battles like Towton, England's bloodiest day, until Henry Tudor defeated and killed Richard III at Bosworth Field in 1485, ending Yorkist rule. Henry's marriage to the Yorkist princess Elizabeth of York symbolically united the warring houses, giving rise to the Tudor rose and founding the Tudor dynasty.",
       "url": "https://en.wikipedia.org/wiki/Wars_of_the_Roses"
     },
     {
@@ -1063,6 +1069,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Division of the Carolingian Empire among the three surviving sons of Louis the Pious, ending the Carolingian civil war.",
+      "tldr": "After three years of civil war among the sons of the deceased emperor Louis the Pious, this treaty split the Carolingian Empire three ways: Charles the Bald took West Francia, Louis the German took East Francia, and Lothair I kept the imperial title along with a thin central strip called Middle Francia. West and East Francia would eventually grow into the cores of France and Germany. Middle Francia proved far less stable and was carved up again within a generation, most of it absorbed by its two neighbors.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Verdun"
     },
     {
@@ -1112,6 +1119,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The Soviet Union invaded Finland, which despite being outmatched inflicted heavy losses before the Moscow Peace Treaty ended the war.",
+      "tldr": "The Soviet Union invaded Finland months after the secret protocols of the Molotov-Ribbentrop Pact had assigned it to the Soviet sphere, expecting a quick victory against its much smaller neighbor. Finnish forces under Field Marshal Mannerheim instead inflicted disproportionate losses on the invading Red Army, using ski-mobile troops and terrain knowledge to devastating effect at battles like Suomussalmi. The war ended with the Moscow Peace Treaty, under which Finland ceded about a tenth of its territory, chiefly in Karelia, but kept its independence, unlike the Baltic states absorbed outright.",
       "url": "https://en.wikipedia.org/wiki/Winter_War"
     },
     {
@@ -1121,6 +1129,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "International convention regulating airline liability for international carriage of passengers, baggage, and cargo.",
+      "tldr": "Negotiated at an international conference on private air law held in Warsaw, this convention standardized the rules governing airlines' liability for international flights, setting documentation requirements for tickets, baggage checks, and cargo waybills alongside caps on compensation owed to passengers for death, injury, or lost luggage. It gave the young airline industry a predictable legal framework as air travel expanded in the interwar years. The convention was later updated by the 1955 Hague Protocol and eventually superseded by the 1999 Montreal Convention.",
       "url": "https://en.wikipedia.org/wiki/Warsaw_Convention"
     },
     {
@@ -1240,6 +1249,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "A coalition of European powers defeated Napoleonic France and forced Napoleon's abdication and exile to Elba.",
+      "tldr": "After Napoleon's catastrophic invasion of Russia destroyed the bulk of his Grande Armée in 1812, Russia, Prussia, Austria, Sweden, and Britain combined against a weakened France, culminating in the enormous Battle of Leipzig, often called the Battle of Nations for the scale of forces engaged from across Europe. Allied armies pushed on into France itself despite Napoleon's tactically skillful rearguard campaigns, and Paris fell in the spring of 1814. Napoleon abdicated and was exiled to the island of Elba, and the victors restored the Bourbon monarchy under Louis XVIII.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Sixth_Coalition"
     },
     {
@@ -1379,6 +1389,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Habsburg forces under Charles V fought an Italian alliance including France, the Papacy, and Venice for control of Italy from 1526 to 1530.",
+      "tldr": "Holy Roman Emperor Charles V faced a coalition of France, the Papal States, Venice, Florence, and Milan formed to check Habsburg dominance in Italy after his earlier victory over the French at Pavia. The war's grimmest episode came in 1527, when mutinous, unpaid imperial troops stormed and brutally sacked Rome itself, shocking Christendom and effectively ending the Roman High Renaissance. The Peace of Cambrai, negotiated by the mothers of the French and Spanish kings and known as the 'Ladies' Peace,' confirmed Habsburg supremacy over Italy for a generation.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_League_of_Cognac"
     },
     {
@@ -1408,6 +1419,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Declaration and treaty formally establishing the Union of Soviet Socialist Republics, centralising several Soviet republics under a Moscow-based federal government.",
+      "tldr": "Adopted at the first All-Union Congress of Soviets, this treaty formally joined the Russian, Ukrainian, Byelorussian, and Transcaucasian Soviet republics into a single federal state under a Moscow-based government. It followed a sharp internal debate between Lenin, who favored a looser union of nominally equal republics, and Stalin, who had pushed a plan of simply absorbing them into Russia. Lenin's federal model won out on paper, centralizing foreign policy, defense, and trade while leaving republics formal but largely symbolic autonomy.",
       "url": "https://en.wikipedia.org/wiki/Treaty_on_the_Creation_of_the_Union_of_Soviet_Socialist_Republics"
     },
     {
@@ -1437,6 +1449,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Umayyad forces conquered the Visigothic Kingdom on the Iberian Peninsula, ending Christian rule across most of Iberia and establishing al-Andalus.",
+      "tldr": "An Umayyad army under Tariq ibn Ziyad crossed from North Africa and crushed the Visigothic king Roderic at the Battle of Guadalete, after which Muslim forces overran nearly the entire Iberian Peninsula within a few years. The conquest ended two centuries of Visigothic rule and established the new territory of al-Andalus under Umayyad governance. Only a narrow strip in the mountainous north escaped, where the small Christian kingdom of Asturias would later hand the invaders their first defeat at Covadonga, beginning the centuries-long Reconquista.",
       "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Iberian_Peninsula"
     },
     {
@@ -1636,6 +1649,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "Chile defeated a Bolivian-Peruvian alliance over Atacama Desert resources, gaining territory from both nations.",
+      "tldr": "Chile fought a combined Bolivian-Peruvian alliance for control of the nitrate-rich Atacama Desert, whose mineral wealth had become central to both countries' economies as fertilizer and explosives demand grew worldwide. Chilean naval victories secured control of the sea, allowing its army to campaign deep into Peru and occupy Lima. The war's settlements stripped Bolivia of its entire Pacific coastline, leaving it landlocked to this day, while Peru permanently lost the Tarapacá region and, for a time, Tacna and Arica, reshaping the economic and political map of the southern Pacific coast.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Pacific"
     },
     {
@@ -1695,6 +1709,7 @@
       "region": "East Asia",
       "period": "20th century onward",
       "desc": "A 1913 agreement signed at Urga between the governments of Mongolia and Tibet.",
+      "tldr": "Signed at Urga, this agreement between representatives of Mongolia's Bogd Khan and Tibet's Dalai Lama declared that both states, having thrown off Qing overlordship after the 1911 revolution, now recognized each other's independence and pledged mutual assistance. Its legal force has long been disputed, since the authority of the Tibetan signatory to bind his government was later questioned. It nonetheless stands as an early expression of both governments' claims to sovereign statehood outside Chinese control.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_friendship_and_alliance_between_the_Government_of_Mongolia_and_Tibet"
     },
     {
@@ -1724,6 +1739,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "A defensive military alliance between Germany, Italy, and Japan signed in Berlin, later joined by several other Axis states.",
+      "tldr": "Signed in Berlin by Germany, Italy, and Japan, this pact divided the world into spheres of influence, with Germany and Italy claiming primacy in establishing a 'new order' in Europe and Japan in 'Greater East Asia,' while binding the three to mutual defense if any of them was attacked by a power not already at war, a clause aimed squarely at the United States. Hungary, Romania, Slovakia, and Bulgaria later joined, along with a short-lived Yugoslav accession overturned by a coup days afterward. The pact gave the term 'Axis powers' its formal basis.",
       "url": "https://en.wikipedia.org/wiki/Tripartite_Pact"
     },
     {
@@ -1973,6 +1989,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Largely bloodless conflict between Austria and Prussia over the succession to the Bavarian throne.",
+      "tldr": "Austria and Prussia mobilized large armies over competing claims to the succession of the childless Elector of Bavaria, but the two sides mostly maneuvered and skirmished for supplies rather than fighting pitched battles, earning the conflict the nickname the 'Potato War' for how much time troops spent foraging. The Treaty of Teschen that ended it blocked Austria's plan to trade the Austrian Netherlands for Bavarian territory and gave it only a small strip of land instead. It was the last major military confrontation between the aging rivals Frederick the Great and Maria Theresa.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Bavarian_Succession"
     },
     {
@@ -2092,6 +2109,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Peace agreement between France and Austria that concluded the War of the Spanish Succession.",
+      "tldr": "Signed by Marshal Villars and Prince Eugene of Savoy, this treaty settled the last outstanding dispute of the War of the Spanish Succession between France and the Holy Roman Emperor, a year after most other belligerents had already made peace at Utrecht. France kept some Rhineland gains but recognized Habsburg control of the former Spanish Netherlands, Naples, Milan, and Sardinia. It closed out over a decade of fighting sparked by the question of who would inherit the Spanish throne.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Rastatt"
     },
     {
@@ -2481,6 +2499,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Agreement between Spain and Portugal dividing newly discovered lands outside Europe along a meridian in the Atlantic.",
+      "tldr": "Negotiated with papal involvement between Spain's Catholic Monarchs and Portugal's King John II, this treaty drew a north-south line roughly 370 leagues west of the Cape Verde islands, granting Portugal everything to its east and Spain everything to its west. It revised an earlier, more Spain-favorable papal decree and gave Portugal enough of the Atlantic to later claim Brazil once it was reached. Other European powers, not party to the deal, largely ignored it once they began their own overseas expansion.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas"
     },
     {
@@ -2580,6 +2599,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "First coalition of European monarchies to fight revolutionary France, ending in French territorial gains.",
+      "tldr": "European monarchies led by Austria, Prussia, and Britain went to war against Revolutionary France, alarmed by the execution of Louis XVI and threats like the Brunswick Manifesto that seemed to invite retaliation against French civilians. France's new levée en masse mobilized citizen armies on an unprecedented scale, and a young artillery officer named Napoleon Bonaparte first made his name during the campaign in Italy. The war ended with the Treaty of Campo Formio, through which France secured Belgium and the left bank of the Rhine and effectively knocked Austria out of the fighting.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_First_Coalition"
     },
     {
@@ -3059,6 +3079,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "A European conflict over the Polish throne, fought mainly in Italy and the Rhineland, pitting France and Spain against Austria and Russia.",
+      "tldr": "When the Polish-Lithuanian throne fell vacant, France and Spain backed the previously deposed Stanisław Leszczyński while Austria and Russia backed the Saxon elector Augustus III, but little of the actual fighting took place in Poland, spilling instead into the Rhineland and northern Italy where the great powers pursued their own ambitions. Russian troops secured Augustus III's throne by force, and the peace settlement compensated the loser handsomely: Leszczyński received the Duchy of Lorraine, which would pass to France on his death, a major long-term French gain.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Polish_Succession"
     },
     {
@@ -3078,6 +3099,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Barbary corsairs from North Africa raided Iceland, killing dozens and carrying several hundred captives into slavery in Algiers.",
+      "tldr": "Barbary corsairs from Algiers and Salé, led by the Dutch renegade captain Murat Reis, raided coastal Iceland, striking the Vestmannaeyjar islands, Grindavík, and the east fjords. They killed dozens of residents and carried several hundred more away to be sold into slavery in North Africa. Only a small number were ever ransomed home, among them the poet Guðríður Símonardóttir, whose later marriage to the hymn-writer Hallgrímur Pétursson made the episode, still remembered in Iceland as 'Tyrkjaránið,' part of national memory.",
       "url": "https://en.wikipedia.org/wiki/Turkish_Abductions"
     },
     {
@@ -3097,6 +3119,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "An alliance of northern Dutch provinces against Spanish rule that laid the constitutional foundation for the Dutch Republic.",
+      "tldr": "Organized under the leadership of William of Orange, this agreement bound Holland, Zeeland, Utrecht, and several other northern Dutch provinces into a mutual defense pact against Spanish Habsburg rule during the Eighty Years' War. It guaranteed a degree of religious toleration for individuals even as Calvinism became the dominant public faith, and it coordinated coinage and foreign policy among the signatory provinces. Two years later the provinces formally renounced Philip II, and the Union came to serve as the de facto constitution of the resulting Dutch Republic.",
       "url": "https://en.wikipedia.org/wiki/Union_of_Utrecht"
     },
     {
@@ -3156,6 +3179,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "A peace treaty ending the Franco-Spanish War and establishing the modern border between France and Spain along the Pyrenees.",
+      "tldr": "Negotiated on Pheasant Island by Cardinal Mazarin for France and Luis de Haro for Spain, this treaty ended the long Franco-Spanish War that had outlasted the Thirty Years' War itself. It fixed the France-Spain border along the Pyrenees, ceding Roussillon and parts of Cerdanya and Artois to France, and arranged the marriage of Louis XIV to the Spanish infanta Maria Theresa in exchange for her renouncing her claim to the Spanish throne. Spain's failure to pay the promised dowry later gave Louis XIV a pretext for the War of Devolution.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_the_Pyrenees"
     },
     {
@@ -3175,6 +3199,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Britain, France, Austria, and the Dutch Republic united to check Spanish expansion in Italy under Cardinal Alberoni's foreign policy.",
+      "tldr": "Spain's ambitious chief minister Cardinal Alberoni tried to reverse the territorial losses of the War of the Spanish Succession by seizing Sardinia and Sicily from Austrian and Savoyard control, prompting Britain, France, Austria, and the Dutch Republic to unite against him. A British fleet destroyed the Spanish navy off Cape Passaro, and combined pressure forced Madrid to abandon its Italian conquests. The Treaty of The Hague restored the prewar territorial settlement and cost Alberoni his position, ending Spain's brief bid to overturn the postwar order in Italy.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance"
     },
     {
@@ -3374,6 +3399,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Supporters of deposed King James II fought forces loyal to William of Orange for control of Ireland and the English throne.",
+      "tldr": "Following the Glorious Revolution in England, supporters of the deposed Catholic king James II fought forces loyal to the new king, William of Orange, for control of Ireland, with the outcome carrying implications for the English throne itself. William's decisive victory at the Battle of the Boyne in 1690 became a lasting symbol in Irish memory, and Jacobite resistance was broken at Aughrim the following year and the subsequent siege of Limerick. The Treaty of Limerick that ended the war was soon undermined by harsh penal laws, cementing a Protestant Ascendancy over Irish life for generations.",
       "url": "https://en.wikipedia.org/wiki/Williamite_War_in_Ireland"
     },
     {
@@ -3593,6 +3619,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The Unification Act was an agreement signed by the Ukrainian People's Republic and the West Ukrainian People's Republic in Sophia Square in Kyiv on 22 January 1919. Since 1999, it is celebrated every year as the Day of Unity of Ukraine to commemorate the signing of the treaty; it is a state holiday in Ukraine, though not a public holiday.",
+      "tldr": "Signed in Kyiv's Sophia Square, this agreement proclaimed the union of the Ukrainian People's Republic and the West Ukrainian People's Republic, joining lands that had emerged from the collapsing Russian and Austro-Hungarian empires into a single state. Known in Ukraine as the Act of Zluky, it was largely symbolic, since both governments were fighting for survival against Bolshevik and Polish forces and never achieved lasting administrative unification. Since 1999 the anniversary has been marked as Unity Day, a state holiday commemorating the aspiration it represented.",
       "url": "https://en.wikipedia.org/wiki/Unification_Act"
     },
     {
@@ -3632,6 +3659,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "A war fought between 1917 and 1921 between the Ukrainian People's Republic and the Bolsheviks following the Russian Revolution.",
+      "tldr": "Fought in the chaos following the Russian Revolution, this war pitted the newly declared Ukrainian People's Republic and allied forces against the Bolshevik government seeking to bring Ukraine under Soviet control. Kyiv changed hands repeatedly as fronts shifted, and the conflict overlapped with the wider Russian Civil War and the separate Polish-Soviet War fought partly on the same ground. Bolshevik forces ultimately prevailed, and Ukraine was reconstituted as the Ukrainian Soviet Socialist Republic rather than as the independent state its nationalist government had sought.",
       "url": "https://en.wikipedia.org/wiki/Ukrainian%E2%80%93Soviet_War"
     },
     {
@@ -3751,6 +3779,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "The first conflict of the Napoleonic Wars, pitting Napoleon's France against a coalition led by Britain, Austria, and Russia.",
+      "tldr": "The first of the wars fought under the name 'Napoleonic,' this conflict pitted France against a coalition of Britain, Austria, and Russia alarmed by Napoleon's growing continental ambitions. On land the campaign ended in one of Napoleon's greatest triumphs, the Battle of Austerlitz, sometimes called the Battle of the Three Emperors, where he crushed the combined Austro-Russian army. At sea, Nelson's victory at Trafalgar blocked any invasion of Britain, but it could not offset the coalition's collapse on land, and the Treaty of Pressburg soon dissolved the Holy Roman Empire.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Third_Coalition"
     },
     {
@@ -3850,6 +3879,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "A series of conflicts from 1639 to 1653 across England, Scotland and Ireland, including the English Civil Wars and the Irish Confederate Wars.",
+      "tldr": "This interlocking set of conflicts across England, Scotland, and Ireland began with the Bishops' Wars over Charles I's attempt to impose a new prayer book on Presbyterian Scotland, and expanded into the English Civil Wars between king and Parliament and the brutal Irish Confederate Wars. The fighting culminated in the execution of Charles I in 1649, the abolition of the monarchy, and Oliver Cromwell's subsequent conquest of Ireland and Scotland under the new Commonwealth. The upheaval reshaped the balance of power between crown, Parliament, and the three kingdoms of the British Isles.",
       "url": "https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms"
     },
     {
@@ -3869,6 +3899,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "A 1667–1668 war in which France occupied the Spanish Netherlands and Franche-Comté, with Louis XIV claiming the territories through his wife's inheritance rights.",
+      "tldr": "Louis XIV invaded the Spanish Netherlands and Franche-Comté, arguing that under a regional inheritance custom called the 'law of devolution,' these territories should pass to his wife, the Spanish infanta Maria Theresa, since Spain had never paid her promised dowry. The rapid advance alarmed England, the Dutch Republic, and Sweden enough that they formed the Triple Alliance to pressure a settlement. The resulting Treaty of Aix-la-Chapelle let France keep border fortress towns but forced it to return Franche-Comté, a compromise Louis found unsatisfying and soon sought to overturn.",
       "url": "https://en.wikipedia.org/wiki/War_of_Devolution"
     },
     {
@@ -3898,6 +3929,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "A conflict from 1812 to 1815 between the United States and Britain, fought mainly in North America and at sea amid the wider Napoleonic Wars.",
+      "tldr": "Fought between the United States and Britain amid the wider Napoleonic Wars, this conflict grew out of American anger over trade blockades, the impressment of sailors into the Royal Navy, and British support for Native resistance on the frontier. Fighting ranged from the burning of Washington, D.C., to duels on the Great Lakes, and culminated, after peace was already signed at Ghent but before word reached America, in Andrew Jackson's lopsided victory at New Orleans. The war ended in a draw restoring prewar boundaries, but it strengthened American nationalism.",
       "url": "https://en.wikipedia.org/wiki/War_of_1812"
     },
     {
@@ -3997,6 +4029,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "An 1798–1802 war between revolutionary France and a coalition of European monarchies led by Britain, Austria and Russia.",
+      "tldr": "With Napoleon and much of France's best army tied down in Egypt, Britain, Austria, Russia, and Naples combined to roll back French gains in Europe, and Russian field marshal Alexander Suvorov won striking victories reconquering northern Italy before an equally dramatic fighting retreat across the Alps into Switzerland. Napoleon's sudden return from Egypt and his subsequent victory at Marengo reversed French fortunes. The war ended with the Treaty of Lunéville confirming French dominance on the continent and the Treaty of Amiens bringing a brief peace with Britain.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Second_Coalition"
     },
     {
@@ -4026,6 +4059,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The Vlora War or Vlora crisis was a military conflict in the Vlorë region of Albania between the Kingdom of Italy and Albanian nationalists.",
+      "tldr": "Albanian nationalist irregulars laid siege to the Italian garrison occupying the Vlorë region of southern Albania, a holdover from Italy's wartime occupation, and inflicted enough losses that Rome agreed to withdraw its forces from the mainland, retaining only the small island of Sazan offshore. The victory, achieved by lightly armed volunteers against a modern European army, became a foundational episode in Albanian national memory. It helped secure Albania's independence and territorial integrity at a moment when several neighbors and foreign powers still had designs on its land.",
       "url": "https://en.wikipedia.org/wiki/Vlora_War"
     },
     {
@@ -4525,6 +4559,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Multi-power European conflict sparked by Maria Theresa's succession to the Habsburg throne.",
+      "tldr": "When Maria Theresa inherited the Habsburg lands under the Pragmatic Sanction her father had spent years securing recognition for, Prussia's Frederick the Great seized the moment to invade the rich province of Silesia, and France, Bavaria, and Spain joined in hoping to dismember Austrian power. Britain and the Dutch Republic backed Maria Theresa, turning a succession dispute into a continent-wide war fought also in North America. The Treaty of Aix-la-Chapelle that ended it confirmed her succession but let Prussia keep Silesia, a loss Austria would spend the next war trying to reverse.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession"
     },
     {
@@ -4634,6 +4669,7 @@
       "region": "East Asia",
       "period": "Early modern (1500–1800)",
       "desc": "The transition from Ming to Qing was a decades-long conquest of China by the Manchu-led Qing dynasty, beginning with Nurhaci's unification of the Jurchen tribes in 1616. It ended Ming rule over China.",
+      "tldr": "The Manchu conquest of China began when the chieftain Nurhaci unified the Jurchen tribes in 1616 and founded the state his son Hong Taiji later renamed Qing. As internal rebellion, most dramatically Li Zicheng's capture of Beijing in 1644 and the Ming emperor's suicide, tore the Ming dynasty apart, the Ming general Wu Sangui opened the Shanhai Pass to Qing forces rather than submit to the rebels, letting the Manchus seize the capital. Ming loyalists resisted from the south for decades, but Qing rule was fully consolidated by the suppression of the Revolt of the Three Feudatories.",
       "url": "https://en.wikipedia.org/wiki/Transition_from_Ming_to_Qing"
     },
     {
@@ -4793,6 +4829,7 @@
       "region": "East Asia",
       "period": "Medieval (500–1500)",
       "desc": "The Ōnin War (1467–1477) was a civil war among rival samurai clans over succession disputes during Japan's Muromachi period. Its devastation of Kyoto and the shogunate's weakened authority ushered in the Sengoku era.",
+      "tldr": "A succession dispute within the Ashikaga shogunate ignited a devastating civil war between the rival Hosokawa and Yamana clans and their allies, fought largely in and around the capital, Kyoto. A decade of street fighting left much of the city in ruins and destroyed countless temples, palaces, and artworks, while the shogun's authority to control the country's powerful regional warlords collapsed in the process. The resulting power vacuum ushered in the Sengoku, or 'Warring States,' period, over a century of near-constant conflict among competing daimyo before Japan was eventually reunified.",
       "url": "https://en.wikipedia.org/wiki/%C5%8Cnin_War"
     },
     {
@@ -5232,6 +5269,7 @@
       "region": "East Asia",
       "period": "19th century",
       "desc": "The Treaty of Shimoda (1855) was the first treaty between Russia and Japan, establishing diplomatic relations and dividing the Kuril Islands between them. It followed Japan's opening to foreign trade.",
+      "tldr": "Negotiated by Russian admiral Yevfimy Putyatin and Japanese official Toshiakira Kawaji, this was the first formal treaty between Russia and Japan, establishing diplomatic relations and opening limited trade. It drew a border through the Kuril Islands, giving Japan the southern chain down through Etorofu while leaving Sakhalin jointly unpartitioned. It came just a year after Commodore Perry's American mission had forced Japan to end its long isolation, and set a pattern other Western powers soon followed.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Shimoda"
     },
     {
@@ -5421,6 +5459,7 @@
       "region": "Middle East",
       "period": "20th century onward",
       "desc": "The Treaty of Saadabad (1937) was a non-aggression pact signed by Turkey, Iran, Iraq, and Afghanistan in Tehran. It aimed to secure regional stability among the four states in the interwar period.",
+      "tldr": "Turkey, Iran, Iraq, and Afghanistan signed this non-aggression pact at the Sa'dabad Palace in Tehran, promising not to interfere in each other's internal affairs and to consult on regional disputes. It was modeled on similar interwar regional pacts and aimed partly at containing cross-border Kurdish nationalist movements that touched all four states. The agreement reflected a brief period of cooperative diplomacy among the region's newly modernizing states, though it did little to prevent the upheavals of the Second World War from reaching the region soon after.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Saadabad"
     },
     {
@@ -5490,6 +5529,7 @@
       "region": "Americas",
       "period": "Early modern (1500–1800)",
       "desc": "The War of Jenkins' Ear was fought between Great Britain and Spain from 1739 to 1748. Most of the fighting took place in New Granada and the Caribbean Sea, with major operations over by 1742.",
+      "tldr": "This Anglo-Spanish war took its name from merchant captain Robert Jenkins, whose ear, allegedly severed years earlier by a Spanish coast guard officer enforcing trade restrictions, was displayed before Parliament as a symbol of Spanish outrages against British shipping. Fighting centered on the Caribbean and the Georgia-Florida borderlands, including a disastrous British siege of the fortified port of Cartagena de Indias that cost thousands of lives to disease and combat. By the early 1740s the conflict had largely merged into the broader War of the Austrian Succession then engulfing Europe.",
       "url": "https://en.wikipedia.org/wiki/War_of_Jenkins%27_Ear"
     },
     {
@@ -5499,6 +5539,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "The Treaty of Versailles of 1871 ended the Franco-Prussian War, with France ceding Alsace-Lorraine and paying a large indemnity to the newly proclaimed German Empire. The harsh terms fueled lasting French resentment.",
+      "tldr": "Signed at Versailles days after the German Empire was proclaimed there, this treaty formally ended the Franco-Prussian War on harsh terms: France ceded Alsace and most of Lorraine and agreed to pay a five-billion-franc indemnity, with German troops occupying French territory until it was paid off. The loss of the two provinces became a lasting national grievance in France, fueling calls for revenge that shaped French politics for the next four decades. That resentment is often cited as one of the underlying causes of the First World War.",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles_%281871%29"
     },
     {
@@ -5518,6 +5559,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "The War of the Breton Succession (1341–1364) was a civil war between the Houses of Blois and Montfort for the Duchy of Brittany, entangled with the wider Hundred Years' War. The Montfort line prevailed.",
+      "tldr": "A dispute over the succession to the Duchy of Brittany split the region between the House of Blois, backed by France, and the House of Montfort, backed by England, becoming a bitter proxy front within the larger Hundred Years' War. The conflict is remembered for episodes of chivalric theater like the Combat of the Thirty, a prearranged battle between thirty champions from each side fought before spectators. The Montfort line ultimately triumphed and secured the duchy through the Treaty of Guérande, though Breton allegiance kept shifting for decades after.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Breton_Succession"
     },
     {
@@ -5857,6 +5899,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "The War of the Fourth Coalition (1806–1807) saw Napoleon's France defeat a coalition led by Prussia and Russia. Prussia's crushing defeat led to the humiliating Treaties of Tilsit.",
+      "tldr": "Prussia, joined late by Russia and Saxony, took on Napoleon's France without waiting for its allies to fully mobilize, and paid for it with catastrophic defeats at the twin battles of Jena and Auerstedt within weeks of declaring war. French forces occupied Berlin soon after, and Russia's subsequent defeats forced the humiliating Treaties of Tilsit, which stripped Prussia of roughly half its territory and population. The settlement marked the high point of Napoleon's continental dominance and imposed his Continental System blockade against British trade.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition"
     },
     {
@@ -5906,6 +5949,7 @@
       "region": "East Asia",
       "period": "19th century",
       "desc": "The Treaty of Tientsin (1858) was a set of unequal treaties Qing China signed with Britain, France, Russia, and the United States after the Second Opium War. It opened further ports and legalized the opium trade.",
+      "tldr": "Signed after the Qing dynasty's defeat in the Second Opium War, this set of treaties forced China to open additional ports, permit foreign legations in Beijing, allow Christian missionaries to travel and preach, and legalize the opium trade its officials had tried to suppress. Britain, France, Russia, and the United States each secured their own versions of these terms. Qing resistance to ratification triggered renewed fighting, and the terms were only finally enforced after the 1860 Convention of Peking, cementing China's status among the era's 'unequal treaties.'",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Tientsin"
     },
     {
@@ -6145,6 +6189,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The War of the League of Cambrai, fought from December 1508 to December 1516, pitted France, the Holy Roman Empire, the Papal States, and Venice against each other as part of the wider Italian Wars.",
+      "tldr": "Fought across northern Italy over eight years, this conflict began with France, the Holy Roman Empire, the Papal States, and Spain allied against the Republic of Venice, only for the alliances to scramble once the Pope, alarmed by growing French power in Italy, switched sides to form a Holy League against France instead. Venice suffered an early catastrophic defeat at Agnadello but recovered much of its mainland territory by the war's end. The shifting coalitions typified the broader Italian Wars, in which foreign powers repeatedly fought for control of the peninsula's wealthy city-states.",
       "url": "https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai"
     },
     {
