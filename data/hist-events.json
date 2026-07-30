@@ -89,6 +89,7 @@
       "region": "Europe",
       "period": "Ancient (to 500 CE)",
       "desc": "Traditional date for the founding of the city of Rome, later the centre of the Roman Republic and Empire.",
+      "tldr": "Roman tradition, recorded by writers like Livy, dates the city's founding to 753 BCE by the legendary twins Romulus and Remus, said to have been raised by a she-wolf after being abandoned as infants. Romulus reputedly killed Remus in a dispute over the city's boundaries and became its first king. Archaeological evidence points to earlier settlement on the Palatine Hill, but the legendary date became the anchor of the later Roman calendar, counted 'ab urbe condita.'",
       "url": "https://en.wikipedia.org/wiki/Founding_of_Rome"
     },
     {
@@ -175,6 +176,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Storming of the Bastille opened a decade of upheaval that toppled the French monarchy.",
+      "tldr": "On 14 July 1789, Parisian crowds stormed the Bastille fortress-prison seeking gunpowder and reacting to fears that royal troops were massing to crush the new National Assembly. Though the prison held only a handful of inmates, the assault became a symbol of popular sovereignty triumphing over royal despotism. The date is now France's national holiday, and the storming is conventionally treated as the opening act of a revolution that would abolish the monarchy within three years.",
       "url": "https://en.wikipedia.org/wiki/French_Revolution"
     },
     {
@@ -474,6 +476,7 @@
       "region": "Americas",
       "period": "20th century onward",
       "desc": "A ruptured storage tank released a wave of molasses through Boston's North End, killing 21 people.",
+      "tldr": "On 15 January 1919, a poorly built steel tank holding over two million gallons of molasses ruptured in Boston's North End, sending a wave reportedly reaching 25 feet high through the streets at high speed. The flood killed 21 people and injured about 150, crushing buildings and sweeping horses, wagons, and people off their feet. A lengthy lawsuit later established that the company's shoddy construction, not sabotage as first suspected, caused the disaster, spurring stricter engineering regulations.",
       "url": "https://en.wikipedia.org/wiki/Great_Molasses_Flood"
     },
     {
@@ -610,6 +613,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "The First Ottoman–Venetian War was fought between the Republic of Venice with its allies and the Ottoman Empire from 1463 to 1479, resulting in the loss of several Venetian holdings in Albania and Greece.",
+      "tldr": "Sparked by disputes over Venetian holdings in the Aegean and Ottoman expansion in the Balkans, the war saw Sultan Mehmed II's forces steadily grind down Venice's fortified outposts. Venice recruited allies including Hungary and briefly Uzun Hasan of the Aq Qoyunlu, but by 1479 was forced to accept a costly peace, surrendering Negroponte, Scutari, and other Aegean and Albanian possessions. The sixteen-year war marked the start of Venice's long decline as an eastern Mediterranean power.",
       "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_%281463%E2%80%931479%29"
     },
     {
@@ -743,6 +747,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "A prolonged conflict between the kingdoms of England and France over rival claims to the French throne, fought intermittently from 1337 to 1453.",
+      "tldr": "Edward III of England claimed the French throne through his mother in 1337, launching a conflict that spanned five generations and was fought in intermittent phases rather than continuously. English longbowmen delivered stunning early victories at Crécy, Poitiers, and Agincourt, but France's fortunes turned after Joan of Arc rallied the besieged city of Orléans in 1429. By 1453, France had driven the English out of nearly all their continental holdings, leaving only Calais and cementing both nations' emerging sense of national identity.",
       "url": "https://en.wikipedia.org/wiki/Hundred_Years%27_War"
     },
     {
@@ -799,6 +804,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "A 1938 arbitration following the Munich Agreement that forced Czechoslovakia to cede southern Slovakia and Carpathian Ruthenia to Hungary.",
+      "tldr": "Acting as arbiters under the Munich Agreement's shadow, Nazi Germany and Fascist Italy compelled Czechoslovakia to hand over southern Slovakia and Carpathian Ruthenia to Hungary in November 1938. The award redrew borders based on ethnic Hungarian population claims without a plebiscite, rewarding Hungary's alignment with the Axis powers. It further dismembered the already-weakened Czechoslovak state, a process completed months later by Germany's outright occupation of the Czech lands.",
       "url": "https://en.wikipedia.org/wiki/First_Vienna_Award"
     },
     {
@@ -857,6 +863,7 @@
       "region": "South Asia",
       "period": "19th century",
       "desc": "A widespread uprising of sepoys and civilians against East India Company rule, beginning at Meerut in 1857 and reshaping British governance of India.",
+      "tldr": "Sepoys of the Bengal Army mutinied at Meerut in May 1857, sparked by rumors that new cartridges were greased with cow and pig fat, offensive to Hindu and Muslim soldiers alike, and the revolt quickly spread across northern and central India. Rebels rallied around the aged Mughal emperor Bahadur Shah II in Delhi, and fighting included prolonged sieges at Lucknow and Kanpur. British forces eventually crushed the uprising with brutal reprisals, after which the East India Company was dissolved and India came under direct British Crown rule.",
       "url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857"
     },
     {
@@ -945,6 +952,7 @@
       "region": "South Asia",
       "period": "20th century onward",
       "desc": "Armed and diplomatic struggle between the Republic of Indonesia and the Dutch Empire following Indonesia's 1945 declaration of independence.",
+      "tldr": "Indonesian nationalists led by Sukarno and Hatta declared independence within days of Japan's 1945 surrender, but the Netherlands sought to reassert colonial control over its former East Indies possessions. Four years of guerrilla warfare, diplomacy, and two major Dutch military offensives followed, drawing international criticism, including pressure from the United States and the United Nations. The Netherlands formally transferred sovereignty in December 1949, ending over three centuries of Dutch colonial rule.",
       "url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution"
     },
     {
@@ -1117,6 +1125,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "Charles VIII of France invaded Italy to press his claim to Naples, opening decades of Italian Wars among France, Spain, and the Holy Roman Empire.",
+      "tldr": "Charles VIII of France marched an army into Italy in 1494 to press a dynastic claim to the Kingdom of Naples inherited through the Angevin line, exploiting the peninsula's fractured city-states. His forces swept through Italy with unprecedented speed, thanks partly to a new generation of mobile siege artillery, and briefly took Naples. An alliance of Italian states, Spain, and the Holy Roman Empire forced Charles into a costly retreat, but the invasion opened over six decades of recurring Italian Wars among Europe's major powers.",
       "url": "https://en.wikipedia.org/wiki/Italian_War_of_1494%E2%80%931495"
     },
     {
@@ -1379,6 +1388,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Also known as the Cilicia Campaign, a conflict between France and Turkish nationalist forces from 1918 to 1921 in the aftermath of World War I.",
+      "tldr": "Also called the Cilicia Campaign, French forces occupying formerly Ottoman Cilicia after World War I clashed with Turkish nationalist militias loyal to Mustafa Kemal Atatürk from 1918 to 1921. Bitter fighting around Marash and Antep, including massacres of Armenian and Turkish civilians, wore down French resolve. France signed the 1921 Treaty of Ankara, withdrawing from Cilicia and recognizing Kemalist authority, an early diplomatic victory for the nascent Turkish republic.",
       "url": "https://en.wikipedia.org/wiki/Franco-Turkish_War"
     },
     {
@@ -1574,6 +1584,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "A coalition led by Russia broke Swedish dominance in Northern, Central and Eastern Europe between 1700 and 1721.",
+      "tldr": "A coalition of Russia, Denmark-Norway, and Saxony-Poland attacked Sweden in 1700, hoping to exploit the inexperience of the teenage King Charles XII, but he won a stunning early victory at Narva against a far larger Russian force. Charles's fortunes reversed after his invasion of Russia was crushed at Poltava in 1709, and the war dragged on for over two decades. The 1721 Treaty of Nystad ended Swedish dominance in the Baltic and confirmed Russia's rise as a great European power under Peter the Great.",
       "url": "https://en.wikipedia.org/wiki/Great_Northern_War"
     },
     {
@@ -1745,6 +1756,7 @@
       "region": "Africa",
       "period": "19th century",
       "desc": "Spanish military campaign against Morocco fought around Ceuta, resulting in expanded Spanish territory in North Africa.",
+      "tldr": "Border clashes near the Spanish enclave of Ceuta escalated into full war in 1859 when Spain, seeking to reassert colonial prestige, invaded northern Morocco under General Leopoldo O'Donnell. Spanish forces won a costly victory at the Battle of Tetouan, occupying the city after heavy casualties from Moroccan resistance and disease. The 1860 Treaty of Wad-Ras expanded Spanish territory around Ceuta and Melilla and extracted a large indemnity, though Morocco retained its formal independence.",
       "url": "https://en.wikipedia.org/wiki/List_of_Spanish_colonial_wars_in_Morocco"
     },
     {
@@ -1802,6 +1814,7 @@
       "region": "Americas",
       "period": "Early modern (1500–1800)",
       "desc": "North American theater of the Seven Years' War, fought between Britain and France, with Native American allies, for colonial control.",
+      "tldr": "Fighting broke out in the Ohio Valley in 1754 when a young George Washington's Virginia militia clashed with French forces, escalating a colonial land dispute into the North American front of the global Seven Years' War. Britain's capture of Quebec in 1759 and Montreal in 1760, aided by Iroquois and other Native allies, broke French power in Canada. The 1763 Treaty of Paris ceded French Canada to Britain, reshaping North America's colonial map and setting the stage for later tensions with Britain's own colonists.",
       "url": "https://en.wikipedia.org/wiki/French_and_Indian_War"
     },
     {
@@ -1906,6 +1919,7 @@
       "region": "Americas",
       "period": "Early modern (1500–1800)",
       "desc": "Agreement easing lingering tensions between the United States and Great Britain after the Revolutionary War.",
+      "tldr": "Negotiated by Chief Justice John Jay and signed in 1794, the treaty addressed grievances lingering from the American Revolutionary War, chiefly Britain's continued occupation of forts in the Northwest Territory and disputes over wartime debts and shipping seizures. Britain agreed to withdraw from the frontier forts and grant limited American trading rights in the West Indies, though the treaty said nothing about impressment of American sailors, angering many Americans. Bitterly divisive at home, it nonetheless avoided a renewed war with Britain and bought the young republic a decade of peace.",
       "url": "https://en.wikipedia.org/wiki/Jay_Treaty"
     },
     {
@@ -2338,6 +2352,7 @@
       "region": "East Asia",
       "period": "19th century",
       "desc": "War between Qing China and Meiji Japan over influence in Korea, ending in a decisive Japanese victory.",
+      "tldr": "Rival intervention in Korea's Donghak Peasant Rebellion pulled Qing China and Meiji Japan into open war in 1894. Japan's modernized army and navy routed Chinese forces on land and at sea, most decisively at the Battle of the Yalu River. The 1895 Treaty of Shimonoseki forced China to recognize Korean independence, cede Taiwan and the Liaodong Peninsula, and pay a huge indemnity, announcing Japan's arrival as a modern imperial power at China's expense.",
       "url": "https://en.wikipedia.org/wiki/First_Sino-Japanese_War"
     },
     {
@@ -2366,6 +2381,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Napoleon's catastrophic campaign into Russia devastated the Grande Armée and marked a turning point in his downfall.",
+      "tldr": "Napoleon crossed into Russia in June 1812 at the head of over 400,000 troops, the largest army Europe had ever seen, intending a quick decisive battle to force Tsar Alexander I back into the Continental System. Russian forces retreated and burned Moscow rather than surrender it, and after occupying an empty, ruined city, Napoleon was forced into a disastrous winter retreat. Starvation, cold, and Cossack raids destroyed the Grande Armée, with perhaps fewer than 40,000 men returning, and the catastrophe emboldened all of Europe against him.",
       "url": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
     },
     {
@@ -2471,6 +2487,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Brief border war between the newly independent republics of Georgia and Armenia over disputed territories.",
+      "tldr": "As the Russian Empire collapsed in 1918, the newly independent republics of Georgia and Armenia went to war over the contested Lori and Borchalo districts, populated by mixed Georgian, Armenian, and other communities. Brief but sharp fighting broke out around Sadakhlo before British diplomatic pressure forced a ceasefire, since both nascent states needed to focus on graver threats from Ottoman and Bolshevik forces. A neutral zone was established, though the underlying territorial dispute went largely unresolved before both republics fell to Soviet control.",
       "url": "https://en.wikipedia.org/wiki/Armeno-Georgian_War"
     },
     {
@@ -2558,6 +2575,7 @@
       "region": "East Asia",
       "period": "19th century",
       "desc": "Conflict between Britain and Qing China over the opium trade, ending with China ceding Hong Kong to Britain.",
+      "tldr": "Britain went to war after Chinese commissioner Lin Zexu confiscated and destroyed over a thousand tons of British opium at Canton to halt the drug's corrosive trade. Superior British naval firepower forced Qing China to capitulate, and the 1842 Treaty of Nanjing ceded Hong Kong to Britain, opened five treaty ports, and imposed reparations. It was the first of the 'unequal treaties' that curtailed Chinese sovereignty for a century and remains a formative grievance in modern Chinese nationalism.",
       "url": "https://en.wikipedia.org/wiki/First_Opium_War"
     },
     {
@@ -2606,6 +2624,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Multilateral treaty signed in Geneva to reduce tariffs and promote international trade, later evolving into the WTO.",
+      "tldr": "Signed in Geneva in 1947 by 23 nations rebuilding a war-shattered global economy, GATT set rules to lower tariffs and curb the kind of protectionist trade wars that had deepened the Great Depression. It operated through repeated negotiating 'rounds,' most significantly the Uruguay Round, which cut tariffs dramatically over decades and extended rules to services and intellectual property. In 1995 GATT's functions were absorbed into the newly created World Trade Organization, which still administers most of its original text.",
       "url": "https://en.wikipedia.org/wiki/General_Agreement_on_Tariffs_and_Trade"
     },
     {
@@ -2625,6 +2644,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Swedish-Russian conflict over control of Ingria and northwestern Russia during Russia's Time of Troubles.",
+      "tldr": "Sweden intervened in Russia's chaotic Time of Troubles in 1610, initially as an ally against Polish-backed pretenders, but the alliance collapsed and Swedish forces instead seized the region of Ingria and the city of Novgorod. Fighting dragged on for years amid Russia's internal turmoil until a new tsar, Michael Romanov, was able to negotiate peace. The 1617 Treaty of Stolbovo ceded Ingria to Sweden, cutting Russia off from the Baltic Sea for nearly a century until Peter the Great reversed the loss.",
       "url": "https://en.wikipedia.org/wiki/Ingrian_War"
     },
     {
@@ -2781,6 +2801,7 @@
       "region": "Africa",
       "period": "20th century onward",
       "desc": "Italy seized the Ottoman provinces of Tripolitania and Cyrenaica, forming the colony of Libya and marking the first military use of aircraft.",
+      "tldr": "Italy invaded the Ottoman provinces of Tripolitania and Cyrenaica in 1911, seeking colonial territory in North Africa to match other European powers, and quickly seized the coastal cities. Fierce local resistance from Arab and Ottoman forces confined Italian control largely to the coast for much of the war, while the conflict became historically notable as the first in which aircraft were used for reconnaissance and bombing. The 1912 Treaty of Ouchy ceded the provinces to Italy, which merged them into the colony of Libya.",
       "url": "https://en.wikipedia.org/wiki/Italo-Turkish_War"
     },
     {
@@ -2849,6 +2870,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "A series of conflicts between Revolutionary France and a coalition of European monarchies seeking to contain and reverse the Revolution.",
+      "tldr": "From 1792, Austria and Prussia led a coalition of monarchies seeking to crush the French Revolution and restore Louis XVI's full authority, fearing revolutionary ideas would spread across their own borders. Revolutionary France's citizen armies, mobilized through the levée en masse, held off and then reversed the invasions, carrying the war into the Low Countries, Italy, and the Rhineland. The conflict merged almost seamlessly into the Napoleonic Wars once Napoleon Bonaparte rose to power in 1799.",
       "url": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars"
     },
     {
@@ -3134,6 +3156,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "Fascist Italy's invasion of Greece, which was repelled by Greek forces and drew Nazi Germany into the Balkan campaign.",
+      "tldr": "Mussolini ordered an invasion of Greece from occupied Albania in October 1940, expecting an easy triumph that would match Hitler's rapid conquests elsewhere in Europe. Greek forces instead halted the Italian advance and pushed deep into Albanian territory, inflicting a humiliating defeat on Fascist Italy. The reversal forced Hitler to divert German forces into the Balkans the following spring to rescue his ally, a campaign some historians argue delayed and weakened the subsequent invasion of the Soviet Union.",
       "url": "https://en.wikipedia.org/wiki/Greco-Italian_War"
     },
     {
@@ -3279,6 +3302,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "The Byzantine and Sasanian Persian empires fought for control of the Caucasian kingdom of Iberia, in modern-day Georgia.",
+      "tldr": "The Eastern Roman Empire and Sasanian Persia fought from 526 to 532 over control of the Caucasian kingdom of Iberia, whose Christian king had appealed to Constantinople after Persia tried to impose Zoroastrianism. Byzantine general Belisarius won a notable victory at the Battle of Dara in 530, though Persia later prevailed at Callinicum. The 532 Perpetual Peace restored the prewar status quo and freed Emperor Justinian to focus resources on his ambitious reconquest campaigns in the western Mediterranean.",
       "url": "https://en.wikipedia.org/wiki/Iberian_War"
     },
     {
@@ -3552,6 +3576,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "A military alliance between France and Russia formed 1891–94 in response to the Triple Alliance, lasting until 1917.",
+      "tldr": "Facing isolation after Bismarck's system of alliances excluded republican France, French diplomats courted Tsarist Russia despite the ideological gulf between the two regimes. A military convention signed in 1892 and ratified through 1894 committed each power to mobilize against Germany if the other were attacked. The alliance broke French diplomatic isolation and, by locking Europe into opposing blocs alongside the Triple Alliance, became one of the underlying causes of the First World War.",
       "url": "https://en.wikipedia.org/wiki/Franco-Russian_Alliance"
     },
     {
@@ -3657,6 +3682,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "A 1918–1919 war between Hungary and Romania fought amid the collapse of Austria-Hungary after World War I.",
+      "tldr": "As Austria-Hungary disintegrated after World War I, Romania invaded Hungary in 1919 partly in response to Béla Kun's short-lived Hungarian Soviet Republic, which Romania and the Allied powers saw as a Bolshevik threat. Romanian forces defeated the Hungarian Red Army and occupied Budapest, toppling Kun's communist government. The war helped pave the way for the 1920 Treaty of Trianon, which awarded Transylvania and other Hungarian territories to Romania and shrank Hungary to roughly a third of its former size.",
       "url": "https://en.wikipedia.org/wiki/Hungarian%E2%80%93Romanian_War"
     },
     {
@@ -3666,6 +3692,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "A war begun by Henry II of France against Charles V for control of Italy, ended by the Treaty of Cateau-Cambrésis.",
+      "tldr": "Henry II of France renewed the long Habsburg-Valois struggle for Italian dominance in 1551, contesting Charles V's control over Milan, Naples, and Siena. Fighting spread across Italy, the Low Countries, and northern France, including the decisive Spanish victory at St. Quentin in 1557. The 1559 Treaty of Cateau-Cambrésis ended the war and, with it, the entire era of Italian Wars, confirming Spanish Habsburg dominance over most of Italy for the next 150 years.",
       "url": "https://en.wikipedia.org/wiki/Italian_War_of_1551%E2%80%931559"
     },
     {
@@ -3695,6 +3722,7 @@
       "region": "Europe",
       "period": "Medieval (500–1500)",
       "desc": "An 1480 standoff on the Ugra River between Akhmat Khan of the Great Horde and Grand Prince Ivan III of Moscow, ending Mongol rule over Russia.",
+      "tldr": "In autumn 1480, the army of Akhmat Khan, ruler of the Great Horde, faced Grand Prince Ivan III's Muscovite forces across the Ugra River, each side unwilling to risk crossing to attack the other directly. After weeks of skirmishing and failed negotiations, an early, harsh winter and the threat of Ivan's allies attacking Akhmat's rear forced the Horde to withdraw without a decisive battle. The bloodless standoff is traditionally treated as the symbolic end of roughly two and a half centuries of Mongol-Tatar suzerainty over Russian lands.",
       "url": "https://en.wikipedia.org/wiki/Great_Stand_on_the_Ugra_River"
     },
     {
@@ -3733,6 +3761,7 @@
       "region": "Middle East",
       "period": "19th century",
       "desc": "An 1831–1833 conflict in which Egyptian forces under Muhammad Ali Pasha seized Ottoman Syria, demanding it as reward for aiding the sultan in the Greek War of Independence.",
+      "tldr": "Muhammad Ali's son Ibrahim Pasha led an Egyptian army out of Egypt, crushed Ottoman forces at Homs and Konya, and drove deep into Anatolia, threatening to topple the Ottoman sultanate outright. Alarmed European powers, chiefly Russia, intervened diplomatically and militarily to prop up Istanbul. The 1833 Convention of Kütahya handed Egypt control of Syria and Adana but left Sultan Mahmud II dependent on Russian protection, a debt later paid through the Treaty of Hünkâr İskelesi. The war exposed how far Ottoman military power had decayed.",
       "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Ottoman_War_%281831%E2%80%931833%29"
     },
     {
@@ -3808,6 +3837,7 @@
       "region": "South Asia",
       "period": "20th century onward",
       "desc": "A March 1945 Japanese operation that overthrew French colonial rule in Indochina as Japan faced imminent Allied invasion late in World War II.",
+      "tldr": "With Allied forces closing in and Vichy France no longer a reliable partner, Japan launched a surprise operation on 9 March 1945 to disarm French troops and overthrow the colonial administration it had allowed to nominally govern Indochina since 1940. French garrisons were overwhelmed within a day, and Japan installed nominally independent governments under local rulers like Emperor Bảo Đại in Vietnam. The coup shattered French colonial authority and, by removing it just before Japan's own surrender months later, opened space for Ho Chi Minh's Viet Minh to seize power.",
       "url": "https://en.wikipedia.org/wiki/Japanese_coup_d%27%C3%A9tat_in_French_Indochina"
     },
     {
@@ -3827,6 +3857,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "A May 1940 German military campaign that overran the Netherlands in days, part of the wider invasion of the Low Countries and France.",
+      "tldr": "German forces attacked the neutral Netherlands on 10 May 1940 as part of the broader assault on France and the Low Countries, using airborne troops to seize key bridges and airfields in a surprise opening move. After the Luftwaffe's devastating bombing of Rotterdam, which killed hundreds and threatened further cities with similar destruction, the Dutch government capitulated within five days. Queen Wilhelmina fled to London, and the Netherlands endured five years of occupation until Allied liberation in 1945.",
       "url": "https://en.wikipedia.org/wiki/German_invasion_of_the_Netherlands"
     },
     {
@@ -4088,6 +4119,7 @@
       "region": "Middle East",
       "period": "20th century onward",
       "desc": "French forces defeated King Faisal's Arab Kingdom of Syria and entered Damascus, establishing the French Mandate over Syria.",
+      "tldr": "Following World War I, French troops moved to enforce the League of Nations mandate over Syria against the wishes of King Faisal, who had proclaimed an independent Arab Kingdom of Syria in Damascus. French forces defeated Faisal's poorly equipped army at the Battle of Maysalun in July 1920 and occupied Damascus days later. Faisal went into exile, only to be installed by Britain as king of Iraq the next year, while France began a mandate that would last until 1946.",
       "url": "https://en.wikipedia.org/wiki/Franco-Syrian_War"
     },
     {
@@ -4167,6 +4199,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "War between Royalists and Parliamentarians in England and Wales, part of the Wars of the Three Kingdoms, that reshaped English governance.",
+      "tldr": "Fighting broke out in 1642 after years of conflict between Charles I and Parliament over taxation, religion, and the limits of royal authority. Parliamentarian forces, eventually reorganized into the New Model Army under Oliver Cromwell and Thomas Fairfax, defeated the Royalists decisively at Naseby in 1645. Charles surrendered to the Scots in 1646, ending the first phase of fighting, though he was later tried and executed in 1649 after a second civil war reignited the conflict.",
       "url": "https://en.wikipedia.org/wiki/First_English_Civil_War"
     },
     {
@@ -4225,6 +4258,7 @@
       "region": "Americas",
       "period": "20th century onward",
       "desc": "The German airship Hindenburg caught fire and was destroyed while attempting to dock in New Jersey, killing 36 people and ending the airship era.",
+      "tldr": "The German passenger airship LZ 129 Hindenburg, the largest aircraft ever built, was attempting to dock at Naval Air Station Lakehurst in New Jersey on 6 May 1937 after a transatlantic crossing when its hydrogen envelope caught fire. The airship was engulfed in flames and crashed to the ground within roughly 30 seconds, killing 36 people aboard and on the ground, though remarkably many passengers and crew survived. Captured on newsreel film and radio, the disaster shattered public confidence in hydrogen airships and effectively ended the era of passenger airship travel.",
       "url": "https://en.wikipedia.org/wiki/Hindenburg_disaster"
     },
     {
@@ -4826,6 +4860,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Naval conflict between Denmark–Norway and Britain, supported by Sweden, during the Napoleonic Wars.",
+      "tldr": "Britain, wary that Denmark-Norway's fleet might fall into Napoleon's hands, bombarded Copenhagen in 1807 and seized the entire Danish-Norwegian navy without a formal declaration of war. Stripped of its major warships, Denmark-Norway waged the rest of the conflict with small, agile gunboats harassing British and allied shipping in Danish and Norwegian waters. The prolonged war, allied with a British blockade, crippled the twin kingdom's economy and contributed to Norway's separation from Denmark in 1814.",
       "url": "https://en.wikipedia.org/wiki/Gunboat_War"
     },
     {
@@ -4854,6 +4889,7 @@
       "region": "Americas",
       "period": "19th century",
       "desc": "War between the US and allied Lakota Sioux and Northern Cheyenne forces over the Black Hills.",
+      "tldr": "The US government demanded that Lakota and Cheyenne bands leave unceded hunting grounds in the Black Hills after gold was discovered there, and moved to force them onto reservations by military campaign in 1876. Combined Lakota, Cheyenne, and Arapaho forces under leaders including Crazy Horse and Sitting Bull annihilated Lieutenant Colonel George Custer's detachment at the Battle of the Little Bighorn. Despite that stunning defeat, sustained US military pressure over the following year forced most bands onto reservations and stripped the Black Hills from Sioux control.",
       "url": "https://en.wikipedia.org/wiki/Great_Sioux_War_of_1876"
     },
     {
@@ -4912,6 +4948,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Conflict between France and the Prussian-led North German Confederation, 1870–71.",
+      "tldr": "Provoked partly by the Ems Dispatch, a doctored account of a diplomatic exchange over the Spanish succession, France declared war on Prussia in July 1870. Prussia's superior mobilization and artillery crushed French armies at Sedan, where Napoleon III himself was captured, and besieged Paris into surrender. The 1871 peace ceded Alsace-Lorraine to the new German Empire, proclaimed at Versailles, and left France thirsting for revenge for the next four decades.",
       "url": "https://en.wikipedia.org/wiki/Franco-Prussian_War"
     },
     {
@@ -5106,6 +5143,7 @@
       "region": "Americas",
       "period": "20th century onward",
       "desc": "On 6 December 1917 the explosives-laden SS Mont-Blanc collided with another ship in Halifax harbour and detonated, devastating the city and killing or injuring thousands in one of history's largest accidental explosions.",
+      "tldr": "On 6 December 1917, the French cargo ship SS Mont-Blanc, loaded with high explosives for the war effort, collided with the Norwegian vessel Imo in Halifax's harbor and caught fire. Crowds gathered on shore and at windows to watch the burning ship, unaware of its cargo, when it detonated in one of the largest artificial explosions before the nuclear age. The blast flattened much of Halifax's Richmond district and killed around 2,000 people, prompting a major relief effort from Boston that helped seed the tradition of Nova Scotia's annual Christmas tree gift to that city.",
       "url": "https://en.wikipedia.org/wiki/Halifax_Explosion"
     },
     {
@@ -5376,6 +5414,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The First Silesian War (1740–1742) saw Prussia seize most of Silesia from Austria under Frederick the Great. Austria's defeat, confirmed by the Treaty of Berlin, marked Prussia's rise as a major European power.",
+      "tldr": "Frederick the Great invaded the Habsburg province of Silesia within weeks of inheriting the Prussian throne, exploiting Maria Theresa's disputed succession to the Austrian crown. Prussian victories at Mollwitz and Chotusitz secured the province, and the 1742 Treaty of Berlin confirmed Prussian control over most of it. The seizure roughly doubled Prussia's population and revenue overnight, launching the Austro-Prussian rivalry that would define German politics for the next century.",
       "url": "https://en.wikipedia.org/wiki/First_Silesian_War"
     },
     {
@@ -5444,6 +5483,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Fourth Anglo-Dutch War (1780–1784) broke out when Britain accused the Dutch Republic of covertly aiding the American Revolution. The war ruined Dutch trade and left the Republic reliant on France.",
+      "tldr": "Britain declared war on the Dutch Republic in 1780 after discovering secret Dutch trade and loan negotiations with the rebelling American colonies, seizing on a pretext to crush a commercial rival. Fought almost entirely at sea and in colonial waters, the conflict devastated Dutch shipping and overseas trade, most notably at the Battle of Dogger Bank. The 1784 Treaty of Paris left the Republic economically weakened and diplomatically dependent on France for the rest of the century.",
       "url": "https://en.wikipedia.org/wiki/Fourth_Anglo-Dutch_War"
     },
     {
@@ -5453,6 +5493,7 @@
       "region": "East Asia",
       "period": "Early modern (1500–1800)",
       "desc": "Japanese invasions of Korea may refer to:Japanese invasions of Korea (1592–1598)\nDonghak Peasant Revolution\nJapanese occupation of Gyeongbokgung\nKorea under Japanese rule",
+      "tldr": "Toyotomi Hideyoshi, having unified Japan, launched a massive invasion of Korea in 1592 intending to use it as a corridor for conquering Ming China, and Japanese forces initially overran much of the peninsula rapidly. Korean naval commander Yi Sun-sin's innovative 'turtle ships' repeatedly cut Japanese supply lines at sea, while Ming Chinese reinforcements and guerrilla resistance ground the invasion to a stalemate. A second invasion attempt in 1597 fared no better, and the wars ended in 1598 after Hideyoshi's death, leaving Korea devastated but independent.",
       "url": "https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea"
     },
     {
@@ -5668,6 +5709,7 @@
       "region": "Europe",
       "period": "20th century onward",
       "desc": "The Geneva Protocol of 1925 banned the use of chemical and biological weapons in war, responding to the horrors of gas warfare in the First World War. It did not, however, prohibit their production or stockpiling.",
+      "tldr": "Negotiated in the aftermath of the First World War's mass gas casualties, the 1925 protocol formally banned the first use of chemical and biological weapons in international conflict. It grew directly out of horror at attacks like the German use of chlorine gas at Ypres in 1915. Crucially, the treaty prohibited only wartime use, not the production, stockpiling, or research of such weapons, a loophole that let major powers continue building chemical arsenals throughout the twentieth century.",
       "url": "https://en.wikipedia.org/wiki/Geneva_Protocol"
     },
     {
@@ -5773,6 +5815,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "Franco-Spanish War may refer to any war between France and Spain, including:",
+      "tldr": "The name covers several distinct wars fought between the kingdoms of France and Spain across the sixteenth to nineteenth centuries, most notably the 1635–1659 conflict fought alongside the Thirty Years' War. That war pitted Bourbon France against Habsburg Spain for European dominance and ended with the 1659 Treaty of the Pyrenees, which ceded Roussillon and parts of the Spanish Netherlands to France and sealed France's rise as the continent's leading power.",
       "url": "https://en.wikipedia.org/wiki/Franco-Spanish_War"
     },
     {
@@ -5811,6 +5854,7 @@
       "region": "South Asia",
       "period": "Early modern (1500–1800)",
       "desc": "The Fourth Anglo-Mysore War was a conflict in South India during which the Mysore State fought against the East India Company, Maratha Empire and the Hyderabad State in 1798–99.",
+      "tldr": "Governor-General Richard Wellesley, alarmed by Tipu Sultan of Mysore's contacts with revolutionary France, launched a coordinated invasion with Maratha and Hyderabad allies in 1799. British and allied forces stormed Tipu's capital at Seringapatam, where Tipu died defending the breach. His death ended Mysore's independent power, and the East India Company partitioned the kingdom, restoring a client Wodeyar dynasty under close British control.",
       "url": "https://en.wikipedia.org/wiki/Fourth_Anglo-Mysore_War"
     },
     {
@@ -5910,6 +5954,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Kalmar War (1611–1613) was fought between Denmark–Norway and Sweden. Though Denmark–Norway soon gained the upper hand, it was unable to defeat Sweden entirely.",
+      "tldr": "Christian IV of Denmark-Norway invaded Sweden in 1611 to check Swedish expansion around the Arctic coast and reassert Danish dominance in the Baltic, exploiting the recent accession of the young Gustavus Adolphus to the Swedish throne. Danish forces captured the fortress of Kalmar and the port of Älvsborg, giving the war its name, but proved unable to force a full Swedish surrender. The 1613 Peace of Knäred required Sweden to pay a large ransom to recover Älvsborg but left the underlying Baltic rivalry between the two powers unresolved.",
       "url": "https://en.wikipedia.org/wiki/Kalmar_War"
     },
     {
@@ -5919,6 +5964,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Russo-Turkish War of 1568–1570, fought over control of the Astrakhan Khanate, was the first of twelve wars between Russia and the Ottoman Empire. Russia's defense of Astrakhan checked Ottoman expansion northward.",
+      "tldr": "An Ottoman-Crimean expedition attempted to seize Astrakhan from Muscovy in 1569, aiming to link the Ottoman and Crimean khanates via a canal between the Don and Volga rivers and open a route toward Central Asia. Russian defenders and a harsh winter forced the retreating army to abandon the siege with heavy losses. The failure checked Ottoman ambitions in the region and opened the long, grinding series of Russo-Turkish wars that would recur for the next three centuries.",
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281568%E2%80%931570%29"
     },
     {
@@ -6035,6 +6081,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The Franco-Dutch War, 1672 to 1678, was fought primarily between France and the Dutch Republic, with both sides backed at different times by a variety of allies.",
+      "tldr": "Louis XIV invaded the Dutch Republic in 1672 to punish its opposition to French expansion, triggering a national crisis so severe the Dutch call it the 'Disaster Year.' William of Orange rallied resistance by opening the dikes to flood the countryside and halt the French advance, while Spain, Austria, and Brandenburg joined the Dutch side. The 1678 Peace of Nijmegen gave France territorial gains, including Franche-Comté, but confirmed William's rise as the Republic's leader.",
       "url": "https://en.wikipedia.org/wiki/Franco-Dutch_War"
     },
     {
@@ -6073,6 +6120,7 @@
       "region": "South Asia",
       "period": "20th century onward",
       "desc": "The India–Pakistan war of 1947–1948 was fought between India and Pakistan over the princely state of Jammu and Kashmir, the first of several wars between the two newly independent nations.",
+      "tldr": "Days after independence in 1947, the Muslim-majority princely state of Jammu and Kashmir was invaded by Pashtun tribal militias backed by Pakistan, prompting its Hindu maharaja to accede to India in exchange for military aid. Indian troops airlifted into Srinagar halted the advance, and fighting continued along a shifting front for over a year. A United Nations-brokered ceasefire in 1949 established the Line of Control dividing Kashmir, a division that remains the source of ongoing India-Pakistan tension.",
       "url": "https://en.wikipedia.org/wiki/India%E2%80%93Pakistan_war_of_1947%E2%80%931948"
     },
     {
@@ -6092,6 +6140,7 @@
       "region": "Europe",
       "period": "Early modern (1500–1800)",
       "desc": "The French Revolution was a period of political and societal change in France beginning with the Estates General of 1789 and ending with the Coup of 18 Brumaire in 1799, reshaping modern political thought.",
+      "tldr": "Financial collapse and grievances over aristocratic privilege forced Louis XVI to summon the Estates-General in 1789, which the Third Estate transformed into a National Assembly demanding a constitution. The fall of the Bastille, the abolition of feudal privileges, and the Declaration of the Rights of Man followed within months, but escalating radicalism brought the monarchy's execution, the Terror under Robespierre, and years of war. Napoleon's 1799 coup ended the revolutionary decade while keeping many of its reforms.",
       "url": "https://en.wikipedia.org/wiki/French_Revolution"
     },
     {
@@ -6178,6 +6227,7 @@
       "region": "Europe",
       "period": "19th century",
       "desc": "Greece and the Ottoman Empire fought over Crete; despite an Ottoman battlefield win, an autonomous Cretan state emerged from the settlement.",
+      "tldr": "Greek nationalists and Cretan insurgents pushed Athens into war with the Ottoman Empire in 1897 over the future of Crete, where a rebellion against Ottoman rule had been simmering for years. Ottoman forces under German-trained commanders defeated the poorly prepared Greek army in Thessaly within weeks. Despite the battlefield outcome, the Great Powers intervened diplomatically, and the postwar settlement created an autonomous Cretan State under nominal Ottoman sovereignty, a step toward the island's eventual union with Greece.",
       "url": "https://en.wikipedia.org/wiki/Greco-Turkish_War_%281897%29"
     },
     {
