@@ -499,6 +499,12 @@ function wireTimelineResizer(){
 }
 
 function render(){
+  document.body.classList.toggle("detail-mode",!!state.entryId);
+  if(state.entryId){
+    renderDetail();
+    return;
+  }
+  document.title=CFG.title||"Index";
   let recs=DATA.filter(match);
   recs=state.view==="timeline"?[...recs].sort((x,y)=>x.y-y.y||(x.name<y.name?-1:1)):sortRecs(recs);
   $("#cnt").textContent=recs.length;
@@ -787,6 +793,51 @@ window.addEventListener("popstate",()=>{
   render();
 });
 // ---- end entity routing ----
+
+// ---- entity detail view ----
+// Data-agnostic: driven entirely by CFG (the topic's meta block) and the entry's own
+// keys, same way the list view is. Do not special-case any topic here.
+function renderDetail(){
+  const r=currentEntry();
+  if(!r)return;
+  const chips=(CFG.cardTags||[]).map(ct=>{
+    const f=filterById(ct.id);
+    if(!f)return "";
+    const v=r[f.key];
+    if(v==null||v==="")return "";
+    const vals=Array.isArray(v)?v:[v];
+    return vals.map(x=>{
+      const label=ct.labelKey?(r[ct.labelKey]||x):x;
+      return `<button class="tag${ct.cls?" "+ct.cls:""}" data-filter="${esc(f.id)}" data-val="${esc(x)}">${esc(label)}</button>`;
+    }).join("");
+  }).join("");
+  let popHtml="";
+  if(CFG.popularity && r.popularity!=null){
+    const popLabel=r.popularity>=75?"Widely read":r.popularity>=50?"Often read":"Less read";
+    popHtml=`<div class="detail-pop">${esc(popLabel)} · ${esc(formatViews(r.avg_views_per_day))} avg. Wikipedia views/day</div>`;
+  }
+  const wikiLink=r.url?`<a class="detail-link" href="${esc(r.url)}" target="_blank" rel="noopener">Wikipedia &rarr;</a>`:"";
+  const sepLink=r.sep_url?`<a class="detail-link" href="${esc(r.sep_url)}" target="_blank" rel="noopener">Stanford Encyclopedia of Philosophy &rarr;</a>`:"";
+  $("#detail").innerHTML=`
+    <a href="#" class="detail-back" id="detailBack">&larr; All ${esc(CFG.itemNoun||"")}</a>
+    <h1 class="detail-name">${esc(r.name)}</h1>
+    <div class="detail-dates">${esc(r.dates||"")}</div>
+    <div class="tags detail-tags">${chips}</div>
+    ${r.desc?`<p class="detail-desc">${esc(r.desc)}</p>`:""}
+    ${r.tldr?`<p class="detail-tldr">${esc(r.tldr)}</p>`:""}
+    ${popHtml}
+    <div class="detail-links">${wikiLink}${sepLink}</div>
+    <!-- Insertion point for later epics: contemporaries (E2-02), influences (E3-02). -->
+    <div id="detail-extras"></div>
+  `;
+  document.title=`${r.name} — ${CFG.title||""}`;
+  $("#detailBack").addEventListener("click",e=>{e.preventDefault();navigateToList();});
+  $("#detail").querySelectorAll("[data-filter]").forEach(b=>b.addEventListener("click",()=>{
+    navigateToList();
+    addFilter(b.dataset.filter,b.dataset.val);
+  }));
+}
+// ---- end entity detail view ----
 
 async function initApp(){
   await loadTopics();
