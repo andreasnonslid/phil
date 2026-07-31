@@ -1,7 +1,7 @@
 let DATA=[];
 let CFG={};          // topic config (the JSON "meta" block), set in loadData
 let FILTERS=[];      // CFG.filters
-const state={q:"",filters:{},sort:"az",showFavs:false,view:"list"};
+const state={q:"",filters:{},sort:"az",showFavs:false,view:"list",entryId:null};
 const formatViews=n=>Number(n||0).toLocaleString(undefined,{maximumFractionDigits:0});
 
 // Available topics, loaded from data/topics.json in initApp(). The ?d= param selects
@@ -689,6 +689,7 @@ $("#clearFiltersBtn").addEventListener("click", () => { if (!$("#clearFiltersBtn
 //   #q=Kant&fields=Ethics,Logic&trads=Analytic&eras=19th+century&favs=1&view=timeline
 // All values are encodeURIComponent-safe. Comma-separated for multi-select.
 function encodeHash(){
+  if (state.entryId) return; // filter state does not belong in an entity URL
   const parts = [];
   if (state.q)              parts.push("q="      + encodeURIComponent(state.q));
   FILTERS.forEach(f=>{
@@ -745,6 +746,48 @@ $("#copyLinkBtn").addEventListener("click", () => {
 });
 // ---- end share / deeplink ----
 
+// ---- entity routing ----
+// Entity detail pages are addressed via a query param (?d=<topic>&id=<entry-id>), never the
+// hash — the hash stays reserved for list-view filter state (see encodeHash/decodeHash above).
+function currentEntry(){
+  return DATA.find(r=>r.id===state.entryId)||null;
+}
+
+function readEntryIdFromUrl(){
+  const id=new URLSearchParams(location.search).get("id");
+  if(!id){state.entryId=null;return;}
+  if(DATA.some(r=>r.id===id)){
+    state.entryId=id;
+  }else{
+    state.entryId=null;
+    console.warn(`Entity routing: no entry with id "${id}" in this topic.`);
+  }
+}
+
+function navigateToEntry(id){
+  state.entryId=id;
+  const url=new URL(location.href);
+  url.searchParams.set("id",id);
+  url.hash="";
+  history.pushState(null,"",url.pathname+url.search);
+  render();
+}
+
+function navigateToList(){
+  state.entryId=null;
+  const url=new URL(location.href);
+  url.searchParams.delete("id");
+  url.hash="";
+  history.pushState(null,"",url.pathname+url.search);
+  render();
+}
+
+window.addEventListener("popstate",()=>{
+  readEntryIdFromUrl();
+  render();
+});
+// ---- end entity routing ----
+
 async function initApp(){
   await loadTopics();
   try{
@@ -752,6 +795,7 @@ async function initApp(){
     buildUI();
     const kicker=document.querySelector(".kicker");
     if(kicker)kicker.textContent=(CFG.kicker||"").replace("{n}",DATA.length);
+    readEntryIdFromUrl();
     decodeHash();
     if(!location.hash)render();
   }catch(err){
