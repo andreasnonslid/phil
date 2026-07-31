@@ -86,6 +86,7 @@
   },
   "entries": [
     {
+      "id": "hor-aha",
       "name": "Hor-Aha",
       "dates": "3161BCE–3100BCE",
       "y": -3161,
@@ -106,6 +107,7 @@
       "region": "Africa"
     },
     {
+      "id": "imhotep",
       "name": "Imhotep",
       "dates": "2800BCE–2700BCE",
       "y": -2800,
@@ -133,6 +135,7 @@
       "region": "Africa"
     },
     {
+      "id": "hatshepsut",
       "name": "Hatshepsut",
       "dates": "1506BCE–1457BCE",
       "y": -1506,
@@ -153,6 +156,7 @@
       "region": "Africa"
     },
     {
+      "id": "tutankhamun",
       "name": "Tutankhamun",
       "dates": "1342BCE–1323BCE",
       "y": -1342,
@@ -172,6 +176,7 @@
       ]
     },
     {
+      "id": "nebuchadnezzar-i",
       "name": "Nebuchadnezzar I",
       "dates": "1200BCE–1103BCE",
       "y": -1200,
@@ -191,6 +196,7 @@
       ]
     },
     {
+      "id": "king-wu-of-zhou",
       "name": "King Wu of Zhou",
       "dates": "1150BCE–1042BCE",
       "y": -1150,
@@ -204,6 +210,7 @@
       "region": "East Asia"
     },
     {
+      "id": "nebuchadnezzar-ii",
       "name": "Nebuchadnezzar II",
       "dates": "641BCE–561BCE",
       "y": -641,
@@ -226,6 +233,7 @@
       ]
     },
     {
+      "id": "solon",
       "name": "Solon",
       "dates": "629BCE–559BCE",
       "y": -629,
@@ -250,6 +258,7 @@
       ]
     },
     {
+      "id": "thespis",
       "name": "Thespis",
       "dates": "600BCE–560BCE",
       "y": -600,
@@ -273,6 +282,7 @@
       ]
     },
     {
+      "id": "pythagoras",
       "name": "Pythagoras",
       "dates": "582BCE–490BCE",
       "y": -582,
@@ -287,6 +297,7 @@
       "url": "https://en.wikipedia.org/wiki/Pythagoras"
     },
     {
+      "id": "confucius",
       "name": "Confucius",
       "dates": "551–479 BCE",
       "y": -551,
@@ -300,6 +311,7 @@
       "url": "https://en.wikipedia.org/wiki/Confucius"
     },
     {
+      "id": "xerxes-i",
       "name": "Xerxes I",
       "dates": "518BCE–464BCE",
       "y": -518,
@@ -320,6 +332,7 @@
       "region": "Middle East"
     },
     {
+      "id": "callicrates",
       "name": "Callicrates",
       "dates": "469–419 BCE",
       "y": -469,
@@ -333,6 +346,7 @@
       "region": "Europe"
     },
     {
+      "id": "xenophon",
       "name": "Xenophon",
       "dates": "430BCE–353BCE",
       "y": -430,
@@ -357,6 +371,7 @@
       ]
     },
     {
+      "id": "praxiteles",
       "name": "Praxiteles",
       "dates": "394–329 BCE",
       "y": -394,
@@ -370,6 +385,7 @@
       "url": "https://en.wikipedia.org/wiki/Praxiteles"
     },
     {
+      "id": "philip-ii-of-macedon",
       "name": "Philip II of Macedon",
       "dates": "385BCE–335BCE",
       "y": -385,
@@ -390,6 +406,7 @@
       "region": "Europe"
     },
     {
+      "id": "demosthenes",
       "name": "Demosthenes",
       "dates": "383BCE–321BCE",
       "y": -383,
@@ -413,6 +430,7 @@
       ]
     },
     {
+      "id": "darius-iii",
       "name": "Darius III",
       "dates": "379BCE–329BCE",
       "y": -379,
@@ -427,6 +445,7 @@
       "url": "https://en.wikipedia.org/wiki/Darius_III"
     },
     {
+      "id": "menander",
       "name": "Menander",
       "dates": "340BCE–290BCE",
       "y": -340,
@@ -448,6 +467,7 @@
       "region": "Europe"
     },
     {
+      "id": "pushyamitra-shunga",
       "name": "Pushyamitra Shunga",
       "dates": "300BCE–147BCE",
       "y": -300,
@@ -469,6 +489,7 @@
       "region": "South Asia"
     },
     {
+      "id": "antigonus-iii-doson",
       "name": "Antigonus III Doson",
       "dates": "262BCE–220BCE",
       "y": -262,
@@ -489,6 +510,7 @@
       ]
     },
     {
+      "id": "polybius",
       "name": "Polybius",
       "dates": "199BCE–119BCE",
       "y": -199,
@@ -511,6 +533,7 @@
       "region": "Europe"
     },
     {
+      "id": "pompey",
       "name": "Pompey",
       "dates": "105BCE–47BCE",
       "y": -105,
@@ -532,6 +555,7 @@
       ]
     },
     {
+      "id": "julius-caesar",
       "name": "Julius Caesar",
       "dates": "100–44 BCE",
       "y": -100,
@@ -547,6 +571,7 @@
       "region": "Europe"
     },
     {
+      "id": "cornelius-nepos",
       "name": "Cornelius Nepos",
       "dates": "99BCE–24BCE",
       "y": -99,
@@ -569,6 +594,7 @@
       ]
     },
     {
+      "id": "lepidus",
       "name": "Lepidus",
       "dates": "89–12 BCE",
       "y": -89,
@@ -583,6 +609,7 @@
       "url": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)"
     },
     {
+      "id": "cleopatra-vii",
       "name": "Cleopatra VII",
       "dates": "69–30 BCE",
       "y": -69,
@@ -595,6 +622,7 @@
       "url": "https://en.wikipedia.org/wiki/Cleopatra"
     },
     {
+      "id": "tibullus",
       "name": "Tibullus",
       "dates": "50BCE–15BCE",
       "y": -50,
@@ -615,6 +643,7 @@
       ]
     },
     {
+      "id": "marcus-gavius-apicius",
       "name": "Marcus Gavius Apicius",
       "dates": "24BCE–37",
       "y": -24,
@@ -635,6 +664,7 @@
       ]
     },
     {
+      "id": "sejanus",
       "name": "Sejanus",
       "dates": "19BCE–31",
       "y": -19,
@@ -656,6 +686,7 @@
       "region": "Europe"
     },
     {
+      "id": "suetonius",
       "name": "Suetonius",
       "dates": "69–126",
       "y": 69,
@@ -669,6 +700,7 @@
       "url": "https://en.wikipedia.org/wiki/Suetonius"
     },
     {
+      "id": "soter",
       "name": "Soter",
       "dates": "200–175",
       "y": 200,
@@ -682,6 +714,7 @@
       "url": "https://en.wikipedia.org/wiki/Soter"
     },
     {
+      "id": "sasan",
       "name": "Sasan",
       "dates": "200–300",
       "y": 200,
@@ -702,6 +735,7 @@
       ]
     },
     {
+      "id": "dionysius",
       "name": "Dionysius",
       "dates": "200–268",
       "y": 200,
@@ -721,6 +755,7 @@
       "region": "Europe"
     },
     {
+      "id": "sixtus-ii",
       "name": "Sixtus II",
       "dates": "215–258",
       "y": 215,
@@ -740,6 +775,7 @@
       "region": "Europe"
     },
     {
+      "id": "gallienus",
       "name": "Gallienus",
       "dates": "218–268",
       "y": 218,
@@ -754,6 +790,7 @@
       "url": "https://en.wikipedia.org/wiki/Gallienus"
     },
     {
+      "id": "arius",
       "name": "Arius",
       "dates": "250–336",
       "y": 250,
@@ -767,6 +804,7 @@
       "region": "Middle East"
     },
     {
+      "id": "constantius-chlorus",
       "name": "Constantius Chlorus",
       "dates": "250–306",
       "y": 250,
@@ -786,6 +824,7 @@
       "region": "Europe"
     },
     {
+      "id": "marcellus-i",
       "name": "Marcellus I",
       "dates": "255–309",
       "y": 255,
@@ -799,6 +838,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Marcellus_I"
     },
     {
+      "id": "mark",
       "name": "Mark",
       "dates": "300–336",
       "y": 300,
@@ -819,6 +859,7 @@
       ]
     },
     {
+      "id": "damasus-i",
       "name": "Damasus I",
       "dates": "305–384",
       "y": 305,
@@ -841,6 +882,7 @@
       "region": "Europe"
     },
     {
+      "id": "ulfilas",
       "name": "Ulfilas",
       "dates": "311–383",
       "y": 311,
@@ -863,6 +905,7 @@
       "region": "Europe"
     },
     {
+      "id": "huiyuan",
       "name": "Huiyuan",
       "dates": "334–416",
       "y": 334,
@@ -886,6 +929,7 @@
       "region": "East Asia"
     },
     {
+      "id": "samudragupta",
       "name": "Samudragupta",
       "dates": "335–380",
       "y": 335,
@@ -900,6 +944,7 @@
       "region": "South Asia"
     },
     {
+      "id": "hypatia",
       "name": "Hypatia",
       "dates": "360–415",
       "y": 360,
@@ -924,6 +969,7 @@
       "region": "Africa"
     },
     {
+      "id": "mesrop-mashtots",
       "name": "Mesrop Mashtots",
       "dates": "362–440",
       "y": 362,
@@ -937,6 +983,7 @@
       "url": "https://en.wikipedia.org/wiki/Mesrop_Mashtots"
     },
     {
+      "id": "julius-nepos",
       "name": "Julius Nepos",
       "dates": "430–480",
       "y": 430,
@@ -951,6 +998,7 @@
       "url": "https://en.wikipedia.org/wiki/Julius_Nepos"
     },
     {
+      "id": "odoacer",
       "name": "Odoacer",
       "dates": "433–493",
       "y": 433,
@@ -965,6 +1013,7 @@
       "url": "https://en.wikipedia.org/wiki/Odoacer"
     },
     {
+      "id": "ammonius-hermiae",
       "name": "Ammonius Hermiae",
       "dates": "435–517",
       "y": 435,
@@ -987,6 +1036,7 @@
       ]
     },
     {
+      "id": "theodoric-the-great",
       "name": "Theodoric the Great",
       "dates": "454–526",
       "y": 454,
@@ -1000,6 +1050,7 @@
       "url": "https://en.wikipedia.org/wiki/Theodoric_the_Great"
     },
     {
+      "id": "alaric-ii",
       "name": "Alaric II",
       "dates": "458–507",
       "y": 458,
@@ -1013,6 +1064,7 @@
       "region": "Europe"
     },
     {
+      "id": "romulus-augustus",
       "name": "Romulus Augustus",
       "dates": "462–510",
       "y": 462,
@@ -1032,6 +1084,7 @@
       ]
     },
     {
+      "id": "boethius",
       "name": "Boethius",
       "dates": "480–524",
       "y": 480,
@@ -1046,6 +1099,7 @@
       "url": "https://en.wikipedia.org/wiki/Boethius"
     },
     {
+      "id": "jordanes",
       "name": "Jordanes",
       "dates": "490–560",
       "y": 490,
@@ -1066,6 +1120,7 @@
       ]
     },
     {
+      "id": "skandagupta",
       "name": "Skandagupta",
       "dates": "500–467",
       "y": 500,
@@ -1086,6 +1141,7 @@
       "region": "South Asia"
     },
     {
+      "id": "athalaric",
       "name": "Athalaric",
       "dates": "516–534",
       "y": 516,
@@ -1099,6 +1155,7 @@
       "region": "Europe"
     },
     {
+      "id": "ammar-ibn-yasir",
       "name": "Ammar ibn Yasir",
       "dates": "570–657",
       "y": 570,
@@ -1113,6 +1170,7 @@
       "region": "Middle East"
     },
     {
+      "id": "agatho",
       "name": "Agatho",
       "dates": "574–681",
       "y": 574,
@@ -1126,6 +1184,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Agatho"
     },
     {
+      "id": "sa-id-ibn-zayd",
       "name": "Sa’id ibn Zayd",
       "dates": "593–671",
       "y": 593,
@@ -1140,6 +1199,7 @@
       "region": "Middle East"
     },
     {
+      "id": "muadh-ibn-jabal",
       "name": "Muadh ibn Jabal",
       "dates": "600–638",
       "y": 600,
@@ -1153,6 +1213,7 @@
       "region": "Middle East"
     },
     {
+      "id": "leo-ii",
       "name": "Leo II",
       "dates": "611–683",
       "y": 611,
@@ -1166,6 +1227,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Leo_II"
     },
     {
+      "id": "dagobert-i",
       "name": "Dagobert I",
       "dates": "611–639",
       "y": 611,
@@ -1185,6 +1247,7 @@
       ]
     },
     {
+      "id": "husayn-ibn-ali",
       "name": "Husayn ibn Ali",
       "dates": "626–680",
       "y": 626,
@@ -1199,6 +1262,7 @@
       "region": "Middle East"
     },
     {
+      "id": "sisinnius",
       "name": "Sisinnius",
       "dates": "650–708",
       "y": 650,
@@ -1212,6 +1276,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Sisinnius"
     },
     {
+      "id": "gregory-ii",
       "name": "Gregory II",
       "dates": "669–731",
       "y": 669,
@@ -1225,6 +1290,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Gregory_II"
     },
     {
+      "id": "marwan-ii",
       "name": "Marwan II",
       "dates": "688–750",
       "y": 688,
@@ -1248,6 +1314,7 @@
       "region": "Middle East"
     },
     {
+      "id": "hisham-ibn-abd-al-malik",
       "name": "Hisham ibn Abd al-Malik",
       "dates": "691–743",
       "y": 691,
@@ -1269,6 +1336,7 @@
       "region": "Middle East"
     },
     {
+      "id": "gregory-iii",
       "name": "Gregory III",
       "dates": "700–741",
       "y": 700,
@@ -1283,6 +1351,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Gregory_III"
     },
     {
+      "id": "adrian-i",
       "name": "Adrian I",
       "dates": "700–795",
       "y": 700,
@@ -1297,6 +1366,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Adrian_I"
     },
     {
+      "id": "paul-i",
       "name": "Paul I",
       "dates": "700–767",
       "y": 700,
@@ -1311,6 +1381,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Paul_I"
     },
     {
+      "id": "al-walid-ii",
       "name": "Al-Walid II",
       "dates": "700–744",
       "y": 700,
@@ -1333,6 +1404,7 @@
       "region": "Middle East"
     },
     {
+      "id": "yazid-iii",
       "name": "Yazid III",
       "dates": "701–744",
       "y": 701,
@@ -1354,6 +1426,7 @@
       "region": "Middle East"
     },
     {
+      "id": "ibn-al-muqaffa",
       "name": "Ibn al-Muqaffa'",
       "dates": "724–840",
       "y": 724,
@@ -1367,6 +1440,7 @@
       "region": "Middle East"
     },
     {
+      "id": "charlemagne",
       "name": "Charlemagne",
       "dates": "c. 748–814",
       "y": 748,
@@ -1380,6 +1454,7 @@
       "url": "https://en.wikipedia.org/wiki/Charlemagne"
     },
     {
+      "id": "nikephoros-i-of-constantinople",
       "name": "Nikephoros I of Constantinople",
       "dates": "750–828",
       "y": 750,
@@ -1405,6 +1480,7 @@
       ]
     },
     {
+      "id": "leo-iii",
       "name": "Leo III",
       "dates": "750–816",
       "y": 750,
@@ -1428,6 +1504,7 @@
       ]
     },
     {
+      "id": "ziryab",
       "name": "Ziryab",
       "dates": "777–857",
       "y": 777,
@@ -1454,6 +1531,7 @@
       "region": "Middle East"
     },
     {
+      "id": "abu-ma-shar-al-balkhi",
       "name": "Abu Ma’shar al-Balkhi",
       "dates": "787–886",
       "y": 787,
@@ -1468,6 +1546,7 @@
       "region": "Middle East"
     },
     {
+      "id": "methodios-i-of-constantinople",
       "name": "Methodios I of Constantinople",
       "dates": "788–847",
       "y": 788,
@@ -1489,6 +1568,7 @@
       ]
     },
     {
+      "id": "ansgar",
       "name": "Ansgar",
       "dates": "801–865",
       "y": 801,
@@ -1502,6 +1582,7 @@
       "region": "Europe"
     },
     {
+      "id": "abu-mansur-al-maturidi",
       "name": "Abu Mansur al-Maturidi",
       "dates": "852–944",
       "y": 852,
@@ -1527,6 +1608,7 @@
       "region": "Middle East"
     },
     {
+      "id": "abd-al-rahman-al-sufi",
       "name": "Abd al-Rahman al-Sufi",
       "dates": "903–986",
       "y": 903,
@@ -1540,6 +1622,7 @@
       "region": "Middle East"
     },
     {
+      "id": "sviatoslav-i-of-kiev",
       "name": "Sviatoslav I of Kiev",
       "dates": "942–972",
       "y": 942,
@@ -1554,6 +1637,7 @@
       "region": "Europe"
     },
     {
+      "id": "ibn-al-haytham",
       "name": "Ibn al-Haytham",
       "dates": "965–1039",
       "y": 965,
@@ -1568,6 +1652,7 @@
       "region": "Middle East"
     },
     {
+      "id": "henry-ii-holy-roman-emperor",
       "name": "Henry II, Holy Roman Emperor",
       "dates": "973–1024",
       "y": 973,
@@ -1581,6 +1666,7 @@
       "url": "https://en.wikipedia.org/wiki/Henry_II%2C_Holy_Roman_Emperor"
     },
     {
+      "id": "al-biruni",
       "name": "Al-Biruni",
       "dates": "973–1048",
       "y": 973,
@@ -1619,6 +1705,7 @@
       ]
     },
     {
+      "id": "lady-godiva",
       "name": "Lady Godiva",
       "dates": "990–1067",
       "y": 990,
@@ -1632,6 +1719,7 @@
       "region": "Europe"
     },
     {
+      "id": "nicholas-ii",
       "name": "Nicholas II",
       "dates": "990–1061",
       "y": 990,
@@ -1655,6 +1743,7 @@
       ]
     },
     {
+      "id": "su-song",
       "name": "Su Song",
       "dates": "1020–1101",
       "y": 1020,
@@ -1694,6 +1783,7 @@
       ]
     },
     {
+      "id": "abu-ishaq-ibrahim-al-zarqali",
       "name": "Abū Ishāq Ibrāhīm al-Zarqālī",
       "dates": "1027–1100",
       "y": 1027,
@@ -1707,6 +1797,7 @@
       "region": "Europe"
     },
     {
+      "id": "lulach",
       "name": "Lulach",
       "dates": "1030–1058",
       "y": 1030,
@@ -1726,6 +1817,7 @@
       ]
     },
     {
+      "id": "hasan-i-sabbah",
       "name": "Hasan-i Sabbah",
       "dates": "1037–1124",
       "y": 1037,
@@ -1765,6 +1857,7 @@
       ]
     },
     {
+      "id": "henry-i-of-england",
       "name": "Henry I of England",
       "dates": "1068–1135",
       "y": 1068,
@@ -1779,6 +1872,7 @@
       "url": "https://en.wikipedia.org/wiki/Henry_I_of_England"
     },
     {
+      "id": "sanai",
       "name": "Sanai",
       "dates": "1080–1131",
       "y": 1080,
@@ -1792,6 +1886,7 @@
       "region": "Middle East"
     },
     {
+      "id": "urraca-of-leon",
       "name": "Urraca of León",
       "dates": "1081–1126",
       "y": 1081,
@@ -1811,6 +1906,7 @@
       "region": "Europe"
     },
     {
+      "id": "avempace",
       "name": "Avempace",
       "dates": "1095–1139",
       "y": 1095,
@@ -1825,6 +1921,7 @@
       "region": "Europe"
     },
     {
+      "id": "adam-of-bremen",
       "name": "Adam of Bremen",
       "dates": "1100–1085",
       "y": 1100,
@@ -1850,6 +1947,7 @@
       ]
     },
     {
+      "id": "geoffrey-plantagenet-count-of-anjou",
       "name": "Geoffrey Plantagenet, Count of Anjou",
       "dates": "1113–1151",
       "y": 1113,
@@ -1864,6 +1962,7 @@
       "region": "Europe"
     },
     {
+      "id": "lu-you",
       "name": "Lu You",
       "dates": "1125–1210",
       "y": 1125,
@@ -1885,6 +1984,7 @@
       "region": "East Asia"
     },
     {
+      "id": "henry-ii-of-england",
       "name": "Henry II of England",
       "dates": "1133–1189",
       "y": 1133,
@@ -1899,6 +1999,7 @@
       "url": "https://en.wikipedia.org/wiki/Henry_II_of_England"
     },
     {
+      "id": "moshe-ben-maimon",
       "name": "Moshe ben Maimon",
       "dates": "1135–1204",
       "y": 1135,
@@ -1927,6 +2028,7 @@
       "region": "Middle East"
     },
     {
+      "id": "saladin",
       "name": "Saladin",
       "dates": "1137–1193",
       "y": 1137,
@@ -1940,6 +2042,7 @@
       "url": "https://en.wikipedia.org/wiki/Saladin"
     },
     {
+      "id": "malcolm-iv-of-scotland",
       "name": "Malcolm IV of Scotland",
       "dates": "1141–1165",
       "y": 1141,
@@ -1959,6 +2062,7 @@
       ]
     },
     {
+      "id": "saxo-grammaticus",
       "name": "Saxo Grammaticus",
       "dates": "1150–1206",
       "y": 1150,
@@ -1979,6 +2083,7 @@
       "region": "Europe"
     },
     {
+      "id": "sancho-i-of-portugal",
       "name": "Sancho I of Portugal",
       "dates": "1154–1211",
       "y": 1154,
@@ -1993,6 +2098,7 @@
       "region": "Europe"
     },
     {
+      "id": "kuchlug",
       "name": "Kuchlug",
       "dates": "1156–1218",
       "y": 1156,
@@ -2012,6 +2118,7 @@
       "region": "East Asia"
     },
     {
+      "id": "john-king-of-england",
       "name": "John, King of England",
       "dates": "1166–1216",
       "y": 1166,
@@ -2031,6 +2138,7 @@
       ]
     },
     {
+      "id": "shota-rustaveli",
       "name": "Shota Rustaveli",
       "dates": "1172–1216",
       "y": 1172,
@@ -2052,6 +2160,7 @@
       ]
     },
     {
+      "id": "philip-of-swabia",
       "name": "Philip of Swabia",
       "dates": "1177–1208",
       "y": 1177,
@@ -2074,6 +2183,7 @@
       "region": "Europe"
     },
     {
+      "id": "snorri-sturluson",
       "name": "Snorri Sturluson",
       "dates": "1179–1241",
       "y": 1179,
@@ -2088,6 +2198,7 @@
       "url": "https://en.wikipedia.org/wiki/Snorri_Sturluson"
     },
     {
+      "id": "toregene-khatun",
       "name": "Töregene Khatun",
       "dates": "1185–1246",
       "y": 1185,
@@ -2107,6 +2218,7 @@
       "region": "East Asia"
     },
     {
+      "id": "frederick-ii-holy-roman-emperor",
       "name": "Frederick II, Holy Roman Emperor",
       "dates": "1195–1250",
       "y": 1195,
@@ -2131,6 +2243,7 @@
       ]
     },
     {
+      "id": "nicholas-iv",
       "name": "Nicholas IV",
       "dates": "1227–1292",
       "y": 1227,
@@ -2144,6 +2257,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Nicholas_IV"
     },
     {
+      "id": "dante-alighieri",
       "name": "Dante Alighieri",
       "dates": "1265–1321",
       "y": 1265,
@@ -2157,6 +2271,7 @@
       "region": "Europe"
     },
     {
+      "id": "philip-iv-of-france",
       "name": "Philip IV of France",
       "dates": "1268–1314",
       "y": 1268,
@@ -2176,6 +2291,7 @@
       "region": "Europe"
     },
     {
+      "id": "frederick-the-fair",
       "name": "Frederick the Fair",
       "dates": "1289–1330",
       "y": 1289,
@@ -2195,6 +2311,7 @@
       ]
     },
     {
+      "id": "malhun-hatun",
       "name": "Malhun Hatun",
       "dates": "c. 1300–1324",
       "y": 1300,
@@ -2208,6 +2325,7 @@
       "url": "https://en.wikipedia.org/wiki/Malhun_Hatun"
     },
     {
+      "id": "edward-iii-of-england",
       "name": "Edward III of England",
       "dates": "1312–1377",
       "y": 1312,
@@ -2229,6 +2347,7 @@
       ]
     },
     {
+      "id": "ferdinand-i-of-portugal",
       "name": "Ferdinand I of Portugal",
       "dates": "1345–1383",
       "y": 1345,
@@ -2248,6 +2367,7 @@
       ]
     },
     {
+      "id": "go-komatsu",
       "name": "Go-Komatsu",
       "dates": "1377–1433",
       "y": 1377,
@@ -2267,6 +2387,7 @@
       "region": "East Asia"
     },
     {
+      "id": "jamshid-al-kashi",
       "name": "Jamshīd al-Kāshī",
       "dates": "1380–1429",
       "y": 1380,
@@ -2280,6 +2401,7 @@
       "region": "Middle East"
     },
     {
+      "id": "henry-v-of-england",
       "name": "Henry V of England",
       "dates": "1386–1422",
       "y": 1386,
@@ -2300,6 +2422,7 @@
       ]
     },
     {
+      "id": "musa-celebi",
       "name": "Musa Çelebi",
       "dates": "1388–1413",
       "y": 1388,
@@ -2320,6 +2443,7 @@
       ]
     },
     {
+      "id": "jan-van-eyck",
       "name": "Jan van Eyck",
       "dates": "1390–1441",
       "y": 1390,
@@ -2333,6 +2457,7 @@
       "url": "https://en.wikipedia.org/wiki/Jan_van_Eyck"
     },
     {
+      "id": "maria-of-castile-queen-of-aragon",
       "name": "Maria of Castile, Queen of Aragon",
       "dates": "1401–1458",
       "y": 1401,
@@ -2346,6 +2471,7 @@
       "region": "Europe"
     },
     {
+      "id": "pius-ii",
       "name": "Pius II",
       "dates": "1405–1464",
       "y": 1405,
@@ -2360,6 +2486,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Pius_II"
     },
     {
+      "id": "joan-of-arc",
       "name": "Joan of Arc",
       "dates": "c. 1412–1431",
       "y": 1412,
@@ -2373,6 +2500,7 @@
       "url": "https://en.wikipedia.org/wiki/Joan_of_Arc"
     },
     {
+      "id": "paul-ii",
       "name": "Paul II",
       "dates": "1417–1471",
       "y": 1417,
@@ -2386,6 +2514,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Paul_II"
     },
     {
+      "id": "alexander-vi",
       "name": "Alexander VI",
       "dates": "1431–1503",
       "y": 1431,
@@ -2407,6 +2536,7 @@
       "region": "Europe"
     },
     {
+      "id": "hans-memling",
       "name": "Hans Memling",
       "dates": "1435–1494",
       "y": 1435,
@@ -2430,6 +2560,7 @@
       "region": "Europe"
     },
     {
+      "id": "ladislaus-the-posthumous",
       "name": "Ladislaus the Posthumous",
       "dates": "1440–1457",
       "y": 1440,
@@ -2449,6 +2580,7 @@
       ]
     },
     {
+      "id": "hieronymus-bosch",
       "name": "Hieronymus Bosch",
       "dates": "1450–1516",
       "y": 1450,
@@ -2471,6 +2603,7 @@
       ]
     },
     {
+      "id": "leonardo-da-vinci",
       "name": "Leonardo da Vinci",
       "dates": "1452–1519",
       "y": 1452,
@@ -2484,6 +2617,7 @@
       "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
     },
     {
+      "id": "ferdinand-ii-of-aragon",
       "name": "Ferdinand II of Aragon",
       "dates": "1452–1516",
       "y": 1452,
@@ -2504,6 +2638,7 @@
       "region": "Europe"
     },
     {
+      "id": "richard-iii-of-england",
       "name": "Richard III of England",
       "dates": "1452–1485",
       "y": 1452,
@@ -2524,6 +2659,7 @@
       ]
     },
     {
+      "id": "bartolomeu-dias",
       "name": "Bartolomeu Dias",
       "dates": "1467–1500",
       "y": 1467,
@@ -2543,6 +2679,7 @@
       ]
     },
     {
+      "id": "paul-iii",
       "name": "Paul III",
       "dates": "1468–1549",
       "y": 1468,
@@ -2563,6 +2700,7 @@
       ]
     },
     {
+      "id": "sri-krishnadevaraya",
       "name": "Sri Krishnadevaraya",
       "dates": "1471–1529",
       "y": 1471,
@@ -2584,6 +2722,7 @@
       ]
     },
     {
+      "id": "paul-iv",
       "name": "Paul IV",
       "dates": "1476–1559",
       "y": 1476,
@@ -2598,6 +2737,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Paul_IV"
     },
     {
+      "id": "ferdinand-magellan",
       "name": "Ferdinand Magellan",
       "dates": "1480–1521",
       "y": 1480,
@@ -2619,6 +2759,7 @@
       "region": "Europe"
     },
     {
+      "id": "martin-luther",
       "name": "Martin Luther",
       "dates": "1483–1546",
       "y": 1483,
@@ -2632,6 +2773,7 @@
       "url": "https://en.wikipedia.org/wiki/Martin_Luther"
     },
     {
+      "id": "huldrych-zwingli",
       "name": "Huldrych Zwingli",
       "dates": "1484–1531",
       "y": 1484,
@@ -2660,6 +2802,7 @@
       "region": "Europe"
     },
     {
+      "id": "zhengde-emperor",
       "name": "Zhengde Emperor",
       "dates": "1491–1521",
       "y": 1491,
@@ -2673,6 +2816,7 @@
       "url": "https://en.wikipedia.org/wiki/Zhengde_Emperor"
     },
     {
+      "id": "francis-i-of-france",
       "name": "Francis I of France",
       "dates": "1494–1547",
       "y": 1494,
@@ -2692,6 +2836,7 @@
       ]
     },
     {
+      "id": "francois-rabelais",
       "name": "François Rabelais",
       "dates": "1494–1553",
       "y": 1494,
@@ -2719,6 +2864,7 @@
       "region": "Europe"
     },
     {
+      "id": "clement-marot",
       "name": "Clément Marot",
       "dates": "1495–1544",
       "y": 1495,
@@ -2743,6 +2889,7 @@
       ]
     },
     {
+      "id": "heinrich-bullinger",
       "name": "Heinrich Bullinger",
       "dates": "1504–1575",
       "y": 1504,
@@ -2769,6 +2916,7 @@
       ]
     },
     {
+      "id": "pius-v",
       "name": "Pius V",
       "dates": "1504–1572",
       "y": 1504,
@@ -2790,6 +2938,7 @@
       ]
     },
     {
+      "id": "giorgio-vasari",
       "name": "Giorgio Vasari",
       "dates": "1511–1574",
       "y": 1511,
@@ -2820,6 +2969,7 @@
       "region": "Europe"
     },
     {
+      "id": "sehzade-mustafa",
       "name": "Şehzade Mustafa",
       "dates": "1515–1553",
       "y": 1515,
@@ -2839,6 +2989,7 @@
       ]
     },
     {
+      "id": "catherine-de-medici",
       "name": "Catherine de' Medici",
       "dates": "1519–1589",
       "y": 1519,
@@ -2858,6 +3009,7 @@
       ]
     },
     {
+      "id": "henry-ii-of-france",
       "name": "Henry II of France",
       "dates": "1519–1559",
       "y": 1519,
@@ -2878,6 +3030,7 @@
       ]
     },
     {
+      "id": "sixtus-v",
       "name": "Sixtus V",
       "dates": "1521–1590",
       "y": 1521,
@@ -2900,6 +3053,7 @@
       ]
     },
     {
+      "id": "ismail-ii",
       "name": "Ismail II",
       "dates": "1533–1577",
       "y": 1533,
@@ -2923,6 +3077,7 @@
       "region": "Middle East"
     },
     {
+      "id": "leo-xi",
       "name": "Leo XI",
       "dates": "1535–1605",
       "y": 1535,
@@ -2945,6 +3100,7 @@
       ]
     },
     {
+      "id": "longqing-emperor",
       "name": "Longqing Emperor",
       "dates": "1537–1572",
       "y": 1537,
@@ -2958,6 +3114,7 @@
       "url": "https://en.wikipedia.org/wiki/Longqing_Emperor"
     },
     {
+      "id": "mary-queen-of-scots",
       "name": "Mary, Queen of Scots",
       "dates": "1542–1587",
       "y": 1542,
@@ -2981,6 +3138,7 @@
       ]
     },
     {
+      "id": "francis-ii-of-france",
       "name": "Francis II of France",
       "dates": "1544–1560",
       "y": 1544,
@@ -3000,6 +3158,7 @@
       ]
     },
     {
+      "id": "willem-barents",
       "name": "Willem Barents",
       "dates": "1550–1597",
       "y": 1550,
@@ -3028,6 +3187,7 @@
       ]
     },
     {
+      "id": "jost-burgi",
       "name": "Jost Bürgi",
       "dates": "1552–1632",
       "y": 1552,
@@ -3051,6 +3211,7 @@
       ]
     },
     {
+      "id": "paul-v",
       "name": "Paul V",
       "dates": "1552–1621",
       "y": 1552,
@@ -3072,6 +3233,7 @@
       ]
     },
     {
+      "id": "gregory-xv",
       "name": "Gregory XV",
       "dates": "1554–1623",
       "y": 1554,
@@ -3093,6 +3255,7 @@
       ]
     },
     {
+      "id": "carlo-maderno",
       "name": "Carlo Maderno",
       "dates": "1556–1629",
       "y": 1556,
@@ -3112,6 +3275,7 @@
       ]
     },
     {
+      "id": "michael-the-brave",
       "name": "Michael the Brave",
       "dates": "1558–1601",
       "y": 1558,
@@ -3138,6 +3302,7 @@
       ]
     },
     {
+      "id": "gaspard-bauhin",
       "name": "Gaspard Bauhin",
       "dates": "1560–1624",
       "y": 1560,
@@ -3162,6 +3327,7 @@
       ]
     },
     {
+      "id": "kato-kiyomasa",
       "name": "Katō Kiyomasa",
       "dates": "1562–1611",
       "y": 1562,
@@ -3181,6 +3347,7 @@
       "region": "East Asia"
     },
     {
+      "id": "jan-pieterszoon-sweelinck",
       "name": "Jan Pieterszoon Sweelinck",
       "dates": "1562–1621",
       "y": 1562,
@@ -3194,6 +3361,7 @@
       "region": "Europe"
     },
     {
+      "id": "wanli-emperor",
       "name": "Wanli Emperor",
       "dates": "1563–1620",
       "y": 1563,
@@ -3207,6 +3375,7 @@
       "url": "https://en.wikipedia.org/wiki/Wanli_Emperor"
     },
     {
+      "id": "michael-praetorius",
       "name": "Michael Praetorius",
       "dates": "1571–1621",
       "y": 1571,
@@ -3236,6 +3405,7 @@
       "region": "Europe"
     },
     {
+      "id": "innocent-x",
       "name": "Innocent X",
       "dates": "1574–1655",
       "y": 1574,
@@ -3250,6 +3420,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Innocent_X"
     },
     {
+      "id": "guido-reni",
       "name": "Guido Reni",
       "dates": "1575–1642",
       "y": 1575,
@@ -3278,6 +3449,7 @@
       ]
     },
     {
+      "id": "taichang-emperor",
       "name": "Taichang Emperor",
       "dates": "1582–1620",
       "y": 1582,
@@ -3291,6 +3463,7 @@
       "url": "https://en.wikipedia.org/wiki/Taichang_Emperor"
     },
     {
+      "id": "leopold-v-archduke-of-austria",
       "name": "Leopold V, Archduke of Austria",
       "dates": "1586–1632",
       "y": 1586,
@@ -3305,6 +3478,7 @@
       "region": "Europe"
     },
     {
+      "id": "ahmed-i",
       "name": "Ahmed I",
       "dates": "1590–1617",
       "y": 1590,
@@ -3318,6 +3492,7 @@
       "region": "Middle East"
     },
     {
+      "id": "anne-hutchinson",
       "name": "Anne Hutchinson",
       "dates": "1591–1643",
       "y": 1591,
@@ -3342,6 +3517,7 @@
       ]
     },
     {
+      "id": "john-amos-comenius",
       "name": "John Amos Comenius",
       "dates": "1592–1670",
       "y": 1592,
@@ -3378,6 +3554,7 @@
       "region": "Europe"
     },
     {
+      "id": "jean-louis-guez-de-balzac",
       "name": "Jean-Louis Guez de Balzac",
       "dates": "1597–1654",
       "y": 1597,
@@ -3398,6 +3575,7 @@
       ]
     },
     {
+      "id": "francesco-borromini",
       "name": "Francesco Borromini",
       "dates": "1599–1667",
       "y": 1599,
@@ -3423,6 +3601,7 @@
       ]
     },
     {
+      "id": "alexander-vii",
       "name": "Alexander VII",
       "dates": "1599–1667",
       "y": 1599,
@@ -3444,6 +3623,7 @@
       "region": "Europe"
     },
     {
+      "id": "francesco-cavalli",
       "name": "Francesco Cavalli",
       "dates": "1602–1676",
       "y": 1602,
@@ -3467,6 +3647,7 @@
       "region": "Europe"
     },
     {
+      "id": "john-iv-of-portugal",
       "name": "John IV of Portugal",
       "dates": "1604–1656",
       "y": 1604,
@@ -3481,6 +3662,7 @@
       "region": "Europe"
     },
     {
+      "id": "tianqi-emperor",
       "name": "Tianqi Emperor",
       "dates": "1605–1627",
       "y": 1605,
@@ -3494,6 +3676,7 @@
       "url": "https://en.wikipedia.org/wiki/Tianqi_Emperor"
     },
     {
+      "id": "christine-of-france",
       "name": "Christine of France",
       "dates": "1606–1663",
       "y": 1606,
@@ -3513,6 +3696,7 @@
       ]
     },
     {
+      "id": "evangelista-torricelli",
       "name": "Evangelista Torricelli",
       "dates": "1608–1647",
       "y": 1608,
@@ -3526,6 +3710,7 @@
       "url": "https://en.wikipedia.org/wiki/Evangelista_Torricelli"
     },
     {
+      "id": "thomas-fuller",
       "name": "Thomas Fuller",
       "dates": "1608–1661",
       "y": 1608,
@@ -3546,6 +3731,7 @@
       ]
     },
     {
+      "id": "alexander-viii",
       "name": "Alexander VIII",
       "dates": "1610–1691",
       "y": 1610,
@@ -3560,6 +3746,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VIII"
     },
     {
+      "id": "chongzhen-emperor",
       "name": "Chongzhen Emperor",
       "dates": "1611–1644",
       "y": 1611,
@@ -3573,6 +3760,7 @@
       "url": "https://en.wikipedia.org/wiki/Chongzhen_Emperor"
     },
     {
+      "id": "innocent-xi",
       "name": "Innocent XI",
       "dates": "1611–1689",
       "y": 1611,
@@ -3587,6 +3775,7 @@
       "url": "https://en.wikipedia.org/wiki/Pope_Innocent_XI"
     },
     {
+      "id": "saskia-van-uylenburgh",
       "name": "Saskia van Uylenburgh",
       "dates": "1612–1642",
       "y": 1612,
@@ -3604,6 +3793,7 @@
       "_occupation_qids": []
     },
     {
+      "id": "innocent-xii",
       "name": "Innocent XII",
       "dates": "1615–1700",
       "y": 1615,
@@ -3626,6 +3816,7 @@
       ]
     },
     {
+      "id": "blaise-pascal",
       "name": "Blaise Pascal",
       "dates": "1623–1662",
       "y": 1623,
@@ -3653,6 +3844,7 @@
       "region": "Europe"
     },
     {
+      "id": "empress-meisho",
       "name": "Empress Meishō",
       "dates": "1624–1696",
       "y": 1624,
@@ -3674,6 +3866,7 @@
       "region": "East Asia"
     },
     {
+      "id": "john-bunyan",
       "name": "John Bunyan",
       "dates": "1628–1688",
       "y": 1628,
@@ -3699,6 +3892,7 @@
       "region": "Europe"
     },
     {
+      "id": "charles-perrault",
       "name": "Charles Perrault",
       "dates": "1628–1703",
       "y": 1628,
@@ -3726,6 +3920,7 @@
       "region": "Europe"
     },
     {
+      "id": "charles-ii-of-england",
       "name": "Charles II of England",
       "dates": "1630–1685",
       "y": 1630,
@@ -3749,6 +3944,7 @@
       ]
     },
     {
+      "id": "jean-baptiste-lully",
       "name": "Jean-Baptiste Lully",
       "dates": "1632–1687",
       "y": 1632,
@@ -3780,6 +3976,7 @@
       "region": "Europe"
     },
     {
+      "id": "samuel-pepys",
       "name": "Samuel Pepys",
       "dates": "1633–1703",
       "y": 1633,
@@ -3793,6 +3990,7 @@
       "region": "Europe"
     },
     {
+      "id": "james-ii-of-england",
       "name": "James II of England",
       "dates": "1633–1701",
       "y": 1633,
@@ -3817,6 +4015,7 @@
       ]
     },
     {
+      "id": "isaac-newton",
       "name": "Isaac Newton",
       "dates": "1643–1727",
       "y": 1643,
@@ -3829,6 +4028,7 @@
       "url": "https://en.wikipedia.org/wiki/Isaac_Newton"
     },
     {
+      "id": "denis-papin",
       "name": "Denis Papin",
       "dates": "1647–1713",
       "y": 1647,
@@ -3842,6 +4042,7 @@
       "region": "Europe"
     },
     {
+      "id": "william-iii-of-england",
       "name": "William III of England",
       "dates": "1650–1702",
       "y": 1650,
@@ -3864,6 +4065,7 @@
       ]
     },
     {
+      "id": "jacob-bernoulli",
       "name": "Jacob Bernoulli",
       "dates": "1654–1705",
       "y": 1654,
@@ -3886,6 +4088,7 @@
       ]
     },
     {
+      "id": "george-i-of-great-britain",
       "name": "George I of Great Britain",
       "dates": "1660–1727",
       "y": 1660,
@@ -3906,6 +4109,7 @@
       "region": "Europe"
     },
     {
+      "id": "mary-ii-of-england",
       "name": "Mary II of England",
       "dates": "1662–1695",
       "y": 1662,
@@ -3927,6 +4131,7 @@
       "region": "Europe"
     },
     {
+      "id": "anne-of-great-britain",
       "name": "Anne of Great Britain",
       "dates": "1665–1714",
       "y": 1665,
@@ -3952,6 +4157,7 @@
       "region": "Europe"
     },
     {
+      "id": "benedict-xiv",
       "name": "Benedict XIV",
       "dates": "1675–1758",
       "y": 1675,
@@ -3977,6 +4183,7 @@
       "region": "Europe"
     },
     {
+      "id": "robert-walpole",
       "name": "Robert Walpole",
       "dates": "1676–1745",
       "y": 1676,
@@ -3990,6 +4197,7 @@
       "url": "https://en.wikipedia.org/wiki/Robert_Walpole"
     },
     {
+      "id": "muhammad-bin-saud",
       "name": "Muhammad bin Saud",
       "dates": "1679–1765",
       "y": 1679,
@@ -4009,6 +4217,7 @@
       ]
     },
     {
+      "id": "vitus-bering",
       "name": "Vitus Bering",
       "dates": "1681–1741",
       "y": 1681,
@@ -4033,6 +4242,7 @@
       "region": "Europe"
     },
     {
+      "id": "louis-dauphin-of-france-duke-of-burgundy",
       "name": "Louis, Dauphin of France, Duke of Burgundy",
       "dates": "1682–1712",
       "y": 1682,
@@ -4046,6 +4256,7 @@
       "region": "Europe"
     },
     {
+      "id": "jean-philippe-rameau",
       "name": "Jean-Philippe Rameau",
       "dates": "1683–1764",
       "y": 1683,
@@ -4060,6 +4271,7 @@
       "region": "Europe"
     },
     {
+      "id": "george-ii-of-great-britain",
       "name": "George II of Great Britain",
       "dates": "1683–1760",
       "y": 1683,
@@ -4081,6 +4293,7 @@
       ]
     },
     {
+      "id": "friedrich-wilhelm-i-of-prussia",
       "name": "Friedrich Wilhelm I of Prussia",
       "dates": "1688–1740",
       "y": 1688,
@@ -4094,6 +4307,7 @@
       "url": "https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia"
     },
     {
+      "id": "giuseppe-tartini",
       "name": "Giuseppe Tartini",
       "dates": "1692–1770",
       "y": 1692,
@@ -4117,6 +4331,7 @@
       ]
     },
     {
+      "id": "clement-xiii",
       "name": "Clement XIII",
       "dates": "1693–1769",
       "y": 1693,
@@ -4139,6 +4354,7 @@
       ]
     },
     {
+      "id": "nicolaus-ii-bernoulli",
       "name": "Nicolaus II Bernoulli",
       "dates": "1695–1726",
       "y": 1695,
@@ -4162,6 +4378,7 @@
       ]
     },
     {
+      "id": "pietro-locatelli",
       "name": "Pietro Locatelli",
       "dates": "1695–1764",
       "y": 1695,
@@ -4183,6 +4400,7 @@
       ]
     },
     {
+      "id": "pierre-bouguer",
       "name": "Pierre Bouguer",
       "dates": "1698–1758",
       "y": 1698,
@@ -4196,6 +4414,7 @@
       "region": "Europe"
     },
     {
+      "id": "johann-jakob-bodmer",
       "name": "Johann Jakob Bodmer",
       "dates": "1698–1783",
       "y": 1698,
@@ -4223,6 +4442,7 @@
       ]
     },
     {
+      "id": "daniel-bernoulli",
       "name": "Daniel Bernoulli",
       "dates": "1700–1782",
       "y": 1700,
@@ -4248,6 +4468,7 @@
       ]
     },
     {
+      "id": "jean-etienne-liotard",
       "name": "Jean-Étienne Liotard",
       "dates": "1702–1789",
       "y": 1702,
@@ -4269,6 +4490,7 @@
       ]
     },
     {
+      "id": "gabriel-cramer",
       "name": "Gabriel Cramer",
       "dates": "1704–1752",
       "y": 1704,
@@ -4290,6 +4512,7 @@
       ]
     },
     {
+      "id": "clement-xiv",
       "name": "Clement XIV",
       "dates": "1705–1774",
       "y": 1705,
@@ -4312,6 +4535,7 @@
       ]
     },
     {
+      "id": "carl-linnaeus",
       "name": "Carl Linnaeus",
       "dates": "1707–1778",
       "y": 1707,
@@ -4325,6 +4549,7 @@
       "url": "https://en.wikipedia.org/wiki/Carl_Linnaeus"
     },
     {
+      "id": "albrecht-von-haller",
       "name": "Albrecht von Haller",
       "dates": "1708–1777",
       "y": 1708,
@@ -4359,6 +4584,7 @@
       ]
     },
     {
+      "id": "elizabeth-i-of-russia",
       "name": "Elizabeth I of Russia",
       "dates": "1709–1762",
       "y": 1709,
@@ -4381,6 +4607,7 @@
       "region": "Europe"
     },
     {
+      "id": "wilhelm-friedemann-bach",
       "name": "Wilhelm Friedemann Bach",
       "dates": "1710–1784",
       "y": 1710,
@@ -4405,6 +4632,7 @@
       "region": "Europe"
     },
     {
+      "id": "jose-i-of-portugal",
       "name": "José I of Portugal",
       "dates": "1714–1777",
       "y": 1714,
@@ -4418,6 +4646,7 @@
       "region": "Europe"
     },
     {
+      "id": "christoph-willibald-von-gluck",
       "name": "Christoph Willibald von Gluck",
       "dates": "1714–1787",
       "y": 1714,
@@ -4439,6 +4668,7 @@
       "region": "Europe"
     },
     {
+      "id": "pius-vi",
       "name": "Pius VI",
       "dates": "1717–1799",
       "y": 1717,
@@ -4460,6 +4690,7 @@
       "region": "Europe"
     },
     {
+      "id": "maria-theresa-of-austria",
       "name": "Maria Theresa of Austria",
       "dates": "1717–1780",
       "y": 1717,
@@ -4481,6 +4712,7 @@
       ]
     },
     {
+      "id": "charles-bonnet",
       "name": "Charles Bonnet",
       "dates": "1720–1793",
       "y": 1720,
@@ -4505,6 +4737,7 @@
       ]
     },
     {
+      "id": "jean-andre-deluc",
       "name": "Jean-André Deluc",
       "dates": "1727–1817",
       "y": 1727,
@@ -4528,6 +4761,7 @@
       ]
     },
     {
+      "id": "johann-heinrich-lambert",
       "name": "Johann Heinrich Lambert",
       "dates": "1728–1777",
       "y": 1728,
@@ -4553,6 +4787,7 @@
       "region": "Europe"
     },
     {
+      "id": "louis-dauphin-of-france",
       "name": "Louis, Dauphin of France",
       "dates": "1729–1765",
       "y": 1729,
@@ -4566,6 +4801,7 @@
       "region": "Europe"
     },
     {
+      "id": "salomon-gessner",
       "name": "Salomon Gessner",
       "dates": "1730–1788",
       "y": 1730,
@@ -4595,6 +4831,7 @@
       ]
     },
     {
+      "id": "henry-cavendish",
       "name": "Henry Cavendish",
       "dates": "1731–1810",
       "y": 1731,
@@ -4617,6 +4854,7 @@
       ]
     },
     {
+      "id": "jacques-necker",
       "name": "Jacques Necker",
       "dates": "1732–1804",
       "y": 1732,
@@ -4641,6 +4879,7 @@
       "region": "Europe"
     },
     {
+      "id": "jean-honore-fragonard",
       "name": "Jean-Honoré Fragonard",
       "dates": "1732–1806",
       "y": 1732,
@@ -4664,6 +4903,7 @@
       "region": "Europe"
     },
     {
+      "id": "johann-christian-bach",
       "name": "Johann Christian Bach",
       "dates": "1735–1782",
       "y": 1735,
@@ -4677,6 +4917,7 @@
       "region": "Europe"
     },
     {
+      "id": "john-adams",
       "name": "John Adams",
       "dates": "1735–1826",
       "y": 1735,
@@ -4706,6 +4947,7 @@
       ]
     },
     {
+      "id": "thomas-paine",
       "name": "Thomas Paine",
       "dates": "1737–1809",
       "y": 1737,
@@ -4735,6 +4977,7 @@
       ]
     },
     {
+      "id": "george-iii-of-great-britain",
       "name": "George III of Great Britain",
       "dates": "1738–1820",
       "y": 1738,
@@ -4760,6 +5003,7 @@
       "region": "Europe"
     },
     {
+      "id": "horace-benedict-de-saussure",
       "name": "Horace Bénédict de Saussure",
       "dates": "1740–1799",
       "y": 1740,
@@ -4791,6 +5035,7 @@
       ]
     },
     {
+      "id": "isabelle-de-charriere",
       "name": "Isabelle de Charrière",
       "dates": "1740–1805",
       "y": 1740,
@@ -4819,6 +5064,7 @@
       ]
     },
     {
+      "id": "marquis-de-sade",
       "name": "Marquis de Sade",
       "dates": "1740–1814",
       "y": 1740,
@@ -4842,6 +5088,7 @@
       ]
     },
     {
+      "id": "henry-fuseli",
       "name": "Henry Fuseli",
       "dates": "1741–1825",
       "y": 1741,
@@ -4871,6 +5118,7 @@
       ]
     },
     {
+      "id": "angelica-kauffmann",
       "name": "Angelica Kauffmann",
       "dates": "1741–1807",
       "y": 1741,
@@ -4894,6 +5142,7 @@
       "region": "Europe"
     },
     {
+      "id": "johann-kaspar-lavater",
       "name": "Johann Kaspar Lavater",
       "dates": "1741–1801",
       "y": 1741,
@@ -4924,6 +5173,7 @@
       ]
     },
     {
+      "id": "jakob-friedrich-ehrhart",
       "name": "Jakob Friedrich Ehrhart",
       "dates": "1742–1795",
       "y": 1742,
@@ -4949,6 +5199,7 @@
       ]
     },
     {
+      "id": "pius-vii",
       "name": "Pius VII",
       "dates": "1742–1823",
       "y": 1742,
@@ -4971,6 +5222,7 @@
       ]
     },
     {
+      "id": "thomas-jefferson",
       "name": "Thomas Jefferson",
       "dates": "1743–1826",
       "y": 1743,
@@ -5011,6 +5263,7 @@
       ]
     },
     {
+      "id": "jean-paul-marat",
       "name": "Jean-Paul Marat",
       "dates": "1743–1793",
       "y": 1743,
@@ -5035,6 +5288,7 @@
       ]
     },
     {
+      "id": "johann-heinrich-pestalozzi",
       "name": "Johann Heinrich Pestalozzi",
       "dates": "1746–1827",
       "y": 1746,
@@ -5048,6 +5302,7 @@
       "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi"
     },
     {
+      "id": "tipu-sultan",
       "name": "Tipu Sultan",
       "dates": "1750–1799",
       "y": 1750,
@@ -5062,6 +5317,7 @@
       "url": "https://en.wikipedia.org/wiki/Tipu_Sultan"
     },
     {
+      "id": "james-madison",
       "name": "James Madison",
       "dates": "1751–1836",
       "y": 1751,
@@ -5089,6 +5345,7 @@
       ]
     },
     {
+      "id": "pierre-joseph-bonnaterre",
       "name": "Pierre Joseph Bonnaterre",
       "dates": "1752–1804",
       "y": 1752,
@@ -5117,6 +5374,7 @@
       "region": "Europe"
     },
     {
+      "id": "james-monroe",
       "name": "James Monroe",
       "dates": "1758–1831",
       "y": 1758,
@@ -5146,6 +5404,7 @@
       ]
     },
     {
+      "id": "mary-wollstonecraft",
       "name": "Mary Wollstonecraft",
       "dates": "1759–1797",
       "y": 1759,
@@ -5160,6 +5419,7 @@
       "url": "https://en.wikipedia.org/wiki/Mary_Wollstonecraft"
     },
     {
+      "id": "william-pitt-the-younger",
       "name": "William Pitt the Younger",
       "dates": "1759–1806",
       "y": 1759,
@@ -5181,6 +5441,7 @@
       "region": "Europe"
     },
     {
+      "id": "johann-gottlieb-fichte",
       "name": "Johann Gottlieb Fichte",
       "dates": "1762–1814",
       "y": 1762,
@@ -5194,6 +5455,7 @@
       "url": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte"
     },
     {
+      "id": "george-iv-of-the-united-kingdom",
       "name": "George IV of the United Kingdom",
       "dates": "1762–1830",
       "y": 1762,
@@ -5217,6 +5479,7 @@
       ]
     },
     {
+      "id": "william-iv",
       "name": "William IV",
       "dates": "1765–1837",
       "y": 1765,
@@ -5240,6 +5503,7 @@
       "region": "Europe"
     },
     {
+      "id": "germaine-de-stael",
       "name": "Germaine de Staël",
       "dates": "1766–1817",
       "y": 1766,
@@ -5268,6 +5532,7 @@
       "region": "Europe"
     },
     {
+      "id": "andreas-hofer",
       "name": "Andreas Hofer",
       "dates": "1767–1810",
       "y": 1767,
@@ -5290,6 +5555,7 @@
       ]
     },
     {
+      "id": "john-quincy-adams",
       "name": "John Quincy Adams",
       "dates": "1767–1848",
       "y": 1767,
@@ -5319,6 +5585,7 @@
       ]
     },
     {
+      "id": "andrew-jackson",
       "name": "Andrew Jackson",
       "dates": "1767–1845",
       "y": 1767,
@@ -5345,6 +5612,7 @@
       ]
     },
     {
+      "id": "benjamin-constant",
       "name": "Benjamin Constant",
       "dates": "1767–1830",
       "y": 1767,
@@ -5370,6 +5638,7 @@
       "region": "Europe"
     },
     {
+      "id": "francis-ii-holy-roman-emperor",
       "name": "Francis II, Holy Roman Emperor",
       "dates": "1768–1835",
       "y": 1768,
@@ -5389,6 +5658,7 @@
       "region": "Europe"
     },
     {
+      "id": "arthur-wellesley-1st-duke-of-wellington",
       "name": "Arthur Wellesley, 1st Duke of Wellington",
       "dates": "1769–1852",
       "y": 1769,
@@ -5415,6 +5685,7 @@
       ]
     },
     {
+      "id": "william-henry-harrison",
       "name": "William Henry Harrison",
       "dates": "1773–1841",
       "y": 1773,
@@ -5440,6 +5711,7 @@
       ]
     },
     {
+      "id": "jean-charles-leonard-de-sismondi",
       "name": "Jean Charles Léonard de Sismondi",
       "dates": "1773–1842",
       "y": 1773,
@@ -5466,6 +5738,7 @@
       ]
     },
     {
+      "id": "caspar-david-friedrich",
       "name": "Caspar David Friedrich",
       "dates": "1774–1840",
       "y": 1774,
@@ -5479,6 +5752,7 @@
       "url": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich"
     },
     {
+      "id": "giuseppe-caspar-mezzofanti",
       "name": "Giuseppe Caspar Mezzofanti",
       "dates": "1774–1849",
       "y": 1774,
@@ -5504,6 +5778,7 @@
       ]
     },
     {
+      "id": "francois-adrien-boieldieu",
       "name": "François Adrien Boieldieu",
       "dates": "1775–1834",
       "y": 1775,
@@ -5528,6 +5803,7 @@
       ]
     },
     {
+      "id": "matthew-gregory-lewis",
       "name": "Matthew Gregory Lewis",
       "dates": "1775–1818",
       "y": 1775,
@@ -5555,6 +5831,7 @@
       "region": "Europe"
     },
     {
+      "id": "eugene-francois-vidocq",
       "name": "Eugène François Vidocq",
       "dates": "1775–1857",
       "y": 1775,
@@ -5582,6 +5859,7 @@
       "region": "Europe"
     },
     {
+      "id": "bahadur-shah-zafar",
       "name": "Bahadur Shah Zafar",
       "dates": "1775–1862",
       "y": 1775,
@@ -5604,6 +5882,7 @@
       "region": "South Asia"
     },
     {
+      "id": "augustin-pyramus-de-candolle",
       "name": "Augustin-Pyramus de Candolle",
       "dates": "1778–1841",
       "y": 1778,
@@ -5630,6 +5909,7 @@
       "region": "Europe"
     },
     {
+      "id": "william-hazlitt",
       "name": "William Hazlitt",
       "dates": "1778–1830",
       "y": 1778,
@@ -5658,6 +5938,7 @@
       ]
     },
     {
+      "id": "humphry-davy",
       "name": "Humphry Davy",
       "dates": "1778–1829",
       "y": 1778,
@@ -5686,6 +5967,7 @@
       ]
     },
     {
+      "id": "antoine-henri-jomini",
       "name": "Antoine-Henri Jomini",
       "dates": "1779–1869",
       "y": 1779,
@@ -5714,6 +5996,7 @@
       ]
     },
     {
+      "id": "richard-mentor-johnson",
       "name": "Richard Mentor Johnson",
       "dates": "1780–1850",
       "y": 1780,
@@ -5736,6 +6019,7 @@
       ]
     },
     {
+      "id": "thomas-stamford-raffles",
       "name": "Thomas Stamford Raffles",
       "dates": "1781–1826",
       "y": 1781,
@@ -5763,6 +6047,7 @@
       ]
     },
     {
+      "id": "daniel-webster",
       "name": "Daniel Webster",
       "dates": "1782–1852",
       "y": 1782,
@@ -5776,6 +6061,7 @@
       "region": "Americas"
     },
     {
+      "id": "martin-van-buren",
       "name": "Martin Van Buren",
       "dates": "1782–1862",
       "y": 1782,
@@ -5806,6 +6092,7 @@
       ]
     },
     {
+      "id": "ivan-paskevich",
       "name": "Ivan Paskevich",
       "dates": "1782–1856",
       "y": 1782,
@@ -5828,6 +6115,7 @@
       ]
     },
     {
+      "id": "zachary-taylor",
       "name": "Zachary Taylor",
       "dates": "1784–1850",
       "y": 1784,
@@ -5851,6 +6139,7 @@
       ]
     },
     {
+      "id": "alessandro-manzoni",
       "name": "Alessandro Manzoni",
       "dates": "1785–1873",
       "y": 1785,
@@ -5864,6 +6153,7 @@
       "region": "Europe"
     },
     {
+      "id": "guillaume-henri-dufour",
       "name": "Guillaume Henri Dufour",
       "dates": "1787–1875",
       "y": 1787,
@@ -5890,6 +6180,7 @@
       ]
     },
     {
+      "id": "louis-daguerre",
       "name": "Louis Daguerre",
       "dates": "1787–1851",
       "y": 1787,
@@ -5915,6 +6206,7 @@
       "region": "Europe"
     },
     {
+      "id": "james-barry",
       "name": "James Barry",
       "dates": "1789–1865",
       "y": 1789,
@@ -5935,6 +6227,7 @@
       ]
     },
     {
+      "id": "john-tyler",
       "name": "John Tyler",
       "dates": "1790–1862",
       "y": 1790,
@@ -5959,6 +6252,7 @@
       ]
     },
     {
+      "id": "leopold-i-of-belgium",
       "name": "Leopold I of Belgium",
       "dates": "1790–1865",
       "y": 1790,
@@ -5983,6 +6277,7 @@
       ]
     },
     {
+      "id": "manuel-blanco-encalada",
       "name": "Manuel Blanco Encalada",
       "dates": "1790–1876",
       "y": 1790,
@@ -6007,6 +6302,7 @@
       ]
     },
     {
+      "id": "giacomo-meyerbeer",
       "name": "Giacomo Meyerbeer",
       "dates": "1791–1864",
       "y": 1791,
@@ -6020,6 +6316,7 @@
       "url": "https://en.wikipedia.org/wiki/Giacomo_Meyerbeer"
     },
     {
+      "id": "james-buchanan",
       "name": "James Buchanan",
       "dates": "1791–1868",
       "y": 1791,
@@ -6043,6 +6340,7 @@
       ]
     },
     {
+      "id": "nikolai-ivanovich-lobachevsky",
       "name": "Nikolai Ivanovich Lobachevsky",
       "dates": "1792–1856",
       "y": 1792,
@@ -6063,6 +6361,7 @@
       "region": "Europe"
     },
     {
+      "id": "casimir-delavigne",
       "name": "Casimir Delavigne",
       "dates": "1793–1843",
       "y": 1793,
@@ -6086,6 +6385,7 @@
       "region": "Europe"
     },
     {
+      "id": "james-k-polk",
       "name": "James K. Polk",
       "dates": "1795–1849",
       "y": 1795,
@@ -6111,6 +6411,7 @@
       ]
     },
     {
+      "id": "horace-mann",
       "name": "Horace Mann",
       "dates": "1796–1859",
       "y": 1796,
@@ -6124,6 +6425,7 @@
       "region": "Americas"
     },
     {
+      "id": "jakob-steiner",
       "name": "Jakob Steiner",
       "dates": "1796–1863",
       "y": 1796,
@@ -6144,6 +6446,7 @@
       ]
     },
     {
+      "id": "nicholas-i-of-russia",
       "name": "Nicholas I of Russia",
       "dates": "1796–1855",
       "y": 1796,
@@ -6164,6 +6467,7 @@
       "region": "Europe"
     },
     {
+      "id": "princess-charlotte-augusta-of-wales",
       "name": "Princess Charlotte Augusta of Wales",
       "dates": "1796–1817",
       "y": 1796,
@@ -6184,6 +6488,7 @@
       ]
     },
     {
+      "id": "gaetano-donizetti",
       "name": "Gaetano Donizetti",
       "dates": "1797–1848",
       "y": 1797,
@@ -6197,6 +6502,7 @@
       "url": "https://en.wikipedia.org/wiki/Gaetano_Donizetti"
     },
     {
+      "id": "sojourner-truth",
       "name": "Sojourner Truth",
       "dates": "c. 1797–1883",
       "y": 1797,
@@ -6210,6 +6516,7 @@
       "url": "https://en.wikipedia.org/wiki/Sojourner_Truth"
     },
     {
+      "id": "mirza-ghalib",
       "name": "Mirza Ghalib",
       "dates": "1797–1869",
       "y": 1797,
@@ -6233,6 +6540,7 @@
       "region": "South Asia"
     },
     {
+      "id": "jeremias-gotthelf",
       "name": "Jeremias Gotthelf",
       "dates": "1797–1854",
       "y": 1797,
@@ -6258,6 +6566,7 @@
       ]
     },
     {
+      "id": "alexander-bestuzhev",
       "name": "Alexander Bestuzhev",
       "dates": "1797–1837",
       "y": 1797,
@@ -6285,6 +6594,7 @@
       "region": "Europe"
     },
     {
+      "id": "charles-wilkes",
       "name": "Charles Wilkes",
       "dates": "1798–1877",
       "y": 1798,
@@ -6315,6 +6625,7 @@
       "region": "Americas"
     },
     {
+      "id": "auguste-comte",
       "name": "Auguste Comte",
       "dates": "1798–1857",
       "y": 1798,
@@ -6339,6 +6650,7 @@
       "region": "Europe"
     },
     {
+      "id": "william-lassell",
       "name": "William Lassell",
       "dates": "1799–1880",
       "y": 1799,
@@ -6352,6 +6664,7 @@
       "region": "Europe"
     },
     {
+      "id": "france-preseren",
       "name": "France Prešeren",
       "dates": "1800–1849",
       "y": 1800,
@@ -6365,6 +6678,7 @@
       "url": "https://en.wikipedia.org/wiki/France_Pre%C5%A1eren"
     },
     {
+      "id": "millard-fillmore",
       "name": "Millard Fillmore",
       "dates": "1800–1874",
       "y": 1800,
@@ -6388,6 +6702,7 @@
       "region": "Americas"
     },
     {
+      "id": "niels-henrik-abel",
       "name": "Niels Henrik Abel",
       "dates": "1802–1829",
       "y": 1802,
@@ -6408,6 +6723,7 @@
       ]
     },
     {
+      "id": "hector-berlioz",
       "name": "Hector Berlioz",
       "dates": "1803–1869",
       "y": 1803,
@@ -6422,6 +6738,7 @@
       "region": "Europe"
     },
     {
+      "id": "charles-sturm",
       "name": "Charles Sturm",
       "dates": "1803–1855",
       "y": 1803,
@@ -6445,6 +6762,7 @@
       ]
     },
     {
+      "id": "charles-augustin-sainte-beuve",
       "name": "Charles-Augustin Sainte-Beuve",
       "dates": "1804–1869",
       "y": 1804,
@@ -6458,6 +6776,7 @@
       "region": "Europe"
     },
     {
+      "id": "franklin-pierce",
       "name": "Franklin Pierce",
       "dates": "1804–1869",
       "y": 1804,
@@ -6482,6 +6801,7 @@
       "region": "Americas"
     },
     {
+      "id": "william-rowan-hamilton",
       "name": "William Rowan Hamilton",
       "dates": "1805–1865",
       "y": 1805,
@@ -6505,6 +6825,7 @@
       ]
     },
     {
+      "id": "matthew-fontaine-maury",
       "name": "Matthew Fontaine Maury",
       "dates": "1806–1873",
       "y": 1806,
@@ -6519,6 +6840,7 @@
       "region": "Americas"
     },
     {
+      "id": "alphonse-pyramus-de-candolle",
       "name": "Alphonse Pyramus de Candolle",
       "dates": "1806–1893",
       "y": 1806,
@@ -6544,6 +6866,7 @@
       ]
     },
     {
+      "id": "johan-vilhelm-snellman",
       "name": "Johan Vilhelm Snellman",
       "dates": "1806–1881",
       "y": 1806,
@@ -6570,6 +6893,7 @@
       "region": "Europe"
     },
     {
+      "id": "louis-agassiz",
       "name": "Louis Agassiz",
       "dates": "1807–1873",
       "y": 1807,
@@ -6606,6 +6930,7 @@
       "region": "Europe"
     },
     {
+      "id": "charles-darwin",
       "name": "Charles Darwin",
       "dates": "1809–1882",
       "y": 1809,
@@ -6619,6 +6944,7 @@
       "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
     },
     {
+      "id": "frederic-chopin",
       "name": "Frédéric Chopin",
       "dates": "1810–1849",
       "y": 1810,
@@ -6646,6 +6972,7 @@
       "region": "Europe"
     },
     {
+      "id": "harriet-beecher-stowe",
       "name": "Harriet Beecher Stowe",
       "dates": "1811–1896",
       "y": 1811,
@@ -6659,6 +6986,7 @@
       "url": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe"
     },
     {
+      "id": "urbain-le-verrier",
       "name": "Urbain Le Verrier",
       "dates": "1811–1877",
       "y": 1811,
@@ -6672,6 +7000,7 @@
       "url": "https://en.wikipedia.org/wiki/Urbain_Le_Verrier"
     },
     {
+      "id": "samuel-smiles",
       "name": "Samuel Smiles",
       "dates": "1812–1904",
       "y": 1812,
@@ -6696,6 +7025,7 @@
       "region": "Europe"
     },
     {
+      "id": "empress-amelie-of-brazil",
       "name": "Empress Amélie of Brazil",
       "dates": "1812–1873",
       "y": 1812,
@@ -6717,6 +7047,7 @@
       ]
     },
     {
+      "id": "ivar-andreas-aasen",
       "name": "Ivar Andreas Aasen",
       "dates": "1813–1896",
       "y": 1813,
@@ -6746,6 +7077,7 @@
       "region": "Europe"
     },
     {
+      "id": "johann-jakob-bachofen",
       "name": "Johann Jakob Bachofen",
       "dates": "1815–1887",
       "y": 1815,
@@ -6780,6 +7112,7 @@
       ]
     },
     {
+      "id": "john-a-macdonald",
       "name": "John A. Macdonald",
       "dates": "1815–1891",
       "y": 1815,
@@ -6800,6 +7133,7 @@
       "region": "Americas"
     },
     {
+      "id": "charlotte-bronte",
       "name": "Charlotte Brontë",
       "dates": "1816–1855",
       "y": 1816,
@@ -6823,6 +7157,7 @@
       "region": "Europe"
     },
     {
+      "id": "baha-u-llah",
       "name": "Baháʼu'lláh",
       "dates": "1817–1892",
       "y": 1817,
@@ -6837,6 +7172,7 @@
       "url": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BCu%27ll%C3%A1h"
     },
     {
+      "id": "albert-von-kolliker",
       "name": "Albert von Kölliker",
       "dates": "1817–1905",
       "y": 1817,
@@ -6863,6 +7199,7 @@
       ]
     },
     {
+      "id": "carl-nageli",
       "name": "Carl Nägeli",
       "dates": "1817–1891",
       "y": 1817,
@@ -6889,6 +7226,7 @@
       ]
     },
     {
+      "id": "william-iii-of-the-netherlands",
       "name": "William III of the Netherlands",
       "dates": "1817–1890",
       "y": 1817,
@@ -6912,6 +7250,7 @@
       ]
     },
     {
+      "id": "henry-david-thoreau",
       "name": "Henry David Thoreau",
       "dates": "1817–1862",
       "y": 1817,
@@ -6942,6 +7281,7 @@
       "region": "Americas"
     },
     {
+      "id": "bab",
       "name": "Báb",
       "dates": "1819–1850",
       "y": 1819,
@@ -6956,6 +7296,7 @@
       "url": "https://en.wikipedia.org/wiki/B%C3%A1b"
     },
     {
+      "id": "annibale-de-gasparis",
       "name": "Annibale de Gasparis",
       "dates": "1819–1892",
       "y": 1819,
@@ -6969,6 +7310,7 @@
       "region": "Europe"
     },
     {
+      "id": "gottfried-keller",
       "name": "Gottfried Keller",
       "dates": "1819–1890",
       "y": 1819,
@@ -6994,6 +7336,7 @@
       ]
     },
     {
+      "id": "george-eliot",
       "name": "George Eliot",
       "dates": "1819–1880",
       "y": 1819,
@@ -7020,6 +7363,7 @@
       "region": "Europe"
     },
     {
+      "id": "clara-schumann",
       "name": "Clara Schumann",
       "dates": "1819–1896",
       "y": 1819,
@@ -7044,6 +7388,7 @@
       ]
     },
     {
+      "id": "florence-nightingale",
       "name": "Florence Nightingale",
       "dates": "1820–1910",
       "y": 1820,
@@ -7056,6 +7401,7 @@
       "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
     },
     {
+      "id": "harriet-tubman",
       "name": "Harriet Tubman",
       "dates": "1820–1913",
       "y": 1820,
@@ -7069,6 +7415,7 @@
       "url": "https://en.wikipedia.org/wiki/Harriet_Tubman"
     },
     {
+      "id": "pauline-viardot",
       "name": "Pauline Viardot",
       "dates": "1821–1910",
       "y": 1821,
@@ -7093,6 +7440,7 @@
       "region": "Europe"
     },
     {
+      "id": "henri-frederic-amiel",
       "name": "Henri-Frédéric Amiel",
       "dates": "1821–1881",
       "y": 1821,
@@ -7118,6 +7466,7 @@
       ]
     },
     {
+      "id": "richard-francis-burton",
       "name": "Richard Francis Burton",
       "dates": "1821–1890",
       "y": 1821,
@@ -7159,6 +7508,7 @@
       ]
     },
     {
+      "id": "charles-tupper",
       "name": "Charles Tupper",
       "dates": "1821–1915",
       "y": 1821,
@@ -7182,6 +7532,7 @@
       "region": "Americas"
     },
     {
+      "id": "john-abbott",
       "name": "John Abbott",
       "dates": "1821–1893",
       "y": 1821,
@@ -7204,6 +7555,7 @@
       "region": "Americas"
     },
     {
+      "id": "nikolay-danilevsky",
       "name": "Nikolay Danilevsky",
       "dates": "1822–1885",
       "y": 1822,
@@ -7236,6 +7588,7 @@
       "region": "Europe"
     },
     {
+      "id": "edmond-de-goncourt",
       "name": "Edmond de Goncourt",
       "dates": "1822–1896",
       "y": 1822,
@@ -7264,6 +7617,7 @@
       ]
     },
     {
+      "id": "alexander-mackenzie",
       "name": "Alexander Mackenzie",
       "dates": "1822–1892",
       "y": 1822,
@@ -7290,6 +7644,7 @@
       "region": "Americas"
     },
     {
+      "id": "etienne-lenoir",
       "name": "Étienne Lenoir",
       "dates": "1822–1900",
       "y": 1822,
@@ -7314,6 +7669,7 @@
       ]
     },
     {
+      "id": "mackenzie-bowell",
       "name": "Mackenzie Bowell",
       "dates": "1823–1917",
       "y": 1823,
@@ -7338,6 +7694,7 @@
       "region": "Americas"
     },
     {
+      "id": "william-thomson-1st-baron-kelvin",
       "name": "William Thomson, 1st Baron Kelvin",
       "dates": "1824–1907",
       "y": 1824,
@@ -7366,6 +7723,7 @@
       ]
     },
     {
+      "id": "dadabhai-naoroji",
       "name": "Dadabhai Naoroji",
       "dates": "1825–1917",
       "y": 1825,
@@ -7380,6 +7738,7 @@
       "url": "https://en.wikipedia.org/wiki/Dadabhai_Naoroji"
     },
     {
+      "id": "johann-jakob-balmer",
       "name": "Johann Jakob Balmer",
       "dates": "1825–1898",
       "y": 1825,
@@ -7401,6 +7760,7 @@
       "region": "Europe"
     },
     {
+      "id": "conrad-ferdinand-meyer",
       "name": "Conrad Ferdinand Meyer",
       "dates": "1825–1898",
       "y": 1825,
@@ -7422,6 +7782,7 @@
       ]
     },
     {
+      "id": "stanislao-cannizzaro",
       "name": "Stanislao Cannizzaro",
       "dates": "1826–1910",
       "y": 1826,
@@ -7444,6 +7805,7 @@
       "region": "Europe"
     },
     {
+      "id": "johanna-spyri",
       "name": "Johanna Spyri",
       "dates": "1827–1901",
       "y": 1827,
@@ -7465,6 +7827,7 @@
       "region": "Europe"
     },
     {
+      "id": "arnold-bocklin",
       "name": "Arnold Böcklin",
       "dates": "1827–1901",
       "y": 1827,
@@ -7488,6 +7851,7 @@
       "region": "Europe"
     },
     {
+      "id": "john-hanning-speke",
       "name": "John Hanning Speke",
       "dates": "1827–1864",
       "y": 1827,
@@ -7516,6 +7880,7 @@
       ]
     },
     {
+      "id": "petko-slaveykov",
       "name": "Petko Slaveykov",
       "dates": "1827–1895",
       "y": 1827,
@@ -7542,6 +7907,7 @@
       ]
     },
     {
+      "id": "henry-dunant",
       "name": "Henry Dunant",
       "dates": "1828–1910",
       "y": 1828,
@@ -7565,6 +7931,7 @@
       "region": "Europe"
     },
     {
+      "id": "louise-of-the-netherlands",
       "name": "Louise of the Netherlands",
       "dates": "1828–1871",
       "y": 1828,
@@ -7586,6 +7953,7 @@
       ]
     },
     {
+      "id": "asaph-hall",
       "name": "Asaph Hall",
       "dates": "1829–1907",
       "y": 1829,
@@ -7599,6 +7967,7 @@
       "region": "Americas"
     },
     {
+      "id": "carl-schurz",
       "name": "Carl Schurz",
       "dates": "1829–1906",
       "y": 1829,
@@ -7631,6 +8000,7 @@
       "region": "Americas"
     },
     {
+      "id": "mary-harris-jones",
       "name": "Mary Harris Jones",
       "dates": "1830–1930",
       "y": 1830,
@@ -7656,6 +8026,7 @@
       "region": "Americas"
     },
     {
+      "id": "jules-de-goncourt",
       "name": "Jules de Goncourt",
       "dates": "1830–1870",
       "y": 1830,
@@ -7680,6 +8051,7 @@
       ]
     },
     {
+      "id": "leo-von-caprivi",
       "name": "Leo von Caprivi",
       "dates": "1831–1899",
       "y": 1831,
@@ -7702,6 +8074,7 @@
       ]
     },
     {
+      "id": "johann-martin-schleyer",
       "name": "Johann Martin Schleyer",
       "dates": "1831–1912",
       "y": 1831,
@@ -7729,6 +8102,7 @@
       "region": "Europe"
     },
     {
+      "id": "wilhelm-busch",
       "name": "Wilhelm Busch",
       "dates": "1832–1908",
       "y": 1832,
@@ -7762,6 +8136,7 @@
       ]
     },
     {
+      "id": "edwin-arnold",
       "name": "Edwin Arnold",
       "dates": "1832–1904",
       "y": 1832,
@@ -7775,6 +8150,7 @@
       "region": "Europe"
     },
     {
+      "id": "jose-echegaray",
       "name": "José Echegaray",
       "dates": "1832–1916",
       "y": 1832,
@@ -7803,6 +8179,7 @@
       "region": "Europe"
     },
     {
+      "id": "ernesto-teodoro-moneta",
       "name": "Ernesto Teodoro Moneta",
       "dates": "1833–1918",
       "y": 1833,
@@ -7826,6 +8203,7 @@
       "region": "Europe"
     },
     {
+      "id": "elie-ducommun",
       "name": "Élie Ducommun",
       "dates": "1833–1906",
       "y": 1833,
@@ -7850,6 +8228,7 @@
       ]
     },
     {
+      "id": "alexander-emanuel-agassiz",
       "name": "Alexander Emanuel Agassiz",
       "dates": "1835–1910",
       "y": 1835,
@@ -7883,6 +8262,7 @@
       "region": "Americas"
     },
     {
+      "id": "leopold-ii-of-belgium",
       "name": "Leopold II of Belgium",
       "dates": "1835–1909",
       "y": 1835,
@@ -7902,6 +8282,7 @@
       ]
     },
     {
+      "id": "wilhelm-steinitz",
       "name": "Wilhelm Steinitz",
       "dates": "1836–1900",
       "y": 1836,
@@ -7915,6 +8296,7 @@
       "url": "https://en.wikipedia.org/wiki/Wilhelm_Steinitz"
     },
     {
+      "id": "henry-campbell-bannerman",
       "name": "Henry Campbell-Bannerman",
       "dates": "1836–1908",
       "y": 1836,
@@ -7928,6 +8310,7 @@
       "region": "Europe"
     },
     {
+      "id": "norman-lockyer",
       "name": "Norman Lockyer",
       "dates": "1836–1920",
       "y": 1836,
@@ -7949,6 +8332,7 @@
       "region": "Europe"
     },
     {
+      "id": "sophia-of-nassau",
       "name": "Sophia of Nassau",
       "dates": "1836–1913",
       "y": 1836,
@@ -7968,6 +8352,7 @@
       ]
     },
     {
+      "id": "paul-morphy",
       "name": "Paul Morphy",
       "dates": "1837–1884",
       "y": 1837,
@@ -7981,6 +8366,7 @@
       "url": "https://en.wikipedia.org/wiki/Paul_Morphy"
     },
     {
+      "id": "henry-becque",
       "name": "Henry Becque",
       "dates": "1837–1899",
       "y": 1837,
@@ -7994,6 +8380,7 @@
       "region": "Europe"
     },
     {
+      "id": "henry-draper",
       "name": "Henry Draper",
       "dates": "1837–1882",
       "y": 1837,
@@ -8017,6 +8404,7 @@
       ]
     },
     {
+      "id": "johannes-diderik-van-der-waals",
       "name": "Johannes Diderik van der Waals",
       "dates": "1837–1923",
       "y": 1837,
@@ -8041,6 +8429,7 @@
       ]
     },
     {
+      "id": "max-bruch",
       "name": "Max Bruch",
       "dates": "1838–1920",
       "y": 1838,
@@ -8054,6 +8443,7 @@
       "region": "Europe"
     },
     {
+      "id": "lili-uokalani",
       "name": "Liliʻuokalani",
       "dates": "1838–1917",
       "y": 1838,
@@ -8078,6 +8468,7 @@
       "region": "Americas"
     },
     {
+      "id": "john-hay",
       "name": "John Hay",
       "dates": "1838–1905",
       "y": 1838,
@@ -8105,6 +8496,7 @@
       ]
     },
     {
+      "id": "giovanni-losi",
       "name": "Giovanni Losi",
       "dates": "1838–1882",
       "y": 1838,
@@ -8125,6 +8517,7 @@
       ]
     },
     {
+      "id": "modest-petrovich-mussorgsky",
       "name": "Modest Petrovich Mussorgsky",
       "dates": "1839–1881",
       "y": 1839,
@@ -8150,6 +8543,7 @@
       ]
     },
     {
+      "id": "victoria-princess-royal",
       "name": "Victoria, Princess Royal",
       "dates": "1840–1901",
       "y": 1840,
@@ -8174,6 +8568,7 @@
       ]
     },
     {
+      "id": "jose-manuel-balmaceda",
       "name": "José Manuel Balmaceda",
       "dates": "1840–1891",
       "y": 1840,
@@ -8196,6 +8591,7 @@
       ]
     },
     {
+      "id": "thomas-hardy",
       "name": "Thomas Hardy",
       "dates": "1840–1928",
       "y": 1840,
@@ -8218,6 +8614,7 @@
       ]
     },
     {
+      "id": "berthe-morisot",
       "name": "Berthe Morisot",
       "dates": "1841–1895",
       "y": 1841,
@@ -8231,6 +8628,7 @@
       "url": "https://en.wikipedia.org/wiki/Berthe_Morisot"
     },
     {
+      "id": "emil-theodor-kocher",
       "name": "Emil Theodor Kocher",
       "dates": "1841–1917",
       "y": 1841,
@@ -8244,6 +8642,7 @@
       "region": "Europe"
     },
     {
+      "id": "wilfrid-laurier",
       "name": "Wilfrid Laurier",
       "dates": "1841–1919",
       "y": 1841,
@@ -8268,6 +8667,7 @@
       "region": "Americas"
     },
     {
+      "id": "georg-ritter-von-schonerer",
       "name": "Georg Ritter von Schönerer",
       "dates": "1842–1921",
       "y": 1842,
@@ -8282,6 +8682,7 @@
       "region": "Europe"
     },
     {
+      "id": "osman-hamdi-bey",
       "name": "Osman Hamdi Bey",
       "dates": "1842–1910",
       "y": 1842,
@@ -8307,6 +8708,7 @@
       "region": "Middle East"
     },
     {
+      "id": "william-james",
       "name": "William James",
       "dates": "1842–1910",
       "y": 1842,
@@ -8331,6 +8733,7 @@
       ]
     },
     {
+      "id": "vasily-vereshchagin",
       "name": "Vasily Vereshchagin",
       "dates": "1842–1904",
       "y": 1842,
@@ -8356,6 +8759,7 @@
       "region": "Europe"
     },
     {
+      "id": "friedrich-miescher",
       "name": "Friedrich Miescher",
       "dates": "1844–1895",
       "y": 1844,
@@ -8377,6 +8781,7 @@
       ]
     },
     {
+      "id": "gabriel-faure",
       "name": "Gabriel Fauré",
       "dates": "1845–1924",
       "y": 1845,
@@ -8390,6 +8795,7 @@
       "url": "https://en.wikipedia.org/wiki/Gabriel_Faur%C3%A9"
     },
     {
+      "id": "alexander-iii-of-russia",
       "name": "Alexander III of Russia",
       "dates": "1845–1894",
       "y": 1845,
@@ -8410,6 +8816,7 @@
       "region": "Europe"
     },
     {
+      "id": "john-sparrow-david-thompson",
       "name": "John Sparrow David Thompson",
       "dates": "1845–1894",
       "y": 1845,
@@ -8431,6 +8838,7 @@
       "region": "Americas"
     },
     {
+      "id": "gabriel-lippmann",
       "name": "Gabriel Lippmann",
       "dates": "1845–1921",
       "y": 1845,
@@ -8454,6 +8862,7 @@
       ]
     },
     {
+      "id": "vasily-surikov",
       "name": "Vasily Surikov",
       "dates": "1848–1916",
       "y": 1848,
@@ -8473,6 +8882,7 @@
       ]
     },
     {
+      "id": "vilfredo-pareto",
       "name": "Vilfredo Pareto",
       "dates": "1848–1923",
       "y": 1848,
@@ -8487,6 +8897,7 @@
       "region": "Europe"
     },
     {
+      "id": "edouard-henri-avril",
       "name": "Édouard-Henri Avril",
       "dates": "1849–1928",
       "y": 1849,
@@ -8507,6 +8918,7 @@
       ]
     },
     {
+      "id": "john-ambrose-fleming",
       "name": "John Ambrose Fleming",
       "dates": "1849–1945",
       "y": 1849,
@@ -8529,6 +8941,7 @@
       "region": "Europe"
     },
     {
+      "id": "henry-louis-le-chatelier",
       "name": "Henry Louis Le Châtelier",
       "dates": "1850–1936",
       "y": 1850,
@@ -8550,6 +8963,7 @@
       ]
     },
     {
+      "id": "henri-moissan",
       "name": "Henri Moissan",
       "dates": "1852–1907",
       "y": 1852,
@@ -8563,6 +8977,7 @@
       "url": "https://en.wikipedia.org/wiki/Henri_Moissan"
     },
     {
+      "id": "jacobus-henricus-van-t-hoff",
       "name": "Jacobus Henricus van 't Hoff",
       "dates": "1852–1911",
       "y": 1852,
@@ -8576,6 +8991,7 @@
       "url": "https://en.wikipedia.org/wiki/Jacobus_Henricus_van_%27t_Hoff"
     },
     {
+      "id": "albert-abraham-michelson",
       "name": "Albert Abraham Michelson",
       "dates": "1852–1931",
       "y": 1852,
@@ -8598,6 +9014,7 @@
       "region": "Americas"
     },
     {
+      "id": "jose-marti",
       "name": "José Martí",
       "dates": "1853–1895",
       "y": 1853,
@@ -8613,6 +9030,7 @@
       "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD"
     },
     {
+      "id": "wilhelm-ostwald",
       "name": "Wilhelm Ostwald",
       "dates": "1853–1932",
       "y": 1853,
@@ -8646,6 +9064,7 @@
       ]
     },
     {
+      "id": "hussein-bin-ali",
       "name": "Hussein bin Ali",
       "dates": "1853–1931",
       "y": 1853,
@@ -8668,6 +9087,7 @@
       "region": "Middle East"
     },
     {
+      "id": "paul-sabatier",
       "name": "Paul Sabatier",
       "dates": "1854–1941",
       "y": 1854,
@@ -8681,6 +9101,7 @@
       "url": "https://en.wikipedia.org/wiki/Paul_Sabatier_(chemist)"
     },
     {
+      "id": "robert-borden",
       "name": "Robert Borden",
       "dates": "1854–1937",
       "y": 1854,
@@ -8702,6 +9123,7 @@
       "region": "Americas"
     },
     {
+      "id": "maria-zankovetska",
       "name": "Maria Zankovetska",
       "dates": "1854–1934",
       "y": 1854,
@@ -8726,6 +9148,7 @@
       ]
     },
     {
+      "id": "ronald-ross",
       "name": "Ronald Ross",
       "dates": "1857–1932",
       "y": 1857,
@@ -8739,6 +9162,7 @@
       "url": "https://en.wikipedia.org/wiki/Ronald_Ross"
     },
     {
+      "id": "eugen-bleuler",
       "name": "Eugen Bleuler",
       "dates": "1857–1939",
       "y": 1857,
@@ -8760,6 +9184,7 @@
       ]
     },
     {
+      "id": "antoni-grabowski",
       "name": "Antoni Grabowski",
       "dates": "1857–1921",
       "y": 1857,
@@ -8785,6 +9210,7 @@
       ]
     },
     {
+      "id": "robert-baden-powell-1st-baron-baden-powell",
       "name": "Robert Baden-Powell, 1st Baron Baden-Powell",
       "dates": "1857–1941",
       "y": 1857,
@@ -8810,6 +9236,7 @@
       ]
     },
     {
+      "id": "paul-doumer",
       "name": "Paul Doumer",
       "dates": "1857–1932",
       "y": 1857,
@@ -8830,6 +9257,7 @@
       "region": "Europe"
     },
     {
+      "id": "karl-adolph-gjellerup",
       "name": "Karl Adolph Gjellerup",
       "dates": "1857–1919",
       "y": 1857,
@@ -8854,6 +9282,7 @@
       ]
     },
     {
+      "id": "ferdinand-de-saussure",
       "name": "Ferdinand de Saussure",
       "dates": "1857–1913",
       "y": 1857,
@@ -8874,6 +9303,7 @@
       ]
     },
     {
+      "id": "christiaan-eijkman",
       "name": "Christiaan Eijkman",
       "dates": "1858–1930",
       "y": 1858,
@@ -8899,6 +9329,7 @@
       "region": "Europe"
     },
     {
+      "id": "rudolf-diesel",
       "name": "Rudolf Diesel",
       "dates": "1858–1913",
       "y": 1858,
@@ -8921,6 +9352,7 @@
       "region": "Europe"
     },
     {
+      "id": "l-l-zamenhof",
       "name": "L. L. Zamenhof",
       "dates": "1859–1917",
       "y": 1859,
@@ -8953,6 +9385,7 @@
       ]
     },
     {
+      "id": "jean-jaures",
       "name": "Jean Jaurès",
       "dates": "1859–1914",
       "y": 1859,
@@ -8982,6 +9415,7 @@
       "region": "Europe"
     },
     {
+      "id": "verner-von-heidenstam",
       "name": "Verner von Heidenstam",
       "dates": "1859–1940",
       "y": 1859,
@@ -9004,6 +9438,7 @@
       "region": "Europe"
     },
     {
+      "id": "charles-edouard-guillaume",
       "name": "Charles Édouard Guillaume",
       "dates": "1861–1938",
       "y": 1861,
@@ -9025,6 +9460,7 @@
       "region": "Europe"
     },
     {
+      "id": "jurji-zaydan",
       "name": "Jurji Zaydan",
       "dates": "1861–1914",
       "y": 1861,
@@ -9049,6 +9485,7 @@
       ]
     },
     {
+      "id": "fatma-aliye-topuz",
       "name": "Fatma Aliye Topuz",
       "dates": "1862–1936",
       "y": 1862,
@@ -9063,6 +9500,7 @@
       "region": "Middle East"
     },
     {
+      "id": "nitobe-inazo",
       "name": "Nitobe Inazō",
       "dates": "1862–1933",
       "y": 1862,
@@ -9095,6 +9533,7 @@
       "region": "East Asia"
     },
     {
+      "id": "sergei-prokudin-gorskii",
       "name": "Sergei Prokudin-Gorskii",
       "dates": "1863–1944",
       "y": 1863,
@@ -9109,6 +9548,7 @@
       "url": "https://en.wikipedia.org/wiki/Sergey_Prokudin-Gorsky"
     },
     {
+      "id": "alexandre-yersin",
       "name": "Alexandre Yersin",
       "dates": "1863–1943",
       "y": 1863,
@@ -9134,6 +9574,7 @@
       ]
     },
     {
+      "id": "israel-zangwill",
       "name": "Israel Zangwill",
       "dates": "1864–1926",
       "y": 1864,
@@ -9147,6 +9588,7 @@
       "region": "Europe"
     },
     {
+      "id": "camille-claudel",
       "name": "Camille Claudel",
       "dates": "1864–1943",
       "y": 1864,
@@ -9171,6 +9613,7 @@
       "region": "Europe"
     },
     {
+      "id": "heinrich-wolfflin",
       "name": "Heinrich Wölfflin",
       "dates": "1864–1945",
       "y": 1864,
@@ -9193,6 +9636,7 @@
       ]
     },
     {
+      "id": "nikolai-marr",
       "name": "Nikolai Marr",
       "dates": "1865–1934",
       "y": 1865,
@@ -9225,6 +9669,7 @@
       ]
     },
     {
+      "id": "sofia-okunevska",
       "name": "Sofia Okunevska",
       "dates": "1865–1926",
       "y": 1865,
@@ -9252,6 +9697,7 @@
       ]
     },
     {
+      "id": "alfred-werner",
       "name": "Alfred Werner",
       "dates": "1866–1919",
       "y": 1866,
@@ -9273,6 +9719,7 @@
       "region": "Europe"
     },
     {
+      "id": "marie-curie",
       "name": "Marie Curie",
       "dates": "1867–1934",
       "y": 1867,
@@ -9285,6 +9732,7 @@
       "url": "https://en.wikipedia.org/wiki/Marie_Curie"
     },
     {
+      "id": "w-adys-aw-reymont",
       "name": "Władysław Reymont",
       "dates": "1867–1925",
       "y": 1867,
@@ -9309,6 +9757,7 @@
       ]
     },
     {
+      "id": "robert-falcon-scott",
       "name": "Robert Falcon Scott",
       "dates": "1868–1912",
       "y": 1868,
@@ -9323,6 +9772,7 @@
       "url": "https://en.wikipedia.org/wiki/Robert_Falcon_Scott"
     },
     {
+      "id": "henrietta-swan-leavitt",
       "name": "Henrietta Swan Leavitt",
       "dates": "1868–1921",
       "y": 1868,
@@ -9342,6 +9792,7 @@
       ]
     },
     {
+      "id": "maxim-gorky",
       "name": "Maxim Gorky",
       "dates": "1868–1936",
       "y": 1868,
@@ -9374,6 +9825,7 @@
       "region": "Europe"
     },
     {
+      "id": "mahatma-gandhi",
       "name": "Mahatma Gandhi",
       "dates": "1869–1948",
       "y": 1869,
@@ -9387,6 +9839,7 @@
       "region": "South Asia"
     },
     {
+      "id": "neville-chamberlain",
       "name": "Neville Chamberlain",
       "dates": "1869–1940",
       "y": 1869,
@@ -9400,6 +9853,7 @@
       "region": "Europe"
     },
     {
+      "id": "johannes-linnankoski",
       "name": "Johannes Linnankoski",
       "dates": "1869–1913",
       "y": 1869,
@@ -9421,6 +9875,7 @@
       ]
     },
     {
+      "id": "richard-bedford-bennett",
       "name": "Richard Bedford Bennett",
       "dates": "1870–1947",
       "y": 1870,
@@ -9443,6 +9898,7 @@
       "region": "Americas"
     },
     {
+      "id": "victor-grignard",
       "name": "Victor Grignard",
       "dates": "1871–1935",
       "y": 1871,
@@ -9456,6 +9912,7 @@
       "url": "https://en.wikipedia.org/wiki/Victor_Grignard"
     },
     {
+      "id": "anton-denikin",
       "name": "Anton Denikin",
       "dates": "1872–1947",
       "y": 1872,
@@ -9480,6 +9937,7 @@
       "region": "Europe"
     },
     {
+      "id": "radoje-domanovic",
       "name": "Radoje Domanović",
       "dates": "1873–1908",
       "y": 1873,
@@ -9504,6 +9962,7 @@
       "region": "Europe"
     },
     {
+      "id": "sergei-rachmaninoff",
       "name": "Sergei Rachmaninoff",
       "dates": "1873–1943",
       "y": 1873,
@@ -9528,6 +9987,7 @@
       ]
     },
     {
+      "id": "harry-houdini",
       "name": "Harry Houdini",
       "dates": "1874–1926",
       "y": 1874,
@@ -9560,6 +10020,7 @@
       ]
     },
     {
+      "id": "maurice-ravel",
       "name": "Maurice Ravel",
       "dates": "1875–1937",
       "y": 1875,
@@ -9581,6 +10042,7 @@
       ]
     },
     {
+      "id": "francis-william-aston",
       "name": "Francis William Aston",
       "dates": "1877–1945",
       "y": 1877,
@@ -9594,6 +10056,7 @@
       "url": "https://en.wikipedia.org/wiki/Francis_William_Aston"
     },
     {
+      "id": "viktor-dyk",
       "name": "Viktor Dyk",
       "dates": "1877–1931",
       "y": 1877,
@@ -9629,6 +10092,7 @@
       ]
     },
     {
+      "id": "joan-gamper",
       "name": "Joan Gamper",
       "dates": "1877–1930",
       "y": 1877,
@@ -9651,6 +10115,7 @@
       ]
     },
     {
+      "id": "gustav-stresemann",
       "name": "Gustav Stresemann",
       "dates": "1878–1929",
       "y": 1878,
@@ -9664,6 +10129,7 @@
       "url": "https://en.wikipedia.org/wiki/Gustav_Stresemann"
     },
     {
+      "id": "pyotr-wrangel",
       "name": "Pyotr Wrangel",
       "dates": "1878–1928",
       "y": 1878,
@@ -9683,6 +10149,7 @@
       "region": "Europe"
     },
     {
+      "id": "franz-reichelt",
       "name": "Franz Reichelt",
       "dates": "1878–1912",
       "y": 1878,
@@ -9696,6 +10163,7 @@
       "region": "Europe"
     },
     {
+      "id": "egon-friedell",
       "name": "Egon Friedell",
       "dates": "1878–1938",
       "y": 1878,
@@ -9710,6 +10178,7 @@
       "region": "Europe"
     },
     {
+      "id": "marcel-grossmann",
       "name": "Marcel Grossmann",
       "dates": "1878–1936",
       "y": 1878,
@@ -9730,6 +10199,7 @@
       ]
     },
     {
+      "id": "charles-ferdinand-ramuz",
       "name": "Charles Ferdinand Ramuz",
       "dates": "1878–1947",
       "y": 1878,
@@ -9753,6 +10223,7 @@
       ]
     },
     {
+      "id": "kazimir-malevich",
       "name": "Kazimir Malevich",
       "dates": "1879–1935",
       "y": 1879,
@@ -9791,6 +10262,7 @@
       "region": "Europe"
     },
     {
+      "id": "maria-de-las-mercedes-princess-of-asturias",
       "name": "María de las Mercedes, Princess of Asturias",
       "dates": "1880–1904",
       "y": 1880,
@@ -9810,6 +10282,7 @@
       "region": "Europe"
     },
     {
+      "id": "otto-bauer",
       "name": "Otto Bauer",
       "dates": "1881–1938",
       "y": 1881,
@@ -9841,6 +10314,7 @@
       ]
     },
     {
+      "id": "lili-elbe",
       "name": "Lili Elbe",
       "dates": "1882–1931",
       "y": 1882,
@@ -9854,6 +10328,7 @@
       "region": "Europe"
     },
     {
+      "id": "inayat-khan",
       "name": "Inayat Khan",
       "dates": "1882–1927",
       "y": 1882,
@@ -9878,6 +10353,7 @@
       "region": "South Asia"
     },
     {
+      "id": "douglas-fairbanks",
       "name": "Douglas Fairbanks",
       "dates": "1883–1939",
       "y": 1883,
@@ -9891,6 +10367,7 @@
       "url": "https://en.wikipedia.org/wiki/Douglas_Fairbanks"
     },
     {
+      "id": "amedeo-modigliani",
       "name": "Amedeo Modigliani",
       "dates": "1884–1920",
       "y": 1884,
@@ -9912,6 +10389,7 @@
       "region": "Europe"
     },
     {
+      "id": "hermann-rorschach",
       "name": "Hermann Rorschach",
       "dates": "1884–1922",
       "y": 1884,
@@ -9933,6 +10411,7 @@
       ]
     },
     {
+      "id": "jacques-feyder",
       "name": "Jacques Feyder",
       "dates": "1885–1948",
       "y": 1885,
@@ -9960,6 +10439,7 @@
       ]
     },
     {
+      "id": "engelbert-dollfuss",
       "name": "Engelbert Dollfuss",
       "dates": "1892–1934",
       "y": 1892,
@@ -9983,6 +10463,7 @@
       ]
     },
     {
+      "id": "alexander-alekhine",
       "name": "Alexander Alekhine",
       "dates": "1892–1946",
       "y": 1892,
@@ -10010,6 +10491,7 @@
       "region": "Europe"
     },
     {
+      "id": "joachim-von-ribbentrop",
       "name": "Joachim von Ribbentrop",
       "dates": "1893–1946",
       "y": 1893,
@@ -10023,6 +10505,7 @@
       "url": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
     },
     {
+      "id": "vicente-huidobro",
       "name": "Vicente Huidobro",
       "dates": "1893–1948",
       "y": 1893,
@@ -10045,6 +10528,7 @@
       ]
     },
     {
+      "id": "vladimir-mayakovsky",
       "name": "Vladimir Mayakovsky",
       "dates": "1893–1930",
       "y": 1893,
@@ -10084,6 +10568,7 @@
       ]
     },
     {
+      "id": "grand-duchess-olga-nikolaevna-of-russia",
       "name": "Grand Duchess Olga Nikolaevna of Russia",
       "dates": "1895–1918",
       "y": 1895,
@@ -10097,6 +10582,7 @@
       "region": "Europe"
     },
     {
+      "id": "shote-galica",
       "name": "Shote Galica",
       "dates": "1895–1927",
       "y": 1895,
@@ -10118,6 +10604,7 @@
       "region": "Europe"
     },
     {
+      "id": "italo-balbo",
       "name": "Italo Balbo",
       "dates": "1896–1940",
       "y": 1896,
@@ -10132,6 +10619,7 @@
       "url": "https://en.wikipedia.org/wiki/Italo_Balbo"
     },
     {
+      "id": "george-gershwin",
       "name": "George Gershwin",
       "dates": "1898–1937",
       "y": 1898,
@@ -10157,6 +10645,7 @@
       ]
     },
     {
+      "id": "glenn-miller",
       "name": "Glenn Miller",
       "dates": "1904–1944",
       "y": 1904,
@@ -10170,6 +10659,7 @@
       "url": "https://en.wikipedia.org/wiki/Glenn_Miller"
     },
     {
+      "id": "annemarie-schwarzenbach",
       "name": "Annemarie Schwarzenbach",
       "dates": "1908–1942",
       "y": 1908,
@@ -10193,6 +10683,7 @@
       ]
     },
     {
+      "id": "jean-harlow",
       "name": "Jean Harlow",
       "dates": "1911–1937",
       "y": 1911,
@@ -10206,6 +10697,7 @@
       "url": "https://en.wikipedia.org/wiki/Jean_Harlow"
     },
     {
+      "id": "manshuk-mametova",
       "name": "Manshuk Mametova",
       "dates": "1922–1943",
       "y": 1922,
@@ -10219,6 +10711,7 @@
       "url": "https://en.wikipedia.org/wiki/Manshuk_Mametova"
     },
     {
+      "id": "charles-vii-of-france",
       "name": "Charles VII of France",
       "dates": "1403–1461",
       "y": 1403,
@@ -10241,6 +10734,7 @@
       "region": "Europe"
     },
     {
+      "id": "john-logie-baird",
       "name": "John Logie Baird",
       "dates": "1888–1946",
       "y": 1888,
@@ -10265,6 +10759,7 @@
       "region": "Europe"
     },
     {
+      "id": "george-stinney",
       "name": "George Stinney",
       "dates": "1929–1944",
       "y": 1929,
@@ -10282,6 +10777,7 @@
       "region": "Americas"
     },
     {
+      "id": "george-stephenson",
       "name": "George Stephenson",
       "dates": "1781–1848",
       "y": 1781,
@@ -10306,6 +10802,7 @@
       "region": "Europe"
     },
     {
+      "id": "howard-carter",
       "name": "Howard Carter",
       "dates": "1874–1939",
       "y": 1874,
@@ -10325,6 +10822,7 @@
       "region": "Europe"
     },
     {
+      "id": "martin-of-tours",
       "name": "Martin of Tours",
       "dates": "316–397",
       "y": 316,
@@ -10348,6 +10846,7 @@
       "region": "Europe"
     },
     {
+      "id": "william-henry-bragg",
       "name": "William Henry Bragg",
       "dates": "1862–1942",
       "y": 1862,
@@ -10373,6 +10872,7 @@
       "region": "Europe"
     },
     {
+      "id": "agustin-i-of-mexico",
       "name": "Agustín I of Mexico",
       "dates": "1783–1824",
       "y": 1783,
@@ -10397,6 +10897,7 @@
       "region": "Americas"
     },
     {
+      "id": "guillaume-apollinaire",
       "name": "Guillaume Apollinaire",
       "dates": "1880–1918",
       "y": 1880,
@@ -10428,6 +10929,7 @@
       "region": "Europe"
     },
     {
+      "id": "johann-sebastian-bach",
       "name": "Johann Sebastian Bach",
       "dates": "1685–1750",
       "y": 1685,
@@ -10458,6 +10960,7 @@
       "region": "Europe"
     },
     {
+      "id": "antonio-vivaldi",
       "name": "Antonio Vivaldi",
       "dates": "1678–1741",
       "y": 1678,
@@ -10477,6 +10980,7 @@
       "region": "Europe"
     },
     {
+      "id": "jean-baptiste-perrin",
       "name": "Jean-Baptiste Perrin",
       "dates": "1870–1942",
       "y": 1870,
@@ -10501,6 +11005,7 @@
       "region": "Europe"
     },
     {
+      "id": "cnut-the-great",
       "name": "Cnut the Great",
       "dates": "994–1035",
       "y": 994,
@@ -10524,6 +11029,7 @@
       "region": "Europe"
     },
     {
+      "id": "jose-de-san-martin",
       "name": "José de San Martín",
       "dates": "1778–1850",
       "y": 1778,
@@ -10546,6 +11052,7 @@
       "region": "Americas"
     },
     {
+      "id": "plotinus",
       "name": "Plotinus",
       "dates": "205–270",
       "y": 205,
@@ -10566,6 +11073,7 @@
       "region": "Middle East"
     },
     {
+      "id": "louis-vii-of-france",
       "name": "Louis VII of France",
       "dates": "1120–1180",
       "y": 1120,
@@ -10587,6 +11095,7 @@
       "region": "Europe"
     },
     {
+      "id": "charles-ix-of-france",
       "name": "Charles IX of France",
       "dates": "1550–1574",
       "y": 1550,
@@ -10606,6 +11115,7 @@
       "region": "Europe"
     },
     {
+      "id": "charles-viii-of-france",
       "name": "Charles VIII of France",
       "dates": "1470–1498",
       "y": 1470,
@@ -10626,6 +11136,7 @@
       "region": "Europe"
     },
     {
+      "id": "josephus",
       "name": "Josephus",
       "dates": "37–100",
       "y": 37,
@@ -10647,6 +11158,7 @@
       "region": "Middle East"
     },
     {
+      "id": "harry-carey",
       "name": "Harry Carey",
       "dates": "1878–1947",
       "y": 1878,
@@ -10673,6 +11185,7 @@
       "region": "Americas"
     },
     {
+      "id": "khalil-sultan",
       "name": "Khalil Sultan",
       "dates": "1384–1411",
       "y": 1384,
@@ -10692,6 +11205,7 @@
       "region": "Central Asia"
     },
     {
+      "id": "ivane-javakhishvili",
       "name": "Ivane Javakhishvili",
       "dates": "1876–1940",
       "y": 1876,
@@ -10717,6 +11231,7 @@
       "region": "Europe"
     },
     {
+      "id": "kartini",
       "name": "Kartini",
       "dates": "1879–1904",
       "y": 1879,
@@ -10738,6 +11253,7 @@
       "region": "East Asia"
     },
     {
+      "id": "sakichi-toyoda",
       "name": "Sakichi Toyoda",
       "dates": "1867–1930",
       "y": 1867,
@@ -10761,6 +11277,7 @@
       "region": "East Asia"
     },
     {
+      "id": "thorfinn-karlsefni",
       "name": "Thorfinn Karlsefni",
       "dates": "980–1020",
       "y": 980,
@@ -10780,6 +11297,7 @@
       "region": "Europe"
     },
     {
+      "id": "grigory-potanin",
       "name": "Grigory Potanin",
       "dates": "1835–1920",
       "y": 1835,
@@ -10811,6 +11329,7 @@
       "region": "Europe"
     },
     {
+      "id": "james-v-of-scotland",
       "name": "James V of Scotland",
       "dates": "1512–1542",
       "y": 1512,
@@ -10832,6 +11351,7 @@
       "region": "Europe"
     },
     {
+      "id": "james-iv-of-scotland",
       "name": "James IV of Scotland",
       "dates": "1473–1513",
       "y": 1473,
@@ -10854,6 +11374,7 @@
       "region": "Europe"
     },
     {
+      "id": "abbot-suger",
       "name": "Abbot Suger",
       "dates": "1080–1151",
       "y": 1080,
@@ -10881,6 +11402,7 @@
       "region": "Europe"
     },
     {
+      "id": "francis-walsingham",
       "name": "Francis Walsingham",
       "dates": "1532–1590",
       "y": 1532,
@@ -10903,6 +11425,7 @@
       "region": "Europe"
     },
     {
+      "id": "saint-sava",
       "name": "Saint Sava",
       "dates": "1169–1235",
       "y": 1169,
@@ -10930,6 +11453,7 @@
       "region": "Europe"
     },
     {
+      "id": "pyotr-stolypin",
       "name": "Pyotr Stolypin",
       "dates": "1862–1911",
       "y": 1862,
@@ -10952,6 +11476,7 @@
       "region": "Europe"
     },
     {
+      "id": "inge-i-of-norway",
       "name": "Inge I of Norway",
       "dates": "1135–1161",
       "y": 1135,
@@ -10972,6 +11497,7 @@
       "region": "Europe"
     },
     {
+      "id": "richard-strauss",
       "name": "Richard Strauss",
       "dates": "1864–1949",
       "y": 1864,
@@ -10996,6 +11522,7 @@
       "region": "Europe"
     },
     {
+      "id": "guy-fawkes",
       "name": "Guy Fawkes",
       "dates": "1570–1606",
       "y": 1570,
@@ -11020,6 +11547,7 @@
       "region": "Europe"
     },
     {
+      "id": "nuno-goncalves",
       "name": "Nuno Gonçalves",
       "dates": "1425–1492",
       "y": 1425,
@@ -11040,6 +11568,7 @@
       "region": "Europe"
     },
     {
+      "id": "ferdynand-antoni-ossendowski",
       "name": "Ferdynand Antoni Ossendowski",
       "dates": "1878–1945",
       "y": 1878,
@@ -11075,6 +11604,7 @@
       "region": "Europe"
     },
     {
+      "id": "eva-ekeblad",
       "name": "Eva Ekeblad",
       "dates": "1724–1786",
       "y": 1724,
@@ -11099,6 +11629,7 @@
       "region": "Europe"
     },
     {
+      "id": "uwais-qarni",
       "name": "Uwais Qarni",
       "dates": "594–657",
       "y": 594,
@@ -11119,6 +11650,7 @@
       "region": "Middle East"
     },
     {
+      "id": "vladimir-lenin",
       "name": "Vladimir Lenin",
       "dates": "1870–1924",
       "y": 1870,
@@ -11142,6 +11674,7 @@
       "region": "Europe"
     },
     {
+      "id": "james-hargreaves",
       "name": "James Hargreaves",
       "dates": "1720–1778",
       "y": 1720,
@@ -11163,6 +11696,7 @@
       "region": "Europe"
     },
     {
+      "id": "tiberius",
       "name": "Tiberius",
       "dates": "41BCE–37",
       "y": -41,
@@ -11186,6 +11720,7 @@
       "region": "Europe"
     },
     {
+      "id": "caligula",
       "name": "Caligula",
       "dates": "12–41",
       "y": 12,
@@ -11205,6 +11740,7 @@
       "region": "Europe"
     },
     {
+      "id": "edward-burnett-tylor",
       "name": "Edward Burnett Tylor",
       "dates": "1832–1917",
       "y": 1832,
@@ -11230,6 +11766,7 @@
       "region": "Europe"
     },
     {
+      "id": "claudius",
       "name": "Claudius",
       "dates": "9BCE–54",
       "y": -9,
@@ -11252,6 +11789,7 @@
       "region": "Europe"
     },
     {
+      "id": "nero",
       "name": "Nero",
       "dates": "37–68",
       "y": 37,
@@ -11277,6 +11815,7 @@
       "region": "Europe"
     },
     {
+      "id": "galba",
       "name": "Galba",
       "dates": "2BCE–69",
       "y": -2,
@@ -11298,6 +11837,7 @@
       "region": "Europe"
     },
     {
+      "id": "otho",
       "name": "Otho",
       "dates": "32–69",
       "y": 32,
@@ -11319,6 +11859,7 @@
       "region": "Europe"
     },
     {
+      "id": "vitellius",
       "name": "Vitellius",
       "dates": "15–69",
       "y": 15,
@@ -11340,6 +11881,7 @@
       "region": "Europe"
     },
     {
+      "id": "moctezuma-ii",
       "name": "Moctezuma II",
       "dates": "1466–1520",
       "y": 1466,
@@ -11359,6 +11901,7 @@
       "region": "Americas"
     },
     {
+      "id": "nikolai-yezhov",
       "name": "Nikolai Yezhov",
       "dates": "1895–1940",
       "y": 1895,
@@ -11382,6 +11925,7 @@
       "region": "Europe"
     },
     {
+      "id": "genrikh-yagoda",
       "name": "Genrikh Yagoda",
       "dates": "1891–1938",
       "y": 1891,
@@ -11405,6 +11949,7 @@
       "region": "Europe"
     },
     {
+      "id": "vespasian",
       "name": "Vespasian",
       "dates": "9–79",
       "y": 9,
@@ -11426,6 +11971,7 @@
       "region": "Europe"
     },
     {
+      "id": "julius-fucik",
       "name": "Julius Fučík",
       "dates": "1903–1943",
       "y": 1903,
@@ -11452,6 +11998,7 @@
       "region": "Europe"
     },
     {
+      "id": "titus",
       "name": "Titus",
       "dates": "39–81",
       "y": 39,
@@ -11473,6 +12020,7 @@
       "region": "Europe"
     },
     {
+      "id": "mikhail-tukhachevsky",
       "name": "Mikhail Tukhachevsky",
       "dates": "1893–1937",
       "y": 1893,
@@ -11496,6 +12044,7 @@
       "region": "Europe"
     },
     {
+      "id": "domitian",
       "name": "Domitian",
       "dates": "51–96",
       "y": 51,
@@ -11515,6 +12064,7 @@
       "region": "Europe"
     },
     {
+      "id": "nerva",
       "name": "Nerva",
       "dates": "30–98",
       "y": 30,
@@ -11534,6 +12084,7 @@
       "region": "Europe"
     },
     {
+      "id": "edmund-blair-leighton",
       "name": "Edmund Blair Leighton",
       "dates": "1852–1922",
       "y": 1852,
@@ -11553,6 +12104,7 @@
       "region": "Europe"
     },
     {
+      "id": "kathe-kollwitz",
       "name": "Käthe Kollwitz",
       "dates": "1867–1945",
       "y": 1867,
@@ -11587,6 +12139,7 @@
       "region": "Europe"
     },
     {
+      "id": "trajan",
       "name": "Trajan",
       "dates": "53–117",
       "y": 53,
@@ -11609,6 +12162,7 @@
       "region": "Europe"
     },
     {
+      "id": "hadrian",
       "name": "Hadrian",
       "dates": "76–138",
       "y": 76,
@@ -11633,6 +12187,7 @@
       "region": "Europe"
     },
     {
+      "id": "william-herschel",
       "name": "William Herschel",
       "dates": "1738–1822",
       "y": 1738,
@@ -11659,6 +12214,7 @@
       "region": "Europe"
     },
     {
+      "id": "john-frederick-william-herschel",
       "name": "John Frederick William Herschel",
       "dates": "1792–1871",
       "y": 1792,
@@ -11684,6 +12240,7 @@
       "region": "Europe"
     },
     {
+      "id": "giovanni-schiaparelli",
       "name": "Giovanni Schiaparelli",
       "dates": "1835–1910",
       "y": 1835,
@@ -11707,6 +12264,7 @@
       "region": "Europe"
     },
     {
+      "id": "antoninus-pius",
       "name": "Antoninus Pius",
       "dates": "86–161",
       "y": 86,
@@ -11726,6 +12284,7 @@
       "region": "Europe"
     },
     {
+      "id": "eusebius-of-caesarea",
       "name": "Eusebius of Caesarea",
       "dates": "265–340",
       "y": 265,
@@ -11751,6 +12310,7 @@
       "region": "Middle East"
     },
     {
+      "id": "marcus-aurelius",
       "name": "Marcus Aurelius",
       "dates": "121–180",
       "y": 121,
@@ -11774,6 +12334,7 @@
       "region": "Europe"
     },
     {
+      "id": "taejong-of-joseon",
       "name": "Taejong of Joseon",
       "dates": "1367–1422",
       "y": 1367,
@@ -11796,6 +12357,7 @@
       "region": "East Asia"
     },
     {
+      "id": "johannes-ockeghem",
       "name": "Johannes Ockeghem",
       "dates": "1410–1497",
       "y": 1410,
@@ -11815,6 +12377,7 @@
       "region": "Europe"
     },
     {
+      "id": "sviatopolk-ii-of-kiev",
       "name": "Sviatopolk II of Kiev",
       "dates": "1050–1113",
       "y": 1050,
@@ -11834,6 +12397,7 @@
       "region": "Europe"
     },
     {
+      "id": "josquin-des-prez",
       "name": "Josquin des Prez",
       "dates": "1440–1521",
       "y": 1440,
@@ -11854,6 +12418,7 @@
       "region": "Europe"
     },
     {
+      "id": "lucius-verus",
       "name": "Lucius Verus",
       "dates": "130–169",
       "y": 130,
@@ -11873,6 +12438,7 @@
       "region": "Europe"
     },
     {
+      "id": "commodus",
       "name": "Commodus",
       "dates": "161–192",
       "y": 161,
@@ -11892,6 +12458,7 @@
       "region": "Europe"
     },
     {
+      "id": "lysander",
       "name": "Lysander",
       "dates": "401BCE–394BCE",
       "y": -401,
@@ -11913,6 +12480,7 @@
       "region": "Europe"
     },
     {
+      "id": "pertinax",
       "name": "Pertinax",
       "dates": "126–193",
       "y": 126,
@@ -11935,6 +12503,7 @@
       "region": "Europe"
     },
     {
+      "id": "didius-julianus",
       "name": "Didius Julianus",
       "dates": "133–193",
       "y": 133,
@@ -11956,6 +12525,7 @@
       "region": "Europe"
     },
     {
+      "id": "septimius-severus",
       "name": "Septimius Severus",
       "dates": "146–211",
       "y": 146,
@@ -11978,6 +12548,7 @@
       "region": "Africa"
     },
     {
+      "id": "zayd-ibn-ali",
       "name": "Zayd ibn Ali",
       "dates": "695–740",
       "y": 695,
@@ -12003,6 +12574,7 @@
       "region": "Middle East"
     },
     {
+      "id": "boles-aw-prus",
       "name": "Bolesław Prus",
       "dates": "1847–1912",
       "y": 1847,
@@ -12031,6 +12603,7 @@
       "region": "Europe"
     },
     {
+      "id": "herbert-spencer",
       "name": "Herbert Spencer",
       "dates": "1820–1903",
       "y": 1820,
@@ -12059,6 +12632,7 @@
       ]
     },
     {
+      "id": "tughril-i",
       "name": "Tughril I",
       "dates": "990–1063",
       "y": 990,
@@ -12079,6 +12653,7 @@
       ]
     },
     {
+      "id": "caracalla",
       "name": "Caracalla",
       "dates": "188–217",
       "y": 188,
@@ -12100,6 +12675,7 @@
       ]
     },
     {
+      "id": "jean-baptiste-tavernier",
       "name": "Jean-Baptiste Tavernier",
       "dates": "1605–1689",
       "y": 1605,
@@ -12124,6 +12700,7 @@
       ]
     },
     {
+      "id": "charles-messier",
       "name": "Charles Messier",
       "dates": "1730–1817",
       "y": 1730,
@@ -12143,6 +12720,7 @@
       ]
     },
     {
+      "id": "tanaka-giichi",
       "name": "Tanaka Giichi",
       "dates": "1864–1929",
       "y": 1864,
@@ -12167,6 +12745,7 @@
       ]
     },
     {
+      "id": "jamasp",
       "name": "Jamasp",
       "dates": "450–499",
       "y": 450,
@@ -12186,6 +12765,7 @@
       ]
     },
     {
+      "id": "albert-vi-archduke-of-austria",
       "name": "Albert VI, Archduke of Austria",
       "dates": "1418–1463",
       "y": 1418,
@@ -12205,6 +12785,7 @@
       ]
     },
     {
+      "id": "anne-duchess-of-york",
       "name": "Anne, Duchess of York",
       "dates": "1637–1671",
       "y": 1637,
@@ -12225,6 +12806,7 @@
       ]
     },
     {
+      "id": "ay",
       "name": "Ay",
       "dates": "1400BCE–1400BCE",
       "y": -1400,
@@ -12244,6 +12826,7 @@
       ]
     },
     {
+      "id": "john-bosco",
       "name": "John Bosco",
       "dates": "1815–1888",
       "y": 1815,
@@ -12268,6 +12851,7 @@
       ]
     },
     {
+      "id": "baldwin-iii-of-jerusalem",
       "name": "Baldwin III of Jerusalem",
       "dates": "1130–1163",
       "y": 1130,
@@ -12288,6 +12872,7 @@
       ]
     },
     {
+      "id": "pelagius",
       "name": "Pelagius",
       "dates": "685–737",
       "y": 685,
@@ -12310,6 +12895,7 @@
       ]
     },
     {
+      "id": "louis-antoine-duke-of-angouleme",
       "name": "Louis Antoine, Duke of Angoulême",
       "dates": "1775–1844",
       "y": 1775,
@@ -12332,6 +12918,7 @@
       ]
     },
     {
+      "id": "alphonse-mucha",
       "name": "Alphonse Mucha",
       "dates": "1860–1939",
       "y": 1860,
@@ -12372,6 +12959,7 @@
       ]
     },
     {
+      "id": "zane-grey",
       "name": "Zane Grey",
       "dates": "1872–1939",
       "y": 1872,
@@ -12400,6 +12988,7 @@
       ]
     },
     {
+      "id": "yuan-mei",
       "name": "Yuan Mei",
       "dates": "1716–1797",
       "y": 1716,
@@ -12426,6 +13015,7 @@
       ]
     },
     {
+      "id": "giovanni-da-verrazzano",
       "name": "Giovanni da Verrazzano",
       "dates": "1491–1528",
       "y": 1491,
@@ -12445,6 +13035,7 @@
       ]
     },
     {
+      "id": "jean-francois-millet",
       "name": "Jean-François Millet",
       "dates": "1814–1875",
       "y": 1814,
@@ -12472,6 +13063,7 @@
       ]
     },
     {
+      "id": "jean-baptiste-camille-corot",
       "name": "Jean-Baptiste Camille Corot",
       "dates": "1796–1875",
       "y": 1796,
@@ -12496,6 +13088,7 @@
       ]
     },
     {
+      "id": "zewditu-i-of-ethiopia",
       "name": "Zewditu I of Ethiopia",
       "dates": "1876–1930",
       "y": 1876,
@@ -12516,6 +13109,7 @@
       "region": "Africa"
     },
     {
+      "id": "mikheil-javakhishvili",
       "name": "Mikheil Javakhishvili",
       "dates": "1880–1937",
       "y": 1880,
@@ -12538,6 +13132,7 @@
       "region": "Europe"
     },
     {
+      "id": "robert-brasillach",
       "name": "Robert Brasillach",
       "dates": "1909–1945",
       "y": 1909,
@@ -12562,6 +13157,7 @@
       "region": "Europe"
     },
     {
+      "id": "bruno-schulz",
       "name": "Bruno Schulz",
       "dates": "1892–1942",
       "y": 1892,
@@ -12589,6 +13185,7 @@
       "region": "Europe"
     },
     {
+      "id": "catherine-cornaro",
       "name": "Catherine Cornaro",
       "dates": "1454–1510",
       "y": 1454,
@@ -12608,6 +13205,7 @@
       "region": "Europe"
     },
     {
+      "id": "vladimir-the-great",
       "name": "Vladimir the Great",
       "dates": "956–1015",
       "y": 956,
@@ -12628,6 +13226,7 @@
       "region": "Europe"
     },
     {
+      "id": "jose-rizal",
       "name": "José Rizal",
       "dates": "1861–1896",
       "y": 1861,
@@ -12667,6 +13266,7 @@
       "region": "East Asia"
     },
     {
+      "id": "alexander-griboyedov",
       "name": "Alexander Griboyedov",
       "dates": "1795–1829",
       "y": 1795,
@@ -12695,6 +13295,7 @@
       "region": "Europe"
     },
     {
+      "id": "manuel-l-quezon",
       "name": "Manuel L. Quezon",
       "dates": "1878–1944",
       "y": 1878,
@@ -12716,6 +13317,7 @@
       "region": "East Asia"
     },
     {
+      "id": "amrita-sher-gil",
       "name": "Amrita Sher-Gil",
       "dates": "1913–1941",
       "y": 1913,
@@ -12735,6 +13337,7 @@
       "region": "South Asia"
     },
     {
+      "id": "ottokar-ii-of-bohemia",
       "name": "Ottokar II of Bohemia",
       "dates": "1233–1278",
       "y": 1233,
@@ -12754,6 +13357,7 @@
       "region": "Europe"
     },
     {
+      "id": "camille-saint-saens",
       "name": "Camille Saint-Saëns",
       "dates": "1835–1921",
       "y": 1835,
@@ -12780,6 +13384,7 @@
       "region": "Europe"
     },
     {
+      "id": "e-t-a-hoffmann",
       "name": "E. T. A. Hoffmann",
       "dates": "1776–1822",
       "y": 1776,
@@ -12821,6 +13426,7 @@
       "region": "Europe"
     },
     {
+      "id": "leopold-i-holy-roman-emperor",
       "name": "Leopold I, Holy Roman Emperor",
       "dates": "1640–1705",
       "y": 1640,
@@ -12843,6 +13449,7 @@
       "region": "Europe"
     },
     {
+      "id": "otto-ii",
       "name": "Otto II",
       "dates": "955–983",
       "y": 955,
@@ -12864,6 +13471,7 @@
       "region": "Europe"
     },
     {
+      "id": "santiago-ramon-y-cajal",
       "name": "Santiago Ramón y Cajal",
       "dates": "1852–1934",
       "y": 1852,
@@ -12895,6 +13503,7 @@
       "region": "Europe"
     },
     {
+      "id": "ferdinand-iii-holy-roman-emperor",
       "name": "Ferdinand III, Holy Roman Emperor",
       "dates": "1608–1657",
       "y": 1608,
@@ -12917,6 +13526,7 @@
       "region": "Europe"
     },
     {
+      "id": "emperor-rudolf-ii",
       "name": "Emperor Rudolf II",
       "dates": "1552–1612",
       "y": 1552,
@@ -12939,6 +13549,7 @@
       "region": "Europe"
     },
     {
+      "id": "ferdinand-ii-holy-roman-emperor",
       "name": "Ferdinand II, Holy Roman Emperor",
       "dates": "1578–1637",
       "y": 1578,
@@ -12955,6 +13566,7 @@
       "region": "Europe"
     },
     {
+      "id": "ferdinand-i-holy-roman-emperor",
       "name": "Ferdinand I, Holy Roman Emperor",
       "dates": "1503–1564",
       "y": 1503,
@@ -12976,6 +13588,7 @@
       "region": "Europe"
     },
     {
+      "id": "henry-i-the-fowler",
       "name": "Henry I the Fowler",
       "dates": "876–936",
       "y": 876,
@@ -12996,6 +13609,7 @@
       "region": "Europe"
     },
     {
+      "id": "camillo-golgi",
       "name": "Camillo Golgi",
       "dates": "1843–1926",
       "y": 1843,
@@ -13027,6 +13641,7 @@
       "region": "Europe"
     },
     {
+      "id": "victor-emmanuel-iii-of-italy",
       "name": "Victor Emmanuel III of Italy",
       "dates": "1869–1947",
       "y": 1869,
@@ -13047,6 +13662,7 @@
       "region": "Europe"
     },
     {
+      "id": "wilhelm-i",
       "name": "Wilhelm I",
       "dates": "1797–1888",
       "y": 1797,
@@ -13069,6 +13685,7 @@
       "region": "Europe"
     },
     {
+      "id": "charles-vi-holy-roman-emperor",
       "name": "Charles VI, Holy Roman Emperor",
       "dates": "1685–1740",
       "y": 1685,
@@ -13090,6 +13707,7 @@
       "region": "Europe"
     },
     {
+      "id": "anthony-van-dyck",
       "name": "Anthony van Dyck",
       "dates": "1599–1641",
       "y": 1599,
@@ -13120,6 +13738,7 @@
       "region": "Europe"
     },
     {
+      "id": "porfirio-diaz",
       "name": "Porfirio Díaz",
       "dates": "1830–1915",
       "y": 1830,
@@ -13141,6 +13760,7 @@
       "region": "Americas"
     },
     {
+      "id": "maximilian-i",
       "name": "Maximilian I",
       "dates": "1459–1519",
       "y": 1459,
@@ -13160,6 +13780,7 @@
       "region": "Europe"
     },
     {
+      "id": "lothair-i",
       "name": "Lothair I",
       "dates": "795–855",
       "y": 795,
@@ -13181,6 +13802,7 @@
       "region": "Europe"
     },
     {
+      "id": "empress-elisabeth-of-austria",
       "name": "Empress Elisabeth of Austria",
       "dates": "1837–1898",
       "y": 1837,
@@ -13203,6 +13825,7 @@
       "region": "Europe"
     },
     {
+      "id": "maximilian-ii-holy-roman-emperor",
       "name": "Maximilian II, Holy Roman Emperor",
       "dates": "1527–1576",
       "y": 1527,
@@ -13222,6 +13845,7 @@
       "region": "Europe"
     },
     {
+      "id": "empress-matilda",
       "name": "Empress Matilda",
       "dates": "1102–1167",
       "y": 1102,
@@ -13241,6 +13865,7 @@
       "region": "Europe"
     },
     {
+      "id": "charles-algernon-parsons",
       "name": "Charles Algernon Parsons",
       "dates": "1854–1931",
       "y": 1854,
@@ -13263,6 +13888,7 @@
       "region": "Europe"
     },
     {
+      "id": "henry-vi",
       "name": "Henry VI",
       "dates": "1165–1197",
       "y": 1165,
@@ -13284,6 +13910,7 @@
       "region": "Europe"
     },
     {
+      "id": "frederick-iii-holy-roman-emperor",
       "name": "Frederick III, Holy Roman Emperor",
       "dates": "1415–1493",
       "y": 1415,
@@ -13304,6 +13931,7 @@
       "region": "Europe"
     },
     {
+      "id": "francis-i-holy-roman-emperor",
       "name": "Francis I, Holy Roman Emperor",
       "dates": "1708–1765",
       "y": 1708,
@@ -13327,6 +13955,7 @@
       "region": "Europe"
     },
     {
+      "id": "elisa-bonaparte",
       "name": "Elisa Bonaparte",
       "dates": "1777–1820",
       "y": 1777,
@@ -13347,6 +13976,7 @@
       "region": "Europe"
     },
     {
+      "id": "jerome-bonaparte",
       "name": "Jérôme Bonaparte",
       "dates": "1784–1860",
       "y": 1784,
@@ -13368,6 +13998,7 @@
       "region": "Europe"
     },
     {
+      "id": "otto-iii",
       "name": "Otto III",
       "dates": "980–1002",
       "y": 980,
@@ -13390,6 +14021,7 @@
       "region": "Europe"
     },
     {
+      "id": "lucien-bonaparte",
       "name": "Lucien Bonaparte",
       "dates": "1775–1840",
       "y": 1775,
@@ -13413,6 +14045,7 @@
       "region": "Europe"
     },
     {
+      "id": "richard-wagner",
       "name": "Richard Wagner",
       "dates": "1813–1883",
       "y": 1813,
@@ -13443,6 +14076,7 @@
       "region": "Europe"
     },
     {
+      "id": "charles-the-bold",
       "name": "Charles the Bold",
       "dates": "1433–1477",
       "y": 1433,
@@ -13464,6 +14098,7 @@
       "region": "Europe"
     },
     {
+      "id": "grand-duchess-anastasia-nikolaevna-of-russia",
       "name": "Grand Duchess Anastasia Nikolaevna of Russia",
       "dates": "1901–1918",
       "y": 1901,
@@ -13483,6 +14118,7 @@
       "region": "Europe"
     },
     {
+      "id": "juan-gris",
       "name": "Juan Gris",
       "dates": "1887–1927",
       "y": 1887,
@@ -13510,6 +14146,7 @@
       "region": "Europe"
     },
     {
+      "id": "joachim-murat",
       "name": "Joachim Murat",
       "dates": "1767–1815",
       "y": 1767,
@@ -13535,6 +14172,7 @@
       "region": "Europe"
     },
     {
+      "id": "olive-schreiner",
       "name": "Olive Schreiner",
       "dates": "1855–1920",
       "y": 1855,
@@ -13557,6 +14195,7 @@
       "region": "Africa"
     },
     {
+      "id": "robert-louis-stevenson",
       "name": "Robert Louis Stevenson",
       "dates": "1850–1894",
       "y": 1850,
@@ -13586,6 +14225,7 @@
       "region": "Europe"
     },
     {
+      "id": "anne-of-austria",
       "name": "Anne of Austria",
       "dates": "1601–1666",
       "y": 1601,
@@ -13607,6 +14247,7 @@
       "region": "Europe"
     },
     {
+      "id": "christian-ix-of-denmark",
       "name": "Christian IX of Denmark",
       "dates": "1818–1906",
       "y": 1818,
@@ -13628,6 +14269,7 @@
       "region": "Europe"
     },
     {
+      "id": "leopold-ii-holy-roman-emperor",
       "name": "Leopold II, Holy Roman Emperor",
       "dates": "1747–1792",
       "y": 1747,
@@ -13648,6 +14290,7 @@
       "region": "Europe"
     },
     {
+      "id": "vidkun-quisling",
       "name": "Vidkun Quisling",
       "dates": "1887–1945",
       "y": 1887,
@@ -13671,6 +14314,7 @@
       "region": "Europe"
     },
     {
+      "id": "thomas-carlyle",
       "name": "Thomas Carlyle",
       "dates": "1795–1881",
       "y": 1795,
@@ -13703,6 +14347,7 @@
       "region": "Europe"
     },
     {
+      "id": "jose-batlle-y-ordonez",
       "name": "José Batlle y Ordóñez",
       "dates": "1856–1929",
       "y": 1856,
@@ -13723,6 +14368,7 @@
       "region": "Americas"
     },
     {
+      "id": "otto-iv-holy-roman-emperor",
       "name": "Otto IV, Holy Roman Emperor",
       "dates": "1175–1218",
       "y": 1175,
@@ -13742,6 +14388,7 @@
       "region": "Europe"
     },
     {
+      "id": "mehmed-v",
       "name": "Mehmed V",
       "dates": "1844–1918",
       "y": 1844,
@@ -13763,6 +14410,7 @@
       "region": "Middle East"
     },
     {
+      "id": "abdulaziz",
       "name": "Abdülaziz",
       "dates": "1830–1876",
       "y": 1830,
@@ -13787,6 +14435,7 @@
       "region": "Middle East"
     },
     {
+      "id": "richard-owen",
       "name": "Richard Owen",
       "dates": "1804–1892",
       "y": 1804,
@@ -13817,6 +14466,7 @@
       "region": "Europe"
     },
     {
+      "id": "paul-signac",
       "name": "Paul Signac",
       "dates": "1863–1935",
       "y": 1863,
@@ -13840,6 +14490,7 @@
       "region": "Europe"
     },
     {
+      "id": "bela-kun",
       "name": "Béla Kun",
       "dates": "1886–1938",
       "y": 1886,
@@ -13868,6 +14519,7 @@
       "region": "Europe"
     },
     {
+      "id": "ferdinand-i-of-bulgaria",
       "name": "Ferdinand I of Bulgaria",
       "dates": "1861–1948",
       "y": 1861,
@@ -13898,6 +14550,7 @@
       "region": "Europe"
     },
     {
+      "id": "henry-v",
       "name": "Henry V",
       "dates": "1086–1125",
       "y": 1086,
@@ -13918,6 +14571,7 @@
       "region": "Europe"
     },
     {
+      "id": "nicolas-steno",
       "name": "Nicolas Steno",
       "dates": "1638–1686",
       "y": 1638,
@@ -13949,6 +14603,7 @@
       "region": "Europe"
     },
     {
+      "id": "alexander-of-greece",
       "name": "Alexander of Greece",
       "dates": "1893–1920",
       "y": 1893,
@@ -13968,6 +14623,7 @@
       "region": "Europe"
     },
     {
+      "id": "karl-friedrich-schinkel",
       "name": "Karl Friedrich Schinkel",
       "dates": "1781–1841",
       "y": 1781,
@@ -13997,6 +14653,7 @@
       "region": "Europe"
     },
     {
+      "id": "ivan-vi-of-russia",
       "name": "Ivan VI of Russia",
       "dates": "1740–1764",
       "y": 1740,
@@ -14016,6 +14673,7 @@
       "region": "Europe"
     },
     {
+      "id": "peter-iii-of-russia",
       "name": "Peter III of Russia",
       "dates": "1728–1762",
       "y": 1728,
@@ -14035,6 +14693,7 @@
       "region": "Europe"
     },
     {
+      "id": "edward-cave",
       "name": "Edward Cave",
       "dates": "1691–1754",
       "y": 1691,
@@ -14060,6 +14719,7 @@
       "region": "Europe"
     },
     {
+      "id": "piet-mondrian",
       "name": "Piet Mondrian",
       "dates": "1872–1944",
       "y": 1872,
@@ -14090,6 +14750,7 @@
       "region": "Europe"
     },
     {
+      "id": "semerkhet",
       "name": "Semerkhet",
       "dates": "3000BCE–2959BCE",
       "y": -3000,
@@ -14109,6 +14770,7 @@
       "region": "Africa"
     },
     {
+      "id": "hotepsekhemwy",
       "name": "Hotepsekhemwy",
       "dates": "2900BCE–2900BCE",
       "y": -2900,
@@ -14128,6 +14790,7 @@
       "region": "Africa"
     },
     {
+      "id": "den",
       "name": "Den",
       "dates": "3000BCE–2994BCE",
       "y": -3000,
@@ -14148,6 +14811,7 @@
       "region": "Africa"
     },
     {
+      "id": "frederick-i-of-prussia",
       "name": "Frederick I of Prussia",
       "dates": "1657–1713",
       "y": 1657,
@@ -14167,6 +14831,7 @@
       "region": "Europe"
     },
     {
+      "id": "djet",
       "name": "Djet",
       "dates": "3000BCE–3000BCE",
       "y": -3000,
@@ -14186,6 +14851,7 @@
       "region": "Africa"
     },
     {
+      "id": "carlo-bonaparte",
       "name": "Carlo Bonaparte",
       "dates": "1746–1785",
       "y": 1746,
@@ -14208,6 +14874,7 @@
       "region": "Europe"
     },
     {
+      "id": "anna-pavlova",
       "name": "Anna Pavlova",
       "dates": "1881–1931",
       "y": 1881,
@@ -14231,6 +14898,7 @@
       "region": "Europe"
     },
     {
+      "id": "paul-i-of-russia",
       "name": "Paul I of Russia",
       "dates": "1754–1801",
       "y": 1754,
@@ -14250,6 +14918,7 @@
       "region": "Europe"
     },
     {
+      "id": "jons-jacob-berzelius",
       "name": "Jöns Jacob Berzelius",
       "dates": "1779–1848",
       "y": 1779,
@@ -14273,6 +14942,7 @@
       "region": "Europe"
     },
     {
+      "id": "alexander-i-of-russia",
       "name": "Alexander I of Russia",
       "dates": "1777–1825",
       "y": 1777,
@@ -14292,6 +14962,7 @@
       "region": "Europe"
     },
     {
+      "id": "james-george-frazer",
       "name": "James George Frazer",
       "dates": "1854–1941",
       "y": 1854,
@@ -14321,6 +14992,7 @@
       "region": "Europe"
     },
     {
+      "id": "pierre-laval",
       "name": "Pierre Laval",
       "dates": "1883–1945",
       "y": 1883,
@@ -14342,6 +15014,7 @@
       "region": "Europe"
     },
     {
+      "id": "maria-letizia-bonaparte",
       "name": "Maria-Letizia Bonaparte",
       "dates": "1750–1836",
       "y": 1750,
@@ -14362,6 +15035,7 @@
       "region": "Europe"
     },
     {
+      "id": "ion-antonescu",
       "name": "Ion Antonescu",
       "dates": "1882–1946",
       "y": 1882,
@@ -14384,6 +15058,7 @@
       "region": "Europe"
     },
     {
+      "id": "catherine-i-of-russia",
       "name": "Catherine I of Russia",
       "dates": "1684–1727",
       "y": 1684,
@@ -14405,6 +15080,7 @@
       "region": "Europe"
     },
     {
+      "id": "alexandra-feodorovna-alix-of-hesse",
       "name": "Alexandra Feodorovna (Alix of Hesse)",
       "dates": "1872–1918",
       "y": 1872,
@@ -14429,6 +15105,7 @@
       "region": "Europe"
     },
     {
+      "id": "constantine-i-of-greece",
       "name": "Constantine I of Greece",
       "dates": "1868–1923",
       "y": 1868,
@@ -14449,6 +15126,7 @@
       "region": "Europe"
     },
     {
+      "id": "geiseric",
       "name": "Geiseric",
       "dates": "389–477",
       "y": 389,
@@ -14469,6 +15147,7 @@
       "region": "Africa"
     },
     {
+      "id": "wenceslaus-iv-of-bohemia",
       "name": "Wenceslaus IV of Bohemia",
       "dates": "1361–1419",
       "y": 1361,
@@ -14488,6 +15167,7 @@
       "region": "Europe"
     },
     {
+      "id": "matthias-holy-roman-emperor",
       "name": "Matthias, Holy Roman Emperor",
       "dates": "1557–1619",
       "y": 1557,
@@ -14508,6 +15188,7 @@
       "region": "Europe"
     },
     {
+      "id": "august-krogh",
       "name": "August Krogh",
       "dates": "1874–1949",
       "y": 1874,
@@ -14532,6 +15213,7 @@
       "region": "Europe"
     },
     {
+      "id": "friedrich-wilhelm-ii-of-prussia",
       "name": "Friedrich Wilhelm II of Prussia",
       "dates": "1744–1797",
       "y": 1744,
@@ -14551,6 +15233,7 @@
       "region": "Europe"
     },
     {
+      "id": "tiye",
       "name": "Tiye",
       "dates": "1397BCE–1337BCE",
       "y": -1397,
@@ -14570,6 +15253,7 @@
       "region": "Africa"
     },
     {
+      "id": "el-lissitzky",
       "name": "El Lissitzky",
       "dates": "1890–1941",
       "y": 1890,
@@ -14602,6 +15286,7 @@
       "region": "Europe"
     },
     {
+      "id": "prince-albert-of-saxe-coburg-and-gotha",
       "name": "Prince Albert of Saxe-Coburg and Gotha",
       "dates": "1819–1861",
       "y": 1819,
@@ -14627,6 +15312,7 @@
       "region": "Europe"
     },
     {
+      "id": "conrad-ii",
       "name": "Conrad II",
       "dates": "990–1039",
       "y": 990,
@@ -14646,6 +15332,7 @@
       "region": "Europe"
     },
     {
+      "id": "alexandra-of-denmark",
       "name": "Alexandra of Denmark",
       "dates": "1844–1925",
       "y": 1844,
@@ -14668,6 +15355,7 @@
       "region": "Europe"
     },
     {
+      "id": "georges-melies",
       "name": "Georges Méliès",
       "dates": "1861–1938",
       "y": 1861,
@@ -14699,6 +15387,7 @@
       "region": "Europe"
     },
     {
+      "id": "edvard-benes",
       "name": "Edvard Beneš",
       "dates": "1884–1948",
       "y": 1884,
@@ -14731,6 +15420,7 @@
       "region": "Europe"
     },
     {
+      "id": "ramesses-ii",
       "name": "Ramesses II",
       "dates": "1302BCE–1212BCE",
       "y": -1302,
@@ -14752,6 +15442,7 @@
       "region": "Africa"
     },
     {
+      "id": "isoroku-yamamoto",
       "name": "Isoroku Yamamoto",
       "dates": "1884–1943",
       "y": 1884,
@@ -14772,6 +15463,7 @@
       "region": "East Asia"
     },
     {
+      "id": "pasquale-paoli",
       "name": "Pasquale Paoli",
       "dates": "1725–1807",
       "y": 1725,
@@ -14797,6 +15489,7 @@
       "region": "Europe"
     },
     {
+      "id": "bela-iv-of-hungary",
       "name": "Béla IV of Hungary",
       "dates": "1206–1270",
       "y": 1206,
@@ -14817,6 +15510,7 @@
       "region": "Europe"
     },
     {
+      "id": "djer",
       "name": "Djer",
       "dates": "3001BCE–2999BCE",
       "y": -3001,
@@ -14836,6 +15530,7 @@
       "region": "Africa"
     },
     {
+      "id": "alfred-adler",
       "name": "Alfred Adler",
       "dates": "1870–1937",
       "y": 1870,
@@ -14859,6 +15554,7 @@
       "region": "Europe"
     },
     {
+      "id": "eugene-of-savoy",
       "name": "Eugene of Savoy",
       "dates": "1663–1736",
       "y": 1663,
@@ -14880,6 +15576,7 @@
       "region": "Europe"
     },
     {
+      "id": "louis-the-german",
       "name": "Louis the German",
       "dates": "806–876",
       "y": 806,
@@ -14899,6 +15596,7 @@
       "region": "Europe"
     },
     {
+      "id": "joseph-i-holy-roman-emperor",
       "name": "Joseph I, Holy Roman Emperor",
       "dates": "1678–1711",
       "y": 1678,
@@ -14920,6 +15618,7 @@
       "region": "Europe"
     },
     {
+      "id": "henry-wadsworth-longfellow",
       "name": "Henry Wadsworth Longfellow",
       "dates": "1807–1882",
       "y": 1807,
@@ -14943,6 +15642,7 @@
       "region": "Americas"
     },
     {
+      "id": "maria-theresa-of-spain",
       "name": "Maria Theresa of Spain",
       "dates": "1638–1683",
       "y": 1638,
@@ -14964,6 +15664,7 @@
       "region": "Europe"
     },
     {
+      "id": "ramesses-i",
       "name": "Ramesses I",
       "dates": "1300BCE–1289BCE",
       "y": -1300,
@@ -14983,6 +15684,7 @@
       "region": "Africa"
     },
     {
+      "id": "frederick-william-of-brandenburg",
       "name": "Frederick William of Brandenburg",
       "dates": "1620–1688",
       "y": 1620,
@@ -15004,6 +15706,7 @@
       "region": "Europe"
     },
     {
+      "id": "frederik-viii-of-denmark",
       "name": "Frederik VIII of Denmark",
       "dates": "1843–1912",
       "y": 1843,
@@ -15026,6 +15729,7 @@
       "region": "Europe"
     },
     {
+      "id": "max-linder",
       "name": "Max Linder",
       "dates": "1883–1925",
       "y": 1883,
@@ -15055,6 +15759,7 @@
       "region": "Europe"
     },
     {
+      "id": "caroline-bonaparte",
       "name": "Caroline Bonaparte",
       "dates": "1782–1839",
       "y": 1782,
@@ -15074,6 +15779,7 @@
       "region": "Europe"
     },
     {
+      "id": "pauline-bonaparte",
       "name": "Pauline Bonaparte",
       "dates": "1780–1825",
       "y": 1780,
@@ -15093,6 +15799,7 @@
       "region": "Europe"
     },
     {
+      "id": "umberto-boccioni",
       "name": "Umberto Boccioni",
       "dates": "1882–1916",
       "y": 1882,
@@ -15118,6 +15825,7 @@
       "region": "Europe"
     },
     {
+      "id": "ramesses-iii",
       "name": "Ramesses III",
       "dates": "1216BCE–1154BCE",
       "y": -1216,
@@ -15138,6 +15846,7 @@
       "region": "Africa"
     },
     {
+      "id": "gerard-desargues",
       "name": "Gérard Desargues",
       "dates": "1591–1661",
       "y": 1591,
@@ -15162,6 +15871,7 @@
       "region": "Europe"
     },
     {
+      "id": "hans-von-aachen",
       "name": "Hans von Aachen",
       "dates": "1552–1615",
       "y": 1552,
@@ -15189,6 +15899,7 @@
       "region": "Europe"
     },
     {
+      "id": "li-si",
       "name": "Li Si",
       "dates": "279BCE–207BCE",
       "y": -279,
@@ -15212,6 +15923,7 @@
       "region": "East Asia"
     },
     {
+      "id": "rudolf-crown-prince-of-austria",
       "name": "Rudolf, Crown Prince of Austria",
       "dates": "1858–1889",
       "y": 1858,
@@ -15236,6 +15948,7 @@
       "region": "Europe"
     },
     {
+      "id": "george-ii-of-greece",
       "name": "George II of Greece",
       "dates": "1890–1947",
       "y": 1890,
@@ -15255,6 +15968,7 @@
       "region": "Europe"
     },
     {
+      "id": "henry-iii",
       "name": "Henry III",
       "dates": "1016–1056",
       "y": 1016,
@@ -15277,6 +15991,7 @@
       "region": "Europe"
     },
     {
+      "id": "lisa-del-giocondo",
       "name": "Lisa del Giocondo",
       "dates": "1479–1542",
       "y": 1479,
@@ -15296,6 +16011,7 @@
       "region": "Europe"
     },
     {
+      "id": "ion-c-bratianu",
       "name": "Ion C. Brătianu",
       "dates": "1821–1891",
       "y": 1821,
@@ -15315,6 +16031,7 @@
       "region": "Europe"
     },
     {
+      "id": "sophie-duchess-of-hohenberg",
       "name": "Sophie, Duchess of Hohenberg",
       "dates": "1868–1914",
       "y": 1868,
@@ -15335,6 +16052,7 @@
       "region": "Europe"
     },
     {
+      "id": "w-adys-aw-sikorski",
       "name": "Władysław Sikorski",
       "dates": "1881–1943",
       "y": 1881,
@@ -15357,6 +16075,7 @@
       "region": "Europe"
     },
     {
+      "id": "elias-lonnrot",
       "name": "Elias Lönnrot",
       "dates": "1802–1884",
       "y": 1802,
@@ -15390,6 +16109,7 @@
       "region": "Europe"
     },
     {
+      "id": "joseph-louis-gay-lussac",
       "name": "Joseph Louis Gay-Lussac",
       "dates": "1778–1850",
       "y": 1778,
@@ -15415,6 +16135,7 @@
       "region": "Europe"
     },
     {
+      "id": "ramesses-iv",
       "name": "Ramesses IV",
       "dates": "1200BCE–1155BCE",
       "y": -1200,
@@ -15434,6 +16155,7 @@
       "region": "Africa"
     },
     {
+      "id": "jean-le-rond-d-alembert",
       "name": "Jean Le Rond d'Alembert",
       "dates": "1717–1783",
       "y": 1717,
@@ -15467,6 +16189,7 @@
       "region": "Europe"
     },
     {
+      "id": "josiah-willard-gibbs",
       "name": "Josiah Willard Gibbs",
       "dates": "1839–1903",
       "y": 1839,
@@ -15493,6 +16216,7 @@
       "region": "Americas"
     },
     {
+      "id": "ben-turpin",
       "name": "Ben Turpin",
       "dates": "1869–1940",
       "y": 1869,
@@ -15513,6 +16237,7 @@
       "region": "Americas"
     },
     {
+      "id": "anna-petrovna-of-russia",
       "name": "Anna Petrovna of Russia",
       "dates": "1708–1728",
       "y": 1708,
@@ -15533,6 +16258,7 @@
       "region": "Europe"
     },
     {
+      "id": "meritaten",
       "name": "Meritaten",
       "dates": "1400BCE–1400BCE",
       "y": -1400,
@@ -15552,6 +16278,7 @@
       "region": "Africa"
     },
     {
+      "id": "joseph-banks",
       "name": "Joseph Banks",
       "dates": "1743–1820",
       "y": 1743,
@@ -15577,6 +16304,7 @@
       "region": "Europe"
     },
     {
+      "id": "joseph-radetzky-von-radetz",
       "name": "Joseph Radetzky von Radetz",
       "dates": "1766–1858",
       "y": 1766,
@@ -15601,6 +16329,7 @@
       "region": "Europe"
     },
     {
+      "id": "gebhard-leberecht-von-blucher",
       "name": "Gebhard Leberecht von Blücher",
       "dates": "1742–1819",
       "y": 1742,
@@ -15623,6 +16352,7 @@
       "region": "Europe"
     },
     {
+      "id": "albrecht-von-wallenstein",
       "name": "Albrecht von Wallenstein",
       "dates": "1583–1634",
       "y": 1583,
