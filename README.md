@@ -5,8 +5,10 @@ each rendered by one shared, data-agnostic viewer (`viewer.html?d=<topic>`):
 
 - **Philosophers** (`?d=phil`) — browse, filter, and sort 317 philosophers by
   field, tradition, era, and popularity.
-- **Historical Events** (`?d=hist-events`) and **Historical Figures**
-  (`?d=hist-chars`) — placeholder topics, populated later.
+- **Historical Events** (`?d=hist-events`) — browse 645 turning points across world
+  history by region and period.
+- **Historical Figures** (`?d=hist-chars`) — browse 730 figures who shaped the
+  historical record by role and era.
 
 **Live:** https://andreasnonslid.github.io/phil/
 

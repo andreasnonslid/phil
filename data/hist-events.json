@@ -79,7 +79,7 @@
     "yearKey": "y",
     "timeline": true,
     "popularity": false,
-    "footer": "A placeholder topic seeded with sample events. Dates are scholarly estimates where exact dates are unknown."
+    "footer": "645 turning points across world history, drawn from Wikipedia and Wikidata. Each entry links to its Wikipedia article. Dates are scholarly estimates where sources disagree. Built as a browsable reference; corrections welcome."
   },
   "entries": [
     {
