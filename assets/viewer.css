@@ -250,3 +250,26 @@ mark{background:#fde68a;color:#3a2e00;padding:0 2px;border-radius:3px}
 
 }
 
+/* ---- entity detail view ---- */
+#detail{display:none;padding:32px 0 80px}
+body.detail-mode #glossBars,
+body.detail-mode .controls,
+body.detail-mode .meta-row,
+body.detail-mode .random-bar,
+body.detail-mode #results{display:none}
+body.detail-mode #detail{display:block}
+.detail-back{display:inline-block;font-size:13px;color:var(--ink-soft);text-decoration:none;margin-bottom:20px}
+.detail-back:hover{color:var(--accent)}
+.detail-name{font-family:'Fraunces',serif;font-weight:600;font-size:clamp(28px,4.5vw,42px);
+  line-height:1.1;margin:0;letter-spacing:-.01em}
+.detail-dates{font-size:14px;color:var(--ink-soft);margin-top:8px;font-variant-numeric:tabular-nums}
+.detail-tags{margin-top:16px}
+.detail-desc{font-size:17px;color:var(--ink);margin:20px 0 0;line-height:1.6}
+.detail-tldr{font-size:15.5px;color:var(--ink);line-height:1.75;margin:18px 0 0;
+  padding:16px 18px;background:var(--paper-2);border-radius:10px}
+.detail-pop{font-size:13px;color:var(--ink-soft);margin-top:16px}
+.detail-links{display:flex;gap:18px;flex-wrap:wrap;margin-top:22px}
+.detail-links a{font-size:14px;color:var(--accent);text-decoration:none;font-weight:500}
+.detail-links a:hover{text-decoration:underline;text-underline-offset:3px}
+/* ---- end entity detail view ---- */
+
