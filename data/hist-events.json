@@ -83,6 +83,7 @@
   },
   "entries": [
     {
+      "id": "founding-of-rome",
       "name": "Founding of Rome",
       "dates": "753 BCE",
       "y": -753,
@@ -93,6 +94,7 @@
       "url": "https://en.wikipedia.org/wiki/Founding_of_Rome"
     },
     {
+      "id": "battle-of-marathon",
       "name": "Battle of Marathon",
       "dates": "490 BCE",
       "y": -490,
@@ -103,6 +105,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Marathon"
     },
     {
+      "id": "unification-of-china-under-qin",
       "name": "Unification of China under Qin",
       "dates": "221 BCE",
       "y": -221,
@@ -113,6 +116,7 @@
       "url": "https://en.wikipedia.org/wiki/Qin_dynasty"
     },
     {
+      "id": "fall-of-the-western-roman-empire",
       "name": "Fall of the Western Roman Empire",
       "dates": "476 CE",
       "y": 476,
@@ -123,6 +127,7 @@
       "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
     },
     {
+      "id": "the-hijra",
       "name": "The Hijra",
       "dates": "622 CE",
       "y": 622,
@@ -133,6 +138,7 @@
       "url": "https://en.wikipedia.org/wiki/Hijrah"
     },
     {
+      "id": "norman-conquest-of-england",
       "name": "Norman Conquest of England",
       "dates": "1066",
       "y": 1066,
@@ -143,6 +149,7 @@
       "url": "https://en.wikipedia.org/wiki/Norman_Conquest"
     },
     {
+      "id": "fall-of-constantinople",
       "name": "Fall of Constantinople",
       "dates": "1453",
       "y": 1453,
@@ -153,6 +160,7 @@
       "url": "https://en.wikipedia.org/wiki/Fall_of_Constantinople"
     },
     {
+      "id": "columbus-reaches-the-americas",
       "name": "Columbus Reaches the Americas",
       "dates": "1492",
       "y": 1492,
@@ -163,6 +171,7 @@
       "url": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus"
     },
     {
+      "id": "arrival-of-the-first-fleet",
       "name": "Arrival of the First Fleet",
       "dates": "1788",
       "y": 1788,
@@ -173,6 +182,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Fleet"
     },
     {
+      "id": "french-revolution-begins",
       "name": "French Revolution Begins",
       "dates": "1789",
       "y": 1789,
@@ -183,6 +193,7 @@
       "url": "https://en.wikipedia.org/wiki/French_Revolution"
     },
     {
+      "id": "meiji-restoration",
       "name": "Meiji Restoration",
       "dates": "1868",
       "y": 1868,
@@ -193,6 +204,7 @@
       "url": "https://en.wikipedia.org/wiki/Meiji_Restoration"
     },
     {
+      "id": "berlin-conference",
       "name": "Berlin Conference",
       "dates": "1884–1885",
       "y": 1884,
@@ -203,6 +215,7 @@
       "url": "https://en.wikipedia.org/wiki/Berlin_Conference"
     },
     {
+      "id": "partition-of-india",
       "name": "Partition of India",
       "dates": "1947",
       "y": 1947,
@@ -213,6 +226,7 @@
       "url": "https://en.wikipedia.org/wiki/Partition_of_India"
     },
     {
+      "id": "apollo-11-moon-landing",
       "name": "Apollo 11 Moon Landing",
       "dates": "1969",
       "y": 1969,
@@ -223,6 +237,7 @@
       "url": "https://en.wikipedia.org/wiki/Apollo_11"
     },
     {
+      "id": "siege-of-van",
       "name": "Siege of Van",
       "dates": "1915",
       "y": 1915,
@@ -233,6 +248,7 @@
       "url": "https://en.wikipedia.org/wiki/Defense_of_Van"
     },
     {
+      "id": "battle-of-fahl",
       "name": "Battle of Fahl",
       "dates": "635",
       "y": 635,
@@ -243,6 +259,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Fahl"
     },
     {
+      "id": "polish-muscovite-war",
       "name": "Polish–Muscovite War",
       "dates": "1605",
       "y": 1605,
@@ -253,6 +270,7 @@
       "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Muscovite_War"
     },
     {
+      "id": "treaty-of-hunkar-iskelesi",
       "name": "Treaty of Hünkâr İskelesi",
       "dates": "1833",
       "y": 1833,
@@ -263,6 +281,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_H%C3%BCnk%C3%A2r_%C4%B0skelesi"
     },
     {
+      "id": "battle-of-madagascar",
       "name": "Battle of Madagascar",
       "dates": "1942",
       "y": 1942,
@@ -273,6 +292,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Madagascar"
     },
     {
+      "id": "battle-of-guandu",
       "name": "Battle of Guandu",
       "dates": "200",
       "y": 200,
@@ -283,6 +303,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Guandu"
     },
     {
+      "id": "battle-of-puebla",
       "name": "Battle of Puebla",
       "dates": "1862",
       "y": 1862,
@@ -293,6 +314,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Puebla"
     },
     {
+      "id": "battle-of-auray",
       "name": "Battle of Auray",
       "dates": "1364",
       "y": 1364,
@@ -303,6 +325,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Auray"
     },
     {
+      "id": "pig-war",
       "name": "Pig War",
       "dates": "1859",
       "y": 1859,
@@ -313,6 +336,7 @@
       "url": "https://en.wikipedia.org/wiki/Pig_War"
     },
     {
+      "id": "siege-of-vicksburg",
       "name": "Siege of Vicksburg",
       "dates": "1863",
       "y": 1863,
@@ -323,6 +347,7 @@
       "url": "https://en.wikipedia.org/wiki/Siege_of_Vicksburg"
     },
     {
+      "id": "battle-of-los-angeles",
       "name": "Battle of Los Angeles",
       "dates": "1942",
       "y": 1942,
@@ -333,6 +358,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Los_Angeles"
     },
     {
+      "id": "battle-of-rivoli",
       "name": "Battle of Rivoli",
       "dates": "1797",
       "y": 1797,
@@ -343,6 +369,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Rivoli"
     },
     {
+      "id": "king-william-s-war",
       "name": "King William's War",
       "dates": "1688",
       "y": 1688,
@@ -353,6 +380,7 @@
       "url": "https://en.wikipedia.org/wiki/King_William%27s_War"
     },
     {
+      "id": "battle-of-smolensk",
       "name": "Battle of Smolensk",
       "dates": "1812",
       "y": 1812,
@@ -363,6 +391,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Smolensk"
     },
     {
+      "id": "battle-of-vaslui",
       "name": "Battle of Vaslui",
       "dates": "1475",
       "y": 1475,
@@ -373,6 +402,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Vaslui"
     },
     {
+      "id": "battle-of-maipu",
       "name": "Battle of Maipú",
       "dates": "1818",
       "y": 1818,
@@ -383,6 +413,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Maip%C3%BA"
     },
     {
+      "id": "battle-of-yamen",
       "name": "Battle of Yamen",
       "dates": "1279",
       "y": 1279,
@@ -393,6 +424,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Yamen"
     },
     {
+      "id": "battle-of-neerwinden",
       "name": "Battle of Neerwinden",
       "dates": "1793",
       "y": 1793,
@@ -403,6 +435,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Neerwinden"
     },
     {
+      "id": "siege-of-bursa",
       "name": "Siege of Bursa",
       "dates": "1317",
       "y": 1317,
@@ -413,6 +446,7 @@
       "url": "https://en.wikipedia.org/wiki/Siege_of_Bursa"
     },
     {
+      "id": "battle-of-fulford",
       "name": "Battle of Fulford",
       "dates": "1066",
       "y": 1066,
@@ -423,6 +457,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Fulford"
     },
     {
+      "id": "battle-of-worcester",
       "name": "Battle of Worcester",
       "dates": "1651",
       "y": 1651,
@@ -433,6 +468,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Worcester"
     },
     {
+      "id": "union-of-krewo",
       "name": "Union of Krewo",
       "dates": "1385",
       "y": 1385,
@@ -443,6 +479,7 @@
       "url": "https://en.wikipedia.org/wiki/Union_of_Krewo"
     },
     {
+      "id": "battle-of-alcacer-quibir",
       "name": "Battle of Alcácer Quibir",
       "dates": "1578",
       "y": 1578,
@@ -453,6 +490,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Alc%C3%A1cer_Quibir"
     },
     {
+      "id": "battle-of-rorke-s-drift",
       "name": "Battle of Rorke's Drift",
       "dates": "1879",
       "y": 1879,
@@ -463,6 +501,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Rorke%27s_Drift"
     },
     {
+      "id": "battle-of-mons-graupius",
       "name": "Battle of Mons Graupius",
       "dates": "83",
       "y": 83,
@@ -473,6 +512,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mons_Graupius"
     },
     {
+      "id": "battle-of-ad-decimum",
       "name": "Battle of Ad Decimum",
       "dates": "533",
       "y": 533,
@@ -483,6 +523,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ad_Decimum"
     },
     {
+      "id": "great-molasses-flood",
       "name": "Great Molasses Flood",
       "dates": "1919",
       "y": 1919,
@@ -493,6 +534,7 @@
       "url": "https://en.wikipedia.org/wiki/Great_Molasses_Flood"
     },
     {
+      "id": "battle-of-princeton",
       "name": "Battle of Princeton",
       "dates": "1777",
       "y": 1777,
@@ -503,6 +545,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Princeton"
     },
     {
+      "id": "battle-of-the-camel",
       "name": "Battle of the Camel",
       "dates": "656",
       "y": 656,
@@ -513,6 +556,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Camel"
     },
     {
+      "id": "vandalic-war",
       "name": "Vandalic War",
       "dates": "533",
       "y": 533,
@@ -523,6 +567,7 @@
       "url": "https://en.wikipedia.org/wiki/Vandalic_War"
     },
     {
+      "id": "battle-of-omdurman",
       "name": "Battle of Omdurman",
       "dates": "1898",
       "y": 1898,
@@ -533,6 +578,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Omdurman"
     },
     {
+      "id": "battle-of-mons-lactarius",
       "name": "Battle of Mons Lactarius",
       "dates": "552",
       "y": 552,
@@ -543,6 +589,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mons_Lactarius"
     },
     {
+      "id": "battle-of-annual",
       "name": "Battle of Annual",
       "dates": "1921",
       "y": 1921,
@@ -553,6 +600,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Annual"
     },
     {
+      "id": "smolensk-war",
       "name": "Smolensk War",
       "dates": "1632",
       "y": 1632,
@@ -563,6 +611,7 @@
       "url": "https://en.wikipedia.org/wiki/Smolensk_War"
     },
     {
+      "id": "battle-of-formigny",
       "name": "Battle of Formigny",
       "dates": "1450",
       "y": 1450,
@@ -573,6 +622,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Formigny"
     },
     {
+      "id": "battle-of-wake-island",
       "name": "Battle of Wake Island",
       "dates": "1941",
       "y": 1941,
@@ -583,6 +633,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Wake_Island"
     },
     {
+      "id": "battles-of-kawanakajima",
       "name": "Battles of Kawanakajima",
       "dates": "1553",
       "y": 1553,
@@ -593,6 +644,7 @@
       "url": "https://en.wikipedia.org/wiki/Battles_of_Kawanakajima"
     },
     {
+      "id": "battle-of-boyaca",
       "name": "Battle of Boyacá",
       "dates": "1819",
       "y": 1819,
@@ -603,6 +655,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Boyac%C3%A1"
     },
     {
+      "id": "first-anglo-dutch-war",
       "name": "First Anglo-Dutch War",
       "dates": "1652",
       "y": 1652,
@@ -613,6 +666,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Anglo-Dutch_War"
     },
     {
+      "id": "second-ottoman-venetian-war",
       "name": "Second Ottoman–Venetian War",
       "dates": "1499",
       "y": 1499,
@@ -623,6 +677,7 @@
       "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_%281499%E2%80%931503%29"
     },
     {
+      "id": "first-ottoman-venetian-war",
       "name": "First Ottoman–Venetian War",
       "dates": "1463",
       "y": 1463,
@@ -633,6 +688,7 @@
       "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_%281463%E2%80%931479%29"
     },
     {
+      "id": "battle-of-edessa",
       "name": "Battle of Edessa",
       "dates": "260",
       "y": 260,
@@ -643,6 +699,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Edessa"
     },
     {
+      "id": "war-of-the-oranges",
       "name": "War of the Oranges",
       "dates": "1801",
       "y": 1801,
@@ -653,6 +710,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Oranges"
     },
     {
+      "id": "webster-ashburton-treaty",
       "name": "Webster–Ashburton Treaty",
       "dates": "1842",
       "y": 1842,
@@ -663,6 +721,7 @@
       "url": "https://en.wikipedia.org/wiki/Webster%E2%80%93Ashburton_Treaty"
     },
     {
+      "id": "musket-wars",
       "name": "Musket Wars",
       "dates": "1807",
       "y": 1807,
@@ -673,6 +732,7 @@
       "url": "https://en.wikipedia.org/wiki/Musket_Wars"
     },
     {
+      "id": "battle-of-didgori",
       "name": "Battle of Didgori",
       "dates": "1121",
       "y": 1121,
@@ -683,6 +743,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Didgori"
     },
     {
+      "id": "battle-of-toba-fushimi",
       "name": "Battle of Toba-Fushimi",
       "dates": "1868",
       "y": 1868,
@@ -693,6 +754,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Toba%E2%80%93Fushimi"
     },
     {
+      "id": "battle-of-orsha",
       "name": "Battle of Orsha",
       "dates": "1514",
       "y": 1514,
@@ -703,6 +765,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Orsha"
     },
     {
+      "id": "third-anglo-burmese-war",
       "name": "Third Anglo-Burmese War",
       "dates": "1885",
       "y": 1885,
@@ -713,6 +776,7 @@
       "url": "https://en.wikipedia.org/wiki/Third_Anglo-Burmese_War"
     },
     {
+      "id": "continuation-war",
       "name": "Continuation War",
       "dates": "1941",
       "y": 1941,
@@ -723,6 +787,7 @@
       "url": "https://en.wikipedia.org/wiki/Continuation_War"
     },
     {
+      "id": "sixth-russo-turkish-war",
       "name": "Sixth Russo-Turkish War",
       "dates": "1701",
       "y": 1701,
@@ -733,6 +798,7 @@
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281768%E2%80%931774%29"
     },
     {
+      "id": "seventh-russo-turkish-war",
       "name": "Seventh Russo-Turkish War",
       "dates": "1787",
       "y": 1787,
@@ -743,6 +809,7 @@
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281787%E2%80%931792%29"
     },
     {
+      "id": "battle-of-roncevaux-pass",
       "name": "Battle of Roncevaux Pass",
       "dates": "778",
       "y": 778,
@@ -753,6 +820,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Roncevaux_Pass"
     },
     {
+      "id": "battle-of-loos",
       "name": "Battle of Loos",
       "dates": "1915",
       "y": 1915,
@@ -763,6 +831,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Loos"
     },
     {
+      "id": "hundred-years-war",
       "name": "Hundred Years' War",
       "dates": "1337",
       "y": 1337,
@@ -773,6 +842,7 @@
       "url": "https://en.wikipedia.org/wiki/Hundred_Years%27_War"
     },
     {
+      "id": "spanish-american-war",
       "name": "Spanish–American War",
       "dates": "1898",
       "y": 1898,
@@ -783,6 +853,7 @@
       "url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War"
     },
     {
+      "id": "third-battle-of-panipat",
       "name": "Third Battle of Panipat",
       "dates": "1761",
       "y": 1761,
@@ -793,6 +864,7 @@
       "url": "https://en.wikipedia.org/wiki/Third_Battle_of_Panipat"
     },
     {
+      "id": "third-anglo-afghan-war",
       "name": "Third Anglo-Afghan War",
       "dates": "1919",
       "y": 1919,
@@ -803,6 +875,7 @@
       "url": "https://en.wikipedia.org/wiki/Third_Anglo-Afghan_War"
     },
     {
+      "id": "battle-of-chrysopolis",
       "name": "Battle of Chrysopolis",
       "dates": "324",
       "y": 324,
@@ -813,6 +886,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Chrysopolis"
     },
     {
+      "id": "battle-of-callinicum",
       "name": "Battle of Callinicum",
       "dates": "531",
       "y": 531,
@@ -823,6 +897,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Callinicum"
     },
     {
+      "id": "first-vienna-award",
       "name": "First Vienna Award",
       "dates": "1938",
       "y": 1938,
@@ -833,6 +908,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Vienna_Award"
     },
     {
+      "id": "battle-of-kolin",
       "name": "Battle of Kolín",
       "dates": "1757",
       "y": 1757,
@@ -843,6 +919,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kol%C3%ADn"
     },
     {
+      "id": "wars-of-the-roses",
       "name": "Wars of the Roses",
       "dates": "1500",
       "y": 1500,
@@ -853,6 +930,7 @@
       "url": "https://en.wikipedia.org/wiki/Wars_of_the_Roses"
     },
     {
+      "id": "battle-of-neretva",
       "name": "Battle of Neretva",
       "dates": "1943",
       "y": 1943,
@@ -863,6 +941,7 @@
       "url": "https://en.wikipedia.org/wiki/Operation_Weiss"
     },
     {
+      "id": "battle-of-the-ebro",
       "name": "Battle of the Ebro",
       "dates": "1938",
       "y": 1938,
@@ -873,6 +952,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Ebro"
     },
     {
+      "id": "battle-of-akroinon",
       "name": "Battle of Akroinon",
       "dates": "740",
       "y": 740,
@@ -883,6 +963,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Akroinon"
     },
     {
+      "id": "indian-mutiny-of-1857",
       "name": "Indian Mutiny of 1857",
       "dates": "1857",
       "y": 1857,
@@ -893,6 +974,7 @@
       "url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857"
     },
     {
+      "id": "battle-of-flodden",
       "name": "Battle of Flodden",
       "dates": "1513",
       "y": 1513,
@@ -903,6 +985,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Flodden"
     },
     {
+      "id": "battle-of-verdun",
       "name": "Battle of Verdun",
       "dates": "1916",
       "y": 1916,
@@ -913,6 +996,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Verdun"
     },
     {
+      "id": "battle-of-kursk",
       "name": "Battle of Kursk",
       "dates": "1943",
       "y": 1943,
@@ -923,6 +1007,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kursk"
     },
     {
+      "id": "la-noche-triste",
       "name": "La Noche Triste",
       "dates": "1520",
       "y": 1520,
@@ -933,6 +1018,7 @@
       "url": "https://en.wikipedia.org/wiki/La_Noche_Triste"
     },
     {
+      "id": "battle-of-the-somme",
       "name": "Battle of the Somme",
       "dates": "1916",
       "y": 1916,
@@ -943,6 +1029,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Somme"
     },
     {
+      "id": "battle-of-chickamauga",
       "name": "Battle of Chickamauga",
       "dates": "1863",
       "y": 1863,
@@ -953,6 +1040,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Chickamauga"
     },
     {
+      "id": "battle-of-inab",
       "name": "Battle of Inab",
       "dates": "1149",
       "y": 1149,
@@ -963,6 +1051,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Inab"
     },
     {
+      "id": "battle-of-ourique",
       "name": "Battle of Ourique",
       "dates": "1139",
       "y": 1139,
@@ -973,6 +1062,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ourique"
     },
     {
+      "id": "indonesian-national-revolution",
       "name": "Indonesian National Revolution",
       "dates": "1945",
       "y": 1945,
@@ -983,6 +1073,7 @@
       "url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution"
     },
     {
+      "id": "battle-of-fei-river",
       "name": "Battle of Fei River",
       "dates": "383",
       "y": 383,
@@ -993,6 +1084,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Fei_River"
     },
     {
+      "id": "treaty-of-bretigny",
       "name": "Treaty of Brétigny",
       "dates": "1360",
       "y": 1360,
@@ -1003,6 +1095,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny"
     },
     {
+      "id": "battle-of-tewkesbury",
       "name": "Battle of Tewkesbury",
       "dates": "1471",
       "y": 1471,
@@ -1013,6 +1106,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tewkesbury"
     },
     {
+      "id": "battle-of-evesham",
       "name": "Battle of Evesham",
       "dates": "1265",
       "y": 1265,
@@ -1023,6 +1117,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Evesham"
     },
     {
+      "id": "battle-of-austerlitz",
       "name": "Battle of Austerlitz",
       "dates": "1805",
       "y": 1805,
@@ -1033,6 +1128,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Austerlitz"
     },
     {
+      "id": "battle-of-lyndanisse",
       "name": "Battle of Lyndanisse",
       "dates": "1219",
       "y": 1219,
@@ -1043,6 +1139,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Lyndanisse"
     },
     {
+      "id": "battle-of-aljubarrota",
       "name": "Battle of Aljubarrota",
       "dates": "1385",
       "y": 1385,
@@ -1053,6 +1150,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Aljubarrota"
     },
     {
+      "id": "third-anglo-dutch-war",
       "name": "Third Anglo-Dutch War",
       "dates": "1672",
       "y": 1672,
@@ -1063,6 +1161,7 @@
       "url": "https://en.wikipedia.org/wiki/Third_Anglo-Dutch_War"
     },
     {
+      "id": "treaty-of-verdun",
       "name": "Treaty of Verdun",
       "dates": "843",
       "y": 843,
@@ -1073,6 +1172,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Verdun"
     },
     {
+      "id": "ridda-wars",
       "name": "Ridda Wars",
       "dates": "632",
       "y": 632,
@@ -1083,6 +1183,7 @@
       "url": "https://en.wikipedia.org/wiki/Ridda_Wars"
     },
     {
+      "id": "1920-haiyuan-earthquake",
       "name": "1920 Haiyuan earthquake",
       "dates": "1920",
       "y": 1920,
@@ -1093,6 +1194,7 @@
       "url": "https://en.wikipedia.org/wiki/1920_Haiyuan_earthquake"
     },
     {
+      "id": "1908-messina-earthquake",
       "name": "1908 Messina earthquake",
       "dates": "1908",
       "y": 1908,
@@ -1103,6 +1205,7 @@
       "url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake"
     },
     {
+      "id": "365-crete-earthquake",
       "name": "365 Crete earthquake",
       "dates": "365",
       "y": 365,
@@ -1113,6 +1216,7 @@
       "url": "https://en.wikipedia.org/wiki/365_Crete_earthquake"
     },
     {
+      "id": "winter-war",
       "name": "Winter War",
       "dates": "1939",
       "y": 1939,
@@ -1123,6 +1227,7 @@
       "url": "https://en.wikipedia.org/wiki/Winter_War"
     },
     {
+      "id": "warsaw-convention",
       "name": "Warsaw Convention",
       "dates": "1929",
       "y": 1929,
@@ -1133,6 +1238,7 @@
       "url": "https://en.wikipedia.org/wiki/Warsaw_Convention"
     },
     {
+      "id": "polish-russian-war-of-1792",
       "name": "Polish–Russian War of 1792",
       "dates": "1792",
       "y": 1792,
@@ -1143,6 +1249,7 @@
       "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_of_1792"
     },
     {
+      "id": "battle-of-muret",
       "name": "Battle of Muret",
       "dates": "1213",
       "y": 1213,
@@ -1153,6 +1260,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Muret"
     },
     {
+      "id": "italian-war-of-1494-1495",
       "name": "Italian War of 1494–1495",
       "dates": "1494",
       "y": 1494,
@@ -1163,6 +1271,7 @@
       "url": "https://en.wikipedia.org/wiki/Italian_War_of_1494%E2%80%931495"
     },
     {
+      "id": "battle-of-appomattox-court-house",
       "name": "Battle of Appomattox Court House",
       "dates": "1865",
       "y": 1865,
@@ -1173,6 +1282,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Appomattox_Court_House"
     },
     {
+      "id": "1893-franco-siamese-crisis",
       "name": "1893 Franco-Siamese crisis",
       "dates": "1893",
       "y": 1893,
@@ -1183,6 +1293,7 @@
       "url": "https://en.wikipedia.org/wiki/1893_Franco-Siamese_crisis"
     },
     {
+      "id": "battle-of-talikota",
       "name": "Battle of Talikota",
       "dates": "1565",
       "y": 1565,
@@ -1193,6 +1304,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Talikota"
     },
     {
+      "id": "first-anglo-maratha-war",
       "name": "First Anglo-Maratha War",
       "dates": "1775",
       "y": 1775,
@@ -1203,6 +1315,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Anglo-Maratha_War"
     },
     {
+      "id": "battle-of-kose-dag",
       "name": "Battle of Köse Dağ",
       "dates": "1243",
       "y": 1243,
@@ -1213,6 +1326,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_K%C3%B6se_Da%C4%9F"
     },
     {
+      "id": "battle-of-bailen",
       "name": "Battle of Bailén",
       "dates": "1808",
       "y": 1808,
@@ -1223,6 +1337,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Bail%C3%A9n"
     },
     {
+      "id": "battle-of-strasbourg",
       "name": "Battle of Strasbourg",
       "dates": "357",
       "y": 357,
@@ -1233,6 +1348,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Strasbourg"
     },
     {
+      "id": "battle-of-jerusalem",
       "name": "Battle of Jerusalem",
       "dates": "1917",
       "y": 1917,
@@ -1243,6 +1359,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Jerusalem"
     },
     {
+      "id": "war-of-the-sixth-coalition",
       "name": "War of the Sixth Coalition",
       "dates": "1814",
       "y": 1814,
@@ -1253,6 +1370,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Sixth_Coalition"
     },
     {
+      "id": "reconquest-of-constantinople",
       "name": "Reconquest of Constantinople",
       "dates": "1261",
       "y": 1261,
@@ -1263,6 +1381,7 @@
       "url": "https://en.wikipedia.org/wiki/Reconquest_of_Constantinople"
     },
     {
+      "id": "battle-of-velbazhd",
       "name": "Battle of Velbazhd",
       "dates": "1330",
       "y": 1330,
@@ -1273,6 +1392,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Velbazhd"
     },
     {
+      "id": "kashmir-conflict",
       "name": "Kashmir conflict",
       "dates": "1947",
       "y": 1947,
@@ -1283,6 +1403,7 @@
       "url": "https://en.wikipedia.org/wiki/Kashmir_conflict"
     },
     {
+      "id": "battle-of-the-tenaru",
       "name": "Battle of the Tenaru",
       "dates": "1942",
       "y": 1942,
@@ -1293,6 +1414,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Tenaru"
     },
     {
+      "id": "battle-of-mons",
       "name": "Battle of Mons",
       "dates": "1914",
       "y": 1914,
@@ -1303,6 +1425,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mons"
     },
     {
+      "id": "torstenson-war",
       "name": "Torstenson War",
       "dates": "1643",
       "y": 1643,
@@ -1313,6 +1436,7 @@
       "url": "https://en.wikipedia.org/wiki/Torstenson_War"
     },
     {
+      "id": "russo-persian-war-of-1826-28",
       "name": "Russo-Persian War of 1826–28",
       "dates": "1826",
       "y": 1826,
@@ -1323,6 +1447,7 @@
       "url": "https://en.wikipedia.org/wiki/Russo-Persian_War_%281826%E2%80%931828%29"
     },
     {
+      "id": "battle-of-abritus",
       "name": "Battle of Abritus",
       "dates": "251",
       "y": 251,
@@ -1333,6 +1458,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Abritus"
     },
     {
+      "id": "battle-of-cajamarca",
       "name": "Battle of Cajamarca",
       "dates": "1532",
       "y": 1532,
@@ -1343,6 +1469,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Cajamarca"
     },
     {
+      "id": "battle-of-chacabuco",
       "name": "Battle of Chacabuco",
       "dates": "1817",
       "y": 1817,
@@ -1353,6 +1480,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Chacabuco"
     },
     {
+      "id": "battle-of-the-wilderness",
       "name": "Battle of the Wilderness",
       "dates": "1864",
       "y": 1864,
@@ -1363,6 +1491,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Wilderness"
     },
     {
+      "id": "battle-of-adrianople",
       "name": "Battle of Adrianople",
       "dates": "378",
       "y": 378,
@@ -1373,6 +1502,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Adrianople"
     },
     {
+      "id": "battle-of-barnet",
       "name": "Battle of Barnet",
       "dates": "1471",
       "y": 1471,
@@ -1383,6 +1513,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Barnet"
     },
     {
+      "id": "war-of-the-league-of-cognac",
       "name": "War of the League of Cognac",
       "dates": "1526",
       "y": 1526,
@@ -1393,6 +1524,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_League_of_Cognac"
     },
     {
+      "id": "battle-of-castle-itter",
       "name": "Battle of Castle Itter",
       "dates": "1945",
       "y": 1945,
@@ -1403,6 +1535,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Castle_Itter"
     },
     {
+      "id": "battle-of-maldon",
       "name": "Battle of Maldon",
       "dates": "991",
       "y": 991,
@@ -1413,6 +1546,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Maldon"
     },
     {
+      "id": "treaty-on-the-creation-of-the-union-of-soviet-socialist",
       "name": "Treaty on the Creation of the Union of Soviet Socialist Republics",
       "dates": "1922",
       "y": 1922,
@@ -1423,6 +1557,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_on_the_Creation_of_the_Union_of_Soviet_Socialist_Republics"
     },
     {
+      "id": "franco-turkish-war",
       "name": "Franco-Turkish War",
       "dates": "1918",
       "y": 1918,
@@ -1433,6 +1568,7 @@
       "url": "https://en.wikipedia.org/wiki/Franco-Turkish_War"
     },
     {
+      "id": "battle-of-gumbinnen",
       "name": "Battle of Gumbinnen",
       "dates": "1914",
       "y": 1914,
@@ -1443,6 +1579,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Gumbinnen"
     },
     {
+      "id": "umayyad-conquest-of-hispania",
       "name": "Umayyad conquest of Hispania",
       "dates": "711",
       "y": 711,
@@ -1453,6 +1590,7 @@
       "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Iberian_Peninsula"
     },
     {
+      "id": "anglo-afghan-treaty-of-1919",
       "name": "Anglo-Afghan Treaty of 1919",
       "dates": "1919",
       "y": 1919,
@@ -1463,6 +1601,7 @@
       "url": "https://en.wikipedia.org/wiki/Anglo-Afghan_Treaty_of_1919"
     },
     {
+      "id": "battle-of-klokotnitsa",
       "name": "Battle of Klokotnitsa",
       "dates": "1230",
       "y": 1230,
@@ -1473,6 +1612,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Klokotnitsa"
     },
     {
+      "id": "battle-of-teruel",
       "name": "Battle of Teruel",
       "dates": "1937",
       "y": 1937,
@@ -1483,6 +1623,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Teruel"
     },
     {
+      "id": "battle-of-the-ice",
       "name": "Battle of the Ice",
       "dates": "1242",
       "y": 1242,
@@ -1493,6 +1634,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_on_the_Ice"
     },
     {
+      "id": "battle-of-belleau-wood",
       "name": "Battle of Belleau Wood",
       "dates": "1918",
       "y": 1918,
@@ -1503,6 +1645,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Belleau_Wood"
     },
     {
+      "id": "battle-of-cape-esperance",
       "name": "Battle of Cape Esperance",
       "dates": "1942",
       "y": 1942,
@@ -1513,6 +1656,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Cape_Esperance"
     },
     {
+      "id": "battle-of-alarcos",
       "name": "Battle of Alarcos",
       "dates": "1195",
       "y": 1195,
@@ -1523,6 +1667,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Alarcos"
     },
     {
+      "id": "battle-of-stalluponen",
       "name": "Battle of Stallupönen",
       "dates": "1914",
       "y": 1914,
@@ -1533,6 +1678,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Stallup%C3%B6nen"
     },
     {
+      "id": "polish-lithuanian-war",
       "name": "Polish–Lithuanian War",
       "dates": "1920",
       "y": 1920,
@@ -1543,6 +1689,7 @@
       "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_War"
     },
     {
+      "id": "battle-of-harran",
       "name": "Battle of Harran",
       "dates": "1104",
       "y": 1104,
@@ -1553,6 +1700,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Harran"
     },
     {
+      "id": "ecuadorian-peruvian-war",
       "name": "Ecuadorian–Peruvian War",
       "dates": "1942",
       "y": 1942,
@@ -1563,6 +1711,7 @@
       "url": "https://en.wikipedia.org/wiki/Ecuadorian%E2%80%93Peruvian_War"
     },
     {
+      "id": "portuguese-restoration-war",
       "name": "Portuguese Restoration War",
       "dates": "1640",
       "y": 1640,
@@ -1573,6 +1722,7 @@
       "url": "https://en.wikipedia.org/wiki/Portuguese_Restoration_War"
     },
     {
+      "id": "battle-of-bapheus",
       "name": "Battle of Bapheus",
       "dates": "1302",
       "y": 1302,
@@ -1583,6 +1733,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Bapheus"
     },
     {
+      "id": "battle-of-leipzig",
       "name": "Battle of Leipzig",
       "dates": "1813",
       "y": 1813,
@@ -1593,6 +1744,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Leipzig"
     },
     {
+      "id": "potsdam-conference",
       "name": "Potsdam Conference",
       "dates": "1945",
       "y": 1945,
@@ -1603,6 +1755,7 @@
       "url": "https://en.wikipedia.org/wiki/Potsdam_Conference"
     },
     {
+      "id": "battle-of-moscow",
       "name": "Battle of Moscow",
       "dates": "1941",
       "y": 1941,
@@ -1613,6 +1766,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Moscow"
     },
     {
+      "id": "battle-of-france",
       "name": "Battle of France",
       "dates": "1940",
       "y": 1940,
@@ -1623,6 +1777,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_France"
     },
     {
+      "id": "great-northern-war",
       "name": "Great Northern War",
       "dates": "1700",
       "y": 1700,
@@ -1633,6 +1788,7 @@
       "url": "https://en.wikipedia.org/wiki/Great_Northern_War"
     },
     {
+      "id": "revolt-of-the-comuneros",
       "name": "Revolt of the Comuneros",
       "dates": "1520",
       "y": 1520,
@@ -1643,6 +1799,7 @@
       "url": "https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros"
     },
     {
+      "id": "war-of-the-pacific",
       "name": "War of the Pacific",
       "dates": "1879",
       "y": 1879,
@@ -1653,6 +1810,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Pacific"
     },
     {
+      "id": "operation-michael",
       "name": "Operation Michael",
       "dates": "1918",
       "y": 1918,
@@ -1663,6 +1821,7 @@
       "url": "https://en.wikipedia.org/wiki/Operation_Michael"
     },
     {
+      "id": "anti-comintern-pact",
       "name": "Anti-Comintern Pact",
       "dates": "1936",
       "y": 1936,
@@ -1673,6 +1832,7 @@
       "url": "https://en.wikipedia.org/wiki/Anti-Comintern_Pact"
     },
     {
+      "id": "nine-years-war",
       "name": "Nine Years' War",
       "dates": "1688",
       "y": 1688,
@@ -1683,6 +1843,7 @@
       "url": "https://en.wikipedia.org/wiki/Nine_Years%27_War"
     },
     {
+      "id": "battle-of-worringen",
       "name": "Battle of Worringen",
       "dates": "1288",
       "y": 1288,
@@ -1693,6 +1854,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Worringen"
     },
     {
+      "id": "battle-of-poltava",
       "name": "Battle of Poltava",
       "dates": "1709",
       "y": 1709,
@@ -1703,6 +1865,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Poltava"
     },
     {
+      "id": "treaty-of-friendship-and-alliance-between-the-government-of",
       "name": "Treaty of friendship and alliance between the Government of Mongolia and Tibet",
       "dates": "1913",
       "y": 1913,
@@ -1713,6 +1876,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_friendship_and_alliance_between_the_Government_of_Mongolia_and_Tibet"
     },
     {
+      "id": "battle-of-raseiniai",
       "name": "Battle of Raseiniai",
       "dates": "1941",
       "y": 1941,
@@ -1723,6 +1887,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Raseiniai"
     },
     {
+      "id": "locarno-treaties",
       "name": "Locarno Treaties",
       "dates": "1925",
       "y": 1925,
@@ -1733,6 +1898,7 @@
       "url": "https://en.wikipedia.org/wiki/Locarno_Treaties"
     },
     {
+      "id": "tripartite-pact",
       "name": "Tripartite Pact",
       "dates": "1940",
       "y": 1940,
@@ -1743,6 +1909,7 @@
       "url": "https://en.wikipedia.org/wiki/Tripartite_Pact"
     },
     {
+      "id": "battle-of-crete",
       "name": "Battle of Crete",
       "dates": "1941",
       "y": 1941,
@@ -1753,6 +1920,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Crete"
     },
     {
+      "id": "second-battle-of-el-alamein",
       "name": "Second Battle of El Alamein",
       "dates": "1942",
       "y": 1942,
@@ -1763,6 +1931,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Battle_of_El_Alamein"
     },
     {
+      "id": "austro-prussian-war",
       "name": "Austro-Prussian War",
       "dates": "1866",
       "y": 1866,
@@ -1773,6 +1942,7 @@
       "url": "https://en.wikipedia.org/wiki/Austro-Prussian_War"
     },
     {
+      "id": "battle-of-tannenberg",
       "name": "Battle of Tannenberg",
       "dates": "1914",
       "y": 1914,
@@ -1783,6 +1953,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tannenberg"
     },
     {
+      "id": "battle-of-angaur",
       "name": "Battle of Angaur",
       "dates": "1944",
       "y": 1944,
@@ -1793,6 +1964,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Angaur"
     },
     {
+      "id": "battle-of-spotsylvania-court-house",
       "name": "Battle of Spotsylvania Court House",
       "dates": "1864",
       "y": 1864,
@@ -1803,6 +1975,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Spotsylvania_Court_House"
     },
     {
+      "id": "hispano-moroccan-war",
       "name": "Hispano-Moroccan War",
       "dates": "1859",
       "y": 1859,
@@ -1813,6 +1986,7 @@
       "url": "https://en.wikipedia.org/wiki/List_of_Spanish_colonial_wars_in_Morocco"
     },
     {
+      "id": "battle-of-berlin",
       "name": "Battle of Berlin",
       "dates": "1945",
       "y": 1945,
@@ -1823,6 +1997,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Berlin"
     },
     {
+      "id": "munich-agreement",
       "name": "Munich agreement",
       "dates": "1938",
       "y": 1938,
@@ -1833,6 +2008,7 @@
       "url": "https://en.wikipedia.org/wiki/Munich_Agreement"
     },
     {
+      "id": "battle-of-jena-auerstedt",
       "name": "Battle of Jena–Auerstedt",
       "dates": "1806",
       "y": 1806,
@@ -1843,6 +2019,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Jena%E2%80%93Auerstedt"
     },
     {
+      "id": "new-zealand-wars",
       "name": "New Zealand Wars",
       "dates": "1845",
       "y": 1845,
@@ -1853,6 +2030,7 @@
       "url": "https://en.wikipedia.org/wiki/New_Zealand_Wars"
     },
     {
+      "id": "battle-of-blenheim",
       "name": "Battle of Blenheim",
       "dates": "1704",
       "y": 1704,
@@ -1863,6 +2041,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Blenheim"
     },
     {
+      "id": "french-and-indian-war",
       "name": "French and Indian War",
       "dates": "1754",
       "y": 1754,
@@ -1873,6 +2052,7 @@
       "url": "https://en.wikipedia.org/wiki/French_and_Indian_War"
     },
     {
+      "id": "lapland-war",
       "name": "Lapland War",
       "dates": "1944",
       "y": 1944,
@@ -1883,6 +2063,7 @@
       "url": "https://en.wikipedia.org/wiki/Lapland_War"
     },
     {
+      "id": "battle-of-koniggratz",
       "name": "Battle of Königgrätz",
       "dates": "1866",
       "y": 1866,
@@ -1893,6 +2074,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_K%C3%B6niggr%C3%A4tz"
     },
     {
+      "id": "second-schleswig-war",
       "name": "Second Schleswig War",
       "dates": "1864",
       "y": 1864,
@@ -1903,6 +2085,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Schleswig_War"
     },
     {
+      "id": "battle-of-seven-pines",
       "name": "Battle of Seven Pines",
       "dates": "1862",
       "y": 1862,
@@ -1913,6 +2096,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Seven_Pines"
     },
     {
+      "id": "siege-of-budapest",
       "name": "Siege of Budapest",
       "dates": "1944",
       "y": 1944,
@@ -1923,6 +2107,7 @@
       "url": "https://en.wikipedia.org/wiki/Siege_of_Budapest"
     },
     {
+      "id": "second-battle-of-kharkov",
       "name": "Second Battle of Kharkov",
       "dates": "1942",
       "y": 1942,
@@ -1933,6 +2118,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Kharkov"
     },
     {
+      "id": "battle-of-somosierra",
       "name": "Battle of Somosierra",
       "dates": "1808",
       "y": 1808,
@@ -1943,6 +2129,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Somosierra"
     },
     {
+      "id": "battle-of-narva",
       "name": "Battle of Narva",
       "dates": "1700",
       "y": 1700,
@@ -1953,6 +2140,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Narva"
     },
     {
+      "id": "treaty-of-rapallo",
       "name": "Treaty of Rapallo",
       "dates": "1922",
       "y": 1922,
@@ -1963,6 +2151,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Rapallo"
     },
     {
+      "id": "battle-of-sedan",
       "name": "Battle of Sedan",
       "dates": "1870",
       "y": 1870,
@@ -1973,6 +2162,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Sedan"
     },
     {
+      "id": "jay-s-treaty",
       "name": "Jay's Treaty",
       "dates": "1794",
       "y": 1794,
@@ -1983,6 +2173,7 @@
       "url": "https://en.wikipedia.org/wiki/Jay_Treaty"
     },
     {
+      "id": "war-of-the-bavarian-succession",
       "name": "War of the Bavarian Succession",
       "dates": "1778",
       "y": 1778,
@@ -1993,6 +2184,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Bavarian_Succession"
     },
     {
+      "id": "third-battle-of-kharkov",
       "name": "Third Battle of Kharkov",
       "dates": "1943",
       "y": 1943,
@@ -2003,6 +2195,7 @@
       "url": "https://en.wikipedia.org/wiki/Third_Battle_of_Kharkov"
     },
     {
+      "id": "northern-seven-years-war",
       "name": "Northern Seven Years' War",
       "dates": "1570",
       "y": 1570,
@@ -2013,6 +2206,7 @@
       "url": "https://en.wikipedia.org/wiki/Northern_Seven_Years%27_War"
     },
     {
+      "id": "battle-of-ulm",
       "name": "Battle of Ulm",
       "dates": "1805",
       "y": 1805,
@@ -2023,6 +2217,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ulm"
     },
     {
+      "id": "battle-of-legnica",
       "name": "Battle of Legnica",
       "dates": "1241",
       "y": 1241,
@@ -2033,6 +2228,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Legnica"
     },
     {
+      "id": "russo-japanese-war",
       "name": "Russo-Japanese War",
       "dates": "1904",
       "y": 1904,
@@ -2043,6 +2239,7 @@
       "url": "https://en.wikipedia.org/wiki/Russo-Japanese_War"
     },
     {
+      "id": "treaty-of-meerssen",
       "name": "Treaty of Meerssen",
       "dates": "870",
       "y": 870,
@@ -2053,6 +2250,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Meerssen"
     },
     {
+      "id": "demyansk-pocket",
       "name": "Demyansk Pocket",
       "dates": "1942",
       "y": 1942,
@@ -2063,6 +2261,7 @@
       "url": "https://en.wikipedia.org/wiki/Demyansk_Pocket"
     },
     {
+      "id": "battle-of-ramillies",
       "name": "Battle of Ramillies",
       "dates": "1706",
       "y": 1706,
@@ -2073,6 +2272,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ramillies"
     },
     {
+      "id": "first-battle-of-el-alamein",
       "name": "First Battle of El Alamein",
       "dates": "1942",
       "y": 1942,
@@ -2083,6 +2283,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Battle_of_El_Alamein"
     },
     {
+      "id": "battle-of-kiev",
       "name": "Battle of Kiev",
       "dates": "1941",
       "y": 1941,
@@ -2093,6 +2294,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kyiv"
     },
     {
+      "id": "battle-of-hurtgen-forest",
       "name": "Battle of Hürtgen Forest",
       "dates": "1944",
       "y": 1944,
@@ -2103,6 +2305,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_H%C3%BCrtgen_Forest"
     },
     {
+      "id": "treaty-of-rastatt",
       "name": "Treaty of Rastatt",
       "dates": "1714",
       "y": 1714,
@@ -2113,6 +2316,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Rastatt"
     },
     {
+      "id": "potsdam-declaration",
       "name": "Potsdam Declaration",
       "dates": "1945",
       "y": 1945,
@@ -2123,6 +2327,7 @@
       "url": "https://en.wikipedia.org/wiki/Potsdam_Declaration"
     },
     {
+      "id": "ottoman-safavid-war",
       "name": "Ottoman–Safavid War",
       "dates": "1623",
       "y": 1623,
@@ -2133,6 +2338,7 @@
       "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_Wars"
     },
     {
+      "id": "battle-of-monmouth",
       "name": "Battle of Monmouth",
       "dates": "1778",
       "y": 1778,
@@ -2143,6 +2349,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Monmouth"
     },
     {
+      "id": "battle-of-mu-tah",
       "name": "Battle of Mu'tah",
       "dates": "629",
       "y": 629,
@@ -2153,6 +2360,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mu%27tah"
     },
     {
+      "id": "battle-of-guadalajara",
       "name": "Battle of Guadalajara",
       "dates": "1937",
       "y": 1937,
@@ -2163,6 +2371,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Guadalajara"
     },
     {
+      "id": "normandy-landings",
       "name": "Normandy landings",
       "dates": "1944",
       "y": 1944,
@@ -2173,6 +2382,7 @@
       "url": "https://en.wikipedia.org/wiki/Normandy_landings"
     },
     {
+      "id": "swabian-war",
       "name": "Swabian War",
       "dates": "1499",
       "y": 1499,
@@ -2183,6 +2393,7 @@
       "url": "https://en.wikipedia.org/wiki/Swabian_War"
     },
     {
+      "id": "battle-of-the-yser",
       "name": "Battle of the Yser",
       "dates": "1914",
       "y": 1914,
@@ -2193,6 +2404,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Yser"
     },
     {
+      "id": "battle-of-the-bzura",
       "name": "Battle of the Bzura",
       "dates": "1939",
       "y": 1939,
@@ -2203,6 +2415,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bzura"
     },
     {
+      "id": "scanian-war",
       "name": "Scanian War",
       "dates": "1700",
       "y": 1700,
@@ -2213,6 +2426,7 @@
       "url": "https://en.wikipedia.org/wiki/Scanian_War"
     },
     {
+      "id": "battle-of-lesnaya",
       "name": "Battle of Lesnaya",
       "dates": "1708",
       "y": 1708,
@@ -2223,6 +2437,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Lesnaya"
     },
     {
+      "id": "sack-of-amorium",
       "name": "Sack of Amorium",
       "dates": "838",
       "y": 838,
@@ -2233,6 +2448,7 @@
       "url": "https://en.wikipedia.org/wiki/Sack_of_Amorium"
     },
     {
+      "id": "act-of-independence-of-lithuania",
       "name": "Act of Independence of Lithuania",
       "dates": "1918",
       "y": 1918,
@@ -2243,6 +2459,7 @@
       "url": "https://en.wikipedia.org/wiki/Act_of_Independence_of_Lithuania"
     },
     {
+      "id": "operation-greif",
       "name": "Operation Greif",
       "dates": "1944",
       "y": 1944,
@@ -2253,6 +2470,7 @@
       "url": "https://en.wikipedia.org/wiki/Operation_Greif"
     },
     {
+      "id": "balkan-pact",
       "name": "Balkan Pact",
       "dates": "1934",
       "y": 1934,
@@ -2263,6 +2481,7 @@
       "url": "https://en.wikipedia.org/wiki/Balkan_Pact"
     },
     {
+      "id": "boer-wars",
       "name": "Boer Wars",
       "dates": "1899",
       "y": 1899,
@@ -2273,6 +2492,7 @@
       "url": "https://en.wikipedia.org/wiki/Military_history_of_South_Africa"
     },
     {
+      "id": "baltic-entente",
       "name": "Baltic Entente",
       "dates": "1934",
       "y": 1934,
@@ -2283,6 +2503,7 @@
       "url": "https://en.wikipedia.org/wiki/Baltic_Entente"
     },
     {
+      "id": "schmalkaldic-war",
       "name": "Schmalkaldic War",
       "dates": "1546",
       "y": 1546,
@@ -2293,6 +2514,7 @@
       "url": "https://en.wikipedia.org/wiki/Schmalkaldic_War"
     },
     {
+      "id": "battle-of-talavera",
       "name": "Battle of Talavera",
       "dates": "1809",
       "y": 1809,
@@ -2303,6 +2525,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Talavera"
     },
     {
+      "id": "second-sino-japanese-war",
       "name": "Second Sino-Japanese War",
       "dates": "1937",
       "y": 1937,
@@ -2313,6 +2536,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War"
     },
     {
+      "id": "armistice-of-22-june-1940",
       "name": "Armistice of 22 June 1940",
       "dates": "1940",
       "y": 1940,
@@ -2323,6 +2547,7 @@
       "url": "https://en.wikipedia.org/wiki/Armistice_of_22_June_1940"
     },
     {
+      "id": "battle-of-kunersdorf",
       "name": "Battle of Kunersdorf",
       "dates": "1759",
       "y": 1759,
@@ -2333,6 +2558,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kunersdorf"
     },
     {
+      "id": "battle-of-tours",
       "name": "Battle of Tours",
       "dates": "732",
       "y": 732,
@@ -2343,6 +2569,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tours"
     },
     {
+      "id": "battle-of-the-bismarck-sea",
       "name": "Battle of the Bismarck Sea",
       "dates": "1943",
       "y": 1943,
@@ -2353,6 +2580,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bismarck_Sea"
     },
     {
+      "id": "battle-of-dresden",
       "name": "Battle of Dresden",
       "dates": "1813",
       "y": 1813,
@@ -2363,6 +2591,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dresden"
     },
     {
+      "id": "battle-of-tinian",
       "name": "Battle of Tinian",
       "dates": "1944",
       "y": 1944,
@@ -2373,6 +2602,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tinian"
     },
     {
+      "id": "slovak-hungarian-war",
       "name": "Slovak–Hungarian War",
       "dates": "1939",
       "y": 1939,
@@ -2383,6 +2613,7 @@
       "url": "https://en.wikipedia.org/wiki/Slovak%E2%80%93Hungarian_War"
     },
     {
+      "id": "altmark-incident",
       "name": "Altmark Incident",
       "dates": "1940",
       "y": 1940,
@@ -2393,6 +2624,7 @@
       "url": "https://en.wikipedia.org/wiki/Altmark_incident"
     },
     {
+      "id": "first-balkan-war",
       "name": "First Balkan War",
       "dates": "1912",
       "y": 1912,
@@ -2403,6 +2635,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Balkan_War"
     },
     {
+      "id": "battle-of-mohacs",
       "name": "Battle of Mohács",
       "dates": "1526",
       "y": 1526,
@@ -2413,6 +2646,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs"
     },
     {
+      "id": "treaty-of-devol",
       "name": "Treaty of Devol",
       "dates": "1108",
       "y": 1108,
@@ -2423,6 +2657,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Devol"
     },
     {
+      "id": "first-sino-japanese-war",
       "name": "First Sino-Japanese War",
       "dates": "1894",
       "y": 1894,
@@ -2433,6 +2668,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Sino-Japanese_War"
     },
     {
+      "id": "battle-of-shiroyama",
       "name": "Battle of Shiroyama",
       "dates": "1877",
       "y": 1877,
@@ -2443,6 +2679,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Shiroyama"
     },
     {
+      "id": "pontiac-s-war",
       "name": "Pontiac's War",
       "dates": "1763",
       "y": 1763,
@@ -2453,6 +2690,7 @@
       "url": "https://en.wikipedia.org/wiki/Pontiac%27s_War"
     },
     {
+      "id": "french-invasion-of-russia",
       "name": "French invasion of Russia",
       "dates": "1812",
       "y": 1812,
@@ -2463,6 +2701,7 @@
       "url": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
     },
     {
+      "id": "battle-of-rio-salado",
       "name": "Battle of Río Salado",
       "dates": "1340",
       "y": 1340,
@@ -2473,6 +2712,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_R%C3%ADo_Salado"
     },
     {
+      "id": "battle-of-kosovo",
       "name": "Battle of Kosovo",
       "dates": "1389",
       "y": 1389,
@@ -2483,6 +2723,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kosovo"
     },
     {
+      "id": "battle-of-iwo-jima",
       "name": "Battle of Iwo Jima",
       "dates": "1945",
       "y": 1945,
@@ -2493,6 +2734,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Iwo_Jima"
     },
     {
+      "id": "treaty-of-tordesillas",
       "name": "Treaty of Tordesillas",
       "dates": "1494",
       "y": 1494,
@@ -2503,6 +2745,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas"
     },
     {
+      "id": "egyptian-wahhabi-war",
       "name": "Egyptian–Wahhabi War",
       "dates": "1811",
       "y": 1811,
@@ -2513,6 +2756,7 @@
       "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Wahhabi_war"
     },
     {
+      "id": "paris-convention-for-the-protection-of-industrial-property",
       "name": "Paris Convention for the Protection of Industrial Property",
       "dates": "1883",
       "y": 1883,
@@ -2523,6 +2767,7 @@
       "url": "https://en.wikipedia.org/wiki/Paris_Convention_for_the_Protection_of_Industrial_Property"
     },
     {
+      "id": "second-balkan-war",
       "name": "Second Balkan War",
       "dates": "1913",
       "y": 1913,
@@ -2533,6 +2778,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Balkan_War"
     },
     {
+      "id": "battle-of-borodino",
       "name": "Battle of Borodino",
       "dates": "1812",
       "y": 1812,
@@ -2543,6 +2789,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Borodino"
     },
     {
+      "id": "ten-years-war",
       "name": "Ten Years' War",
       "dates": "1868",
       "y": 1868,
@@ -2553,6 +2800,7 @@
       "url": "https://en.wikipedia.org/wiki/Ten_Years%27_War"
     },
     {
+      "id": "dakota-war-of-1862",
       "name": "Dakota War of 1862",
       "dates": "1862",
       "y": 1862,
@@ -2563,6 +2811,7 @@
       "url": "https://en.wikipedia.org/wiki/Dakota_War_of_1862"
     },
     {
+      "id": "georgian-armenian-war",
       "name": "Georgian–Armenian War",
       "dates": "1918",
       "y": 1918,
@@ -2573,6 +2822,7 @@
       "url": "https://en.wikipedia.org/wiki/Armeno-Georgian_War"
     },
     {
+      "id": "polish-soviet-war",
       "name": "Polish–Soviet War",
       "dates": "1920",
       "y": 1920,
@@ -2583,6 +2833,7 @@
       "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War"
     },
     {
+      "id": "dutch-revolt",
       "name": "Dutch Revolt",
       "dates": "1568",
       "y": 1568,
@@ -2593,6 +2844,7 @@
       "url": "https://en.wikipedia.org/wiki/Eighty_Years%27_War"
     },
     {
+      "id": "war-of-the-first-coalition",
       "name": "War of the First Coalition",
       "dates": "1792",
       "y": 1792,
@@ -2603,6 +2855,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_First_Coalition"
     },
     {
+      "id": "battle-of-agincourt",
       "name": "Battle of Agincourt",
       "dates": "1415",
       "y": 1415,
@@ -2613,6 +2866,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Agincourt"
     },
     {
+      "id": "bretton-woods-system",
       "name": "Bretton Woods system",
       "dates": "1944",
       "y": 1944,
@@ -2623,6 +2877,7 @@
       "url": "https://en.wikipedia.org/wiki/Bretton_Woods_system"
     },
     {
+      "id": "battle-of-halidon-hill",
       "name": "Battle of Halidon Hill",
       "dates": "1333",
       "y": 1333,
@@ -2633,6 +2888,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Halidon_Hill"
     },
     {
+      "id": "battles-of-khalkhin-gol",
       "name": "Battles of Khalkhin Gol",
       "dates": "1939",
       "y": 1939,
@@ -2643,6 +2899,7 @@
       "url": "https://en.wikipedia.org/wiki/Battles_of_Khalkhin_Gol"
     },
     {
+      "id": "first-battle-of-the-marne",
       "name": "First Battle of the Marne",
       "dates": "1914",
       "y": 1914,
@@ -2653,6 +2910,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Battle_of_the_Marne"
     },
     {
+      "id": "first-opium-war",
       "name": "First Opium War",
       "dates": "1839",
       "y": 1839,
@@ -2663,6 +2921,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Opium_War"
     },
     {
+      "id": "battle-of-okinawa",
       "name": "Battle of Okinawa",
       "dates": "1945",
       "y": 1945,
@@ -2673,6 +2932,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Okinawa"
     },
     {
+      "id": "operation-pedestal",
       "name": "Operation Pedestal",
       "dates": "1942",
       "y": 1942,
@@ -2683,6 +2943,7 @@
       "url": "https://en.wikipedia.org/wiki/Operation_Pedestal"
     },
     {
+      "id": "battle-of-eniwetok",
       "name": "Battle of Eniwetok",
       "dates": "1944",
       "y": 1944,
@@ -2693,6 +2954,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Eniwetok"
     },
     {
+      "id": "battle-of-yarmouk",
       "name": "Battle of Yarmouk",
       "dates": "636",
       "y": 636,
@@ -2703,6 +2965,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Yarmuk"
     },
     {
+      "id": "general-agreement-on-tariffs-and-trade",
       "name": "General Agreement on Tariffs and Trade",
       "dates": "1947",
       "y": 1947,
@@ -2713,6 +2976,7 @@
       "url": "https://en.wikipedia.org/wiki/General_Agreement_on_Tariffs_and_Trade"
     },
     {
+      "id": "anglo-nepalese-war",
       "name": "Anglo-Nepalese War",
       "dates": "1814",
       "y": 1814,
@@ -2723,6 +2987,7 @@
       "url": "https://en.wikipedia.org/wiki/Anglo-Nepalese_War"
     },
     {
+      "id": "ingrian-war",
       "name": "Ingrian War",
       "dates": "1610",
       "y": 1610,
@@ -2733,6 +2998,7 @@
       "url": "https://en.wikipedia.org/wiki/Ingrian_War"
     },
     {
+      "id": "livonian-crusade",
       "name": "Livonian Crusade",
       "dates": "1198",
       "y": 1198,
@@ -2743,6 +3009,7 @@
       "url": "https://en.wikipedia.org/wiki/Livonian_Crusade"
     },
     {
+      "id": "battle-of-dyrrhachium",
       "name": "Battle of Dyrrhachium",
       "dates": "1081",
       "y": 1081,
@@ -2753,6 +3020,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium"
     },
     {
+      "id": "akkerman-convention",
       "name": "Akkerman Convention",
       "dates": "1826",
       "y": 1826,
@@ -2763,6 +3031,7 @@
       "url": "https://en.wikipedia.org/wiki/Akkerman_Convention"
     },
     {
+      "id": "battle-of-megiddo",
       "name": "Battle of Megiddo",
       "dates": "1918",
       "y": 1918,
@@ -2773,6 +3042,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Megiddo"
     },
     {
+      "id": "battle-of-manzikert",
       "name": "Battle of Manzikert",
       "dates": "1071",
       "y": 1071,
@@ -2783,6 +3053,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Manzikert"
     },
     {
+      "id": "battle-of-jaffa",
       "name": "Battle of Jaffa",
       "dates": "1192",
       "y": 1192,
@@ -2793,6 +3064,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Jaffa"
     },
     {
+      "id": "battle-of-vienna",
       "name": "Battle of Vienna",
       "dates": "1683",
       "y": 1683,
@@ -2803,6 +3075,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Vienna"
     },
     {
+      "id": "armenian-azerbaijani-war",
       "name": "Armenian–Azerbaijani War",
       "dates": "1920",
       "y": 1920,
@@ -2813,6 +3086,7 @@
       "url": "https://en.wikipedia.org/wiki/Armenian%E2%80%93Azerbaijani_war"
     },
     {
+      "id": "battle-of-poitiers",
       "name": "Battle of Poitiers",
       "dates": "1356",
       "y": 1356,
@@ -2823,6 +3097,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Poitiers"
     },
     {
+      "id": "night-attack-at-targoviste",
       "name": "Night attack at Târgoviște",
       "dates": "1462",
       "y": 1462,
@@ -2833,6 +3108,7 @@
       "url": "https://en.wikipedia.org/wiki/Night_attack_at_T%C3%A2rgovi%C8%99te"
     },
     {
+      "id": "operation-faustschlag",
       "name": "Operation Faustschlag",
       "dates": "1918",
       "y": 1918,
@@ -2843,6 +3119,7 @@
       "url": "https://en.wikipedia.org/wiki/Operation_Faustschlag"
     },
     {
+      "id": "battle-of-chains",
       "name": "Battle of Chains",
       "dates": "633",
       "y": 633,
@@ -2853,6 +3130,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Chains"
     },
     {
+      "id": "battle-of-stamford-bridge",
       "name": "Battle of Stamford Bridge",
       "dates": "1066",
       "y": 1066,
@@ -2863,6 +3141,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge"
     },
     {
+      "id": "battle-of-plassey",
       "name": "Battle of Plassey",
       "dates": "1757",
       "y": 1757,
@@ -2873,6 +3152,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Plassey"
     },
     {
+      "id": "battle-of-hannut",
       "name": "Battle of Hannut",
       "dates": "1940",
       "y": 1940,
@@ -2883,6 +3163,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Hannut"
     },
     {
+      "id": "italo-turkish-war",
       "name": "Italo-Turkish War",
       "dates": "1911",
       "y": 1911,
@@ -2893,6 +3174,7 @@
       "url": "https://en.wikipedia.org/wiki/Italo-Turkish_War"
     },
     {
+      "id": "battle-of-wuhan",
       "name": "Battle of Wuhan",
       "dates": "1938",
       "y": 1938,
@@ -2903,6 +3185,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Wuhan"
     },
     {
+      "id": "battle-of-tampere",
       "name": "Battle of Tampere",
       "dates": "1918",
       "y": 1918,
@@ -2913,6 +3196,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tampere"
     },
     {
+      "id": "kellogg-briand-pact",
       "name": "Kellogg-Briand pact",
       "dates": "1928",
       "y": 1928,
@@ -2923,6 +3207,7 @@
       "url": "https://en.wikipedia.org/wiki/Kellogg%E2%80%93Briand_Pact"
     },
     {
+      "id": "battle-of-breitenfeld",
       "name": "Battle of Breitenfeld",
       "dates": "1631",
       "y": 1631,
@@ -2933,6 +3218,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Breitenfeld"
     },
     {
+      "id": "battle-of-the-little-bighorn",
       "name": "Battle of the Little Bighorn",
       "dates": "1876",
       "y": 1876,
@@ -2943,6 +3229,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Little_Bighorn"
     },
     {
+      "id": "battle-of-the-bridge",
       "name": "Battle of the Bridge",
       "dates": "634",
       "y": 634,
@@ -2953,6 +3240,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Bridge"
     },
     {
+      "id": "french-revolutionary-wars",
       "name": "French Revolutionary Wars",
       "dates": "1792",
       "y": 1792,
@@ -2963,6 +3251,7 @@
       "url": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars"
     },
     {
+      "id": "siege-of-fort-william-henry",
       "name": "Siege of Fort William Henry",
       "dates": "1757",
       "y": 1757,
@@ -2973,6 +3262,7 @@
       "url": "https://en.wikipedia.org/wiki/Siege_of_Fort_William_Henry"
     },
     {
+      "id": "lazic-war",
       "name": "Lazic War",
       "dates": "541",
       "y": 541,
@@ -2983,6 +3273,7 @@
       "url": "https://en.wikipedia.org/wiki/Lazic_War"
     },
     {
+      "id": "battle-of-dunkirk",
       "name": "Battle of Dunkirk",
       "dates": "1940",
       "y": 1940,
@@ -2993,6 +3284,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dunkirk"
     },
     {
+      "id": "battle-of-mactan",
       "name": "Battle of Mactan",
       "dates": "1521",
       "y": 1521,
@@ -3003,6 +3295,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mactan"
     },
     {
+      "id": "mongol-invasions-and-conquests",
       "name": "Mongol invasions and conquests",
       "dates": "1206",
       "y": 1206,
@@ -3013,6 +3306,7 @@
       "url": "https://en.wikipedia.org/wiki/Mongol_conquests"
     },
     {
+      "id": "eighth-russo-turkish-war",
       "name": "Eighth Russo-Turkish War",
       "dates": "1806",
       "y": 1806,
@@ -3023,6 +3317,7 @@
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281806%E2%80%931812%29"
     },
     {
+      "id": "battle-of-ankara",
       "name": "Battle of Ankara",
       "dates": "1402",
       "y": 1402,
@@ -3033,6 +3328,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ankara"
     },
     {
+      "id": "battle-of-kulikovo",
       "name": "Battle of Kulikovo",
       "dates": "1380",
       "y": 1380,
@@ -3043,6 +3339,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kulikovo"
     },
     {
+      "id": "montevideo-convention",
       "name": "Montevideo Convention",
       "dates": "1933",
       "y": 1933,
@@ -3053,6 +3350,7 @@
       "url": "https://en.wikipedia.org/wiki/Montevideo_Convention"
     },
     {
+      "id": "sykes-picot-agreement",
       "name": "Sykes–Picot Agreement",
       "dates": "1916",
       "y": 1916,
@@ -3063,6 +3361,7 @@
       "url": "https://en.wikipedia.org/wiki/Sykes%E2%80%93Picot_Agreement"
     },
     {
+      "id": "battle-of-nicopolis",
       "name": "Battle of Nicopolis",
       "dates": "1396",
       "y": 1396,
@@ -3073,6 +3372,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Nicopolis"
     },
     {
+      "id": "war-of-the-polish-succession",
       "name": "War of the Polish Succession",
       "dates": "1733",
       "y": 1733,
@@ -3083,6 +3383,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Polish_Succession"
     },
     {
+      "id": "philippine-american-war",
       "name": "Philippine–American War",
       "dates": "1899",
       "y": 1899,
@@ -3093,6 +3394,7 @@
       "url": "https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War"
     },
     {
+      "id": "turkish-abductions",
       "name": "Turkish Abductions",
       "dates": "1627",
       "y": 1627,
@@ -3103,6 +3405,7 @@
       "url": "https://en.wikipedia.org/wiki/Turkish_Abductions"
     },
     {
+      "id": "second-boer-war",
       "name": "Second Boer War",
       "dates": "1899",
       "y": 1899,
@@ -3113,6 +3416,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Boer_War"
     },
     {
+      "id": "union-of-utrecht",
       "name": "Union of Utrecht",
       "dates": "1579",
       "y": 1579,
@@ -3123,6 +3427,7 @@
       "url": "https://en.wikipedia.org/wiki/Union_of_Utrecht"
     },
     {
+      "id": "berne-convention-for-the-protection-of-literary-and",
       "name": "Berne Convention for the Protection of Literary and Artistic Works",
       "dates": "1880",
       "y": 1880,
@@ -3133,6 +3438,7 @@
       "url": "https://en.wikipedia.org/wiki/Berne_Convention"
     },
     {
+      "id": "marco-polo-bridge-incident",
       "name": "Marco Polo Bridge incident",
       "dates": "1937",
       "y": 1937,
@@ -3143,6 +3449,7 @@
       "url": "https://en.wikipedia.org/wiki/Marco_Polo_Bridge_incident"
     },
     {
+      "id": "battle-of-las-navas-de-tolosa",
       "name": "Battle of Las Navas de Tolosa",
       "dates": "1212",
       "y": 1212,
@@ -3153,6 +3460,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Las_Navas_de_Tolosa"
     },
     {
+      "id": "soviet-japanese-war",
       "name": "Soviet–Japanese War",
       "dates": "1945",
       "y": 1945,
@@ -3163,6 +3471,7 @@
       "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Japanese_War"
     },
     {
+      "id": "first-battle-of-bull-run",
       "name": "First Battle of Bull Run",
       "dates": "1861",
       "y": 1861,
@@ -3173,6 +3482,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Battle_of_Bull_Run"
     },
     {
+      "id": "treaty-of-the-pyrenees",
       "name": "Treaty of the Pyrenees",
       "dates": "1659",
       "y": 1659,
@@ -3183,6 +3493,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_the_Pyrenees"
     },
     {
+      "id": "battle-of-the-ardennes",
       "name": "Battle of the Ardennes",
       "dates": "1914",
       "y": 1914,
@@ -3193,6 +3504,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Ardennes"
     },
     {
+      "id": "war-of-the-quadruple-alliance",
       "name": "War of the Quadruple Alliance",
       "dates": "1718",
       "y": 1718,
@@ -3203,6 +3515,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance"
     },
     {
+      "id": "brusilov-offensive",
       "name": "Brusilov Offensive",
       "dates": "1916",
       "y": 1916,
@@ -3213,6 +3526,7 @@
       "url": "https://en.wikipedia.org/wiki/Brusilov_offensive"
     },
     {
+      "id": "battle-of-bosworth-field",
       "name": "Battle of Bosworth Field",
       "dates": "1485",
       "y": 1485,
@@ -3223,6 +3537,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"
     },
     {
+      "id": "battle-of-bannockburn",
       "name": "Battle of Bannockburn",
       "dates": "1314",
       "y": 1314,
@@ -3233,6 +3548,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Bannockburn"
     },
     {
+      "id": "chaco-war",
       "name": "Chaco War",
       "dates": "1932",
       "y": 1932,
@@ -3243,6 +3559,7 @@
       "url": "https://en.wikipedia.org/wiki/Chaco_War"
     },
     {
+      "id": "battle-of-rymnik",
       "name": "Battle of Rymnik",
       "dates": "1789",
       "y": 1789,
@@ -3253,6 +3570,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Rymnik"
     },
     {
+      "id": "greco-italian-war",
       "name": "Greco-Italian War",
       "dates": "1940",
       "y": 1940,
@@ -3263,6 +3581,7 @@
       "url": "https://en.wikipedia.org/wiki/Greco-Italian_War"
     },
     {
+      "id": "battle-of-prague",
       "name": "Battle of Prague",
       "dates": "1757",
       "y": 1757,
@@ -3273,6 +3592,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Prague"
     },
     {
+      "id": "battle-of-rovine",
       "name": "Battle of Rovine",
       "dates": "1395",
       "y": 1395,
@@ -3283,6 +3603,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Rovine"
     },
     {
+      "id": "battle-of-brunanburh",
       "name": "Battle of Brunanburh",
       "dates": "937",
       "y": 937,
@@ -3293,6 +3614,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Brunanburh"
     },
     {
+      "id": "anglo-dutch-treaty-of-1824",
       "name": "Anglo-Dutch Treaty of 1824",
       "dates": "1824",
       "y": 1824,
@@ -3303,6 +3625,7 @@
       "url": "https://en.wikipedia.org/wiki/Anglo-Dutch_Treaty_of_1824"
     },
     {
+      "id": "treaty-of-batum",
       "name": "Treaty of Batum",
       "dates": "1918",
       "y": 1918,
@@ -3313,6 +3636,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Batum"
     },
     {
+      "id": "anglo-zulu-war",
       "name": "Anglo-Zulu War",
       "dates": "1879",
       "y": 1879,
@@ -3323,6 +3647,7 @@
       "url": "https://en.wikipedia.org/wiki/Anglo-Zulu_War"
     },
     {
+      "id": "battle-of-wadi-al-khaznadar",
       "name": "Battle of Wadi al-Khaznadar",
       "dates": "1299",
       "y": 1299,
@@ -3333,6 +3658,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Wadi_al-Khaznadar"
     },
     {
+      "id": "battle-of-the-gates-of-trajan",
       "name": "Battle of the Gates of Trajan",
       "dates": "986",
       "y": 986,
@@ -3343,6 +3669,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Gates_of_Trajan"
     },
     {
+      "id": "treaty-of-craiova",
       "name": "Treaty of Craiova",
       "dates": "1940",
       "y": 1940,
@@ -3353,6 +3680,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Craiova"
     },
     {
+      "id": "battle-of-hunayn",
       "name": "Battle of Hunayn",
       "dates": "630",
       "y": 630,
@@ -3363,6 +3691,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Hunayn"
     },
     {
+      "id": "battle-of-edington",
       "name": "Battle of Edington",
       "dates": "878",
       "y": 878,
@@ -3373,6 +3702,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Edington"
     },
     {
+      "id": "morean-war",
       "name": "Morean War",
       "dates": "1684",
       "y": 1684,
@@ -3383,6 +3713,7 @@
       "url": "https://en.wikipedia.org/wiki/Morean_War"
     },
     {
+      "id": "battle-of-karansebes",
       "name": "Battle of Karánsebes",
       "dates": "1788",
       "y": 1788,
@@ -3393,6 +3724,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kar%C3%A1nsebes"
     },
     {
+      "id": "williamite-war-in-ireland",
       "name": "Williamite War in Ireland",
       "dates": "1689",
       "y": 1689,
@@ -3403,6 +3735,7 @@
       "url": "https://en.wikipedia.org/wiki/Williamite_War_in_Ireland"
     },
     {
+      "id": "iberian-war",
       "name": "Iberian War",
       "dates": "526",
       "y": 526,
@@ -3413,6 +3746,7 @@
       "url": "https://en.wikipedia.org/wiki/Iberian_War"
     },
     {
+      "id": "byzantine-sassanid-war-of-602-628",
       "name": "Byzantine–Sassanid War of 602–628",
       "dates": "602",
       "y": 602,
@@ -3423,6 +3757,7 @@
       "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628"
     },
     {
+      "id": "mongol-invasion-of-central-asia",
       "name": "Mongol invasion of Central Asia",
       "dates": "1216",
       "y": 1216,
@@ -3433,6 +3768,7 @@
       "url": "https://en.wikipedia.org/wiki/Mongol_campaigns_in_Central_Asia"
     },
     {
+      "id": "second-battle-of-ypres",
       "name": "Second Battle of Ypres",
       "dates": "1915",
       "y": 1915,
@@ -3443,6 +3779,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Ypres"
     },
     {
+      "id": "second-battle-of-bull-run",
       "name": "Second Battle of Bull Run",
       "dates": "1862",
       "y": 1862,
@@ -3453,6 +3790,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Bull_Run"
     },
     {
+      "id": "second-battle-of-st-albans",
       "name": "Second Battle of St Albans",
       "dates": "1461",
       "y": 1461,
@@ -3463,6 +3801,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Battle_of_St_Albans"
     },
     {
+      "id": "second-anglo-burmese-war",
       "name": "Second Anglo-Burmese War",
       "dates": "1852",
       "y": 1852,
@@ -3473,6 +3812,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Anglo-Burmese_War"
     },
     {
+      "id": "second-barbary-war",
       "name": "Second Barbary War",
       "dates": "1815",
       "y": 1815,
@@ -3483,6 +3823,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Barbary_War"
     },
     {
+      "id": "second-anglo-afghan-war",
       "name": "Second Anglo-Afghan War",
       "dates": "1878",
       "y": 1878,
@@ -3493,6 +3834,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Anglo-Afghan_War"
     },
     {
+      "id": "second-hundred-years-war",
       "name": "Second Hundred Years' War",
       "dates": "1689",
       "y": 1689,
@@ -3503,6 +3845,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Hundred_Years%27_War"
     },
     {
+      "id": "battle-of-hattin",
       "name": "Battle of Hattin",
       "dates": "1187",
       "y": 1187,
@@ -3513,6 +3856,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Hattin"
     },
     {
+      "id": "second-anglo-maratha-war",
       "name": "Second Anglo-Maratha War",
       "dates": "1803",
       "y": 1803,
@@ -3523,6 +3867,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Anglo-Maratha_War"
     },
     {
+      "id": "second-anglo-mysore-war",
       "name": "Second Anglo-Mysore War",
       "dates": "1780",
       "y": 1780,
@@ -3533,6 +3878,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Anglo-Mysore_War"
     },
     {
+      "id": "second-silesian-war",
       "name": "Second Silesian War",
       "dates": "1744",
       "y": 1744,
@@ -3543,6 +3889,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Silesian_War"
     },
     {
+      "id": "first-battle-of-the-aisne",
       "name": "First Battle of the Aisne",
       "dates": "1914",
       "y": 1914,
@@ -3553,6 +3900,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Battle_of_the_Aisne"
     },
     {
+      "id": "battle-of-sekigahara",
       "name": "Battle of Sekigahara",
       "dates": "1600",
       "y": 1600,
@@ -3563,6 +3911,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Sekigahara"
     },
     {
+      "id": "expulsion-of-the-moriscos",
       "name": "Expulsion of the Moriscos",
       "dates": "1609",
       "y": 1609,
@@ -3573,6 +3922,7 @@
       "url": "https://en.wikipedia.org/wiki/Expulsion_of_the_Moriscos"
     },
     {
+      "id": "battle-of-kumanovo",
       "name": "Battle of Kumanovo",
       "dates": "1912",
       "y": 1912,
@@ -3583,6 +3933,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kumanovo"
     },
     {
+      "id": "battle-of-the-alamo",
       "name": "Battle of the Alamo",
       "dates": "1836",
       "y": 1836,
@@ -3593,6 +3944,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Alamo"
     },
     {
+      "id": "malayan-emergency",
       "name": "Malayan Emergency",
       "dates": "1948",
       "y": 1948,
@@ -3603,6 +3955,7 @@
       "url": "https://en.wikipedia.org/wiki/Malayan_Emergency"
     },
     {
+      "id": "battle-of-buxar",
       "name": "Battle of Buxar",
       "dates": "1764",
       "y": 1764,
@@ -3613,6 +3966,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Buxar"
     },
     {
+      "id": "unification-act",
       "name": "Unification Act",
       "dates": "1918",
       "y": 1918,
@@ -3623,6 +3977,7 @@
       "url": "https://en.wikipedia.org/wiki/Unification_Act"
     },
     {
+      "id": "1948-ashgabat-earthquake",
       "name": "1948 Ashgabat earthquake",
       "dates": "1948",
       "y": 1948,
@@ -3633,6 +3988,7 @@
       "url": "https://en.wikipedia.org/wiki/1948_Ashgabat_earthquake"
     },
     {
+      "id": "battle-of-arras",
       "name": "Battle of Arras",
       "dates": "1917",
       "y": 1917,
@@ -3643,6 +3999,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Arras"
     },
     {
+      "id": "battle-of-friedland",
       "name": "Battle of Friedland",
       "dates": "1807",
       "y": 1807,
@@ -3653,6 +4010,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Friedland"
     },
     {
+      "id": "ukrainian-soviet-war",
       "name": "Ukrainian–Soviet War",
       "dates": "1917",
       "y": 1917,
@@ -3663,6 +4021,7 @@
       "url": "https://en.wikipedia.org/wiki/Ukrainian%E2%80%93Soviet_War"
     },
     {
+      "id": "battle-of-caporetto",
       "name": "Battle of Caporetto",
       "dates": "1917",
       "y": 1917,
@@ -3673,6 +4032,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Caporetto"
     },
     {
+      "id": "second-anglo-sikh-war",
       "name": "Second Anglo-Sikh war",
       "dates": "1848",
       "y": 1848,
@@ -3683,6 +4043,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Anglo-Sikh_War"
     },
     {
+      "id": "second-vienna-award",
       "name": "Second Vienna Award",
       "dates": "1940",
       "y": 1940,
@@ -3693,6 +4054,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Vienna_Award"
     },
     {
+      "id": "franco-russian-alliance",
       "name": "Franco-Russian Alliance",
       "dates": "1894",
       "y": 1894,
@@ -3703,6 +4065,7 @@
       "url": "https://en.wikipedia.org/wiki/Franco-Russian_Alliance"
     },
     {
+      "id": "battle-of-liaoyang",
       "name": "Battle of Liaoyang",
       "dates": "1904",
       "y": 1904,
@@ -3713,6 +4076,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Liaoyang"
     },
     {
+      "id": "battle-of-ain-jalut",
       "name": "Battle of Ain Jalut",
       "dates": "1260",
       "y": 1260,
@@ -3723,6 +4087,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut"
     },
     {
+      "id": "siege-of-belgrade",
       "name": "Siege of Belgrade",
       "dates": "1456",
       "y": 1456,
@@ -3733,6 +4098,7 @@
       "url": "https://en.wikipedia.org/wiki/Siege_of_Belgrade_(1456)"
     },
     {
+      "id": "battle-of-yamama",
       "name": "Battle of Yamama",
       "dates": "632",
       "y": 632,
@@ -3743,6 +4109,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_al-Yamama"
     },
     {
+      "id": "livonian-war",
       "name": "Livonian War",
       "dates": "1558",
       "y": 1558,
@@ -3753,6 +4120,7 @@
       "url": "https://en.wikipedia.org/wiki/Livonian_War"
     },
     {
+      "id": "battle-of-nahrawan",
       "name": "Battle of Nahrawan",
       "dates": "659",
       "y": 659,
@@ -3763,6 +4131,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Nahrawan"
     },
     {
+      "id": "muslim-conquest-of-the-levant",
       "name": "Muslim conquest of the Levant",
       "dates": "633",
       "y": 633,
@@ -3773,6 +4142,7 @@
       "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Syria"
     },
     {
+      "id": "war-of-the-third-coalition",
       "name": "War of the Third Coalition",
       "dates": "1805",
       "y": 1805,
@@ -3783,6 +4153,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Third_Coalition"
     },
     {
+      "id": "battle-of-tarawa",
       "name": "Battle of Tarawa",
       "dates": "1943",
       "y": 1943,
@@ -3793,6 +4164,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tarawa"
     },
     {
+      "id": "battle-of-sarikamish",
       "name": "Battle of Sarikamish",
       "dates": "1914",
       "y": 1914,
@@ -3803,6 +4175,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Sarikamish"
     },
     {
+      "id": "hungarian-romanian-war",
       "name": "Hungarian–Romanian War",
       "dates": "1919",
       "y": 1919,
@@ -3813,6 +4186,7 @@
       "url": "https://en.wikipedia.org/wiki/Hungarian%E2%80%93Romanian_War"
     },
     {
+      "id": "italian-war-of-1551-1559",
       "name": "Italian War of 1551–1559",
       "dates": "1551",
       "y": 1551,
@@ -3823,6 +4197,7 @@
       "url": "https://en.wikipedia.org/wiki/Italian_War_of_1551%E2%80%931559"
     },
     {
+      "id": "crimean-war",
       "name": "Crimean War",
       "dates": "1853",
       "y": 1853,
@@ -3833,6 +4208,7 @@
       "url": "https://en.wikipedia.org/wiki/Crimean_War"
     },
     {
+      "id": "battle-of-shanghai",
       "name": "Battle of Shanghai",
       "dates": "1937",
       "y": 1937,
@@ -3843,6 +4219,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Shanghai"
     },
     {
+      "id": "great-stand-on-the-ugra-river",
       "name": "Great stand on the Ugra river",
       "dates": "1480",
       "y": 1480,
@@ -3853,6 +4230,7 @@
       "url": "https://en.wikipedia.org/wiki/Great_Stand_on_the_Ugra_River"
     },
     {
+      "id": "battle-of-baku",
       "name": "Battle of Baku",
       "dates": "1918",
       "y": 1918,
@@ -3863,6 +4241,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Baku"
     },
     {
+      "id": "anastasian-war",
       "name": "Anastasian War",
       "dates": "502",
       "y": 502,
@@ -3873,6 +4252,7 @@
       "url": "https://en.wikipedia.org/wiki/Anastasian_War"
     },
     {
+      "id": "wars-of-the-three-kingdoms",
       "name": "Wars of the Three Kingdoms",
       "dates": "1638",
       "y": 1638,
@@ -3883,6 +4263,7 @@
       "url": "https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms"
     },
     {
+      "id": "first-egyptian-ottoman-war",
       "name": "First Egyptian-Ottoman War",
       "dates": "1831",
       "y": 1831,
@@ -3893,6 +4274,7 @@
       "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Ottoman_War_%281831%E2%80%931833%29"
     },
     {
+      "id": "war-of-devolution",
       "name": "War of Devolution",
       "dates": "1667",
       "y": 1667,
@@ -3903,6 +4285,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_Devolution"
     },
     {
+      "id": "treaty-of-gandamak",
       "name": "Treaty of Gandamak",
       "dates": "1879",
       "y": 1879,
@@ -3913,6 +4296,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Gandamak"
     },
     {
+      "id": "second-egyptian-ottoman-war",
       "name": "Second Egyptian-Ottoman War",
       "dates": "1839",
       "y": 1839,
@@ -3923,6 +4307,7 @@
       "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Ottoman_War_%281839%E2%80%931841%29"
     },
     {
+      "id": "war-of-1812",
       "name": "War of 1812",
       "dates": "1812",
       "y": 1812,
@@ -3933,6 +4318,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_1812"
     },
     {
+      "id": "capture-of-rome",
       "name": "Capture of Rome",
       "dates": "1870",
       "y": 1870,
@@ -3943,6 +4329,7 @@
       "url": "https://en.wikipedia.org/wiki/Capture_of_Rome"
     },
     {
+      "id": "battles-of-rzhev",
       "name": "Battles of Rzhev",
       "dates": "1942",
       "y": 1942,
@@ -3953,6 +4340,7 @@
       "url": "https://en.wikipedia.org/wiki/Battles_of_Rzhev"
     },
     {
+      "id": "battle-of-konotop",
       "name": "Battle of Konotop",
       "dates": "1659",
       "y": 1659,
@@ -3963,6 +4351,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Konotop"
     },
     {
+      "id": "japanese-coup-d-etat-in-french-indochina",
       "name": "Japanese coup d'état in French Indochina",
       "dates": "1945",
       "y": 1945,
@@ -3973,6 +4362,7 @@
       "url": "https://en.wikipedia.org/wiki/Japanese_coup_d%27%C3%A9tat_in_French_Indochina"
     },
     {
+      "id": "battle-of-tolbiac",
       "name": "Battle of Tolbiac",
       "dates": "496",
       "y": 496,
@@ -3983,6 +4373,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tolbiac"
     },
     {
+      "id": "german-invasion-of-the-netherlands",
       "name": "German invasion of the Netherlands",
       "dates": "1940",
       "y": 1940,
@@ -3993,6 +4384,7 @@
       "url": "https://en.wikipedia.org/wiki/German_invasion_of_the_Netherlands"
     },
     {
+      "id": "battle-of-dandanaqan",
       "name": "Battle of Dandanaqan",
       "dates": "1040",
       "y": 1040,
@@ -4003,6 +4395,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dandanaqan"
     },
     {
+      "id": "northwest-indian-war",
       "name": "Northwest Indian War",
       "dates": "1785",
       "y": 1785,
@@ -4013,6 +4406,7 @@
       "url": "https://en.wikipedia.org/wiki/Northwest_Indian_War"
     },
     {
+      "id": "prussian-crusade",
       "name": "Prussian Crusade",
       "dates": "1200",
       "y": 1200,
@@ -4023,6 +4417,7 @@
       "url": "https://en.wikipedia.org/wiki/Prussian_Crusade"
     },
     {
+      "id": "war-of-the-second-coalition",
       "name": "War of the Second Coalition",
       "dates": "1798",
       "y": 1798,
@@ -4033,6 +4428,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Second_Coalition"
     },
     {
+      "id": "austro-turkish-war-of-1716-1718",
       "name": "Austro-Turkish War of 1716–1718",
       "dates": "1716",
       "y": 1716,
@@ -4043,6 +4439,7 @@
       "url": "https://en.wikipedia.org/wiki/Austro-Turkish_War_%281716%E2%80%931718%29"
     },
     {
+      "id": "dieppe-raid",
       "name": "Dieppe Raid",
       "dates": "1942",
       "y": 1942,
@@ -4053,6 +4450,7 @@
       "url": "https://en.wikipedia.org/wiki/Dieppe_Raid"
     },
     {
+      "id": "vlora-war",
       "name": "Vlora War",
       "dates": "1920",
       "y": 1920,
@@ -4063,6 +4461,7 @@
       "url": "https://en.wikipedia.org/wiki/Vlora_War"
     },
     {
+      "id": "second-battle-of-homs",
       "name": "Second Battle of Homs",
       "dates": "1281",
       "y": 1281,
@@ -4073,6 +4472,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Homs"
     },
     {
+      "id": "battle-of-marengo",
       "name": "Battle of Marengo",
       "dates": "1800",
       "y": 1800,
@@ -4083,6 +4483,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Marengo"
     },
     {
+      "id": "battle-of-lechfeld",
       "name": "Battle of Lechfeld",
       "dates": "955",
       "y": 955,
@@ -4093,6 +4494,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Lechfeld"
     },
     {
+      "id": "battle-of-karnal",
       "name": "Battle of Karnal",
       "dates": "1739",
       "y": 1739,
@@ -4103,6 +4505,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Karnal"
     },
     {
+      "id": "lithuanian-wars-of-independence",
       "name": "Lithuanian Wars of Independence",
       "dates": "1918",
       "y": 1918,
@@ -4113,6 +4516,7 @@
       "url": "https://en.wikipedia.org/wiki/Lithuanian_Wars_of_Independence"
     },
     {
+      "id": "battle-of-vitoria",
       "name": "Battle of Vitoria",
       "dates": "1813",
       "y": 1813,
@@ -4123,6 +4527,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Vitoria"
     },
     {
+      "id": "aceh-war",
       "name": "Aceh War",
       "dates": "1873",
       "y": 1873,
@@ -4133,6 +4538,7 @@
       "url": "https://en.wikipedia.org/wiki/Aceh_War"
     },
     {
+      "id": "battle-of-crecy",
       "name": "Battle of Crécy",
       "dates": "1346",
       "y": 1346,
@@ -4143,6 +4549,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy"
     },
     {
+      "id": "siege-of-constantinople",
       "name": "Siege of Constantinople",
       "dates": "717",
       "y": 717,
@@ -4153,6 +4560,7 @@
       "url": "https://en.wikipedia.org/wiki/List_of_sieges_of_Constantinople"
     },
     {
+      "id": "first-battle-of-gaza",
       "name": "First Battle of Gaza",
       "dates": "1917",
       "y": 1917,
@@ -4163,6 +4571,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Battle_of_Gaza"
     },
     {
+      "id": "battle-of-benevento",
       "name": "Battle of Benevento",
       "dates": "1266",
       "y": 1266,
@@ -4173,6 +4582,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Benevento"
     },
     {
+      "id": "battle-of-legnano",
       "name": "Battle of Legnano",
       "dates": "1176",
       "y": 1176,
@@ -4183,6 +4593,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Legnano"
     },
     {
+      "id": "ninth-russo-turkish-war",
       "name": "Ninth Russo-Turkish War",
       "dates": "1828",
       "y": 1828,
@@ -4193,6 +4604,7 @@
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281828%E2%80%931829%29"
     },
     {
+      "id": "cisplatine-war",
       "name": "Cisplatine War",
       "dates": "1825",
       "y": 1825,
@@ -4203,6 +4615,7 @@
       "url": "https://en.wikipedia.org/wiki/Cisplatine_War"
     },
     {
+      "id": "battle-of-the-zab",
       "name": "Battle of the Zab",
       "dates": "750",
       "y": 750,
@@ -4213,6 +4626,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Zab"
     },
     {
+      "id": "first-anglo-burmese-war",
       "name": "First Anglo-Burmese War",
       "dates": "1824",
       "y": 1824,
@@ -4223,6 +4637,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Anglo-Burmese_War"
     },
     {
+      "id": "battle-of-singapore",
       "name": "Battle of Singapore",
       "dates": "1942",
       "y": 1942,
@@ -4233,6 +4648,7 @@
       "url": "https://en.wikipedia.org/wiki/Fall_of_Singapore"
     },
     {
+      "id": "battle-of-salsu",
       "name": "Battle of Salsu",
       "dates": "612",
       "y": 612,
@@ -4243,6 +4659,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Salsu"
     },
     {
+      "id": "battle-of-asiago",
       "name": "Battle of Asiago",
       "dates": "1916",
       "y": 1916,
@@ -4253,6 +4670,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Asiago"
     },
     {
+      "id": "franco-syrian-war",
       "name": "Franco-Syrian War",
       "dates": "1920",
       "y": 1920,
@@ -4263,6 +4681,7 @@
       "url": "https://en.wikipedia.org/wiki/Franco-Syrian_War"
     },
     {
+      "id": "battle-of-brandywine",
       "name": "Battle of Brandywine",
       "dates": "1777",
       "y": 1777,
@@ -4273,6 +4692,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Brandywine"
     },
     {
+      "id": "battle-of-adwa",
       "name": "Battle of Adwa",
       "dates": "1896",
       "y": 1896,
@@ -4283,6 +4703,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Adwa"
     },
     {
+      "id": "alaska-purchase",
       "name": "Alaska Purchase",
       "dates": "1867",
       "y": 1867,
@@ -4293,6 +4714,7 @@
       "url": "https://en.wikipedia.org/wiki/Alaska_Purchase"
     },
     {
+      "id": "battle-of-the-plains-of-abraham",
       "name": "Battle of the Plains of Abraham",
       "dates": "1759",
       "y": 1759,
@@ -4303,6 +4725,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Plains_of_Abraham"
     },
     {
+      "id": "battle-of-nordlingen",
       "name": "Battle of Nördlingen",
       "dates": "1634",
       "y": 1634,
@@ -4313,6 +4736,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_N%C3%B6rdlingen"
     },
     {
+      "id": "battle-of-leuthen",
       "name": "Battle of Leuthen",
       "dates": "1757",
       "y": 1757,
@@ -4323,6 +4747,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Leuthen"
     },
     {
+      "id": "battle-of-the-dnieper",
       "name": "Battle of the Dnieper",
       "dates": "1943",
       "y": 1943,
@@ -4333,6 +4758,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Dnieper"
     },
     {
+      "id": "first-english-civil-war",
       "name": "First English Civil War",
       "dates": "1642",
       "y": 1642,
@@ -4343,6 +4769,7 @@
       "url": "https://en.wikipedia.org/wiki/First_English_Civil_War"
     },
     {
+      "id": "burgundian-wars",
       "name": "Burgundian Wars",
       "dates": "1474",
       "y": 1474,
@@ -4353,6 +4780,7 @@
       "url": "https://en.wikipedia.org/wiki/Burgundian_Wars"
     },
     {
+      "id": "thirteen-years-war",
       "name": "Thirteen Years' War",
       "dates": "1454",
       "y": 1454,
@@ -4363,6 +4791,7 @@
       "url": "https://en.wikipedia.org/wiki/Thirteen_Years%27_War"
     },
     {
+      "id": "battle-of-oudenarde",
       "name": "Battle of Oudenarde",
       "dates": "1708",
       "y": 1708,
@@ -4373,6 +4802,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Oudenarde"
     },
     {
+      "id": "battle-of-nancy",
       "name": "Battle of Nancy",
       "dates": "1476",
       "y": 1476,
@@ -4383,6 +4813,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Nancy"
     },
     {
+      "id": "battle-of-malplaquet",
       "name": "Battle of Malplaquet",
       "dates": "1709",
       "y": 1709,
@@ -4393,6 +4824,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Malplaquet"
     },
     {
+      "id": "hindenburg-disaster",
       "name": "Hindenburg disaster",
       "dates": "1937",
       "y": 1937,
@@ -4403,6 +4835,7 @@
       "url": "https://en.wikipedia.org/wiki/Hindenburg_disaster"
     },
     {
+      "id": "mahdist-war",
       "name": "Mahdist War",
       "dates": "1881",
       "y": 1881,
@@ -4413,6 +4846,7 @@
       "url": "https://en.wikipedia.org/wiki/Mahdist_War"
     },
     {
+      "id": "battle-of-almansa",
       "name": "Battle of Almansa",
       "dates": "1707",
       "y": 1707,
@@ -4423,6 +4857,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Almansa"
     },
     {
+      "id": "battle-of-solferino",
       "name": "Battle of Solferino",
       "dates": "1859",
       "y": 1859,
@@ -4433,6 +4868,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Solferino"
     },
     {
+      "id": "siege-of-acre",
       "name": "Siege of Acre",
       "dates": "1291",
       "y": 1291,
@@ -4443,6 +4879,7 @@
       "url": "https://en.wikipedia.org/wiki/Siege_of_Acre"
     },
     {
+      "id": "battle-of-marston-moor",
       "name": "Battle of Marston Moor",
       "dates": "1644",
       "y": 1644,
@@ -4453,6 +4890,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Marston_Moor"
     },
     {
+      "id": "nakba",
       "name": "Nakba",
       "dates": "1948",
       "y": 1948,
@@ -4463,6 +4901,7 @@
       "url": "https://en.wikipedia.org/wiki/Nakba"
     },
     {
+      "id": "battle-of-morgarten",
       "name": "Battle of Morgarten",
       "dates": "1315",
       "y": 1315,
@@ -4473,6 +4912,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Morgarten"
     },
     {
+      "id": "battle-of-gazala",
       "name": "Battle of Gazala",
       "dates": "1942",
       "y": 1942,
@@ -4483,6 +4923,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Gazala"
     },
     {
+      "id": "operation-nordwind",
       "name": "Operation Nordwind",
       "dates": "1944",
       "y": 1944,
@@ -4493,6 +4934,7 @@
       "url": "https://en.wikipedia.org/wiki/Operation_Northwind_%281944%29"
     },
     {
+      "id": "battle-of-aachen",
       "name": "Battle of Aachen",
       "dates": "1944",
       "y": 1944,
@@ -4503,6 +4945,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Aachen"
     },
     {
+      "id": "battle-of-bia-ystok-minsk",
       "name": "Battle of Białystok–Minsk",
       "dates": "1941",
       "y": 1941,
@@ -4513,6 +4956,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Bia%C5%82ystok%E2%80%93Minsk"
     },
     {
+      "id": "battle-of-uman",
       "name": "Battle of Uman",
       "dates": "1941",
       "y": 1941,
@@ -4523,6 +4967,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Uman"
     },
     {
+      "id": "machtergreifung",
       "name": "Machtergreifung",
       "dates": "1933",
       "y": 1933,
@@ -4533,6 +4978,7 @@
       "url": "https://en.wikipedia.org/wiki/Adolf_Hitler%27s_rise_to_power"
     },
     {
+      "id": "battle-of-varna",
       "name": "Battle of Varna",
       "dates": "1444",
       "y": 1444,
@@ -4543,6 +4989,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Varna"
     },
     {
+      "id": "first-boer-war",
       "name": "First Boer War",
       "dates": "1880",
       "y": 1880,
@@ -4553,6 +5000,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Boer_War"
     },
     {
+      "id": "war-of-the-austrian-succession",
       "name": "War of the Austrian Succession",
       "dates": "1740",
       "y": 1740,
@@ -4563,6 +5011,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession"
     },
     {
+      "id": "battle-of-marignano",
       "name": "Battle of Marignano",
       "dates": "1515",
       "y": 1515,
@@ -4573,6 +5022,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Marignano"
     },
     {
+      "id": "battle-of-gettysburg",
       "name": "Battle of Gettysburg",
       "dates": "1863",
       "y": 1863,
@@ -4583,6 +5033,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg"
     },
     {
+      "id": "battle-of-eylau",
       "name": "Battle of Eylau",
       "dates": "1807",
       "y": 1807,
@@ -4593,6 +5044,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Eylau"
     },
     {
+      "id": "seven-years-war",
       "name": "Seven Years' War",
       "dates": "1756",
       "y": 1756,
@@ -4603,6 +5055,7 @@
       "url": "https://en.wikipedia.org/wiki/Seven_Years%27_War"
     },
     {
+      "id": "battle-of-the-pyramids",
       "name": "Battle of the Pyramids",
       "dates": "1798",
       "y": 1798,
@@ -4613,6 +5066,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Pyramids"
     },
     {
+      "id": "battle-of-bunker-hill",
       "name": "Battle of Bunker Hill",
       "dates": "1775",
       "y": 1775,
@@ -4623,6 +5077,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill"
     },
     {
+      "id": "battle-of-monte-cassino",
       "name": "Battle of Monte Cassino",
       "dates": "1944",
       "y": 1944,
@@ -4633,6 +5088,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino"
     },
     {
+      "id": "battle-of-grunwald",
       "name": "Battle of Grunwald",
       "dates": "1410",
       "y": 1410,
@@ -4643,6 +5099,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Grunwald"
     },
     {
+      "id": "battle-of-gro-beeren",
       "name": "Battle of Großbeeren",
       "dates": "1813",
       "y": 1813,
@@ -4653,6 +5110,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Gro%C3%9Fbeeren"
     },
     {
+      "id": "battle-of-the-milvian-bridge",
       "name": "Battle of the Milvian Bridge",
       "dates": "312",
       "y": 312,
@@ -4663,6 +5121,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge"
     },
     {
+      "id": "transition-from-ming-to-qing",
       "name": "transition from Ming to Qing",
       "dates": "1616",
       "y": 1616,
@@ -4673,6 +5132,7 @@
       "url": "https://en.wikipedia.org/wiki/Transition_from_Ming_to_Qing"
     },
     {
+      "id": "battle-of-okehazama",
       "name": "Battle of Okehazama",
       "dates": "1560",
       "y": 1560,
@@ -4683,6 +5143,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Okehazama"
     },
     {
+      "id": "adams-onis-treaty",
       "name": "Adams–Onís Treaty",
       "dates": "1821",
       "y": 1821,
@@ -4693,6 +5154,7 @@
       "url": "https://en.wikipedia.org/wiki/Adams%E2%80%93On%C3%ADs_Treaty"
     },
     {
+      "id": "partitio-terrarum-imperii-romaniae",
       "name": "Partitio terrarum imperii Romaniae",
       "dates": "1204",
       "y": 1204,
@@ -4703,6 +5165,7 @@
       "url": "https://en.wikipedia.org/wiki/Partitio_terrarum_imperii_Romaniae"
     },
     {
+      "id": "arab-conquest-of-armenia",
       "name": "Arab conquest of Armenia",
       "dates": "642",
       "y": 642,
@@ -4713,6 +5176,7 @@
       "url": "https://en.wikipedia.org/wiki/Arab_invasion_of_Armenia"
     },
     {
+      "id": "battle-of-khotyn",
       "name": "Battle of Khotyn",
       "dates": "1673",
       "y": 1673,
@@ -4723,6 +5187,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Khotyn"
     },
     {
+      "id": "anglo-spanish-war",
       "name": "Anglo-Spanish War",
       "dates": "1654",
       "y": 1654,
@@ -4733,6 +5198,7 @@
       "url": "https://en.wikipedia.org/wiki/Anglo-Spanish_War"
     },
     {
+      "id": "siege-of-baghdad",
       "name": "Siege of Baghdad",
       "dates": "1258",
       "y": 1258,
@@ -4743,6 +5209,7 @@
       "url": "https://en.wikipedia.org/wiki/Siege_of_Baghdad"
     },
     {
+      "id": "battle-of-tippecanoe",
       "name": "Battle of Tippecanoe",
       "dates": "1811",
       "y": 1811,
@@ -4753,6 +5220,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tippecanoe"
     },
     {
+      "id": "caucasian-war",
       "name": "Caucasian War",
       "dates": "1763",
       "y": 1763,
@@ -4763,6 +5231,7 @@
       "url": "https://en.wikipedia.org/wiki/Caucasian_War"
     },
     {
+      "id": "siege-of-damascus",
       "name": "Siege of Damascus",
       "dates": "1148",
       "y": 1148,
@@ -4773,6 +5242,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Damascus"
     },
     {
+      "id": "battle-of-saragarhi",
       "name": "Battle of Saragarhi",
       "dates": "1897",
       "y": 1897,
@@ -4783,6 +5253,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Saragarhi"
     },
     {
+      "id": "battle-of-kohima",
       "name": "Battle of Kohima",
       "dates": "1944",
       "y": 1944,
@@ -4793,6 +5264,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kohima"
     },
     {
+      "id": "battle-of-mukden",
       "name": "Battle of Mukden",
       "dates": "1905",
       "y": 1905,
@@ -4803,6 +5275,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mukden"
     },
     {
+      "id": "battle-of-the-yalu-river",
       "name": "Battle of the Yalu River",
       "dates": "1894",
       "y": 1894,
@@ -4813,6 +5286,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Yalu_River"
     },
     {
+      "id": "battle-of-dara",
       "name": "Battle of Dara",
       "dates": "530",
       "y": 530,
@@ -4823,6 +5297,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dara"
     },
     {
+      "id": "onin-war",
       "name": "Ōnin War",
       "dates": "1467",
       "y": 1467,
@@ -4833,6 +5308,7 @@
       "url": "https://en.wikipedia.org/wiki/%C5%8Cnin_War"
     },
     {
+      "id": "treaty-of-hadiach",
       "name": "Treaty of Hadiach",
       "dates": "1658",
       "y": 1658,
@@ -4843,6 +5319,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Hadiach"
     },
     {
+      "id": "battle-of-arnhem",
       "name": "Battle of Arnhem",
       "dates": "1944",
       "y": 1944,
@@ -4853,6 +5330,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Arnhem"
     },
     {
+      "id": "battle-of-stalingrad",
       "name": "Battle of Stalingrad",
       "dates": "1942",
       "y": 1942,
@@ -4863,6 +5341,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad"
     },
     {
+      "id": "battle-of-yamazaki",
       "name": "Battle of Yamazaki",
       "dates": "1582",
       "y": 1582,
@@ -4873,6 +5352,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Yamazaki"
     },
     {
+      "id": "battle-of-soissons",
       "name": "Battle of Soissons",
       "dates": "486",
       "y": 486,
@@ -4883,6 +5363,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Soissons"
     },
     {
+      "id": "siege-of-orleans",
       "name": "Siege of Orléans",
       "dates": "1428",
       "y": 1428,
@@ -4893,6 +5374,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Orl%C3%A9ans"
     },
     {
+      "id": "battle-of-sagrajas",
       "name": "Battle of Sagrajas",
       "dates": "1086",
       "y": 1086,
@@ -4903,6 +5385,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Sagrajas"
     },
     {
+      "id": "battle-of-vimy-ridge",
       "name": "Battle of Vimy Ridge",
       "dates": "1917",
       "y": 1917,
@@ -4913,6 +5396,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Vimy_Ridge"
     },
     {
+      "id": "treaty-of-paris",
       "name": "Treaty of Paris",
       "dates": "1259",
       "y": 1259,
@@ -4923,6 +5407,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris"
     },
     {
+      "id": "third-geneva-convention",
       "name": "Third Geneva Convention",
       "dates": "1949",
       "y": 1949,
@@ -4933,6 +5418,7 @@
       "url": "https://en.wikipedia.org/wiki/Third_Geneva_Convention"
     },
     {
+      "id": "battle-of-coronel",
       "name": "Battle of Coronel",
       "dates": "1914",
       "y": 1914,
@@ -4943,6 +5429,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Coronel"
     },
     {
+      "id": "battle-of-dettingen",
       "name": "Battle of Dettingen",
       "dates": "1743",
       "y": 1743,
@@ -4953,6 +5440,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dettingen"
     },
     {
+      "id": "battle-of-pliska",
       "name": "Battle of Pliska",
       "dates": "811",
       "y": 811,
@@ -4963,6 +5451,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Pliska"
     },
     {
+      "id": "attack-of-the-dead-men",
       "name": "Attack of the Dead Men",
       "dates": "1915",
       "y": 1915,
@@ -4973,6 +5462,7 @@
       "url": "https://en.wikipedia.org/wiki/Attack_of_the_Dead_Men"
     },
     {
+      "id": "battle-of-denain",
       "name": "Battle of Denain",
       "dates": "1712",
       "y": 1712,
@@ -4983,6 +5473,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Denain"
     },
     {
+      "id": "second-opium-war",
       "name": "Second Opium War",
       "dates": "1856",
       "y": 1856,
@@ -4993,6 +5484,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Opium_War"
     },
     {
+      "id": "battle-of-new-orleans",
       "name": "Battle of New Orleans",
       "dates": "1815",
       "y": 1815,
@@ -5003,6 +5495,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_New_Orleans"
     },
     {
+      "id": "philippine-revolution",
       "name": "Philippine Revolution",
       "dates": "1896",
       "y": 1896,
@@ -5013,6 +5506,7 @@
       "url": "https://en.wikipedia.org/wiki/Philippine_Revolution"
     },
     {
+      "id": "gunboat-war",
       "name": "Gunboat War",
       "dates": "1807",
       "y": 1807,
@@ -5023,6 +5517,7 @@
       "url": "https://en.wikipedia.org/wiki/Gunboat_War"
     },
     {
+      "id": "third-battle-of-ypres",
       "name": "Third Battle of Ypres",
       "dates": "1917",
       "y": 1917,
@@ -5033,6 +5528,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Passchendaele"
     },
     {
+      "id": "battle-of-nagashino",
       "name": "Battle of Nagashino",
       "dates": "1575",
       "y": 1575,
@@ -5043,6 +5539,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Nagashino"
     },
     {
+      "id": "great-sioux-war-of-1876",
       "name": "Great Sioux War of 1876",
       "dates": "1876",
       "y": 1876,
@@ -5053,6 +5550,7 @@
       "url": "https://en.wikipedia.org/wiki/Great_Sioux_War_of_1876"
     },
     {
+      "id": "arauco-war",
       "name": "Arauco War",
       "dates": "1546",
       "y": 1546,
@@ -5063,6 +5561,7 @@
       "url": "https://en.wikipedia.org/wiki/Arauco_War"
     },
     {
+      "id": "battle-of-white-mountain",
       "name": "Battle of White Mountain",
       "dates": "1620",
       "y": 1620,
@@ -5073,6 +5572,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_White_Mountain"
     },
     {
+      "id": "battle-of-valmy",
       "name": "Battle of Valmy",
       "dates": "1792",
       "y": 1792,
@@ -5083,6 +5583,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Valmy"
     },
     {
+      "id": "battle-of-the-golden-spurs",
       "name": "Battle of the Golden Spurs",
       "dates": "1302",
       "y": 1302,
@@ -5093,6 +5594,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Golden_Spurs"
     },
     {
+      "id": "siege-of-yorktown",
       "name": "Siege of Yorktown",
       "dates": "1781",
       "y": 1781,
@@ -5103,6 +5605,7 @@
       "url": "https://en.wikipedia.org/wiki/Siege_of_Yorktown"
     },
     {
+      "id": "franco-prussian-war",
       "name": "Franco-Prussian War",
       "dates": "1870",
       "y": 1870,
@@ -5113,6 +5616,7 @@
       "url": "https://en.wikipedia.org/wiki/Franco-Prussian_War"
     },
     {
+      "id": "svalbard-treaty",
       "name": "Svalbard Treaty",
       "dates": "1920",
       "y": 1920,
@@ -5123,6 +5627,7 @@
       "url": "https://en.wikipedia.org/wiki/Svalbard_Treaty"
     },
     {
+      "id": "november-uprising",
       "name": "November Uprising",
       "dates": "1830",
       "y": 1830,
@@ -5133,6 +5638,7 @@
       "url": "https://en.wikipedia.org/wiki/November_Uprising"
     },
     {
+      "id": "entente-cordiale",
       "name": "Entente Cordiale",
       "dates": "1904",
       "y": 1904,
@@ -5143,6 +5649,7 @@
       "url": "https://en.wikipedia.org/wiki/Entente_Cordiale"
     },
     {
+      "id": "battle-of-balaclava",
       "name": "Battle of Balaclava",
       "dates": "1854",
       "y": 1854,
@@ -5153,6 +5660,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Balaclava"
     },
     {
+      "id": "battle-of-wagram",
       "name": "Battle of Wagram",
       "dates": "1809",
       "y": 1809,
@@ -5163,6 +5671,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Wagram"
     },
     {
+      "id": "first-barbary-war",
       "name": "First Barbary War",
       "dates": "1801",
       "y": 1801,
@@ -5173,6 +5682,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Barbary_War"
     },
     {
+      "id": "battle-of-suomussalmi",
       "name": "Battle of Suomussalmi",
       "dates": "1939",
       "y": 1939,
@@ -5183,6 +5693,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Suomussalmi"
     },
     {
+      "id": "battle-of-kulm",
       "name": "Battle of Kulm",
       "dates": "1813",
       "y": 1813,
@@ -5193,6 +5704,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kulm"
     },
     {
+      "id": "battle-of-waterloo",
       "name": "Battle of Waterloo",
       "dates": "1815",
       "y": 1815,
@@ -5203,6 +5715,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
     },
     {
+      "id": "battle-of-badr",
       "name": "Battle of Badr",
       "dates": "624",
       "y": 624,
@@ -5213,6 +5726,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Badr"
     },
     {
+      "id": "battle-of-uhud",
       "name": "Battle of Uhud",
       "dates": "625",
       "y": 625,
@@ -5223,6 +5737,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Uhud"
     },
     {
+      "id": "1948-arab-israeli-war",
       "name": "1948 Arab–Israeli War",
       "dates": "1940",
       "y": 1940,
@@ -5233,6 +5748,7 @@
       "url": "https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War"
     },
     {
+      "id": "1948-palestine-war",
       "name": "1948 Palestine war",
       "dates": "1940",
       "y": 1940,
@@ -5243,6 +5759,7 @@
       "url": "https://en.wikipedia.org/wiki/1948_Palestine_war"
     },
     {
+      "id": "seven-days-battles",
       "name": "Seven Days Battles",
       "dates": "1862",
       "y": 1862,
@@ -5253,6 +5770,7 @@
       "url": "https://en.wikipedia.org/wiki/Seven_Days_Battles"
     },
     {
+      "id": "battle-of-talas",
       "name": "Battle of Talas",
       "dates": "751",
       "y": 751,
@@ -5263,6 +5781,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Talas"
     },
     {
+      "id": "treaty-of-shimoda",
       "name": "Treaty of Shimoda",
       "dates": "1855",
       "y": 1855,
@@ -5273,6 +5792,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Shimoda"
     },
     {
+      "id": "battle-of-cold-harbor",
       "name": "Battle of Cold Harbor",
       "dates": "1864",
       "y": 1864,
@@ -5283,6 +5803,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Cold_Harbor"
     },
     {
+      "id": "battle-of-stirling-bridge",
       "name": "Battle of Stirling Bridge",
       "dates": "1297",
       "y": 1297,
@@ -5293,6 +5814,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Stirling_Bridge"
     },
     {
+      "id": "saxon-wars",
       "name": "Saxon Wars",
       "dates": "772",
       "y": 772,
@@ -5303,6 +5825,7 @@
       "url": "https://en.wikipedia.org/wiki/Saxon_Wars"
     },
     {
+      "id": "halifax-explosion",
       "name": "Halifax explosion",
       "dates": "1917",
       "y": 1917,
@@ -5313,6 +5836,7 @@
       "url": "https://en.wikipedia.org/wiki/Halifax_Explosion"
     },
     {
+      "id": "battle-of-guadalete",
       "name": "Battle of Guadalete",
       "dates": "711",
       "y": 711,
@@ -5323,6 +5847,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Guadalete"
     },
     {
+      "id": "battle-of-dobro-pole",
       "name": "Battle of Dobro Pole",
       "dates": "1918",
       "y": 1918,
@@ -5333,6 +5858,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dobro_Pole"
     },
     {
+      "id": "battle-of-the-korsun-cherkassy-pocket",
       "name": "Battle of the Korsun–Cherkassy Pocket",
       "dates": "1944",
       "y": 1944,
@@ -5343,6 +5869,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Korsun%E2%80%93Cherkassy"
     },
     {
+      "id": "battle-of-cherbourg",
       "name": "Battle of Cherbourg",
       "dates": "1944",
       "y": 1944,
@@ -5353,6 +5880,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Cherbourg"
     },
     {
+      "id": "people-s-crusade",
       "name": "People's Crusade",
       "dates": "1096",
       "y": 1096,
@@ -5363,6 +5891,7 @@
       "url": "https://en.wikipedia.org/wiki/People%27s_Crusade"
     },
     {
+      "id": "battle-of-zenta",
       "name": "Battle of Zenta",
       "dates": "1697",
       "y": 1697,
@@ -5373,6 +5902,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Zenta"
     },
     {
+      "id": "king-george-s-war",
       "name": "King George's War",
       "dates": "1744",
       "y": 1744,
@@ -5383,6 +5913,7 @@
       "url": "https://en.wikipedia.org/wiki/King_George%27s_War"
     },
     {
+      "id": "battle-of-the-neva",
       "name": "Battle of the Neva",
       "dates": "1240",
       "y": 1240,
@@ -5393,6 +5924,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Neva"
     },
     {
+      "id": "attack-on-pearl-harbor",
       "name": "Attack on Pearl Harbor",
       "dates": "1941",
       "y": 1941,
@@ -5403,6 +5935,7 @@
       "url": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor"
     },
     {
+      "id": "cologne-war",
       "name": "Cologne War",
       "dates": "1583",
       "y": 1583,
@@ -5413,6 +5946,7 @@
       "url": "https://en.wikipedia.org/wiki/Cologne_War"
     },
     {
+      "id": "persian-expedition-of-1796",
       "name": "Persian Expedition of 1796",
       "dates": "1796",
       "y": 1796,
@@ -5423,6 +5957,7 @@
       "url": "https://en.wikipedia.org/wiki/Persian_expedition_of_1796"
     },
     {
+      "id": "treaty-of-pereyaslav",
       "name": "Treaty of Pereyaslav",
       "dates": "1654",
       "y": 1654,
@@ -5433,6 +5968,7 @@
       "url": "https://en.wikipedia.org/wiki/Pereiaslav_Agreement"
     },
     {
+      "id": "treaty-of-georgievsk",
       "name": "Treaty of Georgievsk",
       "dates": "1783",
       "y": 1783,
@@ -5443,6 +5979,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Georgievsk"
     },
     {
+      "id": "battle-of-westerplatte",
       "name": "Battle of Westerplatte",
       "dates": "1939",
       "y": 1939,
@@ -5453,6 +5990,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Westerplatte"
     },
     {
+      "id": "treaty-of-saadabad",
       "name": "Treaty of Saadabad",
       "dates": "1937",
       "y": 1937,
@@ -5463,6 +6001,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Saadabad"
     },
     {
+      "id": "anglo-japanese-alliance",
       "name": "Anglo-Japanese Alliance",
       "dates": "1902",
       "y": 1902,
@@ -5473,6 +6012,7 @@
       "url": "https://en.wikipedia.org/wiki/Anglo-Japanese_Alliance"
     },
     {
+      "id": "battle-of-prokhorovka",
       "name": "Battle of Prokhorovka",
       "dates": "1943",
       "y": 1943,
@@ -5483,6 +6023,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Prokhorovka"
     },
     {
+      "id": "battle-of-aspern-essling",
       "name": "Battle of Aspern-Essling",
       "dates": "1809",
       "y": 1809,
@@ -5493,6 +6034,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Aspern%E2%80%93Essling"
     },
     {
+      "id": "battle-of-alam-el-halfa",
       "name": "Battle of Alam el Halfa",
       "dates": "1942",
       "y": 1942,
@@ -5503,6 +6045,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Alam_el_Halfa"
     },
     {
+      "id": "battle-of-fort-sumter",
       "name": "Battle of Fort Sumter",
       "dates": "1861",
       "y": 1861,
@@ -5513,6 +6056,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Fort_Sumter"
     },
     {
+      "id": "battle-of-taranto",
       "name": "Battle of Taranto",
       "dates": "1940",
       "y": 1940,
@@ -5523,6 +6067,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Taranto"
     },
     {
+      "id": "war-of-jenkins-ear",
       "name": "War of Jenkins' Ear",
       "dates": "1739",
       "y": 1739,
@@ -5533,6 +6078,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_Jenkins%27_Ear"
     },
     {
+      "id": "treaty-of-versailles-1871",
       "name": "Treaty of Versailles (1871)",
       "dates": "1871",
       "y": 1871,
@@ -5543,6 +6089,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles_%281871%29"
     },
     {
+      "id": "battle-of-maiwand",
       "name": "Battle of Maiwand",
       "dates": "1880",
       "y": 1880,
@@ -5553,6 +6100,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Maiwand"
     },
     {
+      "id": "war-of-the-breton-succession",
       "name": "War of the Breton Succession",
       "dates": "1341",
       "y": 1341,
@@ -5563,6 +6111,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Breton_Succession"
     },
     {
+      "id": "battle-of-azaz",
       "name": "Battle of Azaz",
       "dates": "1125",
       "y": 1125,
@@ -5573,6 +6122,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Azaz"
     },
     {
+      "id": "battle-of-berezina",
       "name": "Battle of Berezina",
       "dates": "1812",
       "y": 1812,
@@ -5583,6 +6133,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Berezina"
     },
     {
+      "id": "first-silesian-war",
       "name": "First Silesian War",
       "dates": "1740",
       "y": 1740,
@@ -5593,6 +6144,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Silesian_War"
     },
     {
+      "id": "defense-of-the-polish-post-office-in-danzig",
       "name": "Defense of the Polish Post Office in Danzig",
       "dates": "1939",
       "y": 1939,
@@ -5603,6 +6155,7 @@
       "url": "https://en.wikipedia.org/wiki/Defence_of_the_Polish_Post_Office_in_Danzig"
     },
     {
+      "id": "battle-of-khaybar",
       "name": "Battle of Khaybar",
       "dates": "628",
       "y": 628,
@@ -5613,6 +6166,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Khaybar"
     },
     {
+      "id": "league-of-the-three-emperors",
       "name": "League of the Three Emperors",
       "dates": "1873",
       "y": 1873,
@@ -5623,6 +6177,7 @@
       "url": "https://en.wikipedia.org/wiki/League_of_the_Three_Emperors"
     },
     {
+      "id": "battle-of-fontenoy",
       "name": "Battle of Fontenoy",
       "dates": "1745",
       "y": 1745,
@@ -5633,6 +6188,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Fontenoy"
     },
     {
+      "id": "battle-of-the-kalka-river",
       "name": "Battle of the Kalka River",
       "dates": "1223",
       "y": 1223,
@@ -5643,6 +6199,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Kalka_River"
     },
     {
+      "id": "battle-of-rossbach",
       "name": "Battle of Rossbach",
       "dates": "1757",
       "y": 1757,
@@ -5653,6 +6210,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Rossbach"
     },
     {
+      "id": "fourth-anglo-dutch-war",
       "name": "Fourth Anglo-Dutch War",
       "dates": "1780",
       "y": 1780,
@@ -5663,6 +6221,7 @@
       "url": "https://en.wikipedia.org/wiki/Fourth_Anglo-Dutch_War"
     },
     {
+      "id": "japanese-invasions-of-korea",
       "name": "Japanese invasions of Korea",
       "dates": "1592",
       "y": 1592,
@@ -5673,6 +6232,7 @@
       "url": "https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea"
     },
     {
+      "id": "battle-of-cresson",
       "name": "Battle of Cresson",
       "dates": "1187",
       "y": 1187,
@@ -5683,6 +6243,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Cresson"
     },
     {
+      "id": "battle-of-forbie",
       "name": "Battle of Forbie",
       "dates": "1244",
       "y": 1244,
@@ -5693,6 +6254,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Forbie"
     },
     {
+      "id": "battle-of-blore-heath",
       "name": "Battle of Blore Heath",
       "dates": "1459",
       "y": 1459,
@@ -5703,6 +6265,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Blore_Heath"
     },
     {
+      "id": "first-anglo-sikh-war",
       "name": "First Anglo-Sikh War",
       "dates": "1845",
       "y": 1845,
@@ -5713,6 +6276,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Anglo-Sikh_War"
     },
     {
+      "id": "battle-of-debrecen",
       "name": "Battle of Debrecen",
       "dates": "1944",
       "y": 1944,
@@ -5723,6 +6287,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Debrecen"
     },
     {
+      "id": "second-geneva-convention",
       "name": "Second Geneva Convention",
       "dates": "1949",
       "y": 1949,
@@ -5733,6 +6298,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Geneva_Convention"
     },
     {
+      "id": "battle-of-kleidion",
       "name": "Battle of Kleidion",
       "dates": "1014",
       "y": 1014,
@@ -5743,6 +6309,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kleidion"
     },
     {
+      "id": "siege-of-malta",
       "name": "Siege of Malta",
       "dates": "1565",
       "y": 1565,
@@ -5753,6 +6320,7 @@
       "url": "https://en.wikipedia.org/wiki/Siege_of_Malta"
     },
     {
+      "id": "battle-of-falkirk",
       "name": "Battle of Falkirk",
       "dates": "1298",
       "y": 1298,
@@ -5763,6 +6331,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Falkirk"
     },
     {
+      "id": "paraguayan-war",
       "name": "Paraguayan War",
       "dates": "1864",
       "y": 1864,
@@ -5773,6 +6342,7 @@
       "url": "https://en.wikipedia.org/wiki/Paraguayan_War"
     },
     {
+      "id": "battle-of-berestechko",
       "name": "Battle of Berestechko",
       "dates": "1651",
       "y": 1651,
@@ -5783,6 +6353,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Berestechko"
     },
     {
+      "id": "treaty-of-alcacovas",
       "name": "Treaty of Alcáçovas",
       "dates": "1479",
       "y": 1479,
@@ -5793,6 +6364,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Alc%C3%A1%C3%A7ovas"
     },
     {
+      "id": "battle-of-badon",
       "name": "Battle of Badon",
       "dates": "500",
       "y": 500,
@@ -5803,6 +6375,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Badon"
     },
     {
+      "id": "battle-of-the-vorskla-river",
       "name": "Battle of the Vorskla River",
       "dates": "1399",
       "y": 1399,
@@ -5813,6 +6386,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Vorskla_River"
     },
     {
+      "id": "battle-of-tricamarum",
       "name": "Battle of Tricamarum",
       "dates": "533",
       "y": 533,
@@ -5823,6 +6397,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tricamarum"
     },
     {
+      "id": "battle-of-durbe",
       "name": "Battle of Durbe",
       "dates": "1260",
       "y": 1260,
@@ -5833,6 +6408,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Durbe"
     },
     {
+      "id": "battle-of-the-dukla-pass",
       "name": "Battle of the Dukla Pass",
       "dates": "1944",
       "y": 1944,
@@ -5843,6 +6419,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Dukla_Pass"
     },
     {
+      "id": "falaise-pocket",
       "name": "Falaise Pocket",
       "dates": "1944",
       "y": 1944,
@@ -5853,6 +6430,7 @@
       "url": "https://en.wikipedia.org/wiki/Falaise_pocket"
     },
     {
+      "id": "battle-of-anchialus",
       "name": "Battle of Anchialus",
       "dates": "708",
       "y": 708,
@@ -5863,6 +6441,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Anchialus"
     },
     {
+      "id": "battle-of-nahavand",
       "name": "Battle of Nahāvand",
       "dates": "642",
       "y": 642,
@@ -5873,6 +6452,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Nahavand"
     },
     {
+      "id": "convention-of-peking",
       "name": "Convention of Peking",
       "dates": "1860",
       "y": 1860,
@@ -5883,6 +6463,7 @@
       "url": "https://en.wikipedia.org/wiki/Convention_of_Peking"
     },
     {
+      "id": "geneva-protocol",
       "name": "Geneva Protocol",
       "dates": "1925",
       "y": 1925,
@@ -5893,6 +6474,7 @@
       "url": "https://en.wikipedia.org/wiki/Geneva_Protocol"
     },
     {
+      "id": "war-of-the-fourth-coalition",
       "name": "War of the Fourth Coalition",
       "dates": "1806",
       "y": 1806,
@@ -5903,6 +6485,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition"
     },
     {
+      "id": "siege-of-szigetvar",
       "name": "Siege of Szigetvár",
       "dates": "1566",
       "y": 1566,
@@ -5913,6 +6496,7 @@
       "url": "https://en.wikipedia.org/wiki/Siege_of_Szigetv%C3%A1r"
     },
     {
+      "id": "battle-of-peleliu",
       "name": "Battle of Peleliu",
       "dates": "1944",
       "y": 1944,
@@ -5923,6 +6507,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Peleliu"
     },
     {
+      "id": "battle-of-civitate",
       "name": "Battle of Civitate",
       "dates": "1053",
       "y": 1053,
@@ -5933,6 +6518,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Civitate"
     },
     {
+      "id": "castellammarese-war",
       "name": "Castellammarese War",
       "dates": "1930",
       "y": 1930,
@@ -5943,6 +6529,7 @@
       "url": "https://en.wikipedia.org/wiki/Castellammarese_War"
     },
     {
+      "id": "treaty-of-tientsin",
       "name": "Treaty of Tientsin",
       "dates": "1858",
       "y": 1858,
@@ -5953,6 +6540,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Tientsin"
     },
     {
+      "id": "first-battle-of-the-isonzo",
       "name": "First Battle of the Isonzo",
       "dates": "1915",
       "y": 1915,
@@ -5963,6 +6551,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Battle_of_the_Isonzo"
     },
     {
+      "id": "anglo-egyptian-war",
       "name": "Anglo-Egyptian War",
       "dates": "1882",
       "y": 1882,
@@ -5973,6 +6562,7 @@
       "url": "https://en.wikipedia.org/wiki/Anglo-Egyptian_War"
     },
     {
+      "id": "first-anglo-mysore-war",
       "name": "First Anglo-Mysore War",
       "dates": "1767",
       "y": 1767,
@@ -5983,6 +6573,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Anglo-Mysore_War"
     },
     {
+      "id": "third-anglo-maratha-war",
       "name": "Third Anglo-Maratha War",
       "dates": "1817",
       "y": 1817,
@@ -5993,6 +6584,7 @@
       "url": "https://en.wikipedia.org/wiki/Third_Anglo-Maratha_War"
     },
     {
+      "id": "franco-spanish-war",
       "name": "Franco-Spanish War",
       "dates": "1635",
       "y": 1635,
@@ -6003,6 +6595,7 @@
       "url": "https://en.wikipedia.org/wiki/Franco-Spanish_War"
     },
     {
+      "id": "third-anglo-mysore-war",
       "name": "Third Anglo-Mysore War",
       "dates": "1790",
       "y": 1790,
@@ -6013,6 +6606,7 @@
       "url": "https://en.wikipedia.org/wiki/Third_Anglo-Mysore_War"
     },
     {
+      "id": "anglo-egyptian-treaty-of-1936",
       "name": "Anglo-Egyptian treaty of 1936",
       "dates": "1936",
       "y": 1936,
@@ -6023,6 +6617,7 @@
       "url": "https://en.wikipedia.org/wiki/Anglo-Egyptian_treaty_of_1936"
     },
     {
+      "id": "anglo-persian-war",
       "name": "Anglo-Persian War",
       "dates": "1856",
       "y": 1856,
@@ -6033,6 +6628,7 @@
       "url": "https://en.wikipedia.org/wiki/Anglo-Persian_War"
     },
     {
+      "id": "fourth-anglo-mysore-war",
       "name": "Fourth Anglo-Mysore War",
       "dates": "1799",
       "y": 1799,
@@ -6043,6 +6639,7 @@
       "url": "https://en.wikipedia.org/wiki/Fourth_Anglo-Mysore_War"
     },
     {
+      "id": "battle-of-mortimer-s-cross",
       "name": "Battle of Mortimer's Cross",
       "dates": "1461",
       "y": 1461,
@@ -6053,6 +6650,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mortimer%27s_Cross"
     },
     {
+      "id": "battle-of-ager-sanguinis",
       "name": "Battle of Ager Sanguinis",
       "dates": "1119",
       "y": 1119,
@@ -6063,6 +6661,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Field_of_Blood"
     },
     {
+      "id": "aragonese-crusade",
       "name": "Aragonese Crusade",
       "dates": "1283",
       "y": 1283,
@@ -6073,6 +6672,7 @@
       "url": "https://en.wikipedia.org/wiki/Aragonese_Crusade"
     },
     {
+      "id": "battle-of-karbala",
       "name": "Battle of Karbala",
       "dates": "680",
       "y": 680,
@@ -6083,6 +6683,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Karbala"
     },
     {
+      "id": "battle-of-taierzhuang",
       "name": "Battle of Taierzhuang",
       "dates": "1938",
       "y": 1938,
@@ -6093,6 +6694,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Taierzhuang"
     },
     {
+      "id": "battle-of-lutter",
       "name": "Battle of Lutter",
       "dates": "1626",
       "y": 1626,
@@ -6103,6 +6705,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Lutter"
     },
     {
+      "id": "byzantine-ottoman-wars",
       "name": "Byzantine–Ottoman wars",
       "dates": "1265",
       "y": 1265,
@@ -6113,6 +6716,7 @@
       "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Ottoman_wars"
     },
     {
+      "id": "battle-of-idistaviso",
       "name": "Battle of Idistaviso",
       "dates": "16",
       "y": 16,
@@ -6123,6 +6727,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Idistaviso"
     },
     {
+      "id": "deluge",
       "name": "Deluge",
       "dates": "1655",
       "y": 1655,
@@ -6133,6 +6738,7 @@
       "url": "https://en.wikipedia.org/wiki/Deluge"
     },
     {
+      "id": "kalmar-war",
       "name": "Kalmar War",
       "dates": "1611",
       "y": 1611,
@@ -6143,6 +6749,7 @@
       "url": "https://en.wikipedia.org/wiki/Kalmar_War"
     },
     {
+      "id": "first-russo-turkish-war",
       "name": "First Russo-Turkish War",
       "dates": "1568",
       "y": 1568,
@@ -6153,6 +6760,7 @@
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281568%E2%80%931570%29"
     },
     {
+      "id": "russo-polish-war",
       "name": "Russo-Polish War",
       "dates": "1654",
       "y": 1654,
@@ -6163,6 +6771,7 @@
       "url": "https://en.wikipedia.org/wiki/List_of_armed_conflicts_between_Poland_and_Russia"
     },
     {
+      "id": "battle-of-towton",
       "name": "Battle of Towton",
       "dates": "1461",
       "y": 1461,
@@ -6173,6 +6782,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Towton"
     },
     {
+      "id": "battle-of-pavia",
       "name": "Battle of Pavia",
       "dates": "1525",
       "y": 1525,
@@ -6183,6 +6793,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Pavia"
     },
     {
+      "id": "war-of-the-league-of-cambrai",
       "name": "War of the League of Cambrai",
       "dates": "1508",
       "y": 1508,
@@ -6193,6 +6804,7 @@
       "url": "https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai"
     },
     {
+      "id": "battle-of-marj-ayyun",
       "name": "Battle of Marj Ayyun",
       "dates": "1179",
       "y": 1179,
@@ -6203,6 +6815,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Marj_Ayyun"
     },
     {
+      "id": "fifth-russo-turkish-war",
       "name": "Fifth Russo-Turkish War",
       "dates": "1739",
       "y": 1739,
@@ -6213,6 +6826,7 @@
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281735%E2%80%931739%29"
     },
     {
+      "id": "smyrniote-crusades",
       "name": "Smyrniote crusades",
       "dates": "1343",
       "y": 1343,
@@ -6223,6 +6837,7 @@
       "url": "https://en.wikipedia.org/wiki/Smyrniote_crusades"
     },
     {
+      "id": "battle-of-tolvajarvi",
       "name": "Battle of Tolvajärvi",
       "dates": "1939",
       "y": 1939,
@@ -6233,6 +6848,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Tolvaj%C3%A4rvi"
     },
     {
+      "id": "battle-of-kruty",
       "name": "Battle of Kruty",
       "dates": "1918",
       "y": 1918,
@@ -6243,6 +6859,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Kruty"
     },
     {
+      "id": "battle-of-the-boyne",
       "name": "Battle of the Boyne",
       "dates": "1690",
       "y": 1690,
@@ -6253,6 +6870,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Boyne"
     },
     {
+      "id": "battle-of-dublin",
       "name": "Battle of Dublin",
       "dates": "1922",
       "y": 1922,
@@ -6263,6 +6881,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Dublin"
     },
     {
+      "id": "franco-dutch-war",
       "name": "Franco-Dutch War",
       "dates": "1672",
       "y": 1672,
@@ -6273,6 +6892,7 @@
       "url": "https://en.wikipedia.org/wiki/Franco-Dutch_War"
     },
     {
+      "id": "battle-of-patay",
       "name": "Battle of Patay",
       "dates": "1429",
       "y": 1429,
@@ -6283,6 +6903,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Patay"
     },
     {
+      "id": "treaty-of-1818",
       "name": "Treaty of 1818",
       "dates": "1818",
       "y": 1818,
@@ -6293,6 +6914,7 @@
       "url": "https://en.wikipedia.org/wiki/Treaty_of_1818"
     },
     {
+      "id": "battle-of-culloden",
       "name": "Battle of Culloden",
       "dates": "1746",
       "y": 1746,
@@ -6303,6 +6925,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Culloden"
     },
     {
+      "id": "indo-pakistani-war-of-1947-1948",
       "name": "Indo-Pakistani War of 1947–1948",
       "dates": "1947",
       "y": 1947,
@@ -6313,6 +6936,7 @@
       "url": "https://en.wikipedia.org/wiki/India%E2%80%93Pakistan_war_of_1947%E2%80%931948"
     },
     {
+      "id": "battle-of-toulouse",
       "name": "Battle of Toulouse",
       "dates": "721",
       "y": 721,
@@ -6323,6 +6947,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Toulouse"
     },
     {
+      "id": "french-revolution",
       "name": "French Revolution",
       "dates": "1789",
       "y": 1789,
@@ -6333,6 +6958,7 @@
       "url": "https://en.wikipedia.org/wiki/French_Revolution"
     },
     {
+      "id": "battle-of-the-caucasus",
       "name": "Battle of the Caucasus",
       "dates": "1943",
       "y": 1943,
@@ -6343,6 +6969,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Caucasus"
     },
     {
+      "id": "battle-of-lugdunum",
       "name": "Battle of Lugdunum",
       "dates": "197",
       "y": 197,
@@ -6353,6 +6980,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Lugdunum"
     },
     {
+      "id": "battle-of-trenton",
       "name": "Battle of Trenton",
       "dates": "1776",
       "y": 1776,
@@ -6363,6 +6991,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Trenton"
     },
     {
+      "id": "storming-of-the-bastille",
       "name": "Storming of the Bastille",
       "dates": "1789",
       "y": 1789,
@@ -6373,6 +7002,7 @@
       "url": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille"
     },
     {
+      "id": "second-northern-war",
       "name": "Second Northern War",
       "dates": "1655",
       "y": 1655,
@@ -6383,6 +7013,7 @@
       "url": "https://en.wikipedia.org/wiki/Northern_War_of_1655%E2%80%931660"
     },
     {
+      "id": "battle-of-cambrai",
       "name": "Battle of Cambrai",
       "dates": "1917",
       "y": 1917,
@@ -6393,6 +7024,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Cambrai"
     },
     {
+      "id": "quasi-war",
       "name": "Quasi-War",
       "dates": "1798",
       "y": 1798,
@@ -6403,6 +7035,7 @@
       "url": "https://en.wikipedia.org/wiki/Quasi-War"
     },
     {
+      "id": "battle-of-the-iron-bridge",
       "name": "Battle of the Iron Bridge",
       "dates": "637",
       "y": 637,
@@ -6413,6 +7046,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_the_Iron_Bridge"
     },
     {
+      "id": "greco-turkish-war-of-1897",
       "name": "Greco-Turkish War of 1897",
       "dates": "1897",
       "y": 1897,
@@ -6423,6 +7057,7 @@
       "url": "https://en.wikipedia.org/wiki/Greco-Turkish_War_%281897%29"
     },
     {
+      "id": "second-barons-war",
       "name": "Second Barons' War",
       "dates": "1264",
       "y": 1264,
@@ -6433,6 +7068,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Barons%27_War"
     },
     {
+      "id": "battle-of-achelous",
       "name": "Battle of Achelous",
       "dates": "917",
       "y": 917,
@@ -6443,6 +7079,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Achelous"
     },
     {
+      "id": "battle-of-galicia",
       "name": "Battle of Galicia",
       "dates": "1914",
       "y": 1914,
@@ -6453,6 +7090,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Galicia"
     },
     {
+      "id": "second-russo-turkish-war",
       "name": "Second Russo-Turkish War",
       "dates": "1676",
       "y": 1676,
@@ -6463,6 +7101,7 @@
       "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281672%E2%80%931681%29"
     },
     {
+      "id": "first-battle-of-the-masurian-lakes",
       "name": "First Battle of the Masurian Lakes",
       "dates": "1914",
       "y": 1914,
@@ -6473,6 +7112,7 @@
       "url": "https://en.wikipedia.org/wiki/First_Battle_of_the_Masurian_Lakes"
     },
     {
+      "id": "battle-of-muhlberg",
       "name": "Battle of Mühlberg",
       "dates": "1547",
       "y": 1547,
@@ -6483,6 +7123,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_M%C3%BChlberg"
     },
     {
+      "id": "battle-of-the-piave-river",
       "name": "Battle of the Piave River",
       "dates": "1918",
       "y": 1918,
@@ -6493,6 +7134,7 @@
       "url": "https://en.wikipedia.org/wiki/Second_Battle_of_the_Piave_River"
     },
     {
+      "id": "battle-of-vittorio-veneto",
       "name": "Battle of Vittorio Veneto",
       "dates": "1918",
       "y": 1918,
@@ -6503,6 +7145,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Vittorio_Veneto"
     },
     {
+      "id": "battle-of-zorndorf",
       "name": "Battle of Zorndorf",
       "dates": "1758",
       "y": 1758,
@@ -6513,6 +7156,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Zorndorf"
     },
     {
+      "id": "battle-of-mollwitz",
       "name": "Battle of Mollwitz",
       "dates": "1741",
       "y": 1741,
@@ -6523,6 +7167,7 @@
       "url": "https://en.wikipedia.org/wiki/Battle_of_Mollwitz"
     },
     {
+      "id": "mexican-american-war",
       "name": "Mexican-American War",
       "dates": "1840",
       "y": 1840,
