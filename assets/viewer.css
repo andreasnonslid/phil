@@ -272,5 +272,21 @@ body.detail-mode #detail{display:block}
 .detail-links{display:flex;gap:18px;flex-wrap:wrap;margin-top:22px}
 .detail-links a{font-size:14px;color:var(--accent);text-decoration:none;font-weight:500}
 .detail-links a:hover{text-decoration:underline;text-underline-offset:3px}
+.detail-nav{display:flex;align-items:center;justify-content:space-between;gap:14px;
+  margin-top:40px;padding-top:24px;border-top:1px solid var(--line-soft)}
+.detail-nav-btn{display:flex;align-items:center;gap:8px;font-family:inherit;font-size:14px;
+  color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;
+  padding:10px 16px;cursor:pointer;max-width:38%}
+.detail-nav-btn:hover:not(:disabled){border-color:var(--accent);color:var(--accent)}
+.detail-nav-btn:disabled{opacity:.35;cursor:default}
+.detail-nav-btn:last-child{flex-direction:row-reverse}
+.detail-nav-btn .nav-label{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.detail-nav-btn .nav-arrow{width:16px;height:16px;flex:none}
+.detail-nav-pos{font-size:12px;color:var(--ink-soft);white-space:nowrap}
+@media (max-width:480px){
+  .detail-nav{flex-wrap:wrap}
+  .detail-nav-btn{max-width:47%}
+  .detail-nav-pos{order:3;width:100%;text-align:center;margin-top:4px}
+}
 /* ---- end entity detail view ---- */
 

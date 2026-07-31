@@ -768,6 +768,15 @@ function currentEntry(){
   return DATA.find(r=>r.id===state.entryId)||null;
 }
 
+// Neighbours are defined by the current filter/sort state (match+sortRecs), not the full
+// topic. Returns null when the entry isn't in that result set (e.g. a bare entity URL).
+function detailNeighbors(r){
+  const recs=sortRecs(DATA.filter(match));
+  const idx=recs.findIndex(x=>x.id===r.id);
+  if(idx<0)return null;
+  return {idx,total:recs.length,prev:idx>0?recs[idx-1]:null,next:idx<recs.length-1?recs[idx+1]:null};
+}
+
 function readEntryIdFromUrl(){
   const id=new URLSearchParams(location.search).get("id");
   if(!id){state.entryId=null;return;}
@@ -827,6 +836,18 @@ function renderDetail(){
   }
   const wikiLink=r.url?`<a class="detail-link" href="${esc(r.url)}" target="_blank" rel="noopener">Wikipedia &rarr;</a>`:"";
   const sepLink=r.sep_url?`<a class="detail-link" href="${esc(r.sep_url)}" target="_blank" rel="noopener">Stanford Encyclopedia of Philosophy &rarr;</a>`:"";
+  const nav=detailNeighbors(r);
+  const navHtml=nav?`<nav class="detail-nav" aria-label="${esc(CFG.itemNoun||"results")} navigation">
+    <button class="detail-nav-btn" id="detailPrev" ${nav.prev?"":"disabled"}>
+      <svg class="nav-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
+      <span class="nav-label">${nav.prev?esc(nav.prev.name):"Previous"}</span>
+    </button>
+    <div class="detail-nav-pos">${nav.idx+1} of ${nav.total} ${esc(CFG.itemNoun||"")}</div>
+    <button class="detail-nav-btn" id="detailNext" ${nav.next?"":"disabled"}>
+      <span class="nav-label">${nav.next?esc(nav.next.name):"Next"}</span>
+      <svg class="nav-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 6l6 6-6 6"/></svg>
+    </button>
+  </nav>`:"";
   $("#detail").innerHTML=`
     <a href="#" class="detail-back" id="detailBack">&larr; All ${esc(CFG.itemNoun||"")}</a>
     <h1 class="detail-name">${esc(r.name)}</h1>
@@ -838,6 +859,7 @@ function renderDetail(){
     <div class="detail-links">${wikiLink}${sepLink}</div>
     <!-- Insertion point for later epics: contemporaries (E2-02), influences (E3-02). -->
     <div id="detail-extras"></div>
+    ${navHtml}
   `;
   document.title=`${r.name} — ${CFG.title||""}`;
   $("#detailBack").addEventListener("click",e=>{e.preventDefault();navigateToList();});
@@ -845,7 +867,28 @@ function renderDetail(){
     navigateToList();
     addFilter(b.dataset.filter,b.dataset.val);
   }));
+  if(nav){
+    if(nav.prev)$("#detailPrev").addEventListener("click",()=>navigateToEntry(nav.prev.id));
+    if(nav.next)$("#detailNext").addEventListener("click",()=>navigateToEntry(nav.next.id));
+  }
 }
+
+function isTypingTarget(el){
+  if(!el)return false;
+  return el.tagName==="INPUT"||el.tagName==="TEXTAREA"||el.tagName==="SELECT"||el.isContentEditable;
+}
+
+document.addEventListener("keydown",e=>{
+  if(!state.entryId||(e.key!=="ArrowLeft"&&e.key!=="ArrowRight"))return;
+  if(isTypingTarget(document.activeElement))return;
+  const r=currentEntry();
+  const nav=r&&detailNeighbors(r);
+  if(!nav)return;
+  const target=e.key==="ArrowLeft"?nav.prev:nav.next;
+  if(!target)return;
+  e.preventDefault();
+  navigateToEntry(target.id);
+});
 // ---- end entity detail view ----
 
 async function initApp(){
