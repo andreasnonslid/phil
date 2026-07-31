@@ -143,14 +143,17 @@ def check_phil_extras(browser, base_url, errors):
     page = new_page(browser, errors)
     load_viewer(page, base_url, "phil")
 
-    before_q = page.locator("#q").input_value()
     page.click("#randBtn")
     if not wait_until(
         page,
-        "(v) => document.querySelector('#q').value !== v",
-        arg=before_q,
+        "() => new URLSearchParams(location.search).has('id')",
     ):
-        raise Failure("phil: random button did not change the visible result")
+        raise Failure("phil: random button did not open the detail view")
+    if not wait_until(page, "() => document.querySelector('.detail-name') !== null"):
+        raise Failure("phil: random button navigated but no detail view rendered")
+    page.click("#detailBack")
+    if not wait_until(page, "() => !new URLSearchParams(location.search).has('id')"):
+        raise Failure("phil: detail-back link did not return to the list view")
 
     theme_before = page.evaluate("document.documentElement.getAttribute('data-theme')")
     page.click("#themeBtn")

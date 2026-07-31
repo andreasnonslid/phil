@@ -612,7 +612,7 @@ function wireGloss(selId, descId, glossary) {
 
 
 
-// ---- random philosopher ----
+// ---- random entry ----
 const RAND_KEY = "phil_seen_v1";
 function randLoad(){ try{ return new Set(JSON.parse(localStorage.getItem(RAND_KEY)||"[]")); } catch(e){ return new Set(); } }
 function randSave(s){ try{ localStorage.setItem(RAND_KEY, JSON.stringify([...s])); } catch(e){} }
@@ -627,7 +627,6 @@ function randUpdateUI(){
 randUpdateUI();
 
 $("#randBtn").addEventListener("click", () => {
-  state.q = ""; $("#q").value = "";
   const candidates = DATA.filter(match);
   if (!candidates.length) return;
 
@@ -646,17 +645,14 @@ $("#randBtn").addEventListener("click", () => {
   randSave(seen);
   randUpdateUI();
 
-  state.q = pick.name.toLowerCase();
-  $("#q").value = pick.name;
-  render();
-  window.scrollTo({top:0, behavior:"smooth"});
+  navigateToEntry(pick.id);
 });
 
 $("#randClear").addEventListener("click", () => {
   randSave(new Set());
   randUpdateUI();
 });
-// ---- end random philosopher ----
+// ---- end random entry ----
 
 // ---- favourites ----
 const FAV_KEY = "phil_favs_v1";
