@@ -244,6 +244,7 @@ function renderActiveTags(){
 
 function row(r){
   const q=state.q;
+  const entryHref=`viewer.html?d=${encodeURIComponent(currentDataset())}&id=${encodeURIComponent(r.id)}`;
   const cardTags=(CFG.cardTags||[]).map(ct=>{
     const f=filterById(ct.id);
     if(!f)return "";
@@ -262,7 +263,7 @@ function row(r){
   return `<div class="row">
     <div class="ident">
       <div class="nm" style="display:flex;align-items:flex-start;gap:6px">
-        <a href="${r.url}" target="_blank" rel="noopener" style="flex:1">${highlight(r.name,q)}</a>
+        <a class="entry-link" href="${entryHref}" data-id="${esc(r.id)}" rel="nofollow noreferrer" style="flex:1">${highlight(r.name,q)}</a>
         <button class="fav-btn${FAVS.has(r.name)?' active':''}" data-fav="${esc(r.name)}" title="Favourite" aria-label="Toggle favourite">★</button>
       </div>
       <div class="dt">${esc(r.dates||"")}<a href="${r.url}" target="_blank" rel="noopener" aria-label="Wikipedia">${ext}</a>${r.sep_url?`<a class="sep-link" href="${r.sep_url}" target="_blank" rel="noopener" aria-label="Stanford Encyclopedia of Philosophy">SEP</a>`:""}</div>
@@ -319,13 +320,15 @@ function renderTimeline(recs){
     const x=((y-start)/span)*100;
     return `<div class="time-tick" style="left:${x}%"><span>${yearLabel(y)}</span></div>`;
   }).join("");
+  const topicId=currentDataset();
   const laneHtml=lanes.map(([trad,items],li)=>{
     const color=laneColors[trad]||TL_PALETTE[li%TL_PALETTE.length];
     const points=items.map(r=>{
       const x=((r.y-start)/span)*100;
       const cls=timelineItemClass(r,recs);
-      return `<a class="timeline-item ${cls}" href="${r.url}" target="_blank" rel="noopener"
-        data-name="${esc(r.name)}" style="left:${x}%;top:50%;--c:${color}">
+      const entryHref=`viewer.html?d=${encodeURIComponent(topicId)}&id=${encodeURIComponent(r.id)}`;
+      return `<a class="timeline-item ${cls}" href="${entryHref}" rel="nofollow noreferrer"
+        data-name="${esc(r.name)}" data-id="${esc(r.id)}" style="left:${x}%;top:50%;--c:${color}">
         <span class="timeline-dot"></span>
       </a>`;
     }).join("");
@@ -421,6 +424,11 @@ function wireTimeline(){
       if(r)showTimelineTip(r,e);
     });
     item.addEventListener("blur",hideTimelineTip);
+    item.addEventListener("click",e=>{
+      if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+      e.preventDefault();
+      navigateToEntry(item.dataset.id);
+    });
   });
 
   const scroller=document.getElementById("timelineScroller");
@@ -544,6 +552,11 @@ function render(){
   }
   box.innerHTML=h;
   box.querySelectorAll("[data-filter]").forEach(b=>b.addEventListener("click",()=>addFilter(b.dataset.filter,b.dataset.val)));
+  box.querySelectorAll(".entry-link").forEach(a=>a.addEventListener("click",e=>{
+    if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+    e.preventDefault();
+    navigateToEntry(a.dataset.id);
+  }));
   box.querySelectorAll("[data-fav]").forEach(b=>b.addEventListener("click",(e)=>{
     e.stopPropagation();
     const name=b.dataset.fav;
