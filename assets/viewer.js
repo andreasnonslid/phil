@@ -48,6 +48,51 @@ async function loadData(){
   });
 }
 
+// ---- corpus ----
+// Cross-topic corpus: every entry from every topic other than the one loadData() already
+// loaded, flattened to {topic, meta, entry} so a caller always knows which topic (and its
+// meta config) an entry came from. Lazy — never fetched during initial page load, only by
+// features that need cross-topic context (E2-02/03/04 consume this).
+let _corpus=null;
+let _corpusPromise=null;
+async function loadCorpus(){
+  if(_corpus)return _corpus;
+  if(_corpusPromise)return _corpusPromise;
+  const skip=currentDataset();
+  _corpusPromise=Promise.all(
+    TOPICS.filter(t=>t.id!==skip).map(t=>
+      fetch(`data/${t.id}.json`).then(r=>r.json())
+        .then(topic=>({id:t.id,meta:topic.meta||{},entries:topic.entries||[]}))
+        .catch(err=>{
+          console.warn(`loadCorpus: could not load topic "${t.id}".`,err);
+          return null;
+        })
+    )
+  ).then(loaded=>{
+    const flat=[];
+    loaded.filter(Boolean).forEach(({id,meta,entries})=>{
+      entries.forEach(entry=>flat.push({topic:id,meta,entry}));
+    });
+    _corpus=flat;
+    return _corpus;
+  });
+  return _corpusPromise;
+}
+
+function corpusByYear(minY,maxY,opts){
+  const {excludeTopic,excludeId}=opts||{};
+  return (_corpus||[])
+    .filter(c=>c.entry.y>=minY&&c.entry.y<=maxY)
+    .filter(c=>!excludeTopic||c.topic!==excludeTopic)
+    .filter(c=>!excludeId||c.entry.id!==excludeId)
+    .sort((a,b)=>a.entry.y-b.entry.y||(a.entry.name<b.entry.name?-1:1));
+}
+
+function corpusFindByUrl(url){
+  return (_corpus||[]).filter(c=>c.entry.url===url);
+}
+// ---- end corpus ----
+
 const $=s=>document.querySelector(s);
 const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
