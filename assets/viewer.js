@@ -1,7 +1,7 @@
 let DATA=[];
 let CFG={};          // topic config (the JSON "meta" block), set in loadData
 let FILTERS=[];      // CFG.filters
-const state={q:"",filters:{},sort:"az",showFavs:false,view:"list",entryId:null};
+const state={q:"",filters:{},sort:"az",showFavs:false,view:"list",entryId:null,yMin:null,yMax:null};
 const formatViews=n=>Number(n||0).toLocaleString(undefined,{maximumFractionDigits:0});
 
 // Available topics, loaded from data/topics.json in initApp(). The ?d= param selects
@@ -249,6 +249,7 @@ function searchText(r){
 
 function match(r){
   if(state.showFavs && !FAVS.has(r.name))return false;
+  if(state.yMin!=null && !(r.y>=state.yMin && r.y<=state.yMax))return false;
   for(const f of FILTERS){
     const sel=state.filters[f.id];
     if(!sel||!sel.size)continue;
@@ -276,8 +277,12 @@ function renderActiveTags(){
   const box=$("#activeTags");let h="";
   const mk=(label,grp,val)=>`<button class="chip" data-grp="${grp}" data-val="${esc(val)}">${esc(label)} <span>&times;</span></button>`;
   FILTERS.forEach(f=>{ state.filters[f.id].forEach(v=>h+=mk(v,f.id,v)); });
+  if(state.yMin!=null){
+    h+=`<button class="chip" data-period-clear>${esc(yearLabel(state.yMin))}&ndash;${esc(yearLabel(state.yMax))} <span>&times;</span></button>`;
+  }
   box.innerHTML=h;
   box.querySelectorAll(".chip").forEach(ch=>ch.addEventListener("click",()=>{
+    if(ch.hasAttribute("data-period-clear")){state.yMin=null;state.yMax=null;render();return;}
     const g=ch.dataset.grp,v=ch.dataset.val;state.filters[g].delete(v);
     const dd=$(`#dd-${g}`);
     const cb=dd.querySelector(`input[value="${CSS.escape(v)}"]`);if(cb)cb.checked=false;
@@ -630,6 +635,7 @@ function addFilter(grp,val){
 function resetAll(){
   state.q="";FILTERS.forEach(f=>state.filters[f.id].clear());
   state.showFavs=false;
+  state.yMin=null;state.yMax=null;
   $("#q").value="";
   document.querySelectorAll('.panel input[type=checkbox]').forEach(c=>c.checked=false);
   document.querySelectorAll(".dd").forEach(d=>updBadge(d,0));
@@ -738,7 +744,7 @@ document.querySelectorAll(".view-btn").forEach(btn=>{
 
 // ---- clear filters ----
 function updClearFiltersBtn(){
-  const hasFilters = state.q || state.showFavs || FILTERS.some(f=>state.filters[f.id].size);
+  const hasFilters = state.q || state.showFavs || state.yMin!=null || FILTERS.some(f=>state.filters[f.id].size);
   $("#clearFiltersBtn").disabled = !hasFilters;
 }
 $("#clearFiltersBtn").addEventListener("click", () => { if (!$("#clearFiltersBtn").disabled) resetAll(); });
@@ -748,6 +754,8 @@ $("#clearFiltersBtn").addEventListener("click", () => { if (!$("#clearFiltersBtn
 // Encode current filter state into the URL hash. Filter ids become hash keys, e.g.
 //   #q=Kant&fields=Ethics,Logic&trads=Analytic&eras=19th+century&favs=1&view=timeline
 // All values are encodeURIComponent-safe. Comma-separated for multi-select.
+// minY/maxY (a plain year range, not tied to any filter id) are set by the "Meanwhile"
+// section's "see all" link (E2-02) to open a topic's list view filtered to a period.
 function encodeHash(){
   if (state.entryId) return; // filter state does not belong in an entity URL
   const parts = [];
@@ -757,6 +765,8 @@ function encodeHash(){
     if(sel.size) parts.push(f.id+"="+[...sel].map(encodeURIComponent).join(","));
   });
   if (state.showFavs)       parts.push("favs=1");
+  if (state.yMin!=null)     parts.push("minY="   + encodeURIComponent(state.yMin));
+  if (state.yMax!=null)     parts.push("maxY="   + encodeURIComponent(state.yMax));
   if (state.view !== "list") parts.push("view="   + encodeURIComponent(state.view));
   history.replaceState(null,"", parts.length ? "#" + parts.join("&") : location.pathname + location.search);
 }
@@ -786,6 +796,10 @@ function decodeHash(){
   if (params.favs === "1"){
     state.showFavs = true;
     updFavFilter();
+  }
+  if (params.minY!==undefined && params.maxY!==undefined){
+    const min=Number(params.minY), max=Number(params.maxY);
+    if(Number.isFinite(min) && Number.isFinite(max)){ state.yMin=min; state.yMax=max; }
   }
   if (params.view === "timeline"){
     state.view = "timeline";
@@ -916,6 +930,7 @@ function renderDetail(){
     if(nav.prev)$("#detailPrev").addEventListener("click",()=>navigateToEntry(nav.prev.id));
     if(nav.next)$("#detailNext").addEventListener("click",()=>navigateToEntry(nav.next.id));
   }
+  renderMeanwhile(r); // fires after the entry itself has painted; never awaited here
 }
 
 function isTypingTarget(el){
@@ -935,6 +950,84 @@ document.addEventListener("keydown",e=>{
   navigateToEntry(target.id);
 });
 // ---- end entity detail view ----
+
+// ---- meanwhile ----
+// "What else was happening around then" — contemporaries drawn from all three topics,
+// rendered into #detail-extras (the insertion point E1-03 left) after first paint so it
+// never delays the entry itself. Widens the year window when the default is too sparse.
+const MEANWHILE_WINDOWS=[25,50,100];
+const MEANWHILE_MAX_PER_TOPIC=6;
+let meanwhileToken=0; // bumped on every call so a stale fetch can't clobber a newer entry
+
+function meanwhileGroupHtml(topicId,meta,entries,r,minY,maxY){
+  const sorted=[...entries].sort((a,b)=>Math.abs(a.y-r.y)-Math.abs(b.y-r.y)||(a.name<b.name?-1:1));
+  const shown=sorted.slice(0,MEANWHILE_MAX_PER_TOPIC);
+  const itemsHtml=shown.map(e=>{
+    const href=`viewer.html?d=${encodeURIComponent(topicId)}&id=${encodeURIComponent(e.id)}`;
+    return `<a class="meanwhile-item" href="${href}">
+      <span class="meanwhile-item-name">${esc(e.name)}</span>
+      <span class="meanwhile-item-dates">${esc(e.dates||"")}</span>
+      <span class="meanwhile-item-desc">${esc(e.desc||"")}</span>
+    </a>`;
+  }).join("");
+  const moreHtml = sorted.length>MEANWHILE_MAX_PER_TOPIC
+    ? `<a class="meanwhile-more" href="viewer.html?d=${encodeURIComponent(topicId)}#minY=${encodeURIComponent(minY)}&maxY=${encodeURIComponent(maxY)}">See all ${sorted.length} ${esc(meta.itemNoun||"results")} &rarr;</a>`
+    : "";
+  return `<div class="meanwhile-group">
+    <h3 class="meanwhile-heading">${esc(meta.title||topicId)}</h3>
+    <div class="meanwhile-items">${itemsHtml}</div>
+    ${moreHtml}
+  </div>`;
+}
+
+async function renderMeanwhile(r){
+  const extras=$("#detail-extras");
+  if(!extras)return;
+  if(!Number.isFinite(r.y)){extras.innerHTML="";return;}
+  const token=++meanwhileToken;
+  extras.innerHTML=`<div class="meanwhile-loading">Loading what else was happening&hellip;</div>`;
+
+  let corpus;
+  try{
+    corpus=await loadCorpus();
+  }catch(err){
+    console.warn("Meanwhile: could not load corpus.",err);
+    if(token===meanwhileToken)extras.innerHTML="";
+    return;
+  }
+  if(token!==meanwhileToken)return; // a later navigation superseded this call
+
+  const topicId=currentDataset();
+  const ownEntries=DATA.filter(e=>e.id!==r.id && Number.isFinite(e.y));
+  let radius=MEANWHILE_WINDOWS[0], minY, maxY, own=[], others=[];
+  for(const w of MEANWHILE_WINDOWS){
+    radius=w; minY=r.y-w; maxY=r.y+w;
+    own=ownEntries.filter(e=>e.y>=minY&&e.y<=maxY);
+    others=corpusByYear(minY,maxY,{excludeId:r.id});
+    if(own.length+others.length>=5)break;
+  }
+  if(!own.length && !others.length){extras.innerHTML="";return;}
+
+  const groups=new Map();
+  groups.set(topicId,{meta:CFG,entries:own});
+  others.forEach(c=>{
+    if(!groups.has(c.topic))groups.set(c.topic,{meta:c.meta,entries:[]});
+    groups.get(c.topic).entries.push(c.entry);
+  });
+  const orderedTopicIds=TOPICS.map(t=>t.id).filter(id=>groups.has(id)&&groups.get(id).entries.length);
+
+  const headingSuffix=radius===MEANWHILE_WINDOWS[0]?"":` (within ${radius} years)`;
+  const groupsHtml=orderedTopicIds
+    .map(id=>meanwhileGroupHtml(id,groups.get(id).meta,groups.get(id).entries,r,minY,maxY))
+    .join("");
+
+  if(token!==meanwhileToken)return;
+  extras.innerHTML=`<div class="meanwhile">
+    <h2 class="meanwhile-title">Meanwhile${headingSuffix}</h2>
+    ${groupsHtml}
+  </div>`;
+}
+// ---- end meanwhile ----
 
 async function initApp(){
   await loadTopics();

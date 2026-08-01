@@ -290,3 +290,28 @@ body.detail-mode #detail{display:block}
 }
 /* ---- end entity detail view ---- */
 
+/* ---- meanwhile ---- */
+.meanwhile-loading{font-size:14px;color:var(--ink-soft);margin-top:40px;padding-top:24px;
+  border-top:1px solid var(--line-soft)}
+.meanwhile{margin-top:40px;padding-top:24px;border-top:1px solid var(--line-soft)}
+.meanwhile-title{font-family:'Fraunces',serif;font-weight:600;font-size:20px;margin:0 0 18px;color:var(--ink)}
+.meanwhile-group{margin-bottom:24px}
+.meanwhile-group:last-child{margin-bottom:0}
+.meanwhile-heading{font-family:'Inter';font-size:12px;letter-spacing:.08em;text-transform:uppercase;
+  font-weight:600;color:var(--accent);margin:0 0 10px}
+.meanwhile-items{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
+.meanwhile-item{display:block;padding:12px 14px;background:var(--card);border:1px solid var(--line);
+  border-radius:10px;text-decoration:none;color:var(--ink);min-width:0}
+.meanwhile-item:hover{border-color:var(--accent)}
+.meanwhile-item-name{display:block;font-family:'Fraunces',serif;font-size:15px;font-weight:500;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.meanwhile-item-dates{display:block;font-size:12px;color:var(--ink-soft);margin-top:2px;font-variant-numeric:tabular-nums}
+.meanwhile-item-desc{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;
+  overflow:hidden;text-overflow:ellipsis;font-size:13px;color:var(--ink-soft);margin-top:6px;line-height:1.4}
+.meanwhile-more{display:inline-block;margin-top:10px;font-size:13px;color:var(--accent);text-decoration:none;font-weight:500}
+.meanwhile-more:hover{text-decoration:underline;text-underline-offset:3px}
+@media (max-width:480px){
+  .meanwhile-items{grid-template-columns:1fr}
+}
+/* ---- end meanwhile ---- */
+
