@@ -1,7 +1,7 @@
 let DATA=[];
 let CFG={};          // topic config (the JSON "meta" block), set in loadData
 let FILTERS=[];      // CFG.filters
-const state={q:"",filters:{},sort:"az",showFavs:false,view:"list",entryId:null,yMin:null,yMax:null};
+const state={q:"",filters:{},sort:"az",showFavs:false,view:"list",entryId:null,yMin:null,yMax:null,crossTopic:false};
 const formatViews=n=>Number(n||0).toLocaleString(undefined,{maximumFractionDigits:0});
 
 // Available topics, loaded from data/topics.json in initApp(). The ?d= param selects
@@ -224,6 +224,7 @@ function updBadge(dd,n){
 }
 
 $("#q").addEventListener("input",e=>{state.q=e.target.value.trim().toLowerCase();render();});
+$("#allTopicsToggle").addEventListener("change",e=>{state.crossTopic=e.target.checked;render();});
 
 const themeBtn=$("#themeBtn");
 themeBtn.textContent=document.documentElement.getAttribute("data-theme")==="dark"?"Light mode":"Dark mode";
@@ -242,9 +243,14 @@ function highlight(text,q){
   return esc(text.slice(0,i))+"<mark>"+esc(text.slice(i,i+q.length))+"</mark>"+esc(text.slice(i+q.length));
 }
 
-function searchText(r){
-  const keys=CFG.searchKeys||["name","desc",...FILTERS.map(f=>f.key)];
+function searchTextWithKeys(r,keys){
   return keys.map(k=>{const v=r[k];return Array.isArray(v)?v.join(" "):(v==null?"":String(v));}).join(" ").toLowerCase();
+}
+function searchKeysFor(meta){
+  return meta.searchKeys||["name","desc",...(meta.filters||[]).map(f=>f.key)];
+}
+function searchText(r){
+  return searchTextWithKeys(r,searchKeysFor(CFG));
 }
 
 function match(r){
@@ -292,11 +298,12 @@ function renderActiveTags(){
 
 
 
-function row(r){
+function row(r,ctx){
+  ctx=ctx||{topicId:currentDataset(),meta:CFG,filters:FILTERS,crossTopic:false};
   const q=state.q;
-  const entryHref=`viewer.html?d=${encodeURIComponent(currentDataset())}&id=${encodeURIComponent(r.id)}`;
-  const cardTags=(CFG.cardTags||[]).map(ct=>{
-    const f=filterById(ct.id);
+  const entryHref=`viewer.html?d=${encodeURIComponent(ctx.topicId)}&id=${encodeURIComponent(r.id)}`;
+  const cardTags=(ctx.meta.cardTags||[]).map(ct=>{
+    const f=(ctx.filters||[]).find(x=>x.id===ct.id);
     if(!f)return "";
     const v=r[f.key];
     if(v==null||v==="")return "";
@@ -306,25 +313,111 @@ function row(r){
       return `<button class="tag${ct.cls?" "+ct.cls:""}" data-filter="${esc(f.id)}" data-val="${esc(x)}">${esc(label)}</button>`;
     }).join("");
   }).join("");
-  const popClass=r.popularity>=75?"pop-high":r.popularity>=50?"pop-mid":"pop-low";
-  const popLabel=r.popularity>=75?"Widely read":r.popularity>=50?"Often read":"Less read";
-  const popTag=r.popularity===null?"":`<span class="tag popularity ${popClass}" title="Score ${r.popularity}/100 \u00b7 ${formatViews(r.avg_views_per_day)} avg. Wikipedia views/day (10-year window)">${popLabel}</span>`;
+  const pop=r.popularity??null;
+  const popClass=pop>=75?"pop-high":pop>=50?"pop-mid":"pop-low";
+  const popLabel=pop>=75?"Widely read":pop>=50?"Often read":"Less read";
+  const popTag=pop===null?"":`<span class="tag popularity ${popClass}" title="Score ${pop}/100 \u00b7 ${formatViews(r.avg_views_per_day)} avg. Wikipedia views/day (10-year window)">${popLabel}</span>`;
+  const topicTag=ctx.crossTopic?`<span class="tag topic-label">${esc(ctx.meta.title||ctx.topicId)}</span>`:"";
   const ext=`<svg class="ext" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M9 7h8v8"/></svg>`;
   return `<div class="row">
     <div class="ident">
       <div class="nm" style="display:flex;align-items:flex-start;gap:6px">
-        <a class="entry-link" href="${entryHref}" data-id="${esc(r.id)}" rel="nofollow noreferrer" style="flex:1">${highlight(r.name,q)}</a>
+        <a class="entry-link" href="${entryHref}" data-id="${esc(r.id)}" data-topic="${esc(ctx.topicId)}" rel="nofollow noreferrer" style="flex:1">${highlight(r.name,q)}</a>
         <button class="fav-btn${FAVS.has(r.name)?' active':''}" data-fav="${esc(r.name)}" title="Favourite" aria-label="Toggle favourite">★</button>
       </div>
       <div class="dt">${esc(r.dates||"")}<a href="${r.url}" target="_blank" rel="noopener" aria-label="Wikipedia">${ext}</a>${r.sep_url?`<a class="sep-link" href="${r.sep_url}" target="_blank" rel="noopener" aria-label="Stanford Encyclopedia of Philosophy">SEP</a>`:""}</div>
     </div>
     <div class="body">
       <p class="desc">${highlight(r.desc,q)}</p>
-      <div class="tags">${cardTags}${popTag}</div>
+      <div class="tags">${cardTags}${popTag}${topicTag}</div>
       ${r.tldr?`<button class="tldr-btn" aria-expanded="false"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg>TL;DR</button><div class="tldr-body">${esc(r.tldr)}</div>`:""}
     </div>
   </div>`;
 }
+
+function wireResultCards(box){
+  box.querySelectorAll("[data-filter]").forEach(b=>b.addEventListener("click",()=>addFilter(b.dataset.filter,b.dataset.val)));
+  box.querySelectorAll(".entry-link").forEach(a=>a.addEventListener("click",e=>{
+    if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+    if(a.dataset.topic && a.dataset.topic!==currentDataset())return; // foreign topic: let the browser navigate there
+    e.preventDefault();
+    navigateToEntry(a.dataset.id);
+  }));
+  box.querySelectorAll("[data-fav]").forEach(b=>b.addEventListener("click",(e)=>{
+    e.stopPropagation();
+    const name=b.dataset.fav;
+    if(FAVS.has(name)){FAVS.delete(name)}else{FAVS.add(name);}
+    favSave();
+    b.classList.toggle("active",FAVS.has(name));
+    if(state.showFavs)render();
+    updFavFilter();
+  }));
+  box.querySelectorAll(".tldr-btn").forEach(btn=>btn.addEventListener("click",()=>{
+    const exp=btn.getAttribute("aria-expanded")==="true";
+    btn.setAttribute("aria-expanded",String(!exp));
+  }));
+}
+
+// ---- cross-topic search ----
+// Opt-in second mode for the existing search box (E2-03). Active only while the "Search all
+// topics" checkbox is checked AND the query is non-empty -- an empty query always shows the
+// normal single-topic list untouched, and loadCorpus() is never called otherwise.
+let crossSearchToken=0;
+function crossTopicActive(){ return state.crossTopic && !!state.q; }
+
+function updCrossTopicUI(){
+  const active=crossTopicActive();
+  document.querySelectorAll("#filterBar .dd-btn").forEach(btn=>{btn.disabled=active;});
+  document.querySelectorAll(".view-btn").forEach(btn=>{btn.disabled=active;});
+  const note=$("#crossTopicNote");
+  if(note)note.hidden=!active;
+}
+
+async function renderCrossTopicSearch(){
+  const token=++crossSearchToken;
+  const box=$("#results");
+  box.innerHTML=`<div class="cross-search-loading">Searching all topics\u2026</div>`;
+  $("#activeTags").innerHTML="";
+  const corpus=await loadCorpus();
+  if(token!==crossSearchToken)return; // a later keystroke/toggle superseded this call
+
+  const q=state.q;
+  const topicId=currentDataset();
+  const byName=(a,b)=>a.name.toLowerCase()<b.name.toLowerCase()?-1:1;
+  const groups=new Map();
+  groups.set(topicId,{topicId,meta:CFG,filters:FILTERS,
+    entries:DATA.filter(r=>searchTextWithKeys(r,searchKeysFor(CFG)).includes(q)).sort(byName)});
+  const rawByTopic=new Map();
+  corpus.forEach(c=>{
+    if(!rawByTopic.has(c.topic))rawByTopic.set(c.topic,{meta:c.meta,entries:[]});
+    rawByTopic.get(c.topic).entries.push(c.entry);
+  });
+  rawByTopic.forEach(({meta,entries},tid)=>{
+    groups.set(tid,{topicId:tid,meta,filters:meta.filters||[],
+      entries:entries.filter(e=>searchTextWithKeys(e,searchKeysFor(meta)).includes(q)).sort(byName)});
+  });
+
+  const orderedIds=TOPICS.map(t=>t.id).filter(id=>groups.has(id)&&groups.get(id).entries.length);
+  const totalHits=orderedIds.reduce((n,id)=>n+groups.get(id).entries.length,0);
+  $("#cnt").textContent=totalHits;
+  $("#itemNoun").textContent="results across topics";
+
+  if(!orderedIds.length){
+    box.innerHTML=`<div class="empty"><h3>No results match \u201c${esc(q)}\u201d in any topic.</h3>
+      <p>Try a different search term.</p></div>`;
+  }else{
+    let h="";
+    orderedIds.forEach(id=>{
+      const g=groups.get(id);
+      h+=`<div class="era-head">${esc(g.meta.title||id)}<span class="n">${g.entries.length}</span></div>`;
+      h+=g.entries.map(r=>row(r,{topicId:id,meta:g.meta,filters:g.filters,crossTopic:id!==topicId})).join("");
+    });
+    box.innerHTML=h;
+    wireResultCards(box);
+  }
+  encodeHash();updClearFiltersBtn();
+}
+// ---- end cross-topic search ----
 
 // Fallback timeline lane colors when a topic doesn't supply its own per-value map.
 const TL_PALETTE=["#8b5e34","#2f6fb0","#9a7b3f","#b35d38","#7a8f35","#b15f88",
@@ -563,9 +656,15 @@ function render(){
     return;
   }
   document.title=CFG.title||"Index";
+  updCrossTopicUI();
+  if(crossTopicActive()){
+    renderCrossTopicSearch();
+    return;
+  }
   let recs=DATA.filter(match);
   recs=state.view==="timeline"?[...recs].sort((x,y)=>x.y-y.y||(x.name<y.name?-1:1)):sortRecs(recs);
   $("#cnt").textContent=recs.length;
+  $("#itemNoun").textContent=CFG.itemNoun||"";
   renderActiveTags();
   const box=$("#results");
   if(!recs.length){
@@ -588,7 +687,7 @@ function render(){
       const grp=recs.filter(r=>r[gf.key]===g);
       if(!grp.length)return;
       h+=`<div class="era-head">${esc(g)}<span class="n">${grp.length}</span></div>`;
-      h+=grp.map(row).join("");
+      h+=grp.map(r=>row(r)).join("");
     });
   }else if(state.sort==="az"){
     let lastLetter="";
@@ -598,28 +697,10 @@ function render(){
       h+=row(r);
     });
   }else{
-    h=recs.map(row).join("");
+    h=recs.map(r=>row(r)).join("");
   }
   box.innerHTML=h;
-  box.querySelectorAll("[data-filter]").forEach(b=>b.addEventListener("click",()=>addFilter(b.dataset.filter,b.dataset.val)));
-  box.querySelectorAll(".entry-link").forEach(a=>a.addEventListener("click",e=>{
-    if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
-    e.preventDefault();
-    navigateToEntry(a.dataset.id);
-  }));
-  box.querySelectorAll("[data-fav]").forEach(b=>b.addEventListener("click",(e)=>{
-    e.stopPropagation();
-    const name=b.dataset.fav;
-    if(FAVS.has(name)){FAVS.delete(name)}else{FAVS.add(name);}
-    favSave();
-    b.classList.toggle("active",FAVS.has(name));
-    if(state.showFavs)render();
-    updFavFilter();
-  }));
-  box.querySelectorAll(".tldr-btn").forEach(btn=>btn.addEventListener("click",()=>{
-    const exp=btn.getAttribute("aria-expanded")==="true";
-    btn.setAttribute("aria-expanded",String(!exp));
-  }));
+  wireResultCards(box);
   encodeHash();updClearFiltersBtn();
 }
 
@@ -760,6 +841,7 @@ function encodeHash(){
   if (state.entryId) return; // filter state does not belong in an entity URL
   const parts = [];
   if (state.q)              parts.push("q="      + encodeURIComponent(state.q));
+  if (state.crossTopic)     parts.push("all=1");
   FILTERS.forEach(f=>{
     const sel=state.filters[f.id];
     if(sel.size) parts.push(f.id+"="+[...sel].map(encodeURIComponent).join(","));
@@ -782,6 +864,10 @@ function decodeHash(){
   if (params.q){
     state.q = params.q.toLowerCase();
     $("#q").value = params.q;
+  }
+  if (params.all === "1"){
+    state.crossTopic = true;
+    $("#allTopicsToggle").checked = true;
   }
   FILTERS.forEach(f=>{
     if(!params[f.id])return;
