@@ -88,8 +88,20 @@ function corpusByYear(minY,maxY,opts){
     .sort((a,b)=>a.entry.y-b.entry.y||(a.entry.name<b.entry.name?-1:1));
 }
 
+// Normalises a Wikipedia url for cross-topic matching: lowercased, http/https treated the
+// same, no trailing slash, no query string or fragment. Names differ in format across topics
+// ("Abelard, Peter" vs "Peter Abelard") so the url is the only reliable join key.
+function normalizeUrl(u){
+  if(!u)return "";
+  let s=String(u).trim().toLowerCase().replace(/^http:\/\//,"https://").split(/[?#]/)[0];
+  if(s.endsWith("/"))s=s.slice(0,-1);
+  return s;
+}
+
 function corpusFindByUrl(url){
-  return (_corpus||[]).filter(c=>c.entry.url===url);
+  const target=normalizeUrl(url);
+  if(!target)return [];
+  return (_corpus||[]).filter(c=>normalizeUrl(c.entry.url)===target);
 }
 // ---- end corpus ----
 
@@ -318,6 +330,9 @@ function row(r,ctx){
   const popLabel=pop>=75?"Widely read":pop>=50?"Often read":"Less read";
   const popTag=pop===null?"":`<span class="tag popularity ${popClass}" title="Score ${pop}/100 \u00b7 ${formatViews(r.avg_views_per_day)} avg. Wikipedia views/day (10-year window)">${popLabel}</span>`;
   const topicTag=ctx.crossTopic?`<span class="tag topic-label">${esc(ctx.meta.title||ctx.topicId)}</span>`:"";
+  const alsoInTag=(ctx.alsoInTopics&&ctx.alsoInTopics.length)
+    ?`<span class="tag topic-label" title="Also appears in ${esc(ctx.alsoInTopics.join(", "))}">Also in ${esc(ctx.alsoInTopics.join(", "))}</span>`
+    :"";
   const ext=`<svg class="ext" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17L17 7M9 7h8v8"/></svg>`;
   return `<div class="row">
     <div class="ident">
@@ -329,7 +344,7 @@ function row(r,ctx){
     </div>
     <div class="body">
       <p class="desc">${highlight(r.desc,q)}</p>
-      <div class="tags">${cardTags}${popTag}${topicTag}</div>
+      <div class="tags">${cardTags}${popTag}${topicTag}${alsoInTag}</div>
       ${r.tldr?`<button class="tldr-btn" aria-expanded="false"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg>TL;DR</button><div class="tldr-body">${esc(r.tldr)}</div>`:""}
     </div>
   </div>`;
@@ -373,6 +388,20 @@ function updCrossTopicUI(){
   if(note)note.hidden=!active;
 }
 
+// Which other topics (by title) among the current cross-topic result groups also contain an
+// entry sharing this entry's normalised url. Lets a figure hit in two topics read as one
+// person, not two unrelated results (E2-04).
+function crossSearchAlsoIn(entry,ownTopicId,groups){
+  const target=normalizeUrl(entry.url);
+  if(!target)return [];
+  const titles=[];
+  groups.forEach((g,tid)=>{
+    if(tid===ownTopicId)return;
+    if(g.entries.some(e=>normalizeUrl(e.url)===target))titles.push(g.meta.title||tid);
+  });
+  return titles;
+}
+
 async function renderCrossTopicSearch(){
   const token=++crossSearchToken;
   const box=$("#results");
@@ -410,7 +439,10 @@ async function renderCrossTopicSearch(){
     orderedIds.forEach(id=>{
       const g=groups.get(id);
       h+=`<div class="era-head">${esc(g.meta.title||id)}<span class="n">${g.entries.length}</span></div>`;
-      h+=g.entries.map(r=>row(r,{topicId:id,meta:g.meta,filters:g.filters,crossTopic:id!==topicId})).join("");
+      h+=g.entries.map(r=>{
+        const alsoInTopics=crossSearchAlsoIn(r,id,groups);
+        return row(r,{topicId:id,meta:g.meta,filters:g.filters,crossTopic:id!==topicId,alsoInTopics});
+      }).join("");
     });
     box.innerHTML=h;
     wireResultCards(box);
@@ -1066,10 +1098,21 @@ function meanwhileGroupHtml(topicId,meta,entries,r,minY,maxY){
   </div>`;
 }
 
+// Renders the "Also in" line for entries sharing this one's Wikipedia url in another topic
+// (E2-04). Requires the corpus to already be loaded; returns "" when there is no match, per
+// the entity link block below.
+function alsoInHtml(r){
+  const matches=corpusFindByUrl(r.url);
+  if(!matches.length)return "";
+  const links=matches
+    .map(m=>`<a class="detail-link" href="viewer.html?d=${encodeURIComponent(m.topic)}&id=${encodeURIComponent(m.entry.id)}">${esc(m.meta.title||m.topic)} &rarr;</a>`)
+    .join("");
+  return `<div class="detail-links detail-also-in"><span class="detail-also-in-label">Also in:</span> ${links}</div>`;
+}
+
 async function renderMeanwhile(r){
   const extras=$("#detail-extras");
   if(!extras)return;
-  if(!Number.isFinite(r.y)){extras.innerHTML="";return;}
   const token=++meanwhileToken;
   extras.innerHTML=`<div class="meanwhile-loading">Loading what else was happening&hellip;</div>`;
 
@@ -1083,6 +1126,10 @@ async function renderMeanwhile(r){
   }
   if(token!==meanwhileToken)return; // a later navigation superseded this call
 
+  const alsoIn=alsoInHtml(r);
+
+  if(!Number.isFinite(r.y)){if(token===meanwhileToken)extras.innerHTML=alsoIn;return;}
+
   const topicId=currentDataset();
   const ownEntries=DATA.filter(e=>e.id!==r.id && Number.isFinite(e.y));
   let radius=MEANWHILE_WINDOWS[0], minY, maxY, own=[], others=[];
@@ -1092,7 +1139,7 @@ async function renderMeanwhile(r){
     others=corpusByYear(minY,maxY,{excludeId:r.id});
     if(own.length+others.length>=5)break;
   }
-  if(!own.length && !others.length){extras.innerHTML="";return;}
+  if(!own.length && !others.length){if(token===meanwhileToken)extras.innerHTML=alsoIn;return;}
 
   const groups=new Map();
   groups.set(topicId,{meta:CFG,entries:own});
@@ -1108,7 +1155,7 @@ async function renderMeanwhile(r){
     .join("");
 
   if(token!==meanwhileToken)return;
-  extras.innerHTML=`<div class="meanwhile">
+  extras.innerHTML=`${alsoIn}<div class="meanwhile">
     <h2 class="meanwhile-title">Meanwhile${headingSuffix}</h2>
     ${groupsHtml}
   </div>`;
