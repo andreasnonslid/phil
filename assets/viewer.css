@@ -40,6 +40,9 @@ header{border-bottom:1px solid var(--line);background:var(--paper);}
 .search input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
 .search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);
   width:17px;height:17px;stroke:var(--ink-soft);fill:none;stroke-width:2}
+.all-topics-toggle{display:inline-flex;align-items:center;gap:6px;font-size:13px;
+  color:var(--ink-soft);cursor:pointer;user-select:none;white-space:nowrap}
+.all-topics-toggle input{accent-color:var(--accent);width:14px;height:14px;cursor:pointer}
 
 .dd{position:relative}
 .dd.open{z-index:50}
@@ -47,6 +50,7 @@ header{border-bottom:1px solid var(--line);background:var(--paper);}
   border:1px solid var(--line);border-radius:10px;padding:11px 14px;cursor:pointer;
   display:flex;align-items:center;gap:8px;white-space:nowrap}
 .dd-btn:hover{border-color:var(--accent)}
+.dd-btn:disabled{opacity:.38;cursor:default;pointer-events:none}
 .dd-btn .chev{width:14px;height:14px;stroke:var(--ink-soft);fill:none;stroke-width:2;transition:transform .15s}
 .dd.open .chev{transform:rotate(180deg)}
 .dd-btn .badge{background:var(--accent);color:#fff;font-size:11px;font-weight:600;
@@ -70,6 +74,8 @@ button.opt{width:100%;font-family:inherit;color:inherit;background:none;border:0
 .clear-btn{font-family:inherit;font-size:13px;color:var(--accent);background:transparent;
   border:none;cursor:pointer;padding:4px 6px}
 
+.cross-topic-note{font-size:12.5px;color:var(--ink-soft);font-style:italic;padding-top:10px}
+.cross-search-loading{padding:60px 20px;text-align:center;color:var(--ink-soft);font-size:14px}
 .meta-row{padding:18px 0 6px;display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap}
 .count{font-family:'Fraunces',serif;font-size:20px}
 .count b{font-weight:600}
@@ -108,6 +114,8 @@ button.opt{width:100%;font-family:inherit;color:inherit;background:none;border:0
 .tag.popularity{background:var(--accent-soft);color:var(--accent);border-color:var(--accent-soft);font-weight:600;cursor:default}
 .tag.popularity.pop-mid{background:var(--paper-2);color:var(--gold);border-color:var(--line)}
 .tag.popularity.pop-low{background:transparent;color:var(--ink-soft);border-color:var(--line)}
+.tag.topic-label{background:transparent;color:var(--ink-soft);border-color:var(--line);
+  font-style:italic;cursor:default}
 
 .empty{text-align:center;padding:80px 20px;color:var(--ink-soft)}
 .empty h3{font-family:'Fraunces',serif;font-weight:500;font-size:24px;color:var(--ink);margin:0 0 8px}
@@ -161,6 +169,7 @@ mark{background:#fde68a;color:#3a2e00;padding:0 2px;border-radius:3px}
   border-radius:7px;padding:8px 11px;cursor:pointer;white-space:nowrap}
 .view-btn:hover{color:var(--accent)}
 .view-btn.active{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.view-btn:disabled{opacity:.38;cursor:default;pointer-events:none}
 .fav-btn{background:none;border:none;cursor:pointer;font-size:17px;padding:0 2px;
   line-height:1;color:var(--line);transition:color .15s;flex-shrink:0;margin-top:1px}
 .fav-btn.active{color:#e8a020}
