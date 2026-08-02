@@ -1034,8 +1034,9 @@ function renderDetail(){
     ${r.tldr?`<p class="detail-tldr">${esc(r.tldr)}</p>`:""}
     ${popHtml}
     <div class="detail-links">${wikiLink}${sepLink}</div>
-    <!-- Insertion point for later epics: contemporaries (E2-02), influences (E3-02). -->
-    <div id="detail-extras"></div>
+    <!-- Insertion point for later epics: contemporaries (E2-02), influences (E3-02). Each -->
+    <!-- feature owns its own sub-container so their async renders never clobber each other. -->
+    <div id="detail-extras"><div id="detail-influences"></div><div id="detail-meanwhile"></div></div>
     ${navHtml}
   `;
   document.title=`${r.name} — ${CFG.title||""}`;
@@ -1048,6 +1049,7 @@ function renderDetail(){
     if(nav.prev)$("#detailPrev").addEventListener("click",()=>navigateToEntry(nav.prev.id));
     if(nav.next)$("#detailNext").addEventListener("click",()=>navigateToEntry(nav.next.id));
   }
+  renderInfluences(r); // fires after the entry itself has painted; never awaited here
   renderMeanwhile(r); // fires after the entry itself has painted; never awaited here
 }
 
@@ -1069,10 +1071,84 @@ document.addEventListener("keydown",e=>{
 });
 // ---- end entity detail view ----
 
+// ---- influences ----
+// Who influenced this entry and who it influenced, from the edges E3-01 fetched from
+// Wikidata (data/influences.json). Rendered above the Meanwhile section, into its own
+// sub-container so the two features' independent async fetches never clobber each other.
+let _influences=null;
+let _influencesPromise=null;
+async function loadInfluences(){
+  if(_influences)return _influences;
+  if(_influencesPromise)return _influencesPromise;
+  _influencesPromise=fetch("data/influences.json")
+    .then(r=>{ if(!r.ok)throw new Error(`HTTP ${r.status}`); return r.json(); })
+    .then(d=>{ _influences=Array.isArray(d.edges)?d.edges:[]; return _influences; })
+    .catch(err=>{
+      console.warn("Could not load data/influences.json.",err);
+      _influences=[];
+      return _influences;
+    });
+  return _influencesPromise;
+}
+
+const INFLUENCE_MAX_SHOWN=12;
+
+function influenceGroupHtml(label,ids,topicId){
+  const entries=ids.map(id=>DATA.find(e=>e.id===id)).filter(Boolean)
+    .sort((a,b)=>(Number.isFinite(a.y)?a.y:Infinity)-(Number.isFinite(b.y)?b.y:Infinity)||(a.name<b.name?-1:1));
+  if(!entries.length)return "";
+  const shown=entries.slice(0,INFLUENCE_MAX_SHOWN);
+  const rest=entries.slice(INFLUENCE_MAX_SHOWN);
+  const itemHtml=e=>`<li class="influence-item">
+    <a href="viewer.html?d=${encodeURIComponent(topicId)}&id=${encodeURIComponent(e.id)}" data-id="${esc(e.id)}">${esc(e.name)}</a>
+    <span class="influence-item-dates">${esc(e.dates||"")}</span>
+  </li>`;
+  const restHtml=rest.length
+    ? `<ul class="influence-list influence-list-rest" hidden>${rest.map(itemHtml).join("")}</ul>
+       <button class="influence-more-btn" aria-expanded="false" data-total="${entries.length}">Show all ${entries.length}</button>`
+    : "";
+  return `<div class="influence-group">
+    <h3 class="influence-heading">${esc(label)} <span class="influence-count">(${entries.length})</span></h3>
+    <ul class="influence-list">${shown.map(itemHtml).join("")}</ul>
+    ${restHtml}
+  </div>`;
+}
+
+let influencesToken=0; // bumped on every call so a stale fetch can't clobber a newer entry
+
+async function renderInfluences(r){
+  const box=$("#detail-influences");
+  if(!box)return;
+  const token=++influencesToken;
+  const edges=await loadInfluences();
+  if(token!==influencesToken)return; // a later navigation superseded this call
+
+  const topicId=currentDataset();
+  const influencedByIds=edges.filter(e=>e.topic===topicId&&e.to===r.id).map(e=>e.from);
+  const influencedIds=edges.filter(e=>e.topic===topicId&&e.from===r.id).map(e=>e.to);
+  const byHtml=influenceGroupHtml("Influenced by",influencedByIds,topicId);
+  const ofHtml=influenceGroupHtml("Influenced",influencedIds,topicId);
+  if(!byHtml&&!ofHtml){box.innerHTML="";return;}
+
+  box.innerHTML=`<div class="influences">${byHtml}${ofHtml}</div>`;
+  box.querySelectorAll(".influence-item a").forEach(a=>a.addEventListener("click",e=>{
+    if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+    e.preventDefault();
+    navigateToEntry(a.dataset.id);
+  }));
+  box.querySelectorAll(".influence-more-btn").forEach(btn=>btn.addEventListener("click",()=>{
+    const exp=btn.getAttribute("aria-expanded")==="true";
+    btn.setAttribute("aria-expanded",String(!exp));
+    btn.previousElementSibling.hidden=exp;
+    btn.textContent=exp?`Show all ${btn.dataset.total}`:"Show fewer";
+  }));
+}
+// ---- end influences ----
+
 // ---- meanwhile ----
 // "What else was happening around then" — contemporaries drawn from all three topics,
-// rendered into #detail-extras (the insertion point E1-03 left) after first paint so it
-// never delays the entry itself. Widens the year window when the default is too sparse.
+// rendered into #detail-meanwhile (a sub-container of the insertion point E1-03 left) after
+// first paint so it never delays the entry itself. Widens the year window when sparse.
 const MEANWHILE_WINDOWS=[25,50,100];
 const MEANWHILE_MAX_PER_TOPIC=6;
 let meanwhileToken=0; // bumped on every call so a stale fetch can't clobber a newer entry
@@ -1111,7 +1187,7 @@ function alsoInHtml(r){
 }
 
 async function renderMeanwhile(r){
-  const extras=$("#detail-extras");
+  const extras=$("#detail-meanwhile");
   if(!extras)return;
   const token=++meanwhileToken;
   extras.innerHTML=`<div class="meanwhile-loading">Loading what else was happening&hellip;</div>`;
