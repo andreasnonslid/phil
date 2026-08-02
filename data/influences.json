@@ -1,0 +1,2487 @@
+{
+  "meta": {
+    "generated": "2026-08-02",
+    "source": "Wikidata P737",
+    "topics": [
+      "phil"
+    ],
+    "direction": "from is the influencer, to is the influenced (P737 = 'influenced by', read on the 'to' side)"
+  },
+  "edges": [
+    {
+      "topic": "phil",
+      "from": "adorno-theodor",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "adorno-theodor",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "al-farabi",
+      "to": "albert-the-great"
+    },
+    {
+      "topic": "phil",
+      "from": "al-farabi",
+      "to": "averroes-ibn-rushd"
+    },
+    {
+      "topic": "phil",
+      "from": "al-farabi",
+      "to": "avicenna-ibn-sina"
+    },
+    {
+      "topic": "phil",
+      "from": "al-farabi",
+      "to": "maimonides"
+    },
+    {
+      "topic": "phil",
+      "from": "al-farabi",
+      "to": "suhrawardi"
+    },
+    {
+      "topic": "phil",
+      "from": "al-ghazali",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "al-ghazali",
+      "to": "averroes-ibn-rushd"
+    },
+    {
+      "topic": "phil",
+      "from": "al-kindi",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "al-kindi",
+      "to": "avicenna-ibn-sina"
+    },
+    {
+      "topic": "phil",
+      "from": "albert-the-great",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "althusser-louis",
+      "to": "badiou-alain"
+    },
+    {
+      "topic": "phil",
+      "from": "althusser-louis",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "althusser-louis",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "althusser-louis",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "althusser-louis",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "anaxagoras",
+      "to": "socrates"
+    },
+    {
+      "topic": "phil",
+      "from": "anaximander",
+      "to": "aristotle"
+    },
+    {
+      "topic": "phil",
+      "from": "anaximander",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "anaximander",
+      "to": "pythagoras"
+    },
+    {
+      "topic": "phil",
+      "from": "anscombe-g-e-m",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "anselm-of-canterbury",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "anselm-of-canterbury",
+      "to": "descartes-rene"
+    },
+    {
+      "topic": "phil",
+      "from": "anselm-of-canterbury",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "anselm-of-canterbury",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "anselm-of-canterbury",
+      "to": "ockham-william-of"
+    },
+    {
+      "topic": "phil",
+      "from": "aquinas-thomas",
+      "to": "anscombe-g-e-m"
+    },
+    {
+      "topic": "phil",
+      "from": "aquinas-thomas",
+      "to": "descartes-rene"
+    },
+    {
+      "topic": "phil",
+      "from": "aquinas-thomas",
+      "to": "foot-philippa"
+    },
+    {
+      "topic": "phil",
+      "from": "aquinas-thomas",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "aquinas-thomas",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "aquinas-thomas",
+      "to": "ockham-william-of"
+    },
+    {
+      "topic": "phil",
+      "from": "aquinas-thomas",
+      "to": "rand-ayn"
+    },
+    {
+      "topic": "phil",
+      "from": "arendt-hannah",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "arendt-hannah",
+      "to": "mbembe-achille"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "al-farabi"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "anscombe-g-e-m"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "averroes-ibn-rushd"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "avicenna-ibn-sina"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "boethius"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "crescas-hasdai"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "descartes-rene"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "diderot-denis"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "foot-philippa"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "gadamer-hans-georg"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "hobbes-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "hypatia"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "iqbal-muhammad"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "kierkegaard-s-ren"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "maimonides"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "masham-damaris-cudworth"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "nussbaum-martha"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "ockham-william-of"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "popper-karl"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "proclus"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "rand-ayn"
+    },
+    {
+      "topic": "phil",
+      "from": "aristotle",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "augustine-of-hippo",
+      "to": "albert-the-great"
+    },
+    {
+      "topic": "phil",
+      "from": "augustine-of-hippo",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "augustine-of-hippo",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "augustine-of-hippo",
+      "to": "boethius"
+    },
+    {
+      "topic": "phil",
+      "from": "augustine-of-hippo",
+      "to": "eriugena-john-scotus"
+    },
+    {
+      "topic": "phil",
+      "from": "augustine-of-hippo",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "augustine-of-hippo",
+      "to": "malebranche-nicolas"
+    },
+    {
+      "topic": "phil",
+      "from": "augustine-of-hippo",
+      "to": "masham-damaris-cudworth"
+    },
+    {
+      "topic": "phil",
+      "from": "augustine-of-hippo",
+      "to": "pascal-blaise"
+    },
+    {
+      "topic": "phil",
+      "from": "augustine-of-hippo",
+      "to": "unamuno-miguel-de"
+    },
+    {
+      "topic": "phil",
+      "from": "aurelius-marcus",
+      "to": "unamuno-miguel-de"
+    },
+    {
+      "topic": "phil",
+      "from": "averroes-ibn-rushd",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "averroes-ibn-rushd",
+      "to": "ibn-khaldun"
+    },
+    {
+      "topic": "phil",
+      "from": "averroes-ibn-rushd",
+      "to": "maimonides"
+    },
+    {
+      "topic": "phil",
+      "from": "averroes-ibn-rushd",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "avicenna-ibn-sina",
+      "to": "albert-the-great"
+    },
+    {
+      "topic": "phil",
+      "from": "avicenna-ibn-sina",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "avicenna-ibn-sina",
+      "to": "averroes-ibn-rushd"
+    },
+    {
+      "topic": "phil",
+      "from": "avicenna-ibn-sina",
+      "to": "maimonides"
+    },
+    {
+      "topic": "phil",
+      "from": "avicenna-ibn-sina",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "avicenna-ibn-sina",
+      "to": "tusi-nasir-al-din"
+    },
+    {
+      "topic": "phil",
+      "from": "bacon-francis",
+      "to": "hobbes-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "bacon-francis",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "badiou-alain",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "beauvoir-simone-de",
+      "to": "camus-albert"
+    },
+    {
+      "topic": "phil",
+      "from": "benjamin-walter",
+      "to": "adorno-theodor"
+    },
+    {
+      "topic": "phil",
+      "from": "benjamin-walter",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "benjamin-walter",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "benjamin-walter",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "bergson-henri",
+      "to": "aurobindo-sri"
+    },
+    {
+      "topic": "phil",
+      "from": "bergson-henri",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "bergson-henri",
+      "to": "iqbal-muhammad"
+    },
+    {
+      "topic": "phil",
+      "from": "berkeley-george",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "berkeley-george",
+      "to": "hume-david"
+    },
+    {
+      "topic": "phil",
+      "from": "berkeley-george",
+      "to": "kant-immanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "berkeley-george",
+      "to": "peirce-charles-sanders"
+    },
+    {
+      "topic": "phil",
+      "from": "boethius",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "brentano-franz",
+      "to": "carnap-rudolf"
+    },
+    {
+      "topic": "phil",
+      "from": "brentano-franz",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "brentano-franz",
+      "to": "husserl-edmund"
+    },
+    {
+      "topic": "phil",
+      "from": "buddha-siddhartha-gautama",
+      "to": "ambedkar-b-r"
+    },
+    {
+      "topic": "phil",
+      "from": "buddha-siddhartha-gautama",
+      "to": "gandhi-mohandas"
+    },
+    {
+      "topic": "phil",
+      "from": "carnap-rudolf",
+      "to": "ayer-a-j"
+    },
+    {
+      "topic": "phil",
+      "from": "carnap-rudolf",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "cavell-stanley",
+      "to": "west-cornel"
+    },
+    {
+      "topic": "phil",
+      "from": "cicero",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "cicero",
+      "to": "voltaire"
+    },
+    {
+      "topic": "phil",
+      "from": "comte-auguste",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "confucius",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "confucius",
+      "to": "mencius"
+    },
+    {
+      "topic": "phil",
+      "from": "confucius",
+      "to": "voltaire"
+    },
+    {
+      "topic": "phil",
+      "from": "crescas-hasdai",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "deleuze-gilles",
+      "to": "badiou-alain"
+    },
+    {
+      "topic": "phil",
+      "from": "deleuze-gilles",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "democritus",
+      "to": "aristotle"
+    },
+    {
+      "topic": "phil",
+      "from": "democritus",
+      "to": "epicurus"
+    },
+    {
+      "topic": "phil",
+      "from": "democritus",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "democritus",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "derrida-jacques",
+      "to": "cixous-helene"
+    },
+    {
+      "topic": "phil",
+      "from": "descartes-rene",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "descartes-rene",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "descartes-rene",
+      "to": "kant-immanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "descartes-rene",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "descartes-rene",
+      "to": "locke-john"
+    },
+    {
+      "topic": "phil",
+      "from": "descartes-rene",
+      "to": "malebranche-nicolas"
+    },
+    {
+      "topic": "phil",
+      "from": "descartes-rene",
+      "to": "pascal-blaise"
+    },
+    {
+      "topic": "phil",
+      "from": "descartes-rene",
+      "to": "popper-karl"
+    },
+    {
+      "topic": "phil",
+      "from": "descartes-rene",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "dewey-john",
+      "to": "ambedkar-b-r"
+    },
+    {
+      "topic": "phil",
+      "from": "dewey-john",
+      "to": "aurobindo-sri"
+    },
+    {
+      "topic": "phil",
+      "from": "dewey-john",
+      "to": "putnam-hilary"
+    },
+    {
+      "topic": "phil",
+      "from": "dewey-john",
+      "to": "rorty-richard"
+    },
+    {
+      "topic": "phil",
+      "from": "du-bois-w-e-b",
+      "to": "appiah-kwame-anthony"
+    },
+    {
+      "topic": "phil",
+      "from": "dummett-michael",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "dummett-michael",
+      "to": "kripke-saul"
+    },
+    {
+      "topic": "phil",
+      "from": "duns-scotus-john",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "duns-scotus-john",
+      "to": "crescas-hasdai"
+    },
+    {
+      "topic": "phil",
+      "from": "duns-scotus-john",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "duns-scotus-john",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "duns-scotus-john",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "eckhart-meister",
+      "to": "jaspers-karl"
+    },
+    {
+      "topic": "phil",
+      "from": "empedocles",
+      "to": "aristotle"
+    },
+    {
+      "topic": "phil",
+      "from": "empedocles",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "epictetus",
+      "to": "pascal-blaise"
+    },
+    {
+      "topic": "phil",
+      "from": "epicurus",
+      "to": "aristotle"
+    },
+    {
+      "topic": "phil",
+      "from": "epicurus",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "epicurus",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "eriugena-john-scotus",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "fanon-frantz",
+      "to": "mbembe-achille"
+    },
+    {
+      "topic": "phil",
+      "from": "feyerabend-paul",
+      "to": "churchland-patricia"
+    },
+    {
+      "topic": "phil",
+      "from": "fichte-johann-gottlieb",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "fichte-johann-gottlieb",
+      "to": "schelling-f-w-j"
+    },
+    {
+      "topic": "phil",
+      "from": "foot-philippa",
+      "to": "williams-bernard"
+    },
+    {
+      "topic": "phil",
+      "from": "foucault-michel",
+      "to": "butler-judith"
+    },
+    {
+      "topic": "phil",
+      "from": "foucault-michel",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "foucault-michel",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "foucault-michel",
+      "to": "mbembe-achille"
+    },
+    {
+      "topic": "phil",
+      "from": "frege-gottlob",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "frege-gottlob",
+      "to": "carnap-rudolf"
+    },
+    {
+      "topic": "phil",
+      "from": "frege-gottlob",
+      "to": "husserl-edmund"
+    },
+    {
+      "topic": "phil",
+      "from": "frege-gottlob",
+      "to": "kripke-saul"
+    },
+    {
+      "topic": "phil",
+      "from": "frege-gottlob",
+      "to": "russell-bertrand"
+    },
+    {
+      "topic": "phil",
+      "from": "frege-gottlob",
+      "to": "wittgenstein-ludwig"
+    },
+    {
+      "topic": "phil",
+      "from": "gramsci-antonio",
+      "to": "althusser-louis"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "adorno-theodor"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "appiah-kwame-anthony"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "badiou-alain"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "gadamer-hans-georg"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "gramsci-antonio"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "iqbal-muhammad"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "kierkegaard-s-ren"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "marx-karl"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "mbembe-achille"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "popper-karl"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "sartre-jean-paul"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "watsuji-tetsuro"
+    },
+    {
+      "topic": "phil",
+      "from": "hegel-g-w-f",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "camus-albert"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "gadamer-hans-georg"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "jaspers-karl"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "lacan-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "levinas-emmanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "lyotard-jean-francois"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "merleau-ponty-maurice"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "rorty-richard"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "sartre-jean-paul"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "watsuji-tetsuro"
+    },
+    {
+      "topic": "phil",
+      "from": "heidegger-martin",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "heraclitus",
+      "to": "aristotle"
+    },
+    {
+      "topic": "phil",
+      "from": "heraclitus",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "heraclitus",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "heraclitus",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "heraclitus",
+      "to": "parmenides"
+    },
+    {
+      "topic": "phil",
+      "from": "heraclitus",
+      "to": "plato"
+    },
+    {
+      "topic": "phil",
+      "from": "herder-johann-gottfried",
+      "to": "schelling-f-w-j"
+    },
+    {
+      "topic": "phil",
+      "from": "hobbes-thomas",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "hobbes-thomas",
+      "to": "locke-john"
+    },
+    {
+      "topic": "phil",
+      "from": "hobbes-thomas",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "horkheimer-max",
+      "to": "adorno-theodor"
+    },
+    {
+      "topic": "phil",
+      "from": "horkheimer-max",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "hume-david",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "hume-david",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "hume-david",
+      "to": "kant-immanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "hume-david",
+      "to": "kripke-saul"
+    },
+    {
+      "topic": "phil",
+      "from": "hume-david",
+      "to": "russell-bertrand"
+    },
+    {
+      "topic": "phil",
+      "from": "hume-david",
+      "to": "schopenhauer-arthur"
+    },
+    {
+      "topic": "phil",
+      "from": "husserl-edmund",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "husserl-edmund",
+      "to": "carnap-rudolf"
+    },
+    {
+      "topic": "phil",
+      "from": "husserl-edmund",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "husserl-edmund",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "husserl-edmund",
+      "to": "gadamer-hans-georg"
+    },
+    {
+      "topic": "phil",
+      "from": "husserl-edmund",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "husserl-edmund",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "husserl-edmund",
+      "to": "merleau-ponty-maurice"
+    },
+    {
+      "topic": "phil",
+      "from": "husserl-edmund",
+      "to": "sartre-jean-paul"
+    },
+    {
+      "topic": "phil",
+      "from": "hypatia",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "ibn-arabi",
+      "to": "mulla-sadra"
+    },
+    {
+      "topic": "phil",
+      "from": "ibn-tufayl",
+      "to": "averroes-ibn-rushd"
+    },
+    {
+      "topic": "phil",
+      "from": "ibn-tufayl",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "ibn-tufayl",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "ibn-tufayl",
+      "to": "voltaire"
+    },
+    {
+      "topic": "phil",
+      "from": "james-william",
+      "to": "du-bois-w-e-b"
+    },
+    {
+      "topic": "phil",
+      "from": "james-william",
+      "to": "putnam-hilary"
+    },
+    {
+      "topic": "phil",
+      "from": "jaspers-karl",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "jaspers-karl",
+      "to": "camus-albert"
+    },
+    {
+      "topic": "phil",
+      "from": "jaspers-karl",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "carnap-rudolf"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "fichte-johann-gottlieb"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "gadamer-hans-georg"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "herder-johann-gottfried"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "husserl-edmund"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "jaspers-karl"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "kierkegaard-s-ren"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "rawls-john"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "schelling-f-w-j"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "schopenhauer-arthur"
+    },
+    {
+      "topic": "phil",
+      "from": "kant-immanuel",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "kierkegaard-s-ren",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "kierkegaard-s-ren",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "kierkegaard-s-ren",
+      "to": "camus-albert"
+    },
+    {
+      "topic": "phil",
+      "from": "kierkegaard-s-ren",
+      "to": "gadamer-hans-georg"
+    },
+    {
+      "topic": "phil",
+      "from": "kierkegaard-s-ren",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "kierkegaard-s-ren",
+      "to": "jaspers-karl"
+    },
+    {
+      "topic": "phil",
+      "from": "kierkegaard-s-ren",
+      "to": "popper-karl"
+    },
+    {
+      "topic": "phil",
+      "from": "kierkegaard-s-ren",
+      "to": "unamuno-miguel-de"
+    },
+    {
+      "topic": "phil",
+      "from": "kierkegaard-s-ren",
+      "to": "wittgenstein-ludwig"
+    },
+    {
+      "topic": "phil",
+      "from": "kierkegaard-s-ren",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "kripke-saul",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "lacan-jacques",
+      "to": "badiou-alain"
+    },
+    {
+      "topic": "phil",
+      "from": "lacan-jacques",
+      "to": "cixous-helene"
+    },
+    {
+      "topic": "phil",
+      "from": "lacan-jacques",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "lacan-jacques",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "lacan-jacques",
+      "to": "kristeva-julia"
+    },
+    {
+      "topic": "phil",
+      "from": "lacan-jacques",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "leibniz-gottfried-wilhelm",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "leibniz-gottfried-wilhelm",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "leibniz-gottfried-wilhelm",
+      "to": "du-chatelet-emilie"
+    },
+    {
+      "topic": "phil",
+      "from": "leibniz-gottfried-wilhelm",
+      "to": "herder-johann-gottfried"
+    },
+    {
+      "topic": "phil",
+      "from": "leibniz-gottfried-wilhelm",
+      "to": "kant-immanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "leibniz-gottfried-wilhelm",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "leibniz-gottfried-wilhelm",
+      "to": "russell-bertrand"
+    },
+    {
+      "topic": "phil",
+      "from": "leibniz-gottfried-wilhelm",
+      "to": "schelling-f-w-j"
+    },
+    {
+      "topic": "phil",
+      "from": "levinas-emmanuel",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "levinas-emmanuel",
+      "to": "sartre-jean-paul"
+    },
+    {
+      "topic": "phil",
+      "from": "locke-john",
+      "to": "berkeley-george"
+    },
+    {
+      "topic": "phil",
+      "from": "locke-john",
+      "to": "hume-david"
+    },
+    {
+      "topic": "phil",
+      "from": "locke-john",
+      "to": "kant-immanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "locke-john",
+      "to": "rawls-john"
+    },
+    {
+      "topic": "phil",
+      "from": "locke-john",
+      "to": "schopenhauer-arthur"
+    },
+    {
+      "topic": "phil",
+      "from": "locke-john",
+      "to": "voltaire"
+    },
+    {
+      "topic": "phil",
+      "from": "lucretius",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "lukacs-gyorgy",
+      "to": "benjamin-walter"
+    },
+    {
+      "topic": "phil",
+      "from": "lukacs-gyorgy",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "maimonides",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "maimonides",
+      "to": "crescas-hasdai"
+    },
+    {
+      "topic": "phil",
+      "from": "maimonides",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "maimonides",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "malebranche-nicolas",
+      "to": "berkeley-george"
+    },
+    {
+      "topic": "phil",
+      "from": "malebranche-nicolas",
+      "to": "kant-immanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "malebranche-nicolas",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "malebranche-nicolas",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "malebranche-nicolas",
+      "to": "voltaire"
+    },
+    {
+      "topic": "phil",
+      "from": "marcuse-herbert",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "adorno-theodor"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "althusser-louis"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "badiou-alain"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "benjamin-walter"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "gramsci-antonio"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "merleau-ponty-maurice"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "sartre-jean-paul"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "unamuno-miguel-de"
+    },
+    {
+      "topic": "phil",
+      "from": "marx-karl",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "masham-damaris-cudworth",
+      "to": "locke-john"
+    },
+    {
+      "topic": "phil",
+      "from": "mead-george-herbert",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "merleau-ponty-maurice",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "mill-john-stuart",
+      "to": "nussbaum-martha"
+    },
+    {
+      "topic": "phil",
+      "from": "mill-john-stuart",
+      "to": "russell-bertrand"
+    },
+    {
+      "topic": "phil",
+      "from": "montaigne-michel-de",
+      "to": "kant-immanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "montaigne-michel-de",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "montaigne-michel-de",
+      "to": "pascal-blaise"
+    },
+    {
+      "topic": "phil",
+      "from": "montesquieu",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "montesquieu",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "moore-g-e",
+      "to": "midgley-mary"
+    },
+    {
+      "topic": "phil",
+      "from": "moore-g-e",
+      "to": "russell-bertrand"
+    },
+    {
+      "topic": "phil",
+      "from": "nagel-thomas",
+      "to": "foot-philippa"
+    },
+    {
+      "topic": "phil",
+      "from": "nicholas-of-cusa",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "nicholas-of-cusa",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "nicholas-of-cusa",
+      "to": "masham-damaris-cudworth"
+    },
+    {
+      "topic": "phil",
+      "from": "nietzsche-friedrich",
+      "to": "adorno-theodor"
+    },
+    {
+      "topic": "phil",
+      "from": "nietzsche-friedrich",
+      "to": "camus-albert"
+    },
+    {
+      "topic": "phil",
+      "from": "nietzsche-friedrich",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "nietzsche-friedrich",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "nietzsche-friedrich",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "nietzsche-friedrich",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "nietzsche-friedrich",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "nietzsche-friedrich",
+      "to": "iqbal-muhammad"
+    },
+    {
+      "topic": "phil",
+      "from": "nietzsche-friedrich",
+      "to": "williams-bernard"
+    },
+    {
+      "topic": "phil",
+      "from": "nietzsche-friedrich",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "nishida-kitaro",
+      "to": "watsuji-tetsuro"
+    },
+    {
+      "topic": "phil",
+      "from": "ockham-william-of",
+      "to": "descartes-rene"
+    },
+    {
+      "topic": "phil",
+      "from": "parmenides",
+      "to": "aristotle"
+    },
+    {
+      "topic": "phil",
+      "from": "parmenides",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "parmenides",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "parmenides",
+      "to": "plato"
+    },
+    {
+      "topic": "phil",
+      "from": "parmenides",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "parmenides",
+      "to": "zeno-of-elea"
+    },
+    {
+      "topic": "phil",
+      "from": "pascal-blaise",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "pascal-blaise",
+      "to": "james-william"
+    },
+    {
+      "topic": "phil",
+      "from": "pascal-blaise",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "pascal-blaise",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "pascal-blaise",
+      "to": "unamuno-miguel-de"
+    },
+    {
+      "topic": "phil",
+      "from": "pascal-blaise",
+      "to": "voltaire"
+    },
+    {
+      "topic": "phil",
+      "from": "peirce-charles-sanders",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "peirce-charles-sanders",
+      "to": "haack-susan"
+    },
+    {
+      "topic": "phil",
+      "from": "peirce-charles-sanders",
+      "to": "tarski-alfred"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "al-farabi"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "aquinas-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "aristotle"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "augustine-of-hippo"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "averroes-ibn-rushd"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "badiou-alain"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "boethius"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "descartes-rene"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "foucault-michel"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "gadamer-hans-georg"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "heidegger-martin"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "hobbes-thomas"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "hypatia"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "iamblichus"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "kant-immanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "masham-damaris-cudworth"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "proclus"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "schelling-f-w-j"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "schopenhauer-arthur"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "plato",
+      "to": "voltaire"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "al-farabi"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "averroes-ibn-rushd"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "avicenna-ibn-sina"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "boethius"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "camus-albert"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "hypatia"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "iamblichus"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "masham-damaris-cudworth"
+    },
+    {
+      "topic": "phil",
+      "from": "plotinus",
+      "to": "proclus"
+    },
+    {
+      "topic": "phil",
+      "from": "porphyry",
+      "to": "boethius"
+    },
+    {
+      "topic": "phil",
+      "from": "porphyry",
+      "to": "iamblichus"
+    },
+    {
+      "topic": "phil",
+      "from": "proclus",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "protagoras",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "protagoras",
+      "to": "plato"
+    },
+    {
+      "topic": "phil",
+      "from": "putnam-hilary",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "putnam-hilary",
+      "to": "kripke-saul"
+    },
+    {
+      "topic": "phil",
+      "from": "pyrrho",
+      "to": "epicurus"
+    },
+    {
+      "topic": "phil",
+      "from": "pythagoras",
+      "to": "empedocles"
+    },
+    {
+      "topic": "phil",
+      "from": "pythagoras",
+      "to": "plato"
+    },
+    {
+      "topic": "phil",
+      "from": "quine-w-v-o",
+      "to": "churchland-patricia"
+    },
+    {
+      "topic": "phil",
+      "from": "quine-w-v-o",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "quine-w-v-o",
+      "to": "dennett-daniel"
+    },
+    {
+      "topic": "phil",
+      "from": "quine-w-v-o",
+      "to": "kripke-saul"
+    },
+    {
+      "topic": "phil",
+      "from": "ramsey-frank",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "rawls-john",
+      "to": "appiah-kwame-anthony"
+    },
+    {
+      "topic": "phil",
+      "from": "rawls-john",
+      "to": "dworkin-ronald"
+    },
+    {
+      "topic": "phil",
+      "from": "rawls-john",
+      "to": "sandel-michael"
+    },
+    {
+      "topic": "phil",
+      "from": "rorty-richard",
+      "to": "churchland-patricia"
+    },
+    {
+      "topic": "phil",
+      "from": "rorty-richard",
+      "to": "west-cornel"
+    },
+    {
+      "topic": "phil",
+      "from": "rousseau-jean-jacques",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "rousseau-jean-jacques",
+      "to": "fichte-johann-gottlieb"
+    },
+    {
+      "topic": "phil",
+      "from": "rousseau-jean-jacques",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "rousseau-jean-jacques",
+      "to": "kant-immanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "rousseau-jean-jacques",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "rousseau-jean-jacques",
+      "to": "unamuno-miguel-de"
+    },
+    {
+      "topic": "phil",
+      "from": "russell-bertrand",
+      "to": "ayer-a-j"
+    },
+    {
+      "topic": "phil",
+      "from": "russell-bertrand",
+      "to": "chalmers-david"
+    },
+    {
+      "topic": "phil",
+      "from": "russell-bertrand",
+      "to": "dennett-daniel"
+    },
+    {
+      "topic": "phil",
+      "from": "russell-bertrand",
+      "to": "wittgenstein-ludwig"
+    },
+    {
+      "topic": "phil",
+      "from": "ryle-gilbert",
+      "to": "ayer-a-j"
+    },
+    {
+      "topic": "phil",
+      "from": "sartre-jean-paul",
+      "to": "badiou-alain"
+    },
+    {
+      "topic": "phil",
+      "from": "sartre-jean-paul",
+      "to": "beauvoir-simone-de"
+    },
+    {
+      "topic": "phil",
+      "from": "sartre-jean-paul",
+      "to": "camus-albert"
+    },
+    {
+      "topic": "phil",
+      "from": "sartre-jean-paul",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "sartre-jean-paul",
+      "to": "fanon-frantz"
+    },
+    {
+      "topic": "phil",
+      "from": "sartre-jean-paul",
+      "to": "levinas-emmanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "schelling-f-w-j",
+      "to": "habermas-jurgen"
+    },
+    {
+      "topic": "phil",
+      "from": "schelling-f-w-j",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "schelling-f-w-j",
+      "to": "kierkegaard-s-ren"
+    },
+    {
+      "topic": "phil",
+      "from": "schelling-f-w-j",
+      "to": "zizek-slavoj"
+    },
+    {
+      "topic": "phil",
+      "from": "schopenhauer-arthur",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "schopenhauer-arthur",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "schopenhauer-arthur",
+      "to": "popper-karl"
+    },
+    {
+      "topic": "phil",
+      "from": "schopenhauer-arthur",
+      "to": "unamuno-miguel-de"
+    },
+    {
+      "topic": "phil",
+      "from": "schopenhauer-arthur",
+      "to": "wittgenstein-ludwig"
+    },
+    {
+      "topic": "phil",
+      "from": "sellars-wilfrid",
+      "to": "churchland-patricia"
+    },
+    {
+      "topic": "phil",
+      "from": "sen-amartya",
+      "to": "nussbaum-martha"
+    },
+    {
+      "topic": "phil",
+      "from": "seneca",
+      "to": "boethius"
+    },
+    {
+      "topic": "phil",
+      "from": "sextus-empiricus",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "socrates",
+      "to": "arendt-hannah"
+    },
+    {
+      "topic": "phil",
+      "from": "socrates",
+      "to": "aristotle"
+    },
+    {
+      "topic": "phil",
+      "from": "socrates",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "socrates",
+      "to": "plato"
+    },
+    {
+      "topic": "phil",
+      "from": "socrates",
+      "to": "popper-karl"
+    },
+    {
+      "topic": "phil",
+      "from": "socrates",
+      "to": "zeno-of-citium"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "althusser-louis"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "bergson-henri"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "diderot-denis"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "fichte-johann-gottlieb"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "hegel-g-w-f"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "herder-johann-gottfried"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "kant-immanuel"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "leibniz-gottfried-wilhelm"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "russell-bertrand"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "schelling-f-w-j"
+    },
+    {
+      "topic": "phil",
+      "from": "spinoza-baruch",
+      "to": "schopenhauer-arthur"
+    },
+    {
+      "topic": "phil",
+      "from": "tarski-alfred",
+      "to": "carnap-rudolf"
+    },
+    {
+      "topic": "phil",
+      "from": "tarski-alfred",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "tarski-alfred",
+      "to": "kripke-saul"
+    },
+    {
+      "topic": "phil",
+      "from": "thales",
+      "to": "anaximander"
+    },
+    {
+      "topic": "phil",
+      "from": "thales",
+      "to": "pythagoras"
+    },
+    {
+      "topic": "phil",
+      "from": "voltaire",
+      "to": "diderot-denis"
+    },
+    {
+      "topic": "phil",
+      "from": "voltaire",
+      "to": "du-chatelet-emilie"
+    },
+    {
+      "topic": "phil",
+      "from": "voltaire",
+      "to": "nietzsche-friedrich"
+    },
+    {
+      "topic": "phil",
+      "from": "whitehead-alfred-north",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "whitehead-alfred-north",
+      "to": "deleuze-gilles"
+    },
+    {
+      "topic": "phil",
+      "from": "whitehead-alfred-north",
+      "to": "russell-bertrand"
+    },
+    {
+      "topic": "phil",
+      "from": "wittgenstein-ludwig",
+      "to": "anscombe-g-e-m"
+    },
+    {
+      "topic": "phil",
+      "from": "wittgenstein-ludwig",
+      "to": "carnap-rudolf"
+    },
+    {
+      "topic": "phil",
+      "from": "wittgenstein-ludwig",
+      "to": "davidson-donald"
+    },
+    {
+      "topic": "phil",
+      "from": "wittgenstein-ludwig",
+      "to": "derrida-jacques"
+    },
+    {
+      "topic": "phil",
+      "from": "wittgenstein-ludwig",
+      "to": "foot-philippa"
+    },
+    {
+      "topic": "phil",
+      "from": "wittgenstein-ludwig",
+      "to": "kripke-saul"
+    },
+    {
+      "topic": "phil",
+      "from": "wittgenstein-ludwig",
+      "to": "putnam-hilary"
+    },
+    {
+      "topic": "phil",
+      "from": "wittgenstein-ludwig",
+      "to": "russell-bertrand"
+    },
+    {
+      "topic": "phil",
+      "from": "wittgenstein-ludwig",
+      "to": "searle-john"
+    },
+    {
+      "topic": "phil",
+      "from": "wittgenstein-ludwig",
+      "to": "strawson-p-f"
+    },
+    {
+      "topic": "phil",
+      "from": "xenophanes",
+      "to": "heraclitus"
+    },
+    {
+      "topic": "phil",
+      "from": "xenophanes",
+      "to": "spinoza-baruch"
+    },
+    {
+      "topic": "phil",
+      "from": "zeno-of-elea",
+      "to": "aristotle"
+    },
+    {
+      "topic": "phil",
+      "from": "zeno-of-elea",
+      "to": "bergson-henri"
+    }
+  ]
+}

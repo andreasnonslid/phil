@@ -1,0 +1,317 @@
+{"id": "abelard-peter", "topic": "phil", "qid": "Q4295", "influenced_by": []}
+{"id": "adorno-theodor", "topic": "phil", "qid": "Q152388", "influenced_by": ["Q61078", "Q76826", "Q9235", "Q9061", "Q9358"]}
+{"id": "al-farabi", "topic": "phil", "qid": "Q160460", "influenced_by": ["Q868", "Q859", "Q134189"]}
+{"id": "al-ghazali", "topic": "phil", "qid": "Q9546", "influenced_by": []}
+{"id": "al-kindi", "topic": "phil", "qid": "Q179759", "influenced_by": []}
+{"id": "albert-the-great", "topic": "phil", "qid": "Q60059", "influenced_by": ["Q8018", "Q160460", "Q8011"]}
+{"id": "althusser-louis", "topic": "phil", "qid": "Q184169", "influenced_by": ["Q9061", "Q1394", "Q83003", "Q128126", "Q270800", "Q5816", "Q35802", "Q433741"]}
+{"id": "ambedkar-b-r", "topic": "phil", "qid": "Q231690", "influenced_by": ["Q9441", "Q312551", "Q314394", "Q131805", "Q3946015", "Q123560432"]}
+{"id": "amo-anton-wilhelm", "topic": "phil", "qid": "Q595486", "influenced_by": []}
+{"id": "anaxagoras", "topic": "phil", "qid": "Q83041", "influenced_by": []}
+{"id": "anaximander", "topic": "phil", "qid": "Q42458", "influenced_by": ["Q36303"]}
+{"id": "anaximenes", "topic": "phil", "qid": "Q80612", "influenced_by": []}
+{"id": "anscombe-g-e-m", "topic": "phil", "qid": "Q229646", "influenced_by": ["Q868", "Q9438", "Q9391"]}
+{"id": "anselm-of-canterbury", "topic": "phil", "qid": "Q43939", "influenced_by": []}
+{"id": "appiah-kwame-anthony", "topic": "phil", "qid": "Q572741", "influenced_by": ["Q172544", "Q9235", "Q158060"]}
+{"id": "aquinas-thomas", "topic": "phil", "qid": "Q9438", "influenced_by": ["Q102851", "Q127398", "Q1541", "Q179759", "Q184500", "Q39837", "Q43939", "Q60059", "Q8011", "Q8018", "Q859", "Q868", "Q9200", "Q9546", "Q42827"]}
+{"id": "arendt-hannah", "topic": "phil", "qid": "Q60025", "influenced_by": ["Q58586", "Q76509", "Q48301", "Q165792", "Q183167", "Q15975", "Q140694", "Q61078", "Q57255", "Q302", "Q190089", "Q1399", "Q859", "Q9061", "Q913", "Q905", "Q8018", "Q77148", "Q9200", "Q9312", "Q868", "Q6512", "Q7199"]}
+{"id": "aristotle", "topic": "phil", "qid": "Q868", "influenced_by": ["Q859", "Q913", "Q41155", "Q125551", "Q132157", "Q41980", "Q42458", "Q43216", "Q5264", "Q83375"]}
+{"id": "armstrong-david", "topic": "phil", "qid": "Q1173590", "influenced_by": ["Q3296918"]}
+{"id": "aryadeva", "topic": "phil", "qid": "Q558275", "influenced_by": []}
+{"id": "asanga", "topic": "phil", "qid": "Q379905", "influenced_by": []}
+{"id": "astell-mary", "topic": "phil", "qid": "Q2359434", "influenced_by": []}
+{"id": "atisha", "topic": "phil", "qid": "Q320150", "influenced_by": []}
+{"id": "augustine-of-hippo", "topic": "phil", "qid": "Q8018", "influenced_by": ["Q43689", "Q859"]}
+{"id": "aurelius-marcus", "topic": "phil", "qid": "Q1430", "influenced_by": []}
+{"id": "aurobindo-sri", "topic": "phil", "qid": "Q192207", "influenced_by": ["Q2512051", "Q42156", "Q131805"]}
+{"id": "averroes-ibn-rushd", "topic": "phil", "qid": "Q39837", "influenced_by": ["Q868", "Q9458", "Q859", "Q134189", "Q312299", "Q9546", "Q11362", "Q470914", "Q251259", "Q160460", "Q8011"]}
+{"id": "avicenna-ibn-sina", "topic": "phil", "qid": "Q8011", "influenced_by": ["Q11826", "Q134189", "Q9458", "Q8778", "Q868", "Q5264", "Q470914", "Q3478100", "Q335516", "Q179759", "Q169234", "Q160460"]}
+{"id": "ayer-a-j", "topic": "phil", "qid": "Q243757", "influenced_by": ["Q33760", "Q76519", "Q313386"]}
+{"id": "bacon-francis", "topic": "phil", "qid": "Q37388", "influenced_by": []}
+{"id": "badiou-alain", "topic": "phil", "qid": "Q311005", "influenced_by": ["Q9364", "Q184169", "Q859", "Q9061", "Q5816", "Q169906", "Q184226", "Q9235", "Q767", "Q37327", "Q216809"]}
+{"id": "beauvoir-simone-de", "topic": "phil", "qid": "Q7197", "influenced_by": ["Q9364", "Q152393"]}
+{"id": "benjamin-walter", "topic": "phil", "qid": "Q61078", "influenced_by": ["Q5879", "Q501", "Q9061", "Q151523", "Q38757", "Q57240", "Q138850"]}
+{"id": "bentham-jeremy", "topic": "phil", "qid": "Q60887", "influenced_by": []}
+{"id": "bergson-henri", "topic": "phil", "qid": "Q42156", "influenced_by": ["Q132157", "Q859", "Q868", "Q134189", "Q9191", "Q35802", "Q9047", "Q82049", "Q37160", "Q9312", "Q208230", "Q2303850", "Q1479519", "Q144535", "Q1035", "Q937", "Q1290", "Q6512", "Q38193", "Q76849", "Q60028"]}
+{"id": "berkeley-george", "topic": "phil", "qid": "Q82049", "influenced_by": ["Q9353", "Q309818"]}
+{"id": "bhartrhari", "topic": "phil", "qid": "Q335161", "influenced_by": []}
+{"id": "bhaviveka", "topic": "phil", "qid": "Q2357245", "influenced_by": []}
+{"id": "block-ned", "topic": "phil", "qid": "Q1722354", "influenced_by": []}
+{"id": "boethius", "topic": "phil", "qid": "Q102851", "influenced_by": ["Q134189", "Q203445", "Q8018", "Q2054", "Q868", "Q859"]}
+{"id": "bonaventure", "topic": "phil", "qid": "Q43746", "influenced_by": []}
+{"id": "brandom-robert", "topic": "phil", "qid": "Q1312168", "influenced_by": []}
+{"id": "brentano-franz", "topic": "phil", "qid": "Q57196", "influenced_by": []}
+{"id": "buddha-siddhartha-gautama", "topic": "phil", "qid": "Q9441", "influenced_by": ["Q1227131"]}
+{"id": "buddhaghosa", "topic": "phil", "qid": "Q335247", "influenced_by": []}
+{"id": "burge-tyler", "topic": "phil", "qid": "Q1971876", "influenced_by": []}
+{"id": "butler-joseph", "topic": "phil", "qid": "Q218322", "influenced_by": []}
+{"id": "butler-judith", "topic": "phil", "qid": "Q219368", "influenced_by": ["Q44272"]}
+{"id": "camus-albert", "topic": "phil", "qid": "Q34670", "influenced_by": ["Q6512", "Q151164", "Q134189", "Q9358", "Q905", "Q713743", "Q47484", "Q991", "Q314189", "Q48301", "Q76509", "Q7197", "Q9364"]}
+{"id": "carnap-rudolf", "topic": "phil", "qid": "Q76519", "influenced_by": ["Q60028", "Q937", "Q93996", "Q9312", "Q207534", "Q57196", "Q58586", "Q9391", "Q76518", "Q72106"]}
+{"id": "carneades", "topic": "phil", "qid": "Q284994", "influenced_by": []}
+{"id": "cavell-stanley", "topic": "phil", "qid": "Q725020", "influenced_by": []}
+{"id": "cavendish-margaret", "topic": "phil", "qid": "Q242640", "influenced_by": []}
+{"id": "chaitanya-mahaprabhu", "topic": "phil", "qid": "Q870262", "influenced_by": []}
+{"id": "chalmers-david", "topic": "phil", "qid": "Q366123", "influenced_by": ["Q33760", "Q319308"]}
+{"id": "chandrakirti", "topic": "phil", "qid": "Q456963", "influenced_by": []}
+{"id": "cheng-hao", "topic": "phil", "qid": "Q558192", "influenced_by": []}
+{"id": "cheng-yi", "topic": "phil", "qid": "Q558380", "influenced_by": []}
+{"id": "chomsky-noam", "topic": "phil", "qid": "Q9049", "influenced_by": []}
+{"id": "chrysippus", "topic": "phil", "qid": "Q211411", "influenced_by": ["Q310149"]}
+{"id": "churchland-patricia", "topic": "phil", "qid": "Q242616", "influenced_by": ["Q712462", "Q214969", "Q215258", "Q78497", "Q123280"]}
+{"id": "churchland-paul", "topic": "phil", "qid": "Q712681", "influenced_by": []}
+{"id": "cicero", "topic": "phil", "qid": "Q1541", "influenced_by": []}
+{"id": "cixous-helene", "topic": "phil", "qid": "Q234964", "influenced_by": ["Q9215", "Q169906", "Q130631"]}
+{"id": "comte-auguste", "topic": "phil", "qid": "Q12718", "influenced_by": ["Q316674"]}
+{"id": "confucius", "topic": "phil", "qid": "Q4604", "influenced_by": []}
+{"id": "conway-anne", "topic": "phil", "qid": "Q260404", "influenced_by": []}
+{"id": "crescas-hasdai", "topic": "phil", "qid": "Q528415", "influenced_by": ["Q868", "Q127398", "Q310777", "Q190089"]}
+{"id": "dai-zhen", "topic": "phil", "qid": "Q714369", "influenced_by": []}
+{"id": "davidson-donald", "topic": "phil", "qid": "Q311772", "influenced_by": ["Q298521", "Q9312", "Q315387", "Q35802", "Q183372", "Q221697", "Q9391", "Q229646", "Q214969", "Q207534", "Q342646", "Q311776", "Q76519"]}
+{"id": "daya-krishna", "topic": "phil", "qid": "Q16864126", "influenced_by": []}
+{"id": "deleuze-gilles", "topic": "phil", "qid": "Q184226", "influenced_by": ["Q35802", "Q9047", "Q9358", "Q44272", "Q352465", "Q42156", "Q909", "Q188176", "Q37160", "Q190089", "Q9061", "Q7199", "Q1345582", "Q9312", "Q9215", "Q9364", "Q169906", "Q184169", "Q203674", "Q433741", "Q540407", "Q2716613", "Q601475", "Q511513", "Q183372", "Q187520", "Q573120", "Q187166", "Q364456", "Q3055498", "Q905", "Q78474"]}
+{"id": "democritus", "topic": "phil", "qid": "Q41980", "influenced_by": ["Q165589"]}
+{"id": "dennett-daniel", "topic": "phil", "qid": "Q215263", "influenced_by": ["Q33760", "Q214969", "Q44461"]}
+{"id": "derrida-jacques", "topic": "phil", "qid": "Q130631", "influenced_by": ["Q48301", "Q859", "Q6882", "Q9358", "Q13230", "Q153034", "Q9215", "Q58586", "Q6527", "Q9061", "Q128126", "Q9235", "Q207359", "Q370389", "Q184169", "Q44272", "Q61078", "Q187166", "Q9391"]}
+{"id": "descartes-rene", "topic": "phil", "qid": "Q9191", "influenced_by": ["Q859", "Q868", "Q43939", "Q9438", "Q43936", "Q316339", "Q188663"]}
+{"id": "dewey-john", "topic": "phil", "qid": "Q131805", "influenced_by": []}
+{"id": "dharmakirti", "topic": "phil", "qid": "Q457990", "influenced_by": []}
+{"id": "diderot-denis", "topic": "phil", "qid": "Q448", "influenced_by": ["Q868", "Q35802", "Q9068"]}
+{"id": "dignaga", "topic": "phil", "qid": "Q558272", "influenced_by": []}
+{"id": "diogenes-of-sinope", "topic": "phil", "qid": "Q59180", "influenced_by": []}
+{"id": "dogen", "topic": "phil", "qid": "Q318064", "influenced_by": []}
+{"id": "dong-zhongshu", "topic": "phil", "qid": "Q445626", "influenced_by": []}
+{"id": "du-bois-w-e-b", "topic": "phil", "qid": "Q158060", "influenced_by": ["Q1766103", "Q125249"]}
+{"id": "du-chatelet-emilie", "topic": "phil", "qid": "Q7286", "influenced_by": ["Q935", "Q9068", "Q9047"]}
+{"id": "dummett-michael", "topic": "phil", "qid": "Q342646", "influenced_by": []}
+{"id": "duns-scotus-john", "topic": "phil", "qid": "Q190089", "influenced_by": []}
+{"id": "dussel-enrique", "topic": "phil", "qid": "Q473518", "influenced_by": []}
+{"id": "dworkin-ronald", "topic": "phil", "qid": "Q319803", "influenced_by": ["Q172544"]}
+{"id": "eckhart-meister", "topic": "phil", "qid": "Q76548", "influenced_by": []}
+{"id": "elisabeth-of-bohemia", "topic": "phil", "qid": "Q61389", "influenced_by": []}
+{"id": "empedocles", "topic": "phil", "qid": "Q83375", "influenced_by": ["Q10261"]}
+{"id": "epictetus", "topic": "phil", "qid": "Q183144", "influenced_by": []}
+{"id": "epicurus", "topic": "phil", "qid": "Q43216", "influenced_by": ["Q189506", "Q41980", "Q192313"]}
+{"id": "eriugena-john-scotus", "topic": "phil", "qid": "Q184500", "influenced_by": ["Q8018", "Q191734"]}
+{"id": "fanon-frantz", "topic": "phil", "qid": "Q193670", "influenced_by": ["Q9364", "Q223955"]}
+{"id": "feyerabend-paul", "topic": "phil", "qid": "Q78497", "influenced_by": ["Q296249"]}
+{"id": "fichte-johann-gottlieb", "topic": "phil", "qid": "Q102585", "influenced_by": ["Q112258", "Q465763", "Q6527", "Q9312", "Q35802", "Q36281"]}
+{"id": "fine-kit", "topic": "phil", "qid": "Q23450", "influenced_by": []}
+{"id": "fodor-jerry", "topic": "phil", "qid": "Q319186", "influenced_by": []}
+{"id": "foot-philippa", "topic": "phil", "qid": "Q297493", "influenced_by": ["Q868", "Q9438", "Q350239", "Q9391"]}
+{"id": "foucault-michel", "topic": "phil", "qid": "Q44272", "influenced_by": ["Q9312", "Q9358", "Q270800", "Q48301", "Q207359", "Q433741", "Q9061", "Q315210", "Q3170058", "Q184169", "Q972152", "Q9215", "Q128126", "Q444593", "Q188176", "Q859", "Q485459", "Q9235", "Q13230", "Q58586", "Q116614", "Q76509", "Q638775", "Q212639", "Q57188", "Q462662", "Q540407", "Q310590", "Q169906", "Q184226"]}
+{"id": "frege-gottlob", "topic": "phil", "qid": "Q60028", "influenced_by": ["Q184735"]}
+{"id": "fricker-miranda", "topic": "phil", "qid": "Q13522475", "influenced_by": []}
+{"id": "gadamer-hans-georg", "topic": "phil", "qid": "Q76356", "influenced_by": ["Q48301", "Q859", "Q868", "Q9312", "Q9235", "Q6512", "Q76576", "Q60080", "Q58586"]}
+{"id": "gandhi-mohandas", "topic": "phil", "qid": "Q1001", "influenced_by": ["Q131149", "Q7243", "Q9441", "Q183167", "Q179126", "Q330521", "Q2723334", "Q16382", "Q1364647", "Q2353373"]}
+{"id": "gangesa-upadhyaya", "topic": "phil", "qid": "Q3635187", "influenced_by": []}
+{"id": "gaudapada", "topic": "phil", "qid": "Q1771062", "influenced_by": []}
+{"id": "gautama-aksapada", "topic": "phil", "qid": "Q2363579", "influenced_by": []}
+{"id": "gersonides", "topic": "phil", "qid": "Q353633", "influenced_by": []}
+{"id": "gettier-edmund", "topic": "phil", "qid": "Q450940", "influenced_by": []}
+{"id": "gorgias", "topic": "phil", "qid": "Q179785", "influenced_by": []}
+{"id": "gramsci-antonio", "topic": "phil", "qid": "Q83003", "influenced_by": ["Q9235", "Q9061", "Q192348", "Q471523", "Q312295", "Q1399", "Q34787", "Q1394", "Q313666", "Q342730", "Q451743", "Q11031", "Q351527"]}
+{"id": "grosseteste-robert", "topic": "phil", "qid": "Q256541", "influenced_by": []}
+{"id": "guo-xiang", "topic": "phil", "qid": "Q1291953", "influenced_by": []}
+{"id": "gyekye-kwame", "topic": "phil", "qid": "Q1794906", "influenced_by": []}
+{"id": "godel-kurt", "topic": "phil", "qid": "Q41390", "influenced_by": []}
+{"id": "haack-susan", "topic": "phil", "qid": "Q3173010", "influenced_by": ["Q187520"]}
+{"id": "habermas-jurgen", "topic": "phil", "qid": "Q76357", "influenced_by": ["Q9312", "Q60070", "Q9235", "Q9061", "Q34787", "Q7231", "Q2514", "Q15948", "Q9387", "Q9358", "Q9215", "Q77888", "Q126692", "Q151523", "Q295978", "Q58586", "Q76515", "Q76826", "Q152388", "Q123190", "Q203913", "Q60030", "Q60025", "Q58853", "Q57238"]}
+{"id": "han-fei", "topic": "phil", "qid": "Q28959", "influenced_by": []}
+{"id": "hare-r-m", "topic": "phil", "qid": "Q471923", "influenced_by": []}
+{"id": "haribhadra", "topic": "phil", "qid": "Q4207831", "influenced_by": []}
+{"id": "harman-gilbert", "topic": "phil", "qid": "Q962148", "influenced_by": []}
+{"id": "haslanger-sally", "topic": "phil", "qid": "Q7405159", "influenced_by": []}
+{"id": "hayashi-razan", "topic": "phil", "qid": "Q558279", "influenced_by": []}
+{"id": "hegel-g-w-f", "topic": "phil", "qid": "Q9235", "influenced_by": ["Q60070", "Q9312", "Q41155", "Q35802", "Q15975", "Q868", "Q859", "Q134189", "Q271809", "Q43939", "Q154751", "Q9191", "Q6527", "Q77017", "Q102585", "Q76576"]}
+{"id": "heidegger-martin", "topic": "phil", "qid": "Q48301", "influenced_by": ["Q58586", "Q9358", "Q6512", "Q41155", "Q42458", "Q125551", "Q868", "Q859", "Q9438", "Q190089", "Q9312", "Q57196", "Q60080"]}
+{"id": "hemachandra", "topic": "phil", "qid": "Q2723463", "influenced_by": []}
+{"id": "heraclitus", "topic": "phil", "qid": "Q41155", "influenced_by": ["Q298860", "Q131671"]}
+{"id": "herder-johann-gottfried", "topic": "phil", "qid": "Q155547", "influenced_by": ["Q9312", "Q35802", "Q36330", "Q9047", "Q76499"]}
+{"id": "hildegard-of-bingen", "topic": "phil", "qid": "Q70991", "influenced_by": []}
+{"id": "hobbes-thomas", "topic": "phil", "qid": "Q37621", "influenced_by": ["Q859", "Q868", "Q154959", "Q37388"]}
+{"id": "horkheimer-max", "topic": "phil", "qid": "Q76826", "influenced_by": []}
+{"id": "hountondji-paulin", "topic": "phil", "qid": "Q712288", "influenced_by": []}
+{"id": "hume-david", "topic": "phil", "qid": "Q37160", "influenced_by": ["Q82049", "Q9353", "Q316367", "Q935"]}
+{"id": "husserl-edmund", "topic": "phil", "qid": "Q58586", "influenced_by": ["Q184735", "Q57497", "Q61970", "Q57196", "Q60028", "Q9312"]}
+{"id": "hypatia", "topic": "phil", "qid": "Q11903", "influenced_by": ["Q859", "Q134189", "Q868", "Q354384", "Q178217", "Q34943"]}
+{"id": "iamblichus", "topic": "phil", "qid": "Q310916", "influenced_by": ["Q859", "Q203445", "Q134189"]}
+{"id": "ibn-arabi", "topic": "phil", "qid": "Q46420", "influenced_by": ["Q2719051"]}
+{"id": "ibn-khaldun", "topic": "phil", "qid": "Q9294", "influenced_by": ["Q39837"]}
+{"id": "ibn-tufayl", "topic": "phil", "qid": "Q251259", "influenced_by": []}
+{"id": "iqbal-muhammad", "topic": "phil", "qid": "Q484141", "influenced_by": ["Q7243", "Q5879", "Q9235", "Q9358", "Q868", "Q3595922", "Q42156", "Q9458", "Q43347", "Q2493613", "Q369907", "Q380241"]}
+{"id": "irigaray-luce", "topic": "phil", "qid": "Q28918", "influenced_by": []}
+{"id": "ishvarakrishna", "topic": "phil", "qid": "Q2088920", "influenced_by": []}
+{"id": "jackson-frank", "topic": "phil", "qid": "Q1365057", "influenced_by": []}
+{"id": "james-william", "topic": "phil", "qid": "Q125249", "influenced_by": ["Q1290", "Q48226"]}
+{"id": "jaspers-karl", "topic": "phil", "qid": "Q76509", "influenced_by": ["Q76548", "Q5879", "Q9387", "Q9312", "Q48301", "Q6512"]}
+{"id": "jayanta-bhatta", "topic": "phil", "qid": "Q15457107", "influenced_by": []}
+{"id": "jinul", "topic": "phil", "qid": "Q704894", "influenced_by": []}
+{"id": "judah-halevi", "topic": "phil", "qid": "Q299200", "influenced_by": []}
+{"id": "kamalashila", "topic": "phil", "qid": "Q636959", "influenced_by": []}
+{"id": "kanada", "topic": "phil", "qid": "Q29049", "influenced_by": []}
+{"id": "kant-immanuel", "topic": "phil", "qid": "Q9312", "influenced_by": ["Q37160", "Q82049", "Q76510", "Q6527", "Q316367", "Q935", "Q859", "Q63081", "Q41568", "Q9191", "Q9047", "Q9353", "Q309818", "Q35802"]}
+{"id": "kierkegaard-s-ren", "topic": "phil", "qid": "Q6512", "influenced_by": ["Q868", "Q76499", "Q34628", "Q9554", "Q60070", "Q9235", "Q726374", "Q76510", "Q9312"]}
+{"id": "korsgaard-christine", "topic": "phil", "qid": "Q467518", "influenced_by": []}
+{"id": "kripke-saul", "topic": "phil", "qid": "Q298521", "influenced_by": ["Q9391", "Q214969", "Q207534", "Q221697", "Q342646", "Q37160", "Q60028", "Q7251", "Q92611", "Q725642"]}
+{"id": "krishnamurti-jiddu", "topic": "phil", "qid": "Q179266", "influenced_by": []}
+{"id": "kristeva-julia", "topic": "phil", "qid": "Q159876", "influenced_by": ["Q767", "Q294181", "Q207359", "Q187166", "Q9215", "Q169906", "Q179109", "Q185375"]}
+{"id": "kuhn-thomas", "topic": "phil", "qid": "Q184980", "influenced_by": ["Q61885", "Q123190", "Q163087", "Q523087"]}
+{"id": "kukai", "topic": "phil", "qid": "Q222227", "influenced_by": []}
+{"id": "kumarila-bhatta", "topic": "phil", "qid": "Q774847", "influenced_by": []}
+{"id": "kundakunda", "topic": "phil", "qid": "Q3277993", "influenced_by": []}
+{"id": "lacan-jacques", "topic": "phil", "qid": "Q169906", "influenced_by": ["Q9215", "Q13230", "Q354504", "Q48301"]}
+{"id": "langer-susanne", "topic": "phil", "qid": "Q466026", "influenced_by": []}
+{"id": "laozi", "topic": "phil", "qid": "Q9333", "influenced_by": []}
+{"id": "leibniz-gottfried-wilhelm", "topic": "phil", "qid": "Q9047", "influenced_by": ["Q859", "Q1290", "Q36330", "Q9438", "Q37621", "Q868", "Q39599", "Q127398", "Q4604", "Q316339", "Q154751", "Q309818", "Q122392", "Q35802", "Q9191", "Q8018", "Q67323", "Q43939", "Q151722", "Q73014", "Q12735", "Q134189", "Q193660", "Q11903", "Q192315", "Q182128", "Q190089", "Q294100", "Q251259"]}
+{"id": "levinas-emmanuel", "topic": "phil", "qid": "Q153034", "influenced_by": ["Q48301", "Q9364"]}
+{"id": "lewis-david", "topic": "phil", "qid": "Q384522", "influenced_by": []}
+{"id": "locke-john", "topic": "phil", "qid": "Q9353", "influenced_by": ["Q37621", "Q9191", "Q154959", "Q707787", "Q57186", "Q559213", "Q336002", "Q2332520"]}
+{"id": "lu-xiangshan", "topic": "phil", "qid": "Q2466384", "influenced_by": []}
+{"id": "lucretius", "topic": "phil", "qid": "Q47154", "influenced_by": []}
+{"id": "lukacs-gyorgy", "topic": "phil", "qid": "Q151523", "influenced_by": []}
+{"id": "lyotard-jean-francois", "topic": "phil", "qid": "Q193257", "influenced_by": ["Q48301"]}
+{"id": "macaulay-catharine", "topic": "phil", "qid": "Q538767", "influenced_by": []}
+{"id": "macintyre-alasdair", "topic": "phil", "qid": "Q310178", "influenced_by": []}
+{"id": "mackie-j-l", "topic": "phil", "qid": "Q713642", "influenced_by": []}
+{"id": "madhva", "topic": "phil", "qid": "Q335371", "influenced_by": []}
+{"id": "maimonides", "topic": "phil", "qid": "Q127398", "influenced_by": ["Q8011", "Q160460", "Q11362", "Q868", "Q39837"]}
+{"id": "malebranche-nicolas", "topic": "phil", "qid": "Q309818", "influenced_by": ["Q9191", "Q8018"]}
+{"id": "mandana-misra", "topic": "phil", "qid": "Q3630248", "influenced_by": []}
+{"id": "marcuse-herbert", "topic": "phil", "qid": "Q60030", "influenced_by": []}
+{"id": "mariategui-jose-carlos", "topic": "phil", "qid": "Q335544", "influenced_by": []}
+{"id": "marx-karl", "topic": "phil", "qid": "Q9061", "influenced_by": ["Q9235", "Q76725", "Q76422", "Q1170769"]}
+{"id": "masham-damaris-cudworth", "topic": "phil", "qid": "Q2332520", "influenced_by": ["Q859", "Q868", "Q134189", "Q8018", "Q154751", "Q528261"]}
+{"id": "matilal-bimal-krishna", "topic": "phil", "qid": "Q4913688", "influenced_by": []}
+{"id": "mbembe-achille", "topic": "phil", "qid": "Q340234", "influenced_by": ["Q193670", "Q223955", "Q3063591", "Q44272", "Q1685021", "Q3165457", "Q186525", "Q207359", "Q9235", "Q60025"]}
+{"id": "mcdowell-john", "topic": "phil", "qid": "Q1252398", "influenced_by": []}
+{"id": "mead-george-herbert", "topic": "phil", "qid": "Q295978", "influenced_by": []}
+{"id": "mencius", "topic": "phil", "qid": "Q188903", "influenced_by": ["Q4604", "Q1147803"]}
+{"id": "merleau-ponty-maurice", "topic": "phil", "qid": "Q212639", "influenced_by": ["Q58586", "Q9061", "Q48301", "Q13230", "Q215031"]}
+{"id": "midgley-mary", "topic": "phil", "qid": "Q2898525", "influenced_by": ["Q295386"]}
+{"id": "mill-harriet-taylor", "topic": "phil", "qid": "Q240782", "influenced_by": []}
+{"id": "mill-john-stuart", "topic": "phil", "qid": "Q50020", "influenced_by": []}
+{"id": "mohanty-j-n", "topic": "phil", "qid": "Q6203267", "influenced_by": []}
+{"id": "montaigne-michel-de", "topic": "phil", "qid": "Q41568", "influenced_by": []}
+{"id": "montesquieu", "topic": "phil", "qid": "Q15975", "influenced_by": []}
+{"id": "moore-g-e", "topic": "phil", "qid": "Q295386", "influenced_by": []}
+{"id": "mozi", "topic": "phil", "qid": "Q272411", "influenced_by": []}
+{"id": "mudimbe-v-y", "topic": "phil", "qid": "Q3056528", "influenced_by": []}
+{"id": "mulla-sadra", "topic": "phil", "qid": "Q2010955", "influenced_by": ["Q46420"]}
+{"id": "murdoch-iris", "topic": "phil", "qid": "Q217495", "influenced_by": []}
+{"id": "nagarjuna", "topic": "phil", "qid": "Q171195", "influenced_by": []}
+{"id": "nagel-thomas", "topic": "phil", "qid": "Q350239", "influenced_by": []}
+{"id": "nicholas-of-cusa", "topic": "phil", "qid": "Q154751", "influenced_by": []}
+{"id": "nietzsche-friedrich", "topic": "phil", "qid": "Q9358", "influenced_by": ["Q38193", "Q41155", "Q48226", "Q1035", "Q125551", "Q12718", "Q1290", "Q13894", "Q1399", "Q1511", "Q168542", "Q16867", "Q169243", "Q172599", "Q198644", "Q236594", "Q273708", "Q297726", "Q310757", "Q314189", "Q35802", "Q35811", "Q360512", "Q379912", "Q385790", "Q40213", "Q41568", "Q41980", "Q43216", "Q44403", "Q502", "Q57112", "Q57187", "Q57280", "Q57554", "Q5879", "Q60104", "Q61674", "Q62596", "Q6527", "Q692", "Q707490", "Q75889", "Q76521", "Q76725", "Q77127", "Q78491", "Q79822", "Q83375", "Q859", "Q868", "Q9047", "Q9068", "Q913", "Q9235", "Q9312", "Q991", "Q999259", "Q41680", "Q8409", "Q6691", "Q1048", "Q40939", "Q336115", "Q64632", "Q38873", "Q178744", "Q41683", "Q187998", "Q517", "Q201221"]}
+{"id": "nimbarka", "topic": "phil", "qid": "Q2392401", "influenced_by": []}
+{"id": "nishida-kitaro", "topic": "phil", "qid": "Q45125", "influenced_by": []}
+{"id": "nozick-robert", "topic": "phil", "qid": "Q205927", "influenced_by": []}
+{"id": "nussbaum-martha", "topic": "phil", "qid": "Q235470", "influenced_by": ["Q868", "Q50020", "Q719880", "Q528159", "Q132489"]}
+{"id": "o-neill-onora", "topic": "phil", "qid": "Q336089", "influenced_by": []}
+{"id": "ockham-william-of", "topic": "phil", "qid": "Q43936", "influenced_by": ["Q868", "Q9438", "Q43939"]}
+{"id": "ogyu-sorai", "topic": "phil", "qid": "Q369158", "influenced_by": []}
+{"id": "oruka-henry-odera", "topic": "phil", "qid": "Q1607102", "influenced_by": []}
+{"id": "parfit-derek", "topic": "phil", "qid": "Q962160", "influenced_by": []}
+{"id": "parmenides", "topic": "phil", "qid": "Q125551", "influenced_by": ["Q41155"]}
+{"id": "pascal-blaise", "topic": "phil", "qid": "Q1290", "influenced_by": ["Q8018", "Q41568", "Q9191", "Q318943", "Q183144"]}
+{"id": "patanjali", "topic": "phil", "qid": "Q231680", "influenced_by": []}
+{"id": "peirce-charles-sanders", "topic": "phil", "qid": "Q187520", "influenced_by": ["Q82049"]}
+{"id": "pettit-philip", "topic": "phil", "qid": "Q1237041", "influenced_by": []}
+{"id": "plantinga-alvin", "topic": "phil", "qid": "Q355201", "influenced_by": ["Q37577"]}
+{"id": "plato", "topic": "phil", "qid": "Q859", "influenced_by": ["Q913", "Q41155", "Q125551", "Q6691", "Q44233", "Q43353", "Q169243", "Q10261", "Q242517"]}
+{"id": "plotinus", "topic": "phil", "qid": "Q134189", "influenced_by": ["Q189597"]}
+{"id": "popper-karl", "topic": "phil", "qid": "Q81244", "influenced_by": ["Q913", "Q432737", "Q868", "Q9191", "Q38193", "Q77436", "Q9235", "Q6512", "Q937", "Q208238", "Q76518"]}
+{"id": "porphyry", "topic": "phil", "qid": "Q203445", "influenced_by": []}
+{"id": "prabhakara", "topic": "phil", "qid": "Q15632651", "influenced_by": []}
+{"id": "proclus", "topic": "phil", "qid": "Q271809", "influenced_by": ["Q134189", "Q868", "Q859", "Q537304", "Q1373037"]}
+{"id": "protagoras", "topic": "phil", "qid": "Q169243", "influenced_by": []}
+{"id": "putnam-hilary", "topic": "phil", "qid": "Q221697", "influenced_by": ["Q125249", "Q131805", "Q9391"]}
+{"id": "pyrrho", "topic": "phil", "qid": "Q192313", "influenced_by": []}
+{"id": "pythagoras", "topic": "phil", "qid": "Q10261", "influenced_by": ["Q311485", "Q42458", "Q36303", "Q35811"]}
+{"id": "quine-w-v-o", "topic": "phil", "qid": "Q214969", "influenced_by": []}
+{"id": "radhakrishnan-sarvepalli", "topic": "phil", "qid": "Q156349", "influenced_by": []}
+{"id": "raghunatha-siromani", "topic": "phil", "qid": "Q4387084", "influenced_by": []}
+{"id": "ramanuja", "topic": "phil", "qid": "Q1741798", "influenced_by": []}
+{"id": "ramsey-frank", "topic": "phil", "qid": "Q315387", "influenced_by": []}
+{"id": "rand-ayn", "topic": "phil", "qid": "Q132524", "influenced_by": ["Q868", "Q84233", "Q84177", "Q460075", "Q9438", "Q2634091", "Q991", "Q535", "Q202749", "Q22670", "Q1879488", "Q438558"]}
+{"id": "rawls-john", "topic": "phil", "qid": "Q172544", "influenced_by": ["Q9353", "Q9312"]}
+{"id": "raz-joseph", "topic": "phil", "qid": "Q1380371", "influenced_by": []}
+{"id": "ricoeur-paul", "topic": "phil", "qid": "Q192066", "influenced_by": []}
+{"id": "rorty-richard", "topic": "phil", "qid": "Q215258", "influenced_by": ["Q48301", "Q131805"]}
+{"id": "rousseau-jean-jacques", "topic": "phil", "qid": "Q6527", "influenced_by": []}
+{"id": "russell-bertrand", "topic": "phil", "qid": "Q33760", "influenced_by": ["Q8747", "Q50020", "Q191029", "Q208448", "Q134661", "Q60028", "Q76420", "Q237833", "Q78600", "Q35802", "Q93996", "Q37160", "Q9047", "Q9391", "Q183372", "Q295386", "Q93343", "Q778109"]}
+{"id": "ryle-gilbert", "topic": "phil", "qid": "Q313386", "influenced_by": []}
+{"id": "saadia-gaon", "topic": "phil", "qid": "Q328748", "influenced_by": []}
+{"id": "sandel-michael", "topic": "phil", "qid": "Q381044", "influenced_by": ["Q172544"]}
+{"id": "sartre-jean-paul", "topic": "phil", "qid": "Q9364", "influenced_by": ["Q48301", "Q151820", "Q153034", "Q9235", "Q9061", "Q58586"]}
+{"id": "scanlon-t-m", "topic": "phil", "qid": "Q1773977", "influenced_by": []}
+{"id": "schelling-f-w-j", "topic": "phil", "qid": "Q60070", "influenced_by": ["Q859", "Q36330", "Q77017", "Q35802", "Q9047", "Q9312", "Q611233", "Q168004", "Q155547", "Q5879", "Q75889", "Q102585"]}
+{"id": "schopenhauer-arthur", "topic": "phil", "qid": "Q38193", "influenced_by": ["Q859", "Q9353", "Q35802", "Q37160", "Q9312", "Q5879"]}
+{"id": "searle-john", "topic": "phil", "qid": "Q295012", "influenced_by": ["Q9391"]}
+{"id": "sellars-wilfrid", "topic": "phil", "qid": "Q712462", "influenced_by": []}
+{"id": "sen-amartya", "topic": "phil", "qid": "Q132489", "influenced_by": []}
+{"id": "seneca", "topic": "phil", "qid": "Q2054", "influenced_by": ["Q363375", "Q780789", "Q48305"]}
+{"id": "sextus-empiricus", "topic": "phil", "qid": "Q236594", "influenced_by": []}
+{"id": "shankara", "topic": "phil", "qid": "Q180967", "influenced_by": []}
+{"id": "shantarakshita", "topic": "phil", "qid": "Q553722", "influenced_by": []}
+{"id": "shantideva", "topic": "phil", "qid": "Q445460", "influenced_by": []}
+{"id": "shepherd-mary", "topic": "phil", "qid": "Q117734448", "influenced_by": []}
+{"id": "singer-peter", "topic": "phil", "qid": "Q211539", "influenced_by": []}
+{"id": "smith-adam", "topic": "phil", "qid": "Q9381", "influenced_by": ["Q13575"]}
+{"id": "sober-elliott", "topic": "phil", "qid": "Q329031", "influenced_by": []}
+{"id": "socrates", "topic": "phil", "qid": "Q913", "influenced_by": ["Q83041", "Q178540", "Q3750514"]}
+{"id": "sor-juana-ines-de-la-cruz", "topic": "phil", "qid": "Q183074", "influenced_by": []}
+{"id": "sosa-ernest", "topic": "phil", "qid": "Q1356547", "influenced_by": []}
+{"id": "spinoza-baruch", "topic": "phil", "qid": "Q35802", "influenced_by": ["Q9191", "Q125551", "Q127398", "Q131671", "Q1399", "Q251259", "Q309818", "Q36330", "Q37388", "Q37621", "Q39837", "Q41980", "Q43216", "Q47154", "Q528415", "Q8011", "Q859", "Q868"]}
+{"id": "stalnaker-robert", "topic": "phil", "qid": "Q1364893", "influenced_by": []}
+{"id": "stein-edith", "topic": "phil", "qid": "Q76749", "influenced_by": []}
+{"id": "strawson-p-f", "topic": "phil", "qid": "Q311760", "influenced_by": ["Q9391"]}
+{"id": "suhrawardi", "topic": "phil", "qid": "Q282883", "influenced_by": ["Q160460"]}
+{"id": "swinburne-richard", "topic": "phil", "qid": "Q712709", "influenced_by": []}
+{"id": "tagore-rabindranath", "topic": "phil", "qid": "Q7241", "influenced_by": []}
+{"id": "tarski-alfred", "topic": "phil", "qid": "Q207534", "influenced_by": ["Q187520"]}
+{"id": "taylor-charles", "topic": "phil", "qid": "Q311757", "influenced_by": []}
+{"id": "thales", "topic": "phil", "qid": "Q36303", "influenced_by": []}
+{"id": "thomson-judith-jarvis", "topic": "phil", "qid": "Q3120860", "influenced_by": []}
+{"id": "tsongkhapa", "topic": "phil", "qid": "Q323439", "influenced_by": []}
+{"id": "tusi-nasir-al-din", "topic": "phil", "qid": "Q302835", "influenced_by": ["Q8011", "Q333703", "Q4060358"]}
+{"id": "udayana", "topic": "phil", "qid": "Q3633956", "influenced_by": []}
+{"id": "uddyotakara", "topic": "phil", "qid": "Q3547724", "influenced_by": []}
+{"id": "umasvati", "topic": "phil", "qid": "Q1777897", "influenced_by": []}
+{"id": "unamuno-miguel-de", "topic": "phil", "qid": "Q185085", "influenced_by": ["Q6512", "Q38193", "Q9061", "Q75784", "Q27645", "Q8018", "Q1290", "Q1430", "Q6527", "Q254041"]}
+{"id": "vacaspati-misra", "topic": "phil", "qid": "Q1292812", "influenced_by": []}
+{"id": "vallabha", "topic": "phil", "qid": "Q2343604", "influenced_by": []}
+{"id": "van-fraassen-bas", "topic": "phil", "qid": "Q809744", "influenced_by": ["Q76518"]}
+{"id": "van-inwagen-peter", "topic": "phil", "qid": "Q1972246", "influenced_by": []}
+{"id": "vasconcelos-jose", "topic": "phil", "qid": "Q1091141", "influenced_by": []}
+{"id": "vasubandhu", "topic": "phil", "qid": "Q316343", "influenced_by": []}
+{"id": "vatsyayana", "topic": "phil", "qid": "Q380234", "influenced_by": []}
+{"id": "vivekananda-swami", "topic": "phil", "qid": "Q47478", "influenced_by": []}
+{"id": "voltaire", "topic": "phil", "qid": "Q9068", "influenced_by": ["Q1290", "Q1541", "Q177847", "Q214816", "Q251259", "Q309818", "Q332470", "Q35811", "Q4604", "Q5682", "Q692", "Q742", "Q859", "Q9353", "Q935"]}
+{"id": "wang-bi", "topic": "phil", "qid": "Q459865", "influenced_by": []}
+{"id": "wang-fuzhi", "topic": "phil", "qid": "Q714374", "influenced_by": []}
+{"id": "wang-yangming", "topic": "phil", "qid": "Q378462", "influenced_by": []}
+{"id": "warnock-mary", "topic": "phil", "qid": "Q336921", "influenced_by": []}
+{"id": "watsuji-tetsuro", "topic": "phil", "qid": "Q969266", "influenced_by": ["Q48301", "Q45125", "Q9235"]}
+{"id": "weil-simone", "topic": "phil", "qid": "Q157309", "influenced_by": []}
+{"id": "west-cornel", "topic": "phil", "qid": "Q712469", "influenced_by": ["Q215258", "Q5685", "Q725020", "Q7346"]}
+{"id": "whitehead-alfred-north", "topic": "phil", "qid": "Q183372", "influenced_by": []}
+{"id": "williams-bernard", "topic": "phil", "qid": "Q345641", "influenced_by": ["Q9358", "Q297493"]}
+{"id": "williamson-timothy", "topic": "phil", "qid": "Q984380", "influenced_by": []}
+{"id": "wiredu-kwasi", "topic": "phil", "qid": "Q570103", "influenced_by": []}
+{"id": "wittgenstein-ludwig", "topic": "phil", "qid": "Q9391", "influenced_by": ["Q33760", "Q6512", "Q60028", "Q38193"]}
+{"id": "wollstonecraft-mary", "topic": "phil", "qid": "Q101638", "influenced_by": ["Q126462", "Q561101", "Q3047162"]}
+{"id": "wonhyo", "topic": "phil", "qid": "Q485114", "influenced_by": []}
+{"id": "xenophanes", "topic": "phil", "qid": "Q131671", "influenced_by": []}
+{"id": "xunzi", "topic": "phil", "qid": "Q21072863", "influenced_by": []}
+{"id": "yashovijaya", "topic": "phil", "qid": "Q773122", "influenced_by": []}
+{"id": "yi-hwang-toegye", "topic": "phil", "qid": "Q486291", "influenced_by": []}
+{"id": "yi-i-yulgok", "topic": "phil", "qid": "Q379653", "influenced_by": []}
+{"id": "zea-leopoldo", "topic": "phil", "qid": "Q1879022", "influenced_by": []}
+{"id": "zeno-of-citium", "topic": "phil", "qid": "Q171303", "influenced_by": ["Q485459", "Q913"]}
+{"id": "zeno-of-elea", "topic": "phil", "qid": "Q132157", "influenced_by": ["Q125551"]}
+{"id": "zhang-zai", "topic": "phil", "qid": "Q197338", "influenced_by": []}
+{"id": "zhou-dunyi", "topic": "phil", "qid": "Q197962", "influenced_by": []}
+{"id": "zhu-xi", "topic": "phil", "qid": "Q9397", "influenced_by": []}
+{"id": "zhuangzi", "topic": "phil", "qid": "Q9390899", "influenced_by": []}
+{"id": "zizek-slavoj", "topic": "phil", "qid": "Q184750", "influenced_by": ["Q184169", "Q311005", "Q183167", "Q4953061", "Q9215", "Q9235", "Q48301", "Q347362", "Q169906", "Q454802", "Q1394", "Q9061", "Q44197", "Q60070", "Q9312", "Q9358", "Q61078", "Q152388", "Q6512", "Q5816", "Q520417", "Q1451176"]}
