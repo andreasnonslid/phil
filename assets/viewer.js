@@ -2,7 +2,8 @@ let DATA=[];
 let CFG={};          // topic config (the JSON "meta" block), set in loadData
 let FILTERS=[];      // CFG.filters
 const state={q:"",filters:{},sort:"az",showFavs:false,view:"list",entryId:null,yMin:null,yMax:null,crossTopic:false,
-  mode:null,lineageFrom:null,lineageTo:null,lineageUndirected:false};
+  mode:null,lineageFrom:null,lineageTo:null,lineageUndirected:false,
+  infRoot:null,infDir:null,infDepth:null};
 const formatViews=n=>Number(n||0).toLocaleString(undefined,{maximumFractionDigits:0});
 
 // Available topics, loaded from data/topics.json in initApp(). The ?d= param selects
@@ -269,6 +270,7 @@ function searchText(r){
 function match(r){
   if(state.showFavs && !FAVS.has(r.name))return false;
   if(state.yMin!=null && !(r.y>=state.yMin && r.y<=state.yMax))return false;
+  if(infReachableSet && !infReachableSet.has(r.id))return false;
   for(const f of FILTERS){
     const sel=state.filters[f.id];
     if(!sel||!sel.size)continue;
@@ -299,9 +301,17 @@ function renderActiveTags(){
   if(state.yMin!=null){
     h+=`<button class="chip" data-period-clear>${esc(yearLabel(state.yMin))}&ndash;${esc(yearLabel(state.yMax))} <span>&times;</span></button>`;
   }
+  if(state.infRoot){
+    const rootEntry=DATA.find(e=>e.id===state.infRoot);
+    const rootName=rootEntry?rootEntry.name:state.infRoot;
+    const dirLabel=state.infDir==="downstream"?"Influenced by":state.infDir==="upstream"?"Influenced":"Connected to";
+    const hopLabel=`${state.infDepth} hop${state.infDepth===1?"":"s"}`;
+    h+=`<button class="chip chip-inf" data-inf-clear>${esc(dirLabel)} ${esc(rootName)} (${hopLabel}) <span>&times;</span></button>`;
+  }
   box.innerHTML=h;
   box.querySelectorAll(".chip").forEach(ch=>ch.addEventListener("click",()=>{
     if(ch.hasAttribute("data-period-clear")){state.yMin=null;state.yMax=null;render();return;}
+    if(ch.hasAttribute("data-inf-clear")){clearInfluenceFilter();render();return;}
     const g=ch.dataset.grp,v=ch.dataset.val;state.filters[g].delete(v);
     const dd=$(`#dd-${g}`);
     const cb=dd.querySelector(`input[value="${CSS.escape(v)}"]`);if(cb)cb.checked=false;
@@ -756,6 +766,7 @@ function resetAll(){
   state.q="";FILTERS.forEach(f=>state.filters[f.id].clear());
   state.showFavs=false;
   state.yMin=null;state.yMax=null;
+  clearInfluenceFilter();
   $("#q").value="";
   document.querySelectorAll('.panel input[type=checkbox]').forEach(c=>c.checked=false);
   document.querySelectorAll(".dd").forEach(d=>updBadge(d,0));
@@ -864,7 +875,7 @@ document.querySelectorAll(".view-btn").forEach(btn=>{
 
 // ---- clear filters ----
 function updClearFiltersBtn(){
-  const hasFilters = state.q || state.showFavs || state.yMin!=null || FILTERS.some(f=>state.filters[f.id].size);
+  const hasFilters = state.q || state.showFavs || state.yMin!=null || state.infRoot || FILTERS.some(f=>state.filters[f.id].size);
   $("#clearFiltersBtn").disabled = !hasFilters;
 }
 $("#clearFiltersBtn").addEventListener("click", () => { if (!$("#clearFiltersBtn").disabled) resetAll(); });
@@ -888,11 +899,12 @@ function encodeHash(){
   if (state.showFavs)       parts.push("favs=1");
   if (state.yMin!=null)     parts.push("minY="   + encodeURIComponent(state.yMin));
   if (state.yMax!=null)     parts.push("maxY="   + encodeURIComponent(state.yMax));
+  if (state.infRoot)        parts.push("inf="    + encodeURIComponent(state.infRoot) + ":" + state.infDir + ":" + state.infDepth);
   if (state.view !== "list") parts.push("view="   + encodeURIComponent(state.view));
   history.replaceState(null,"", parts.length ? "#" + parts.join("&") : location.pathname + location.search);
 }
 
-function decodeHash(){
+async function decodeHash(){
   const hash = location.hash.slice(1);
   if (!hash) return;
   const params = {};
@@ -925,6 +937,14 @@ function decodeHash(){
   if (params.minY!==undefined && params.maxY!==undefined){
     const min=Number(params.minY), max=Number(params.maxY);
     if(Number.isFinite(min) && Number.isFinite(max)){ state.yMin=min; state.yMax=max; }
+  }
+  if (params.inf){
+    const [rootId,dir,depthStr]=params.inf.split(":");
+    const depth=Number(depthStr);
+    const validDir=dir==="upstream"||dir==="downstream"||dir==="both";
+    if(rootId && DATA.some(r=>r.id===rootId) && validDir && (depth===1||depth===2)){
+      await setInfluenceFilter(rootId,dir,depth);
+    }
   }
   if (params.view === "timeline"){
     state.view = "timeline";
@@ -1154,7 +1174,14 @@ async function renderInfluences(r){
   const ofHtml=influenceGroupHtml("Influenced",influencedIds,topicId);
   if(!byHtml&&!ofHtml){box.innerHTML="";return;}
 
+  const downstreamLink=influencedIds.length
+    ?`<a class="influence-filter-link" id="infDownstreamLink" href="viewer.html?d=${encodeURIComponent(topicId)}#inf=${encodeURIComponent(r.id)}:downstream:1">Show everyone they influenced &rarr;</a>`
+    :"";
+  const upstreamLink=influencedByIds.length
+    ?`<a class="influence-filter-link" id="infUpstreamLink" href="viewer.html?d=${encodeURIComponent(topicId)}#inf=${encodeURIComponent(r.id)}:upstream:1">Show everyone who influenced them &rarr;</a>`
+    :"";
   box.innerHTML=`<div class="influences">${byHtml}${ofHtml}
+    <div class="influence-quick-links">${downstreamLink}${upstreamLink}</div>
     <a class="lineage-link" id="lineageFromHereLink" href="viewer.html?d=${encodeURIComponent(topicId)}&mode=lineage&from=${encodeURIComponent(r.id)}">Trace a lineage from here &rarr;</a>
   </div>`;
   box.querySelectorAll(".influence-item a").forEach(a=>a.addEventListener("click",e=>{
@@ -1162,6 +1189,18 @@ async function renderInfluences(r){
     e.preventDefault();
     navigateToEntry(a.dataset.id);
   }));
+  const infDownstreamLink=$("#infDownstreamLink");
+  if(infDownstreamLink)infDownstreamLink.addEventListener("click",e=>{
+    if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+    e.preventDefault();
+    navigateToInfluenceFilter(r.id,"downstream");
+  });
+  const infUpstreamLink=$("#infUpstreamLink");
+  if(infUpstreamLink)infUpstreamLink.addEventListener("click",e=>{
+    if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+    e.preventDefault();
+    navigateToInfluenceFilter(r.id,"upstream");
+  });
   box.querySelectorAll(".influence-more-btn").forEach(btn=>btn.addEventListener("click",()=>{
     const exp=btn.getAttribute("aria-expanded")==="true";
     btn.setAttribute("aria-expanded",String(!exp));
@@ -1176,6 +1215,61 @@ async function renderInfluences(r){
   });
 }
 // ---- end influences ----
+
+// ---- influence filter ----
+// Optional list-view constraint (E3-04): only show entries reachable from state.infRoot
+// within state.infDepth hops in state.infDir ("upstream", "downstream", or "both"). Reuses
+// the edges E3-01 fetched (data/influences.json) via loadInfluences(). match() must stay
+// synchronous, so infReachableSet is precomputed here whenever the constraint changes and
+// simply looked up during filtering.
+let infReachableSet=null;
+
+function influenceReachable(rootId,direction,depth,edges){
+  const forward=new Map(), backward=new Map();
+  edges.forEach(e=>{
+    if(!forward.has(e.from))forward.set(e.from,[]);
+    forward.get(e.from).push(e.to);
+    if(!backward.has(e.to))backward.set(e.to,[]);
+    backward.get(e.to).push(e.from);
+  });
+  const result=new Set([rootId]);
+  let frontier=[rootId];
+  for(let hop=0;hop<depth;hop++){
+    const next=[];
+    frontier.forEach(id=>{
+      const neighbors=[];
+      if(direction!=="upstream")neighbors.push(...(forward.get(id)||[]));
+      if(direction!=="downstream")neighbors.push(...(backward.get(id)||[]));
+      neighbors.forEach(n=>{ if(!result.has(n)){result.add(n);next.push(n);} });
+    });
+    frontier=next;
+    if(!frontier.length)break;
+  }
+  return result;
+}
+
+async function computeInfReachableSet(){
+  if(!state.infRoot){ infReachableSet=null; return; }
+  const edges=(await loadInfluences()).filter(e=>e.topic===currentDataset());
+  infReachableSet=influenceReachable(state.infRoot,state.infDir,state.infDepth,edges);
+}
+
+async function setInfluenceFilter(rootId,direction,depth){
+  state.infRoot=rootId;
+  state.infDir=direction;
+  state.infDepth=depth;
+  await computeInfReachableSet();
+}
+
+function clearInfluenceFilter(){
+  state.infRoot=null;state.infDir=null;state.infDepth=null;infReachableSet=null;
+}
+
+async function navigateToInfluenceFilter(rootId,direction){
+  await setInfluenceFilter(rootId,direction,1);
+  navigateToList();
+}
+// ---- end influence filter ----
 
 // ---- lineage ----
 // Third top-level route alongside the list and entity-detail views: how does influence flow
@@ -1499,7 +1593,7 @@ async function initApp(){
     if(kicker)kicker.textContent=(CFG.kicker||"").replace("{n}",DATA.length);
     readEntryIdFromUrl();
     readModeFromUrl();
-    decodeHash();
+    await decodeHash();
     if(!location.hash)render();
   }catch(err){
     console.error(err);

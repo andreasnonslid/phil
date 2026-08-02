@@ -84,6 +84,7 @@ button.opt{width:100%;font-family:inherit;color:inherit;background:none;border:0
   border:1px solid transparent;border-radius:999px;padding:4px 10px 4px 12px;
   display:inline-flex;align-items:center;gap:6px;cursor:pointer}
 .chip span{font-weight:600;font-size:14px;line-height:1}
+.chip-inf{border-color:var(--accent)}
 
 .results{padding:8px 0 80px}
 .era-head{font-family:'Fraunces',serif;font-size:14px;letter-spacing:.04em;color:var(--gold);
@@ -316,6 +317,10 @@ body.detail-mode #detail{display:block}
 .influence-more-btn{font-family:inherit;font-size:13px;color:var(--accent);background:transparent;
   border:1px solid var(--line);border-radius:6px;padding:5px 12px;cursor:pointer;margin-top:10px}
 .influence-more-btn:hover{border-color:var(--accent);background:var(--accent-soft)}
+.influence-quick-links{display:flex;flex-wrap:wrap;gap:16px;margin-top:8px}
+.influence-filter-link{display:inline-block;font-size:13px;color:var(--accent);
+  text-decoration:none;font-weight:500}
+.influence-filter-link:hover{text-decoration:underline;text-underline-offset:3px}
 .lineage-link{display:inline-block;margin-top:8px;font-size:13px;color:var(--accent);
   text-decoration:none;font-weight:500}
 .lineage-link:hover{text-decoration:underline;text-underline-offset:3px}
