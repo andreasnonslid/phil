@@ -316,7 +316,55 @@ body.detail-mode #detail{display:block}
 .influence-more-btn{font-family:inherit;font-size:13px;color:var(--accent);background:transparent;
   border:1px solid var(--line);border-radius:6px;padding:5px 12px;cursor:pointer;margin-top:10px}
 .influence-more-btn:hover{border-color:var(--accent);background:var(--accent-soft)}
+.lineage-link{display:inline-block;margin-top:8px;font-size:13px;color:var(--accent);
+  text-decoration:none;font-weight:500}
+.lineage-link:hover{text-decoration:underline;text-underline-offset:3px}
 /* ---- end influences ---- */
+
+/* ---- lineage ---- */
+#lineage{display:none;padding:32px 0 80px}
+body.lineage-mode #glossBars,
+body.lineage-mode .controls,
+body.lineage-mode .meta-row,
+body.lineage-mode .random-bar,
+body.lineage-mode #results,
+body.lineage-mode #detail{display:none}
+body.lineage-mode #lineage{display:block}
+.lineage-title{font-family:'Fraunces',serif;font-weight:600;font-size:clamp(28px,4.5vw,42px);
+  line-height:1.1;margin:0;letter-spacing:-.01em}
+.lineage-sub{font-size:15px;color:var(--ink-soft);margin:10px 0 0}
+.lineage-pickers{display:flex;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-top:24px}
+.lineage-picker{flex:1 1 220px;min-width:180px;position:relative}
+.lineage-picker-label{display:block;font-size:12px;letter-spacing:.08em;text-transform:uppercase;
+  font-weight:600;color:var(--ink-soft);margin-bottom:6px}
+.lineage-picker-input{width:100%;font-family:inherit;font-size:15px;color:var(--ink);
+  background:var(--card);border:1px solid var(--line);border-radius:10px;padding:11px 14px;outline:none}
+.lineage-picker-input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.lineage-arrow{padding-bottom:12px;color:var(--ink-soft);font-size:20px}
+.lineage-suggestions{position:absolute;top:calc(100% + 6px);left:0;right:0;max-height:280px;
+  overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:12px;
+  box-shadow:0 12px 32px var(--shadow);padding:6px;z-index:40}
+.lineage-suggestion{display:flex;width:100%;align-items:baseline;justify-content:space-between;gap:10px;
+  font-family:inherit;font-size:14px;color:var(--ink);background:none;border:0;text-align:left;
+  padding:9px 10px;border-radius:8px;cursor:pointer}
+.lineage-suggestion:hover{background:var(--paper-2)}
+.lineage-suggestion-dates{font-size:12px;color:var(--ink-soft);white-space:nowrap;font-variant-numeric:tabular-nums}
+.lineage-result{margin-top:32px;padding-top:24px;border-top:1px solid var(--line-soft)}
+.lineage-hint{font-size:15px;color:var(--ink-soft);margin:0}
+.lineage-undirected-btn{font-family:inherit;font-size:13px;color:var(--accent);background:transparent;
+  border:1px solid var(--line);border-radius:6px;padding:7px 14px;cursor:pointer;margin-top:12px}
+.lineage-undirected-btn:hover{border-color:var(--accent);background:var(--accent-soft)}
+.lineage-hops{font-size:13px;color:var(--ink-soft);margin-bottom:16px}
+.lineage-chain{display:flex;align-items:center;flex-wrap:wrap;gap:10px 4px}
+.lineage-node{font-family:'Fraunces',serif;font-size:16px;color:var(--ink);text-decoration:none;
+  background:var(--card);border:1px solid var(--line);border-radius:999px;padding:8px 16px}
+.lineage-node:hover{border-color:var(--accent);color:var(--accent)}
+.lineage-chain-arrow{color:var(--ink-soft);font-size:16px}
+.lineage-undirected-note{font-size:13px;color:var(--ink-soft);font-style:italic;margin-top:14px}
+@media (max-width:480px){
+  .lineage-arrow{width:100%;text-align:center;padding:0}
+}
+/* ---- end lineage ---- */
 
 /* ---- meanwhile ---- */
 .meanwhile-loading{font-size:14px;color:var(--ink-soft);margin-top:40px;padding-top:24px;

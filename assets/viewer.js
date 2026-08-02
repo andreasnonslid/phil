@@ -1,7 +1,8 @@
 let DATA=[];
 let CFG={};          // topic config (the JSON "meta" block), set in loadData
 let FILTERS=[];      // CFG.filters
-const state={q:"",filters:{},sort:"az",showFavs:false,view:"list",entryId:null,yMin:null,yMax:null,crossTopic:false};
+const state={q:"",filters:{},sort:"az",showFavs:false,view:"list",entryId:null,yMin:null,yMax:null,crossTopic:false,
+  mode:null,lineageFrom:null,lineageTo:null,lineageUndirected:false};
 const formatViews=n=>Number(n||0).toLocaleString(undefined,{maximumFractionDigits:0});
 
 // Available topics, loaded from data/topics.json in initApp(). The ?d= param selects
@@ -682,7 +683,13 @@ function wireTimelineResizer(){
 }
 
 function render(){
-  document.body.classList.toggle("detail-mode",!!state.entryId);
+  const inLineage=state.mode==="lineage";
+  document.body.classList.toggle("lineage-mode",inLineage);
+  document.body.classList.toggle("detail-mode",!inLineage&&!!state.entryId);
+  if(inLineage){
+    renderLineage();
+    return;
+  }
   if(state.entryId){
     renderDetail();
     return;
@@ -870,7 +877,7 @@ $("#clearFiltersBtn").addEventListener("click", () => { if (!$("#clearFiltersBtn
 // minY/maxY (a plain year range, not tied to any filter id) are set by the "Meanwhile"
 // section's "see all" link (E2-02) to open a topic's list view filtered to a period.
 function encodeHash(){
-  if (state.entryId) return; // filter state does not belong in an entity URL
+  if (state.entryId || state.mode) return; // filter state does not belong in an entity/lineage URL
   const parts = [];
   if (state.q)              parts.push("q="      + encodeURIComponent(state.q));
   if (state.crossTopic)     parts.push("all=1");
@@ -967,8 +974,16 @@ function readEntryIdFromUrl(){
 
 function navigateToEntry(id){
   state.entryId=id;
+  state.mode=null;
+  state.lineageFrom=null;
+  state.lineageTo=null;
+  state.lineageUndirected=false;
   const url=new URL(location.href);
   url.searchParams.set("id",id);
+  url.searchParams.delete("mode");
+  url.searchParams.delete("from");
+  url.searchParams.delete("to");
+  url.searchParams.delete("undirected");
   url.hash="";
   history.pushState(null,"",url.pathname+url.search);
   render();
@@ -976,8 +991,16 @@ function navigateToEntry(id){
 
 function navigateToList(){
   state.entryId=null;
+  state.mode=null;
+  state.lineageFrom=null;
+  state.lineageTo=null;
+  state.lineageUndirected=false;
   const url=new URL(location.href);
   url.searchParams.delete("id");
+  url.searchParams.delete("mode");
+  url.searchParams.delete("from");
+  url.searchParams.delete("to");
+  url.searchParams.delete("undirected");
   url.hash="";
   history.pushState(null,"",url.pathname+url.search);
   render();
@@ -985,6 +1008,7 @@ function navigateToList(){
 
 window.addEventListener("popstate",()=>{
   readEntryIdFromUrl();
+  readModeFromUrl();
   render();
 });
 // ---- end entity routing ----
@@ -1130,7 +1154,9 @@ async function renderInfluences(r){
   const ofHtml=influenceGroupHtml("Influenced",influencedIds,topicId);
   if(!byHtml&&!ofHtml){box.innerHTML="";return;}
 
-  box.innerHTML=`<div class="influences">${byHtml}${ofHtml}</div>`;
+  box.innerHTML=`<div class="influences">${byHtml}${ofHtml}
+    <a class="lineage-link" id="lineageFromHereLink" href="viewer.html?d=${encodeURIComponent(topicId)}&mode=lineage&from=${encodeURIComponent(r.id)}">Trace a lineage from here &rarr;</a>
+  </div>`;
   box.querySelectorAll(".influence-item a").forEach(a=>a.addEventListener("click",e=>{
     if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
     e.preventDefault();
@@ -1142,8 +1168,234 @@ async function renderInfluences(r){
     btn.previousElementSibling.hidden=exp;
     btn.textContent=exp?`Show all ${btn.dataset.total}`:"Show fewer";
   }));
+  const lineageLink=$("#lineageFromHereLink");
+  if(lineageLink)lineageLink.addEventListener("click",e=>{
+    if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+    e.preventDefault();
+    navigateToLineage(r.id,null);
+  });
 }
 // ---- end influences ----
+
+// ---- lineage ----
+// Third top-level route alongside the list and entity-detail views: how does influence flow
+// between two entries, possibly many hops apart? Addressed via
+// ?d=<topic>&mode=lineage&from=<id>&to=<id>(&undirected=1), never the hash — same reasoning
+// as entity routing above, this state must survive a fresh tab. Reuses the edges E3-01 fetched
+// and E3-02's loadInfluences() cache.
+function readModeFromUrl(){
+  const params=new URLSearchParams(location.search);
+  if(params.get("mode")!=="lineage"){
+    state.mode=null;state.lineageFrom=null;state.lineageTo=null;state.lineageUndirected=false;
+    return;
+  }
+  state.mode="lineage";
+  const f=params.get("from"),t=params.get("to");
+  state.lineageFrom=DATA.some(r=>r.id===f)?f:null;
+  state.lineageTo=DATA.some(r=>r.id===t)?t:null;
+  state.lineageUndirected=params.get("undirected")==="1";
+}
+
+function navigateToLineage(fromId,toId){
+  state.mode="lineage";
+  state.entryId=null;
+  state.lineageFrom=fromId||null;
+  state.lineageTo=toId||null;
+  state.lineageUndirected=false;
+  const url=new URL(location.href);
+  url.searchParams.set("mode","lineage");
+  url.searchParams.delete("id");
+  if(state.lineageFrom)url.searchParams.set("from",state.lineageFrom);else url.searchParams.delete("from");
+  if(state.lineageTo)url.searchParams.set("to",state.lineageTo);else url.searchParams.delete("to");
+  url.searchParams.delete("undirected");
+  url.hash="";
+  history.pushState(null,"",url.pathname+url.search);
+  render();
+}
+
+function updateLineageUrl(){
+  const url=new URL(location.href);
+  url.searchParams.set("mode","lineage");
+  url.searchParams.delete("id");
+  if(state.lineageFrom)url.searchParams.set("from",state.lineageFrom);else url.searchParams.delete("from");
+  if(state.lineageTo)url.searchParams.set("to",state.lineageTo);else url.searchParams.delete("to");
+  if(state.lineageUndirected)url.searchParams.set("undirected","1");else url.searchParams.delete("undirected");
+  url.hash="";
+  history.replaceState(null,"",url.pathname+url.search);
+}
+
+const LINEAGE_MAX_HOPS=6;
+
+// Directed adjacency follows the edges the way E3-01 committed them: from is the influencer,
+// to is the influenced, so a directed edge points from earlier influence toward what it later
+// shaped.
+function lineageAdjacency(edges,directed){
+  const adj=new Map();
+  const add=(a,b)=>{ if(!adj.has(a))adj.set(a,[]); adj.get(a).push(b); };
+  edges.forEach(e=>{ add(e.from,e.to); if(!directed)add(e.to,e.from); });
+  return adj;
+}
+
+// Plain BFS, capped at maxHops. `capped` distinguishes "no path exists" from "the search was
+// cut off before it could tell": if the hop-(maxHops+1) frontier is still non-empty when the
+// cap bites, a path may exist beyond it that was simply never explored.
+function lineageBfs(adj,fromId,toId,maxHops){
+  if(fromId===toId)return{found:true,path:[fromId],hops:0};
+  const parent=new Map([[fromId,null]]);
+  let frontier=[fromId];
+  for(let hop=1;hop<=maxHops;hop++){
+    const next=[];
+    for(const node of frontier){
+      for(const nb of (adj.get(node)||[])){
+        if(parent.has(nb))continue;
+        parent.set(nb,node);
+        if(nb===toId){
+          const path=[toId];
+          let cur=toId;
+          while(parent.get(cur)!==null){ cur=parent.get(cur); path.unshift(cur); }
+          return{found:true,path,hops:hop};
+        }
+        next.push(nb);
+      }
+    }
+    frontier=next;
+    if(!frontier.length)return{found:false,capped:false};
+  }
+  return{found:false,capped:frontier.length>0};
+}
+
+function lineagePickerHtml(key,label,entry){
+  return `<div class="lineage-picker">
+    <label class="lineage-picker-label" for="lineage-${key}-input">${esc(label)}</label>
+    <input type="text" id="lineage-${key}-input" class="lineage-picker-input" placeholder="Search a name&hellip;"
+      autocomplete="off" value="${entry?esc(entry.name):""}">
+    <div class="lineage-suggestions" id="lineage-${key}-suggestions" hidden></div>
+  </div>`;
+}
+
+const LINEAGE_SUGGEST_MAX=8;
+
+function wireLineagePicker(key){
+  const input=$(`#lineage-${key}-input`);
+  const sugg=$(`#lineage-${key}-suggestions`);
+  const showMatches=()=>{
+    const q=input.value.trim().toLowerCase();
+    if(!q){sugg.hidden=true;sugg.innerHTML="";return;}
+    const matches=DATA.filter(r=>r.name.toLowerCase().includes(q)).slice(0,LINEAGE_SUGGEST_MAX);
+    if(!matches.length){sugg.hidden=true;sugg.innerHTML="";return;}
+    sugg.innerHTML=matches.map(r=>`<button type="button" class="lineage-suggestion" data-id="${esc(r.id)}">
+      <span>${esc(r.name)}</span><span class="lineage-suggestion-dates">${esc(r.dates||"")}</span></button>`).join("");
+    sugg.hidden=false;
+    sugg.querySelectorAll(".lineage-suggestion").forEach(btn=>{
+      btn.addEventListener("click",()=>{
+        if(key==="from")state.lineageFrom=btn.dataset.id;else state.lineageTo=btn.dataset.id;
+        state.lineageUndirected=false;
+        updateLineageUrl();
+        renderLineage();
+      });
+    });
+  };
+  input.addEventListener("input",()=>{
+    if(key==="from")state.lineageFrom=null;else state.lineageTo=null;
+    updateLineageUrl();
+    showMatches();
+    renderLineageResult();
+  });
+  input.addEventListener("focus",showMatches);
+  input.addEventListener("blur",()=>{ setTimeout(()=>{sugg.hidden=true;},150); }); // let a click register first
+}
+
+let lineageResultToken=0; // bumped on every call so a stale search can't clobber a newer one
+
+async function renderLineageResult(){
+  const box=$("#lineage-result");
+  if(!box)return;
+  const fromEntry=state.lineageFrom&&DATA.find(r=>r.id===state.lineageFrom);
+  const toEntry=state.lineageTo&&DATA.find(r=>r.id===state.lineageTo);
+  if(!fromEntry||!toEntry){
+    box.innerHTML=`<p class="lineage-hint">Pick two ${esc(CFG.itemNoun||"entries")} to trace a path between them.</p>`;
+    return;
+  }
+  if(fromEntry.id===toEntry.id){
+    box.innerHTML=`<p class="lineage-hint">Pick two different ${esc(CFG.itemNoun||"entries")}.</p>`;
+    return;
+  }
+  box.innerHTML=`<p class="lineage-hint">Searching&hellip;</p>`;
+  const token=++lineageResultToken;
+  const topicId=currentDataset();
+  const edges=(await loadInfluences()).filter(e=>e.topic===topicId);
+  if(token!==lineageResultToken)return; // a later pick superseded this search
+
+  const directed=lineageBfs(lineageAdjacency(edges,true),fromEntry.id,toEntry.id,LINEAGE_MAX_HOPS);
+  if(directed.found){ renderLineagePathHtml(directed,false,topicId); return; }
+  if(state.lineageUndirected){
+    const undirected=lineageBfs(lineageAdjacency(edges,false),fromEntry.id,toEntry.id,LINEAGE_MAX_HOPS);
+    renderLineagePathHtml(undirected,true,topicId);
+    return;
+  }
+  const msg=directed.capped
+    ? `No directed path found within ${LINEAGE_MAX_HOPS} hops &mdash; a longer one may exist.`
+    : `No directed path exists between these two.`;
+  box.innerHTML=`<p class="lineage-hint">${msg}</p>
+    <button type="button" class="lineage-undirected-btn" id="lineage-try-undirected">Search ignoring direction</button>`;
+  $("#lineage-try-undirected").addEventListener("click",()=>{
+    state.lineageUndirected=true;
+    updateLineageUrl();
+    renderLineageResult();
+  });
+}
+
+function renderLineagePathHtml(result,undirected,topicId){
+  const box=$("#lineage-result");
+  if(!box)return;
+  if(!result.found){
+    const msg=result.capped
+      ? `No path found even ignoring direction, within ${LINEAGE_MAX_HOPS} hops &mdash; a longer one may exist.`
+      : `No path exists between these two, even ignoring direction.`;
+    box.innerHTML=`<p class="lineage-hint">${msg}</p>`;
+    return;
+  }
+  const chainHtml=result.path.map((id,i)=>{
+    const e=DATA.find(r=>r.id===id);
+    const name=e?esc(e.name):esc(id);
+    const link=`<a class="lineage-node" href="viewer.html?d=${encodeURIComponent(topicId)}&id=${encodeURIComponent(id)}" data-id="${esc(id)}">${name}</a>`;
+    return i<result.path.length-1?link+`<span class="lineage-chain-arrow" aria-hidden="true">&rarr;</span>`:link;
+  }).join("");
+  box.innerHTML=`
+    <div class="lineage-hops">${result.hops} hop${result.hops===1?"":"s"}${undirected?" &middot; undirected":""}</div>
+    <div class="lineage-chain">${chainHtml}</div>
+    ${undirected?`<p class="lineage-undirected-note">Direction of influence ignored to find this path.</p>`:""}
+  `;
+  box.querySelectorAll(".lineage-node").forEach(a=>a.addEventListener("click",e=>{
+    if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+    e.preventDefault();
+    navigateToEntry(a.dataset.id);
+  }));
+}
+
+function renderLineage(){
+  const box=$("#lineage");
+  if(!box)return;
+  document.title=`Lineage · ${CFG.title||"Index"}`;
+  const fromEntry=state.lineageFrom&&DATA.find(r=>r.id===state.lineageFrom);
+  const toEntry=state.lineageTo&&DATA.find(r=>r.id===state.lineageTo);
+  box.innerHTML=`
+    <a href="#" class="detail-back" id="lineageBack">&larr; All ${esc(CFG.itemNoun||"")}</a>
+    <h1 class="lineage-title">Lineage</h1>
+    <p class="lineage-sub">How does influence flow from one ${esc(CFG.itemNounSingular||"entry")} to another?</p>
+    <div class="lineage-pickers">
+      ${lineagePickerHtml("from","From",fromEntry)}
+      <div class="lineage-arrow" aria-hidden="true">&rarr;</div>
+      ${lineagePickerHtml("to","To",toEntry)}
+    </div>
+    <div class="lineage-result" id="lineage-result"></div>
+  `;
+  $("#lineageBack").addEventListener("click",e=>{e.preventDefault();navigateToList();});
+  wireLineagePicker("from");
+  wireLineagePicker("to");
+  renderLineageResult();
+}
+// ---- end lineage ----
 
 // ---- meanwhile ----
 // "What else was happening around then" — contemporaries drawn from all three topics,
@@ -1246,6 +1498,7 @@ async function initApp(){
     const kicker=document.querySelector(".kicker");
     if(kicker)kicker.textContent=(CFG.kicker||"").replace("{n}",DATA.length);
     readEntryIdFromUrl();
+    readModeFromUrl();
     decodeHash();
     if(!location.hash)render();
   }catch(err){
