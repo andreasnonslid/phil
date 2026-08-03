@@ -696,10 +696,12 @@ function render(){
   const inLineage=state.mode==="lineage";
   const inQuiz=state.mode==="quiz";
   const inCards=state.mode==="cards";
+  const inStats=state.mode==="stats";
   document.body.classList.toggle("lineage-mode",inLineage);
   document.body.classList.toggle("quiz-mode",inQuiz);
   document.body.classList.toggle("cards-mode",inCards);
-  document.body.classList.toggle("detail-mode",!inLineage&&!inQuiz&&!inCards&&!!state.entryId);
+  document.body.classList.toggle("stats-mode",inStats);
+  document.body.classList.toggle("detail-mode",!inLineage&&!inQuiz&&!inCards&&!inStats&&!!state.entryId);
   if(inLineage){
     renderLineage();
     return;
@@ -710,6 +712,10 @@ function render(){
   }
   if(inCards){
     renderCards();
+    return;
+  }
+  if(inStats){
+    renderStats();
     return;
   }
   if(state.entryId){
@@ -1304,7 +1310,7 @@ function readModeFromUrl(){
     state.lineageUndirected=params.get("undirected")==="1";
   }else{
     state.lineageFrom=null;state.lineageTo=null;state.lineageUndirected=false;
-    state.mode=(mode==="quiz")?"quiz":(mode==="cards")?"cards":null;
+    state.mode=(mode==="quiz")?"quiz":(mode==="cards")?"cards":(mode==="stats")?"stats":null;
   }
   if(state.mode!=="quiz")quizRound=null; // round state never lives in the URL, only the stats do
   if(state.mode!=="cards")cardsSession=null; // session state never lives in the URL, only the schedule does
@@ -2271,6 +2277,186 @@ document.addEventListener("keydown",e=>{
   }
 });
 // ---- end flashcards ----
+
+// ---- stats ----
+// Aggregation-only route (E5-01): a route, a container, and pure functions the following
+// analytics issues (E5-02/03/04) render as charts. Data-agnostic -- driven by CFG.filters,
+// never a topic's own field names -- so it works unchanged on all three topics. Scoped to
+// entries matching the current filter/search state (state.filters etc, via match()), same as
+// quiz's pool, so stats reflect whatever the reader had selected when they opened this view.
+// Renders no charts itself: a plain definition list of summary numbers is the whole deliverable.
+// Routed via ?d=<topic>&mode=stats, alongside quiz/cards/lineage above -- never the hash.
+
+function ordinal(n){
+  const s=["th","st","nd","rd"],v=n%100;
+  return `${n}${s[(v-20)%10]||s[v]||s[0]}`;
+}
+
+// A century "key" is a signed integer: 1,2,3... for centuries CE, -1,-2,-3... for centuries
+// BCE, with no zero -- there is no "0th century," so 1 BCE is immediately followed by 1 CE.
+// Keys sort chronologically as plain numbers, since BCE keys are negative and grow more
+// negative the further back the year goes (e.g. y=-753 -> the 8th century BCE -> key -8,
+// which sorts before y=-100's 1st century BCE, key -1).
+function centuryKey(y){
+  const n=Math.ceil(Math.abs(y)/100)||1; // y===0 reads as the 1st century CE
+  return y<0?-n:n;
+}
+function centuryLabel(key){
+  const n=Math.abs(key);
+  return key<0?`${ordinal(n)} century BCE`:`${ordinal(n)} century`;
+}
+
+// Per-century counts, oldest first, including centuries with zero entries so gaps in the
+// data are visible rather than silently compressed out of the range.
+function statsByCentury(entries){
+  const dated=entries.filter(r=>Number.isFinite(r.y));
+  if(!dated.length)return [];
+  const counts=new Map();
+  dated.forEach(r=>{
+    const k=centuryKey(r.y);
+    counts.set(k,(counts.get(k)||0)+1);
+  });
+  const keys=[...counts.keys()];
+  const minK=Math.min(...keys),maxK=Math.max(...keys);
+  const out=[];
+  for(let k=minK;k<=maxK;k++){
+    if(k===0)continue; // no "0th century" -- BCE jumps straight to CE
+    out.push({century:k,label:centuryLabel(k),count:counts.get(k)||0});
+  }
+  return out;
+}
+
+const STATS_UNCLASSIFIED="(unclassified)";
+
+// Counts per option value for a filter config, handling both multiValue list fields (phil's
+// "fields") and single-value fields (phil's "trad", hist-events' "region"). A value missing
+// or not present in filterConfig.options is counted under STATS_UNCLASSIFIED rather than
+// dropped, so a single-value filter's counts always sum to the entry count.
+function statsByFilter(entries,filterConfig){
+  const key=filterConfig.key;
+  const options=filterConfig.options||[];
+  const known=new Set(options);
+  const counts={};
+  options.forEach(o=>{counts[o]=0;});
+  counts[STATS_UNCLASSIFIED]=0;
+  entries.forEach(r=>{
+    const v=r[key];
+    if(filterConfig.multiValue){
+      const vals=(Array.isArray(v)?v:[]).filter(x=>x!=null&&x!=="");
+      if(!vals.length){counts[STATS_UNCLASSIFIED]++;return;}
+      vals.forEach(x=>{counts[known.has(x)?x:STATS_UNCLASSIFIED]++;});
+    }else{
+      counts[known.has(v)?v:STATS_UNCLASSIFIED]++;
+    }
+  });
+  return [...options,STATS_UNCLASSIFIED].map(value=>({value,count:counts[value]}));
+}
+
+// Counts per filter value per time bucket (bucketSize in years), for E5-03's composition-
+// over-time chart. Not rendered by this issue -- implemented now so E5-03 can consume it
+// directly -- but callable from the console like the other two functions.
+function statsCrossTab(entries,filterConfig,bucketSize){
+  const dated=entries.filter(r=>Number.isFinite(r.y));
+  const values=[...(filterConfig.options||[]),STATS_UNCLASSIFIED];
+  if(!dated.length)return {buckets:[],values,rows:[]};
+  const known=new Set(filterConfig.options||[]);
+  const key=filterConfig.key;
+  const bucketOf=y=>Math.floor(y/bucketSize)*bucketSize;
+  const ys=dated.map(r=>r.y);
+  const minB=bucketOf(Math.min(...ys)),maxB=bucketOf(Math.max(...ys));
+  const rows=[];
+  const rowByBucket=new Map();
+  for(let b=minB;b<=maxB;b+=bucketSize){
+    const row={bucket:b};
+    values.forEach(v=>{row[v]=0;});
+    rows.push(row);
+    rowByBucket.set(b,row);
+  }
+  dated.forEach(r=>{
+    const row=rowByBucket.get(bucketOf(r.y));
+    if(!row)return;
+    const v=r[key];
+    if(filterConfig.multiValue){
+      const vals=(Array.isArray(v)?v:[]).filter(x=>x!=null&&x!=="");
+      if(!vals.length){row[STATS_UNCLASSIFIED]++;return;}
+      vals.forEach(x=>{row[known.has(x)?x:STATS_UNCLASSIFIED]++;});
+    }else{
+      row[known.has(v)?v:STATS_UNCLASSIFIED]++;
+    }
+  });
+  return {buckets:rows.map(r=>r.bucket),values,rows};
+}
+
+// Module-level object so later issues and the console can call these directly, e.g.
+// STATS.byCentury(DATA).
+const STATS={byCentury:statsByCentury,byFilter:statsByFilter,crossTab:statsCrossTab};
+
+function statsHasFilters(){
+  return !!(state.q||state.showFavs||state.yMin!=null||state.infRoot||FILTERS.some(f=>state.filters[f.id].size));
+}
+
+function statsScopeDescription(pool){
+  const noun=(CFG.itemNoun||"entries").toLowerCase();
+  return statsHasFilters()
+    ? `For ${pool.length} ${noun} matching your current filters.`
+    : `For all ${pool.length} ${noun}.`;
+}
+
+function statsBackLinkHtml(){
+  return `<a href="#" class="detail-back" id="statsBack">&larr; All ${esc(CFG.itemNoun||"")}</a>`;
+}
+
+function renderStats(){
+  const box=$("#stats");
+  if(!box)return;
+  document.title=`Stats · ${CFG.title||"Index"}`;
+  const pool=DATA.filter(match);
+  const years=pool.map(r=>r.y).filter(y=>Number.isFinite(y));
+  const yearRangeHtml=years.length
+    ?`<div class="stats-stat"><dt>Year range</dt><dd>${esc(yearLabel(Math.min(...years)))} &ndash; ${esc(yearLabel(Math.max(...years)))}</dd></div>`
+    :"";
+  const filterStatsHtml=FILTERS.map(f=>{
+    const byFilter=statsByFilter(pool,f);
+    const distinct=byFilter.filter(x=>x.value!==STATS_UNCLASSIFIED&&x.count>0).length;
+    return `<div class="stats-stat"><dt>${esc(f.label)}</dt><dd>${distinct} of ${(f.options||[]).length} values</dd></div>`;
+  }).join("");
+  box.innerHTML=`
+    ${statsBackLinkHtml()}
+    <h1 class="stats-title">Stats</h1>
+    <p class="stats-scope">${esc(statsScopeDescription(pool))}</p>
+    ${statsHasFilters()?`<button type="button" class="stats-reset-btn" id="statsResetBtn">Reset to all entries</button>`:""}
+    <dl class="stats-summary">
+      <div class="stats-stat"><dt>Total</dt><dd>${pool.length} ${esc(CFG.itemNoun||"entries")}</dd></div>
+      ${yearRangeHtml}
+      ${filterStatsHtml}
+    </dl>
+  `;
+  const back=box.querySelector("#statsBack");
+  if(back)back.addEventListener("click",e=>{e.preventDefault();navigateToList();});
+  const resetBtn=box.querySelector("#statsResetBtn");
+  if(resetBtn)resetBtn.addEventListener("click",resetAll);
+}
+
+function navigateToStats(){
+  state.mode="stats";
+  state.entryId=null;
+  state.lineageFrom=null;state.lineageTo=null;state.lineageUndirected=false;
+  quizRound=null;
+  cardsSession=null;
+  const url=new URL(location.href);
+  url.searchParams.set("mode","stats");
+  url.searchParams.delete("id");
+  url.searchParams.delete("from");
+  url.searchParams.delete("to");
+  url.searchParams.delete("undirected");
+  url.hash="";
+  history.pushState(null,"",url.pathname+url.search);
+  render();
+}
+
+const statsBtn=$("#statsBtn");
+if(statsBtn)statsBtn.addEventListener("click",navigateToStats);
+// ---- end stats ----
 
 async function initApp(){
   await loadTopics();
