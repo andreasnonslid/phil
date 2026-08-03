@@ -1601,7 +1601,9 @@ async function renderMeanwhile(r){
 // owns the frame, and it stays topic-agnostic, driven by CFG same as the rest of the viewer.
 // Each type is { id, label, canGenerate(pool,meta), generate(pool,meta) } where generate()
 // returns { prompt, choices, answerIndex, explanationEntryId, reveal? } -- reveal is optional
-// unredacted text shown alongside the entry link once a question is answered. Routed via
+// unredacted text shown alongside the entry link once a question is answered. A type that
+// explains more than one entry (e.g. E4-03's chronology) returns explanationEntryIds (plural)
+// instead; the shell links whichever is present. Routed via
 // ?d=<topic>&mode=quiz, alongside lineage and entity routing above -- never the hash, since
 // this state (unlike filters) must survive a fresh tab.
 let QUIZ_TYPES=[];
@@ -1761,13 +1763,19 @@ function renderQuizPlaying(box){
     return `<button type="button" class="${cls}" data-idx="${i}"${answered?" disabled":""}>
       <span class="quiz-choice-num">${i+1}</span><span>${esc(String(c))}</span></button>`;
   }).join("");
-  const entry=q.explanationEntryId?DATA.find(e=>e.id===q.explanationEntryId):null;
+  const explainIds=Array.isArray(q.explanationEntryIds)&&q.explanationEntryIds.length
+    ? q.explanationEntryIds
+    : (q.explanationEntryId?[q.explanationEntryId]:[]);
+  const explainEntries=explainIds.map(id=>DATA.find(e=>e.id===id)).filter(Boolean);
   const wasCorrect=quizRound.selected===q.answerIndex;
+  const explainLinksHtml=explainEntries.map(en=>
+    `<a class="quiz-explain-link" data-entry-id="${esc(en.id)}" href="viewer.html?d=${encodeURIComponent(currentDataset())}&id=${encodeURIComponent(en.id)}">${esc(en.name)} &rarr;</a>`
+  ).join(" &middot; ");
   const explainHtml=answered
     ?`<div class="quiz-explain">
         <div class="quiz-result ${wasCorrect?"right":"wrong"}">${wasCorrect?"Correct!":"Not quite."}</div>
         ${q.reveal?`<p class="quiz-reveal-text">${esc(q.reveal)}</p>`:""}
-        ${entry?`<a class="quiz-explain-link" href="viewer.html?d=${encodeURIComponent(currentDataset())}&id=${encodeURIComponent(entry.id)}" id="quizExplainLink">${esc(entry.name)} &rarr;</a>`:""}
+        ${explainLinksHtml?`<p class="quiz-explain-links">${explainLinksHtml}</p>`:""}
         <button type="button" class="quiz-next-btn" id="quizNextBtn">${quizRound.idx+1<total?"Next":"See score"} <span class="quiz-key-hint">Enter</span></button>
       </div>`
     :"";
@@ -1780,12 +1788,11 @@ function renderQuizPlaying(box){
   `;
   wireQuizBack(box);
   box.querySelectorAll(".quiz-choice").forEach(btn=>btn.addEventListener("click",()=>quizAnswer(Number(btn.dataset.idx))));
-  const explainLink=box.querySelector("#quizExplainLink");
-  if(explainLink)explainLink.addEventListener("click",e=>{
+  box.querySelectorAll(".quiz-explain-link").forEach(link=>link.addEventListener("click",e=>{
     if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
     e.preventDefault();
-    navigateToEntry(entry.id);
-  });
+    navigateToEntry(link.dataset.entryId);
+  }));
   const nextBtn=box.querySelector("#quizNextBtn");
   if(nextBtn)nextBtn.addEventListener("click",quizAdvance);
 }
@@ -1945,6 +1952,88 @@ QUIZ_TYPES.push({
   }
 });
 // ---- end quiz: tldr-identify question type ----
+
+// ---- quiz: chronology question type (E4-03) ----
+// Order three pool entries oldest first. Every entry in every topic has `y` (unlike tldr
+// coverage, which tldr-identify needs), so this is the only type hist-events can offer.
+// Choices are orderings of the three names -- no drag-and-drop, just the shell's existing
+// multiple-choice mechanism -- and dates stay hidden until the reveal.
+const CHRONOLOGY_MIN_POOL=8;
+const CHRONOLOGY_MIN_GAP=15; // years apart, so the correct order is never ambiguous
+
+function chronologyShuffled(arr){
+  return arr.slice().sort(()=>Math.random()-0.5);
+}
+
+function chronologyPermutations(arr){
+  if(arr.length<=1)return [arr];
+  const perms=[];
+  arr.forEach((item,i)=>{
+    const rest=[...arr.slice(0,i),...arr.slice(i+1)];
+    chronologyPermutations(rest).forEach(p=>perms.push([item,...p]));
+  });
+  return perms;
+}
+
+function chronologyPickTrio(pool){
+  const dated=pool.filter(r=>Number.isFinite(r.y));
+  if(dated.length<3)return null;
+  const sorted=dated.slice().sort((a,b)=>a.y-b.y);
+  const attempts=Math.min(50,sorted.length*3);
+  for(let t=0;t<attempts;t++){
+    const i=Math.floor(Math.random()*sorted.length);
+    let j=-1;
+    for(let x=i+1;x<sorted.length;x++){
+      if(sorted[x].y-sorted[i].y>=CHRONOLOGY_MIN_GAP){j=x;break;}
+    }
+    if(j<0)continue;
+    let k=-1;
+    for(let x=j+1;x<sorted.length;x++){
+      if(sorted[x].y-sorted[j].y>=CHRONOLOGY_MIN_GAP){k=x;break;}
+    }
+    if(k<0)continue;
+    return [sorted[i],sorted[j],sorted[k]];
+  }
+  return null;
+}
+
+// Whether `y` reads as a birth year (phil, hist-chars) rather than an event year
+// (hist-events): driven by the entries' own `dates` shape -- a birth-death range like
+// "1079-1142" -- rather than the topic id, so it stays correct for any future topic shape.
+function chronologyLooksLikeLifespan(trio){
+  return trio.filter(e=>/–/.test(e.dates||"")).length>=2;
+}
+
+QUIZ_TYPES.push({
+  id:"chronology",
+  label:"Chronological order",
+  canGenerate(pool){
+    return pool.filter(r=>Number.isFinite(r.y)).length>=CHRONOLOGY_MIN_POOL;
+  },
+  generate(pool,meta){
+    const trio=chronologyPickTrio(pool);
+    if(!trio)return null;
+    const correctOrder=trio.slice().sort((a,b)=>a.y-b.y);
+    const correctKey=correctOrder.map(e=>e.id).join("|");
+    const wrongPerms=chronologyShuffled(
+      chronologyPermutations(correctOrder).filter(p=>p.map(e=>e.id).join("|")!==correctKey)
+    ).slice(0,3);
+    if(wrongPerms.length<3)return null;
+    const choiceOrders=chronologyShuffled([correctOrder,...wrongPerms]);
+    const answerIndex=choiceOrders.findIndex(p=>p.map(e=>e.id).join("|")===correctKey);
+    const shownOrder=chronologyShuffled(trio);
+    const noun=meta.itemNoun||`${(meta.itemNounSingular||"entry").toLowerCase()}s`;
+    const verb=chronologyLooksLikeLifespan(trio)?"in order of birth":"in chronological order";
+    return {
+      prompt:`Put these three ${noun} ${verb}, earliest first: ${shownOrder.map(e=>e.name).join(", ")}`,
+      choices:choiceOrders.map(order=>order.map(e=>e.name).join(" → ")),
+      answerIndex,
+      explanationEntryIds:correctOrder.map(e=>e.id),
+      reveal:correctOrder.map(e=>`${e.name} (${e.dates})`).join(" → ")
+    };
+  }
+});
+// ---- end quiz: chronology question type ----
 
 // ---- end quiz ----
 
