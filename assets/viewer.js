@@ -694,10 +694,16 @@ function wireTimelineResizer(){
 
 function render(){
   const inLineage=state.mode==="lineage";
+  const inQuiz=state.mode==="quiz";
   document.body.classList.toggle("lineage-mode",inLineage);
-  document.body.classList.toggle("detail-mode",!inLineage&&!!state.entryId);
+  document.body.classList.toggle("quiz-mode",inQuiz);
+  document.body.classList.toggle("detail-mode",!inLineage&&!inQuiz&&!!state.entryId);
   if(inLineage){
     renderLineage();
+    return;
+  }
+  if(inQuiz){
+    renderQuiz();
     return;
   }
   if(state.entryId){
@@ -998,6 +1004,7 @@ function navigateToEntry(id){
   state.lineageFrom=null;
   state.lineageTo=null;
   state.lineageUndirected=false;
+  quizRound=null;
   const url=new URL(location.href);
   url.searchParams.set("id",id);
   url.searchParams.delete("mode");
@@ -1015,6 +1022,7 @@ function navigateToList(){
   state.lineageFrom=null;
   state.lineageTo=null;
   state.lineageUndirected=false;
+  quizRound=null;
   const url=new URL(location.href);
   url.searchParams.delete("id");
   url.searchParams.delete("mode");
@@ -1279,15 +1287,18 @@ async function navigateToInfluenceFilter(rootId,direction){
 // and E3-02's loadInfluences() cache.
 function readModeFromUrl(){
   const params=new URLSearchParams(location.search);
-  if(params.get("mode")!=="lineage"){
-    state.mode=null;state.lineageFrom=null;state.lineageTo=null;state.lineageUndirected=false;
-    return;
+  const mode=params.get("mode");
+  if(mode==="lineage"){
+    state.mode="lineage";
+    const f=params.get("from"),t=params.get("to");
+    state.lineageFrom=DATA.some(r=>r.id===f)?f:null;
+    state.lineageTo=DATA.some(r=>r.id===t)?t:null;
+    state.lineageUndirected=params.get("undirected")==="1";
+  }else{
+    state.lineageFrom=null;state.lineageTo=null;state.lineageUndirected=false;
+    state.mode=(mode==="quiz")?"quiz":null;
   }
-  state.mode="lineage";
-  const f=params.get("from"),t=params.get("to");
-  state.lineageFrom=DATA.some(r=>r.id===f)?f:null;
-  state.lineageTo=DATA.some(r=>r.id===t)?t:null;
-  state.lineageUndirected=params.get("undirected")==="1";
+  if(state.mode!=="quiz")quizRound=null; // round state never lives in the URL, only the stats do
 }
 
 function navigateToLineage(fromId,toId){
@@ -1583,6 +1594,259 @@ async function renderMeanwhile(r){
   </div>`;
 }
 // ---- end meanwhile ----
+
+// ---- quiz ----
+// Quiz mode shell (E4-01): routing, round flow, scoring, pool selection and stats. Ships with
+// no question types of its own -- E4-02/E4-03 append entries to QUIZ_TYPES; this file only
+// owns the frame, and it stays topic-agnostic, driven by CFG same as the rest of the viewer.
+// Each type is { id, label, canGenerate(pool,meta), generate(pool,meta) } where generate()
+// returns { prompt, choices, answerIndex, explanationEntryId }. Routed via
+// ?d=<topic>&mode=quiz, alongside lineage and entity routing above -- never the hash, since
+// this state (unlike filters) must survive a fresh tab.
+let QUIZ_TYPES=[];
+
+const QUIZ_ROUND_LEN=10;
+const QUIZ_MIN_POOL=8;
+const QUIZ_STATS_KEY="phil_quiz_v1";
+let quizRound=null; // null = show the start screen; otherwise {phase,pool,questions,idx,score,selected,answered}
+
+function quizLoadStats(){
+  try{ return JSON.parse(localStorage.getItem(QUIZ_STATS_KEY))||{}; }catch(e){ return {}; }
+}
+function quizSaveStats(stats){
+  try{ localStorage.setItem(QUIZ_STATS_KEY, JSON.stringify(stats)); }catch(e){}
+}
+function quizTopicStats(stats){
+  const topicId=currentDataset();
+  if(!stats[topicId])stats[topicId]={answered:0,correct:0,perEntry:{}};
+  return stats[topicId];
+}
+function quizRecordAnswer(entryId,wasCorrect){
+  const stats=quizLoadStats();
+  const t=quizTopicStats(stats);
+  t.answered++;
+  if(wasCorrect)t.correct++;
+  if(entryId){
+    if(!t.perEntry[entryId])t.perEntry[entryId]={correct:0,incorrect:0};
+    t.perEntry[entryId][wasCorrect?"correct":"incorrect"]++;
+  }
+  quizSaveStats(stats);
+}
+function quizResetStats(){
+  const stats=quizLoadStats();
+  delete stats[currentDataset()];
+  quizSaveStats(stats);
+}
+
+function quizAvailableTypes(pool){
+  return QUIZ_TYPES.filter(t=>{
+    try{ return !!t.canGenerate(pool,CFG); }
+    catch(err){ console.warn(`Quiz type "${t.id}" threw in canGenerate().`,err); return false; }
+  });
+}
+
+function quizGenerateQuestions(pool){
+  const types=quizAvailableTypes(pool);
+  if(!types.length)return [];
+  const questions=[];
+  let attempts=0;
+  while(questions.length<QUIZ_ROUND_LEN && attempts<QUIZ_ROUND_LEN*5){
+    attempts++;
+    const type=types[Math.floor(Math.random()*types.length)];
+    let q=null;
+    try{ q=type.generate(pool,CFG); }
+    catch(err){ console.warn(`Quiz type "${type.id}" threw in generate().`,err); }
+    if(q && Array.isArray(q.choices) && q.choices.length>1 && Number.isInteger(q.answerIndex))questions.push(q);
+  }
+  return questions;
+}
+
+function quizPoolDescription(pool){
+  const noun=(CFG.itemNoun||"entries").toLowerCase();
+  const hasFilters=state.q || state.showFavs || state.yMin!=null || FILTERS.some(f=>state.filters[f.id].size);
+  return hasFilters
+    ? `${pool.length} ${noun} matching your current filters`
+    : `${pool.length} ${noun}`;
+}
+
+function quizStart(){
+  const pool=DATA.filter(match);
+  if(pool.length>=QUIZ_MIN_POOL){
+    const questions=quizGenerateQuestions(pool);
+    if(questions.length)quizRound={phase:"playing",pool,questions,idx:0,score:0,selected:null,answered:false};
+  }
+  renderQuiz();
+}
+
+function quizAnswer(choiceIdx){
+  if(!quizRound||quizRound.phase!=="playing"||quizRound.answered)return;
+  const q=quizRound.questions[quizRound.idx];
+  quizRound.answered=true;
+  quizRound.selected=choiceIdx;
+  const correct=choiceIdx===q.answerIndex;
+  if(correct)quizRound.score++;
+  quizRecordAnswer(q.explanationEntryId,correct);
+  renderQuiz();
+}
+
+function quizAdvance(){
+  if(!quizRound||quizRound.phase!=="playing"||!quizRound.answered)return;
+  if(quizRound.idx+1>=quizRound.questions.length){
+    quizRound.phase="done";
+  }else{
+    quizRound.idx++;
+    quizRound.selected=null;
+    quizRound.answered=false;
+  }
+  renderQuiz();
+}
+
+function quizBackLinkHtml(){
+  return `<a href="#" class="detail-back" id="quizBack">&larr; All ${esc(CFG.itemNoun||"")}</a>`;
+}
+function wireQuizBack(box){
+  const back=box.querySelector("#quizBack");
+  if(back)back.addEventListener("click",e=>{e.preventDefault();navigateToList();});
+}
+
+function renderQuizStart(box){
+  const pool=DATA.filter(match);
+  const stats=quizLoadStats();
+  const t=quizTopicStats(stats);
+  const poolOk=pool.length>=QUIZ_MIN_POOL;
+  const types=quizAvailableTypes(pool);
+  let body;
+  if(!poolOk){
+    body=`<div class="quiz-empty"><p>Not enough ${esc((CFG.itemNoun||"entries").toLowerCase())} match your
+      current filters to start a quiz &mdash; need at least ${QUIZ_MIN_POOL}, found ${pool.length}.
+      Leave quiz mode, broaden your filters, and try again.</p></div>`;
+  }else if(!types.length){
+    body=`<div class="quiz-empty"><p>No quiz question types are available yet for this topic.
+      Check back once question types are added.</p></div>`;
+  }else{
+    body=`<button type="button" class="quiz-start-btn" id="quizStartBtn">Start round</button>`;
+  }
+  const pct=t.answered?Math.round(100*t.correct/t.answered):0;
+  const statsHtml=t.answered
+    ?`<div class="quiz-stats">
+        <span>${t.correct} / ${t.answered} correct all-time (${pct}%)</span>
+        <button type="button" class="quiz-reset-btn" id="quizResetStats">Reset stats</button>
+      </div>`
+    :"";
+  box.innerHTML=`
+    ${quizBackLinkHtml()}
+    <h1 class="quiz-title">Quiz</h1>
+    <p class="quiz-pool-desc">${esc(quizPoolDescription(pool))}</p>
+    ${body}
+    ${statsHtml}
+  `;
+  wireQuizBack(box);
+  const startBtn=box.querySelector("#quizStartBtn");
+  if(startBtn)startBtn.addEventListener("click",quizStart);
+  const resetBtn=box.querySelector("#quizResetStats");
+  if(resetBtn)resetBtn.addEventListener("click",()=>{quizResetStats();renderQuiz();});
+}
+
+function renderQuizPlaying(box){
+  const q=quizRound.questions[quizRound.idx];
+  const total=quizRound.questions.length;
+  const answered=quizRound.answered;
+  const choicesHtml=q.choices.map((c,i)=>{
+    let cls="quiz-choice";
+    if(answered){
+      if(i===q.answerIndex)cls+=" correct";
+      else if(i===quizRound.selected)cls+=" incorrect";
+    }
+    return `<button type="button" class="${cls}" data-idx="${i}"${answered?" disabled":""}>
+      <span class="quiz-choice-num">${i+1}</span><span>${esc(String(c))}</span></button>`;
+  }).join("");
+  const entry=q.explanationEntryId?DATA.find(e=>e.id===q.explanationEntryId):null;
+  const wasCorrect=quizRound.selected===q.answerIndex;
+  const explainHtml=answered
+    ?`<div class="quiz-explain">
+        <div class="quiz-result ${wasCorrect?"right":"wrong"}">${wasCorrect?"Correct!":"Not quite."}</div>
+        ${entry?`<a class="quiz-explain-link" href="viewer.html?d=${encodeURIComponent(currentDataset())}&id=${encodeURIComponent(entry.id)}" id="quizExplainLink">${esc(entry.name)} &rarr;</a>`:""}
+        <button type="button" class="quiz-next-btn" id="quizNextBtn">${quizRound.idx+1<total?"Next":"See score"} <span class="quiz-key-hint">Enter</span></button>
+      </div>`
+    :"";
+  box.innerHTML=`
+    ${quizBackLinkHtml()}
+    <div class="quiz-progress">Question ${quizRound.idx+1} of ${total} &middot; Score ${quizRound.score}</div>
+    <h1 class="quiz-prompt">${esc(q.prompt)}</h1>
+    <div class="quiz-choices">${choicesHtml}</div>
+    ${explainHtml}
+  `;
+  wireQuizBack(box);
+  box.querySelectorAll(".quiz-choice").forEach(btn=>btn.addEventListener("click",()=>quizAnswer(Number(btn.dataset.idx))));
+  const explainLink=box.querySelector("#quizExplainLink");
+  if(explainLink)explainLink.addEventListener("click",e=>{
+    if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+    e.preventDefault();
+    navigateToEntry(entry.id);
+  });
+  const nextBtn=box.querySelector("#quizNextBtn");
+  if(nextBtn)nextBtn.addEventListener("click",quizAdvance);
+}
+
+function renderQuizDone(box){
+  const total=quizRound.questions.length;
+  box.innerHTML=`
+    ${quizBackLinkHtml()}
+    <h1 class="quiz-title">Round complete</h1>
+    <div class="quiz-score-summary">${quizRound.score} / ${total} correct</div>
+    <div class="quiz-actions">
+      <button type="button" class="quiz-play-again-btn" id="quizPlayAgain">Play again</button>
+      <button type="button" class="quiz-browsing-btn" id="quizToBrowsing">Back to browsing</button>
+    </div>
+  `;
+  wireQuizBack(box);
+  box.querySelector("#quizPlayAgain").addEventListener("click",()=>{quizRound=null;quizStart();});
+  box.querySelector("#quizToBrowsing").addEventListener("click",()=>navigateToList());
+}
+
+function renderQuiz(){
+  const box=$("#quiz");
+  if(!box)return;
+  document.title=`Quiz · ${CFG.title||"Index"}`;
+  if(quizRound&&quizRound.phase==="playing"){renderQuizPlaying(box);return;}
+  if(quizRound&&quizRound.phase==="done"){renderQuizDone(box);return;}
+  renderQuizStart(box);
+}
+
+function navigateToQuiz(){
+  state.mode="quiz";
+  state.entryId=null;
+  state.lineageFrom=null;state.lineageTo=null;state.lineageUndirected=false;
+  quizRound=null;
+  const url=new URL(location.href);
+  url.searchParams.set("mode","quiz");
+  url.searchParams.delete("id");
+  url.searchParams.delete("from");
+  url.searchParams.delete("to");
+  url.searchParams.delete("undirected");
+  url.hash="";
+  history.pushState(null,"",url.pathname+url.search);
+  render();
+}
+
+const quizBtn=$("#quizBtn");
+if(quizBtn)quizBtn.addEventListener("click",navigateToQuiz);
+
+document.addEventListener("keydown",e=>{
+  if(state.mode!=="quiz"||!quizRound||quizRound.phase!=="playing")return;
+  if(isTypingTarget(document.activeElement))return;
+  if(!quizRound.answered){
+    const n=Number(e.key);
+    if(Number.isInteger(n)&&n>=1&&n<=quizRound.questions[quizRound.idx].choices.length){
+      e.preventDefault();
+      quizAnswer(n-1);
+    }
+  }else if(e.key==="Enter"){
+    e.preventDefault();
+    quizAdvance();
+  }
+});
+// ---- end quiz ----
 
 async function initApp(){
   await loadTopics();
