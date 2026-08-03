@@ -158,11 +158,11 @@ mark{background:#fde68a;color:#3a2e00;padding:0 2px;border-radius:3px}
 .rand-clear:hover{border-color:var(--accent);color:var(--accent)}
 .rand-seen{font-size:12px;color:var(--ink-soft)}
 .rand-exhausted{font-size:14px;color:var(--gold);font-style:italic}
-.clear-filters-btn,.copy-link-btn,.fav-filter-btn{font-family:inherit;font-size:13px;background:transparent;
+.clear-filters-btn,.copy-link-btn,.fav-filter-btn,.study-cards-btn{font-family:inherit;font-size:13px;background:transparent;
   border:1px solid var(--line);border-radius:10px;padding:11px 14px;cursor:pointer;white-space:nowrap;
   transition:color .15s,border-color .15s}
-.clear-filters-btn,.copy-link-btn{color:var(--ink-soft)}
-.clear-filters-btn:not([disabled]):hover,.copy-link-btn:hover{border-color:var(--accent);color:var(--accent)}
+.clear-filters-btn,.copy-link-btn,.study-cards-btn{color:var(--ink-soft)}
+.clear-filters-btn:not([disabled]):hover,.copy-link-btn:hover,.study-cards-btn:hover{border-color:var(--accent);color:var(--accent)}
 .clear-filters-btn[disabled]{opacity:.38;cursor:default}
 .view-toggle{display:inline-flex;align-items:center;background:var(--card);border:1px solid var(--line);
   border-radius:10px;padding:3px;gap:2px}
@@ -454,4 +454,42 @@ body.quiz-mode #quiz{display:block}
   .quiz-choices{max-width:100%}
 }
 /* ---- end quiz ---- */
+
+/* ---- flashcards ---- */
+#cards{display:none;padding:32px 0 80px}
+body.cards-mode #glossBars,
+body.cards-mode .controls,
+body.cards-mode .meta-row,
+body.cards-mode .random-bar,
+body.cards-mode #results,
+body.cards-mode #detail,
+body.cards-mode #lineage,
+body.cards-mode #quiz{display:none}
+body.cards-mode #cards{display:block}
+.cards-card{margin-top:28px;max-width:560px;padding:32px 28px;background:var(--card);
+  border:1px solid var(--line);border-radius:14px;box-shadow:0 1px 3px var(--shadow)}
+.cards-name{font-family:'Fraunces',serif;font-weight:600;font-size:clamp(24px,3.6vw,32px);margin:0}
+.cards-dates{font-size:13px;color:var(--ink-soft);margin-top:8px;font-variant-numeric:tabular-nums}
+.cards-desc{font-size:15.5px;color:var(--ink);line-height:1.6;margin:20px 0 0}
+.cards-tldr{font-size:15px;color:var(--ink);line-height:1.7;margin:14px 0 0;
+  padding:14px 16px;background:var(--paper-2);border-radius:8px}
+.cards-detail-link{display:inline-block;margin-top:16px;font-size:14px;color:var(--accent);
+  text-decoration:none;font-weight:500}
+.cards-detail-link:hover{text-decoration:underline;text-underline-offset:3px}
+.cards-flip-btn{margin-top:24px;font-family:inherit;font-size:14px;font-weight:500;color:#fff;
+  background:var(--accent);border:none;border-radius:10px;padding:11px 20px;cursor:pointer;
+  display:inline-flex;align-items:center;gap:8px}
+.cards-flip-btn:hover{opacity:.88}
+.cards-grades{display:flex;gap:10px;margin-top:22px;flex-wrap:wrap}
+.cards-grade-btn{font-family:inherit;font-size:14px;font-weight:500;color:var(--ink);
+  background:transparent;border:1px solid var(--line);border-radius:10px;padding:10px 16px;
+  cursor:pointer;display:inline-flex;align-items:center;gap:8px}
+.cards-grade-btn:hover{border-color:var(--accent);color:var(--accent)}
+.cards-grade-btn.again{color:var(--ink-soft)}
+.cards-grade-btn.easy{border-color:var(--accent);color:var(--accent)}
+@media (max-width:480px){
+  .cards-card{padding:24px 20px}
+  .cards-grades{flex-direction:column}
+}
+/* ---- end flashcards ---- */
 
