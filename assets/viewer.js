@@ -2430,11 +2430,211 @@ function renderStats(){
       ${yearRangeHtml}
       ${filterStatsHtml}
     </dl>
+    <section class="stats-chart-section" id="centuryChartSection" hidden>
+      <h2 class="stats-chart-title">Entries per century</h2>
+      <div class="century-chart" id="centuryChart">
+        <div class="century-chart-row">
+          <div class="century-yaxis" id="centuryYaxis"></div>
+          <div class="century-plot" id="centuryPlot"></div>
+        </div>
+        <div class="century-chart-row">
+          <div class="century-yaxis-spacer"></div>
+          <div class="century-xaxis" id="centuryXaxis"></div>
+        </div>
+        <div class="century-tooltip" id="centuryTooltip" hidden></div>
+      </div>
+      <table class="sr-only" id="centuryChartTable">
+        <caption>Entries per century</caption>
+        <thead><tr><th scope="col">Century</th><th scope="col">Entries</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </section>
   `;
   const back=box.querySelector("#statsBack");
   if(back)back.addEventListener("click",e=>{e.preventDefault();navigateToList();});
   const resetBtn=box.querySelector("#statsResetBtn");
   if(resetBtn)resetBtn.addEventListener("click",resetAll);
+  renderCenturyChart(pool);
+}
+
+// Century bar chart (E5-02): renders STATS.byCentury as inline SVG below the summary
+// panel. Bars use --accent, gridlines/axis text use --line/--ink-soft, per the brief.
+// x-axis labels are separate absolutely-positioned HTML rather than SVG text, so their
+// font-size stays fixed instead of shrinking with the viewBox on narrow screens; how many
+// are shown is recomputed from the plot's actual rendered width via ResizeObserver.
+function niceTickStep(maxVal,targetTicks){
+  const raw=Math.max(maxVal,1)/targetTicks;
+  const mag=Math.pow(10,Math.floor(Math.log10(raw)));
+  const norm=raw/mag;
+  return (norm<1.5?1:norm<3?2:norm<7?5:10)*mag;
+}
+
+function centuryShortLabel(key){
+  const n=Math.abs(key);
+  return key<0?`${ordinal(n)} BCE`:ordinal(n);
+}
+
+function centuryNoun(count){
+  return count===1?(CFG.itemNounSingular||"entry"):(CFG.itemNoun||"entries");
+}
+
+let centuryChart=null; // {plotEl,xaxisEl,tooltipEl,chartEl,data,n,observer}
+
+function centuryChartDisconnect(){
+  if(centuryChart&&centuryChart.observer)centuryChart.observer.disconnect();
+  centuryChart=null;
+}
+
+function centuryRenderXAxisLabels(){
+  if(!centuryChart)return;
+  const {plotEl,xaxisEl,data,n}=centuryChart;
+  const width=plotEl.getBoundingClientRect().width||300;
+  const maxLabels=Math.max(1,Math.min(n,Math.floor(width/50)));
+  // Evenly-spaced indices by position, not a fixed modulo step -- a modulo step forced to
+  // also include the last index crowds it against its neighbour whenever n isn't a clean
+  // multiple of the step. Spacing by position keeps every shown label roughly equidistant.
+  const idxs=new Set();
+  for(let k=0;k<maxLabels;k++){
+    idxs.add(maxLabels===1?0:Math.round(k*(n-1)/(maxLabels-1)));
+  }
+  let html="";
+  [...idxs].sort((a,b)=>a-b).forEach(i=>{
+    const left=((i+0.5)/n*100).toFixed(2);
+    html+=`<span class="century-xaxis-label" style="left:${left}%">${esc(centuryShortLabel(data[i].century))}</span>`;
+  });
+  xaxisEl.innerHTML=html;
+}
+
+function centuryBarInfo(el){
+  return {label:el.dataset.label,count:parseInt(el.dataset.count,10),century:parseInt(el.dataset.century,10)};
+}
+
+function centuryShowTooltip(el){
+  const {chartEl,tooltipEl}=centuryChart;
+  const {label,count}=centuryBarInfo(el);
+  tooltipEl.textContent=`${label}: ${count} ${centuryNoun(count)}`;
+  const barBox=el.getBoundingClientRect();
+  const chartBox=chartEl.getBoundingClientRect();
+  tooltipEl.style.left=(barBox.left-chartBox.left+barBox.width/2)+"px";
+  tooltipEl.style.top=(barBox.top-chartBox.top)+"px";
+  tooltipEl.hidden=false;
+}
+function centuryHideTooltip(){
+  if(centuryChart)centuryChart.tooltipEl.hidden=true;
+}
+
+// Only apply the grouping filter (era/period) when every entry in this century's current
+// pool agrees on one option -- a century's year span does not always land inside a single
+// grouping bucket (data boundaries do not always land on century marks), so a mixed result
+// means no filter is applied rather than guessing.
+function centuryBarActivate(el){
+  const {count,century}=centuryBarInfo(el);
+  if(!count)return;
+  const gf=groupFilter();
+  if(!gf)return;
+  const pool=DATA.filter(match);
+  const vals=new Set(pool.filter(r=>Number.isFinite(r.y)&&centuryKey(r.y)===century).map(r=>r[gf.key]).filter(v=>v!=null&&v!==""));
+  if(vals.size!==1)return;
+  const val=[...vals][0];
+  if(!(gf.options||[]).includes(val))return;
+  navigateToList();
+  addFilter(gf.id,val);
+}
+
+function renderCenturyChart(pool){
+  centuryChartDisconnect();
+  const section=$("#centuryChartSection");
+  if(!section)return;
+  const data=STATS.byCentury(pool);
+  if(!data.length){section.hidden=true;return;}
+  section.hidden=false;
+  const n=data.length;
+  const maxCount=Math.max(...data.map(d=>d.count));
+  const step=niceTickStep(maxCount,4);
+  const niceMax=Math.ceil(maxCount/step)*step||step;
+  const ticks=[];
+  for(let v=0;v<=niceMax;v+=step)ticks.push(Math.round(v*100)/100);
+
+  const W=1000,H=300,padTop=20,plotH=H-padTop;
+  const gapFrac=n>40?0.15:n>18?0.22:0.32;
+  const bw=W/n;
+
+  const bars=data.map((d,i)=>{
+    const x=i*bw;
+    const innerX=x+bw*gapFrac/2;
+    const innerW=bw*(1-gapFrac);
+    const h=(d.count/niceMax)*plotH;
+    const y=padTop+(plotH-h);
+    return `<rect class="century-hit" tabindex="0" role="button"
+        data-century="${d.century}" data-label="${esc(d.label)}" data-count="${d.count}"
+        x="${x.toFixed(2)}" y="${padTop}" width="${bw.toFixed(2)}" height="${plotH}"></rect>${
+      d.count>0?`<rect class="century-bar" aria-hidden="true"
+        x="${innerX.toFixed(2)}" y="${y.toFixed(2)}" width="${innerW.toFixed(2)}" height="${h.toFixed(2)}"></rect>`:""}`;
+  }).join("");
+
+  const gridlines=ticks.map(v=>{
+    const h=(v/niceMax)*plotH;
+    const y=padTop+(plotH-h);
+    return `<line class="century-gridline" x1="0" y1="${y.toFixed(2)}" x2="${W}" y2="${y.toFixed(2)}"></line>`;
+  }).join("");
+
+  const summary=`Entries per century, ${data[0].label} to ${data[n-1].label}, `
+    +`ranging from 0 to ${maxCount} ${centuryNoun(maxCount)}.`;
+
+  const plotEl=$("#centuryPlot");
+  plotEl.innerHTML=`<svg class="century-svg" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none"
+      role="img" aria-label="${esc(summary)}">${gridlines}${bars}</svg>`;
+
+  const yaxisEl=$("#centuryYaxis");
+  yaxisEl.innerHTML=ticks.map(v=>{
+    const h=(v/niceMax)*plotH;
+    const y=padTop+(plotH-h);
+    return `<span class="century-yaxis-label" style="top:${(y/H*100).toFixed(2)}%">${v}</span>`;
+  }).join("");
+
+  const tbody=$("#centuryChartTable tbody");
+  tbody.innerHTML=data.map(d=>`<tr><td>${esc(d.label)}</td><td>${d.count}</td></tr>`).join("");
+
+  const chartEl=$("#centuryChart");
+  const xaxisEl=$("#centuryXaxis");
+  const tooltipEl=$("#centuryTooltip");
+  centuryChart={plotEl,xaxisEl,tooltipEl,chartEl,data,n};
+  centuryRenderXAxisLabels();
+
+  const svgEl=plotEl.querySelector(".century-svg");
+  svgEl.addEventListener("mouseover",e=>{
+    const el=e.target.closest(".century-hit");
+    if(el)centuryShowTooltip(el);
+  });
+  svgEl.addEventListener("mouseout",e=>{
+    const el=e.target.closest(".century-hit");
+    if(el)centuryHideTooltip();
+  });
+  svgEl.addEventListener("focusin",e=>{
+    const el=e.target.closest(".century-hit");
+    if(el)centuryShowTooltip(el);
+  });
+  svgEl.addEventListener("focusout",e=>{
+    const el=e.target.closest(".century-hit");
+    if(el)centuryHideTooltip();
+  });
+  svgEl.addEventListener("click",e=>{
+    const el=e.target.closest(".century-hit");
+    if(el)centuryBarActivate(el);
+  });
+  svgEl.addEventListener("keydown",e=>{
+    if(e.key!=="Enter"&&e.key!==" ")return;
+    const el=e.target.closest(".century-hit");
+    if(!el)return;
+    e.preventDefault();
+    centuryBarActivate(el);
+  });
+
+  const observer=new ResizeObserver(()=>{
+    requestAnimationFrame(centuryRenderXAxisLabels);
+  });
+  observer.observe(plotEl);
+  centuryChart.observer=observer;
 }
 
 function navigateToStats(){
