@@ -76,13 +76,17 @@
       <svg viewBox="0 0 24 24"><path d="M18 4h-3l-5 8 5 8h3"/><path d="M6 4h3l5 8-5 8H6"/><line x1="14" y1="8" x2="20" y2="8"/><line x1="14" y1="16" x2="20" y2="16"/></svg>
       Random <span id="randNoun"></span>
     </button>
+    <button class="rand-btn" id="quizBtn">
+      <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9.5 9a2.5 2.5 0 1 1 3.4 2.3c-.9.4-1.4 1-1.4 2"/><line x1="12" y1="16.5" x2="12.01" y2="16.5"/></svg>
+      Quiz
+    </button>
     <label class="rand-norepeats"><input type="checkbox" id="randNoRepeats"> No repeats</label>
     <button class="rand-clear" id="randClear">Clear history (<span id="randSeenCount">0</span> seen)</button>
     <span class="rand-exhausted" id="randExhausted" hidden>All matching <span id="randExhaustedNoun"></span> seen — clear history to reset.</span>
   </div>
 </div>
 
-<main class="wrap"><div class="results" id="results"></div><div class="detail" id="detail"></div><div class="lineage" id="lineage"></div></main>
+<main class="wrap"><div class="results" id="results"></div><div class="detail" id="detail"></div><div class="lineage" id="lineage"></div><div class="quiz" id="quiz"></div></main>
 <div class="timeline-tip" id="timelineTip" aria-hidden="true"></div>
 
 <footer><div class="wrap" style="padding:0">
