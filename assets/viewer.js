@@ -2411,6 +2411,7 @@ function renderStats(){
   if(!box)return;
   document.title=`Stats · ${CFG.title||"Index"}`;
   const pool=DATA.filter(match);
+  compEnsureSettings();
   const years=pool.map(r=>r.y).filter(y=>Number.isFinite(y));
   const yearRangeHtml=years.length
     ?`<div class="stats-stat"><dt>Year range</dt><dd>${esc(yearLabel(Math.min(...years)))} &ndash; ${esc(yearLabel(Math.max(...years)))}</dd></div>`
@@ -2449,12 +2450,37 @@ function renderStats(){
         <tbody></tbody>
       </table>
     </section>
+    <section class="stats-chart-section" id="compChartSection" hidden>
+      <div class="comp-chart-header">
+        <h2 class="stats-chart-title">Composition over time</h2>
+        ${compControlsHtml()}
+      </div>
+      <div class="comp-chart" id="compChart">
+        <div class="comp-chart-row">
+          <div class="comp-yaxis" id="compYaxis"></div>
+          <div class="comp-plot" id="compPlot"></div>
+        </div>
+        <div class="comp-chart-row">
+          <div class="comp-yaxis-spacer"></div>
+          <div class="comp-xaxis" id="compXaxis"></div>
+        </div>
+        <div class="comp-tooltip" id="compTooltip" hidden></div>
+      </div>
+      <ul class="comp-legend" id="compLegend"></ul>
+      <table class="sr-only" id="compChartTable">
+        <caption id="compChartCaption">Composition over time</caption>
+        <thead><tr id="compChartTableHead"></tr></thead>
+        <tbody id="compChartTableBody"></tbody>
+      </table>
+    </section>
   `;
   const back=box.querySelector("#statsBack");
   if(back)back.addEventListener("click",e=>{e.preventDefault();navigateToList();});
   const resetBtn=box.querySelector("#statsResetBtn");
   if(resetBtn)resetBtn.addEventListener("click",resetAll);
   renderCenturyChart(pool);
+  wireCompControls(box,pool);
+  renderCompChart(pool);
 }
 
 // Century bar chart (E5-02): renders STATS.byCentury as inline SVG below the summary
@@ -2635,6 +2661,311 @@ function renderCenturyChart(pool){
   });
   observer.observe(plotEl);
   centuryChart.observer=observer;
+}
+
+// Composition-over-time chart (E5-03): renders STATS.crossTab as a stacked bar chart, one
+// bar per time bucket segmented by the chosen filter's values. Data-agnostic, like the rest
+// of the stats route -- driven by FILTERS, never a topic's own field names.
+
+const COMP_OTHER="__comp_other__";
+
+// {filterId,bucketSize,mode,hidden:Set} -- the reader's chart controls. Persists across
+// re-renders of the stats page (e.g. clicking "Reset to all entries") so their choice of
+// breakdown isn't lost, but is reinitialised if the topic changes underneath it (filterId
+// no longer among FILTERS).
+let compSettings=null;
+let compChart=null; // {plotEl,yaxisEl,xaxisEl,tooltipEl,chartEl,rows,n,W,observer}
+
+function compEnsureSettings(){
+  if(compSettings && FILTERS.some(f=>f.id===compSettings.filterId))return;
+  const gf=groupFilter()||FILTERS[0];
+  compSettings={filterId:gf?gf.id:null,bucketSize:100,mode:"count",hidden:new Set()};
+}
+
+function compDisplayLabel(value){
+  return value===COMP_OTHER?"Other":value;
+}
+
+// Splits a filter's values into the 8 largest (by total count in `pool`) plus a synthetic
+// "Other" bucket for the remainder, so the legend and chart stay legible on filters with many
+// options. Order is by descending total, which only depends on `pool` -- not on bucket size or
+// mode -- so a value's position (and therefore its colour) is stable across both.
+function compPartition(pool,filterConfig){
+  const totals=statsByFilter(pool,filterConfig).filter(x=>x.count>0);
+  const sorted=[...totals].sort((a,b)=>b.count-a.count||(a.value<b.value?-1:1));
+  const top=sorted.slice(0,8).map(x=>x.value);
+  const rest=sorted.slice(8).map(x=>x.value);
+  return {values:[...top,...(rest.length?[COMP_OTHER]:[])],rest:new Set(rest)};
+}
+
+function compColor(i){
+  return TL_PALETTE[i%TL_PALETTE.length];
+}
+
+function compBucketRangeLabel(bucket,bucketSize){
+  return `${yearLabel(bucket)}–${yearLabel(bucket+bucketSize-1)}`;
+}
+
+function compRowTotal(row,allValues){
+  return allValues.reduce((s,v)=>s+(row[v]||0),0);
+}
+
+function compSegmentsForRow(row,displayValues,rest){
+  return displayValues.map(v=>({
+    value:v,
+    count:v===COMP_OTHER?[...rest].reduce((s,rv)=>s+(row[rv]||0),0):(row[v]||0)
+  }));
+}
+
+function compControlsHtml(){
+  if(!FILTERS.length)return "";
+  const filterOpts=FILTERS.map(f=>
+    `<option value="${esc(f.id)}"${f.id===compSettings.filterId?" selected":""}>${esc(f.label)}</option>`
+  ).join("");
+  return `
+    <div class="comp-controls">
+      <label class="comp-control">Break down by
+        <select id="compFilterSelect">${filterOpts}</select>
+      </label>
+      <label class="comp-control">Bucket
+        <select id="compBucketSelect">
+          <option value="100"${compSettings.bucketSize===100?" selected":""}>100 years</option>
+          <option value="500"${compSettings.bucketSize===500?" selected":""}>500 years</option>
+        </select>
+      </label>
+      <div class="comp-mode-toggle" role="group" aria-label="Display mode">
+        <button type="button" id="compModeCount" class="comp-mode-btn" aria-pressed="${compSettings.mode==="count"}">Count</button>
+        <button type="button" id="compModePct" class="comp-mode-btn" aria-pressed="${compSettings.mode==="pct"}">Percent</button>
+      </div>
+    </div>`;
+}
+
+function wireCompControls(box,pool){
+  const filterSel=box.querySelector("#compFilterSelect");
+  if(filterSel)filterSel.addEventListener("change",e=>{
+    compSettings.filterId=e.target.value;
+    compSettings.hidden=new Set();
+    renderCompChart(DATA.filter(match));
+  });
+  const bucketSel=box.querySelector("#compBucketSelect");
+  if(bucketSel)bucketSel.addEventListener("change",e=>{
+    compSettings.bucketSize=parseInt(e.target.value,10);
+    renderCompChart(DATA.filter(match));
+  });
+  const modeCount=box.querySelector("#compModeCount");
+  const modePct=box.querySelector("#compModePct");
+  const setMode=mode=>{
+    compSettings.mode=mode;
+    if(modeCount)modeCount.setAttribute("aria-pressed",String(mode==="count"));
+    if(modePct)modePct.setAttribute("aria-pressed",String(mode==="pct"));
+    renderCompChart(DATA.filter(match));
+  };
+  if(modeCount)modeCount.addEventListener("click",()=>setMode("count"));
+  if(modePct)modePct.addEventListener("click",()=>setMode("pct"));
+}
+
+function compChartDisconnect(){
+  if(compChart&&compChart.observer)compChart.observer.disconnect();
+  compChart=null;
+}
+
+function compRenderXAxisLabels(){
+  if(!compChart)return;
+  const {plotEl,xaxisEl,rows,n}=compChart;
+  const width=plotEl.getBoundingClientRect().width||300;
+  const minLabelPx=64;
+  const maxLabels=Math.max(1,Math.min(n,Math.floor(width/minLabelPx)));
+  const idxs=new Set();
+  for(let k=0;k<maxLabels;k++){
+    idxs.add(maxLabels===1?0:Math.round(k*(n-1)/(maxLabels-1)));
+  }
+  // Position-based spacing can still round two adjacent buckets into neighbouring indices
+  // when bucket count is close to maxLabels; drop any pick that lands closer than minLabelPx
+  // to the last kept one so labels never overlap even with many narrow buckets.
+  const bucketPx=width/n;
+  let lastPos=-Infinity;
+  let html="";
+  [...idxs].sort((a,b)=>a-b).forEach(i=>{
+    const pos=i*bucketPx;
+    if(pos-lastPos<minLabelPx)return;
+    lastPos=pos;
+    const left=((i+0.5)/n*100).toFixed(2);
+    html+=`<span class="comp-xaxis-label" style="left:${left}%">${esc(yearLabel(rows[i].bucket))}</span>`;
+  });
+  xaxisEl.innerHTML=html;
+}
+
+// Segment labels are pre-rendered into the SVG at build time and only shown -- truncated to
+// fit, with a trailing ellipsis -- when their measured pixel size clears a legibility
+// threshold. Recomputed on resize since the SVG (preserveAspectRatio="none", viewBox locked
+// to the container's aspect-ratio) scales uniformly in both axes with the container's
+// rendered width.
+function compUpdateLabelVisibility(){
+  if(!compChart)return;
+  const {plotEl,W}=compChart;
+  const pxPerUnit=(plotEl.getBoundingClientRect().width||W)/W;
+  plotEl.querySelectorAll(".comp-seg-label").forEach(t=>{
+    const h=parseFloat(t.dataset.h),w=parseFloat(t.dataset.w);
+    const hPx=h*pxPerUnit,wPx=w*pxPerUnit;
+    if(hPx<14||wPx<24){t.style.display="none";return;}
+    t.style.display="";
+    const full=t.dataset.full;
+    const maxChars=Math.max(1,Math.floor(wPx/6.3));
+    t.textContent=full.length<=maxChars?full:(maxChars<=1?"":full.slice(0,maxChars-1)+"…");
+  });
+}
+
+function compShowTooltip(el){
+  const {chartEl,tooltipEl}=compChart;
+  const {label,count,share,range}=el.dataset;
+  tooltipEl.textContent=`${label}: ${count} (${share}%) — ${range}`;
+  const barBox=el.getBoundingClientRect();
+  const chartBox=chartEl.getBoundingClientRect();
+  tooltipEl.style.left=(barBox.left-chartBox.left+barBox.width/2)+"px";
+  tooltipEl.style.top=(barBox.top-chartBox.top)+"px";
+  tooltipEl.hidden=false;
+}
+function compHideTooltip(){
+  if(compChart)compChart.tooltipEl.hidden=true;
+}
+
+function compLegendToggle(value,pool){
+  if(compSettings.hidden.has(value))compSettings.hidden.delete(value);else compSettings.hidden.add(value);
+  renderCompChart(pool);
+}
+
+function renderCompChart(pool){
+  compChartDisconnect();
+  const section=$("#compChartSection");
+  if(!section)return;
+  if(!FILTERS.length){section.hidden=true;return;}
+  compEnsureSettings();
+  const filterConfig=filterById(compSettings.filterId)||FILTERS[0];
+  const {values:displayValues,rest}=compPartition(pool,filterConfig);
+  const cross=STATS.crossTab(pool,filterConfig,compSettings.bucketSize);
+  if(!displayValues.length||!cross.buckets.length){section.hidden=true;return;}
+  section.hidden=false;
+
+  const rows=cross.rows.map(row=>({
+    bucket:row.bucket,
+    total:compRowTotal(row,cross.values),
+    segments:compSegmentsForRow(row,displayValues,rest)
+  }));
+
+  const colorOf=v=>compColor(displayValues.indexOf(v));
+  const isHidden=v=>compSettings.hidden.has(v);
+  const pct=compSettings.mode==="pct";
+  const metric=(count,total)=>pct?(total?count/total*100:0):count;
+
+  const rowMax=rows.map(r=>r.segments.filter(s=>!isHidden(s.value)).reduce((s,seg)=>s+metric(seg.count,r.total),0));
+  const maxVal=Math.max(...rowMax,0);
+  const step=niceTickStep(Math.max(maxVal,0.0001),4);
+  const niceMax=Math.ceil(Math.max(maxVal,0.0001)/step)*step||step;
+  const ticks=[];
+  for(let v=0;v<=niceMax;v+=step)ticks.push(Math.round(v*100)/100);
+
+  const n=rows.length;
+  const W=1000,H=340,padTop=20,plotH=H-padTop;
+  const gapFrac=n>40?0.15:n>18?0.22:0.32;
+  const bw=W/n;
+
+  let barsHtml="";
+  const labelSpecs=[];
+  rows.forEach((r,i)=>{
+    const x=i*bw;
+    const innerX=x+bw*gapFrac/2;
+    const innerW=bw*(1-gapFrac);
+    let cursor=padTop+plotH;
+    r.segments.forEach(seg=>{
+      if(isHidden(seg.value))return;
+      const m=metric(seg.count,r.total);
+      if(m<=0)return;
+      const h=(m/niceMax)*plotH;
+      const y=cursor-h;
+      const color=colorOf(seg.value);
+      const label=compDisplayLabel(seg.value);
+      const share=r.total?(seg.count/r.total*100):0;
+      barsHtml+=`<rect class="comp-seg" tabindex="0" role="button"
+          data-value="${esc(seg.value)}" data-label="${esc(label)}" data-count="${seg.count}"
+          data-share="${share.toFixed(1)}" data-bucket="${r.bucket}"
+          data-range="${esc(compBucketRangeLabel(r.bucket,compSettings.bucketSize))}"
+          x="${innerX.toFixed(2)}" y="${y.toFixed(2)}" width="${innerW.toFixed(2)}" height="${Math.max(h,0).toFixed(2)}"
+          style="fill:${color}"></rect>`;
+      labelSpecs.push({x:innerX+innerW/2,y:y+h/2,w:innerW,h,text:label});
+      cursor=y;
+    });
+  });
+
+  const labelsHtml=labelSpecs.map(s=>`<text class="comp-seg-label" data-h="${s.h.toFixed(2)}" data-w="${s.w.toFixed(2)}"
+      data-full="${esc(s.text)}"
+      x="${s.x.toFixed(2)}" y="${s.y.toFixed(2)}" text-anchor="middle" dominant-baseline="middle"></text>`).join("");
+
+  const gridlines=ticks.map(v=>{
+    const h=(v/niceMax)*plotH;
+    const y=padTop+(plotH-h);
+    return `<line class="comp-gridline" x1="0" y1="${y.toFixed(2)}" x2="${W}" y2="${y.toFixed(2)}"></line>`;
+  }).join("");
+
+  const filterLbl=filterConfig.label||filterConfig.id;
+  const modeLbl=pct?"percentage of bucket":"count";
+  const summary=n?`Composition over time by ${filterLbl}, `
+    +`${compBucketRangeLabel(rows[0].bucket,compSettings.bucketSize)} to `
+    +`${compBucketRangeLabel(rows[n-1].bucket,compSettings.bucketSize)}, shown as ${modeLbl}.`:"";
+
+  const plotEl=$("#compPlot");
+  plotEl.innerHTML=`<svg class="comp-svg" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none"
+      role="img" aria-label="${esc(summary)}">${gridlines}${barsHtml}${labelsHtml}</svg>`;
+
+  const yaxisEl=$("#compYaxis");
+  yaxisEl.innerHTML=ticks.map(v=>{
+    const h=(v/niceMax)*plotH;
+    const y=padTop+(plotH-h);
+    const label=pct?`${v}%`:String(v);
+    return `<span class="comp-yaxis-label" style="top:${(y/H*100).toFixed(2)}%">${esc(label)}</span>`;
+  }).join("");
+
+  const thead=$("#compChartTableHead"),tbody=$("#compChartTableBody");
+  thead.innerHTML=`<th scope="col">Bucket</th>${displayValues.map(v=>`<th scope="col">${esc(compDisplayLabel(v))}</th>`).join("")}<th scope="col">Total</th>`;
+  tbody.innerHTML=rows.map(r=>{
+    const cells=r.segments.map(seg=>{
+      const m=metric(seg.count,r.total);
+      return `<td>${pct?m.toFixed(1)+"%":seg.count}</td>`;
+    }).join("");
+    return `<tr><td>${esc(compBucketRangeLabel(r.bucket,compSettings.bucketSize))}</td>${cells}<td>${r.total}</td></tr>`;
+  }).join("");
+  const caption=$("#compChartCaption");
+  if(caption)caption.textContent=`Composition over time by ${filterLbl} (${modeLbl})`;
+
+  const legendEl=$("#compLegend");
+  legendEl.innerHTML=displayValues.map(v=>{
+    const hidden=isHidden(v);
+    return `<li><button type="button" class="comp-legend-item" data-value="${esc(v)}"
+        aria-pressed="${!hidden}" style="--comp-swatch:${colorOf(v)}">
+      <span class="comp-legend-swatch"></span>${esc(compDisplayLabel(v))}
+    </button></li>`;
+  }).join("");
+  legendEl.querySelectorAll(".comp-legend-item").forEach(btn=>{
+    btn.addEventListener("click",()=>compLegendToggle(btn.dataset.value,pool));
+  });
+
+  const chartEl=$("#compChart");
+  const xaxisEl=$("#compXaxis");
+  const tooltipEl=$("#compTooltip");
+  compChart={plotEl,yaxisEl,xaxisEl,tooltipEl,chartEl,rows,n,W};
+  compRenderXAxisLabels();
+  compUpdateLabelVisibility();
+
+  const svgEl=plotEl.querySelector(".comp-svg");
+  svgEl.addEventListener("mouseover",e=>{const el=e.target.closest(".comp-seg");if(el)compShowTooltip(el);});
+  svgEl.addEventListener("mouseout",e=>{const el=e.target.closest(".comp-seg");if(el)compHideTooltip();});
+  svgEl.addEventListener("focusin",e=>{const el=e.target.closest(".comp-seg");if(el)compShowTooltip(el);});
+  svgEl.addEventListener("focusout",e=>{const el=e.target.closest(".comp-seg");if(el)compHideTooltip();});
+
+  const observer=new ResizeObserver(()=>{
+    requestAnimationFrame(()=>{compRenderXAxisLabels();compUpdateLabelVisibility();});
+  });
+  observer.observe(plotEl);
+  compChart.observer=observer;
 }
 
 function navigateToStats(){
