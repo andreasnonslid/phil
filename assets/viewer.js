@@ -1600,7 +1600,8 @@ async function renderMeanwhile(r){
 // no question types of its own -- E4-02/E4-03 append entries to QUIZ_TYPES; this file only
 // owns the frame, and it stays topic-agnostic, driven by CFG same as the rest of the viewer.
 // Each type is { id, label, canGenerate(pool,meta), generate(pool,meta) } where generate()
-// returns { prompt, choices, answerIndex, explanationEntryId }. Routed via
+// returns { prompt, choices, answerIndex, explanationEntryId, reveal? } -- reveal is optional
+// unredacted text shown alongside the entry link once a question is answered. Routed via
 // ?d=<topic>&mode=quiz, alongside lineage and entity routing above -- never the hash, since
 // this state (unlike filters) must survive a fresh tab.
 let QUIZ_TYPES=[];
@@ -1765,6 +1766,7 @@ function renderQuizPlaying(box){
   const explainHtml=answered
     ?`<div class="quiz-explain">
         <div class="quiz-result ${wasCorrect?"right":"wrong"}">${wasCorrect?"Correct!":"Not quite."}</div>
+        ${q.reveal?`<p class="quiz-reveal-text">${esc(q.reveal)}</p>`:""}
         ${entry?`<a class="quiz-explain-link" href="viewer.html?d=${encodeURIComponent(currentDataset())}&id=${encodeURIComponent(entry.id)}" id="quizExplainLink">${esc(entry.name)} &rarr;</a>`:""}
         <button type="button" class="quiz-next-btn" id="quizNextBtn">${quizRound.idx+1<total?"Next":"See score"} <span class="quiz-key-hint">Enter</span></button>
       </div>`
@@ -1846,6 +1848,104 @@ document.addEventListener("keydown",e=>{
     quizAdvance();
   }
 });
+// ---- quiz: tldr-identify question type (E4-02) ----
+// The first real question type: redact the answer's name out of its tldr, ask which of four
+// names it describes. Requires tldr coverage; canGenerate is purely data-driven so it opens up
+// automatically as topics gain tldr text, rather than hardcoding which topics qualify.
+const TLDR_IDENTIFY_MIN_POOL=8;
+
+function tldrIdentifyUsedAnswers(pool){
+  // Keyed off the pool array itself: quizStart() builds a fresh pool per round, so this
+  // resets naturally without the shell needing to know this type tracks anything.
+  if(!pool.__tldrIdentifyUsed)pool.__tldrIdentifyUsed=new Set();
+  return pool.__tldrIdentifyUsed;
+}
+
+function tldrIdentifyCardTagValues(entry,meta){
+  const vals=new Set();
+  (meta.cardTags||[]).forEach(ct=>{
+    const f=(meta.filters||[]).find(x=>x.id===ct.id);
+    if(!f)return;
+    const v=entry[f.key];
+    if(v==null||v==="")return;
+    (Array.isArray(v)?v:[v]).forEach(x=>vals.add(`${f.key}:${x}`));
+  });
+  return vals;
+}
+
+function tldrIdentifyShuffled(arr){
+  return arr.slice().sort(()=>Math.random()-0.5);
+}
+
+function tldrIdentifyPickDistractors(answer,pool,meta){
+  const answerTags=tldrIdentifyCardTagValues(answer,meta);
+  const shuffled=tldrIdentifyShuffled(pool.filter(r=>r.id!==answer.id));
+  const withSharedTag=[],rest=[];
+  shuffled.forEach(r=>{
+    let shares=false;
+    for(const t of tldrIdentifyCardTagValues(r,meta)){
+      if(answerTags.has(t)){shares=true;break;}
+    }
+    (shares?withSharedTag:rest).push(r);
+  });
+  return [...withSharedTag,...rest].slice(0,3);
+}
+
+function tldrIdentifyRedactionTerms(name){
+  const terms=new Set();
+  if(name)terms.add(name);
+  name.split(/\s+/).forEach(part=>{
+    const cleaned=part.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu,"");
+    if(cleaned.length>3)terms.add(cleaned);
+  });
+  const commaIdx=name.indexOf(",");
+  if(commaIdx>0){
+    const before=name.slice(0,commaIdx).trim();
+    if(before)terms.add(before);
+  }
+  return [...terms].sort((a,b)=>b.length-a.length); // longest first so "Abelard, Peter" beats "Abelard"
+}
+
+function tldrIdentifyRedact(entry){
+  const terms=tldrIdentifyRedactionTerms(entry.name||"");
+  let text=entry.tldr||"";
+  terms.forEach(term=>{
+    if(!term)return;
+    const escaped=term.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");
+    // No trailing boundary: inflected/Latinised forms of a name (e.g. "Domitianus" for
+    // "Domitian", "Sasanian" for "Sasan") would otherwise leak the answer right after it.
+    text=text.replace(new RegExp(`(?<![\\p{L}\\p{N}])${escaped}`,"giu"),"———");
+  });
+  return text;
+}
+
+QUIZ_TYPES.push({
+  id:"tldr-identify",
+  label:"Identify from tl;dr",
+  canGenerate(pool){
+    return pool.filter(r=>r.tldr).length>=TLDR_IDENTIFY_MIN_POOL;
+  },
+  generate(pool,meta){
+    const used=tldrIdentifyUsedAnswers(pool);
+    const candidates=pool.filter(r=>r.tldr&&!used.has(r.id));
+    if(!candidates.length)return null;
+    const answer=candidates[Math.floor(Math.random()*candidates.length)];
+    const distractors=tldrIdentifyPickDistractors(answer,pool,meta);
+    if(distractors.length<3)return null;
+    used.add(answer.id);
+    const choiceEntries=tldrIdentifyShuffled([answer,...distractors]);
+    const noun=(meta.itemNounSingular||"entry").toLowerCase();
+    return {
+      prompt:`Which ${noun} does this describe? ${tldrIdentifyRedact(answer)}`,
+      choices:choiceEntries.map(e=>e.dates?`${e.name} · ${e.dates}`:e.name),
+      answerIndex:choiceEntries.indexOf(answer),
+      explanationEntryId:answer.id,
+      reveal:answer.tldr
+    };
+  }
+});
+// ---- end quiz: tldr-identify question type ----
+
 // ---- end quiz ----
 
 async function initApp(){
