@@ -695,15 +695,21 @@ function wireTimelineResizer(){
 function render(){
   const inLineage=state.mode==="lineage";
   const inQuiz=state.mode==="quiz";
+  const inCards=state.mode==="cards";
   document.body.classList.toggle("lineage-mode",inLineage);
   document.body.classList.toggle("quiz-mode",inQuiz);
-  document.body.classList.toggle("detail-mode",!inLineage&&!inQuiz&&!!state.entryId);
+  document.body.classList.toggle("cards-mode",inCards);
+  document.body.classList.toggle("detail-mode",!inLineage&&!inQuiz&&!inCards&&!!state.entryId);
   if(inLineage){
     renderLineage();
     return;
   }
   if(inQuiz){
     renderQuiz();
+    return;
+  }
+  if(inCards){
+    renderCards();
     return;
   }
   if(state.entryId){
@@ -1005,6 +1011,7 @@ function navigateToEntry(id){
   state.lineageTo=null;
   state.lineageUndirected=false;
   quizRound=null;
+  cardsSession=null;
   const url=new URL(location.href);
   url.searchParams.set("id",id);
   url.searchParams.delete("mode");
@@ -1023,6 +1030,7 @@ function navigateToList(){
   state.lineageTo=null;
   state.lineageUndirected=false;
   quizRound=null;
+  cardsSession=null;
   const url=new URL(location.href);
   url.searchParams.delete("id");
   url.searchParams.delete("mode");
@@ -1296,9 +1304,10 @@ function readModeFromUrl(){
     state.lineageUndirected=params.get("undirected")==="1";
   }else{
     state.lineageFrom=null;state.lineageTo=null;state.lineageUndirected=false;
-    state.mode=(mode==="quiz")?"quiz":null;
+    state.mode=(mode==="quiz")?"quiz":(mode==="cards")?"cards":null;
   }
   if(state.mode!=="quiz")quizRound=null; // round state never lives in the URL, only the stats do
+  if(state.mode!=="cards")cardsSession=null; // session state never lives in the URL, only the schedule does
 }
 
 function navigateToLineage(fromId,toId){
@@ -1827,6 +1836,7 @@ function navigateToQuiz(){
   state.entryId=null;
   state.lineageFrom=null;state.lineageTo=null;state.lineageUndirected=false;
   quizRound=null;
+  cardsSession=null;
   const url=new URL(location.href);
   url.searchParams.set("mode","quiz");
   url.searchParams.delete("id");
@@ -2036,6 +2046,231 @@ QUIZ_TYPES.push({
 // ---- end quiz: chronology question type ----
 
 // ---- end quiz ----
+
+// ---- flashcards ----
+// Flashcard drill over favourites (E4-04): a Leitner-style spaced-repetition scheduler over
+// the current topic's favourites (FAVS, defined above). Routed via ?d=<topic>&mode=cards,
+// alongside quiz and lineage routing above -- never the hash, since this state must survive
+// a fresh tab like the other top-level modes. Independent of quiz's question types, but
+// reuses quiz's per-entry correct/incorrect counts (phil_quiz_v1) to seed a card's starting
+// box so quiz performance carries over instead of every favourite starting cold.
+const CARDS_KEY="phil_cards_v1";
+const CARDS_ROUND_LEN=20;
+const CARD_INTERVALS=[1,2,4,8,16]; // days, indexed by box-1 (boxes are 1..5)
+// null = no session yet, renderCards() deals a fresh one; otherwise
+// {queue,total,doneCount,dueCount,phase} where phase is "front"|"back"|"done" and queue
+// holds the remaining entry ids for this session, current card first.
+let cardsSession=null;
+
+function cardsLoadStore(){
+  try{ return JSON.parse(localStorage.getItem(CARDS_KEY))||{}; }catch(e){ return {}; }
+}
+function cardsSaveStore(store){
+  try{ localStorage.setItem(CARDS_KEY, JSON.stringify(store)); }catch(e){}
+}
+function cardsTopicStore(store){
+  const topicId=currentDataset();
+  if(!store[topicId])store[topicId]={};
+  return store[topicId];
+}
+function cardsTodayKey(){
+  return new Date().toISOString().slice(0,10);
+}
+function cardsAddDays(dateKey,days){
+  const d=new Date(dateKey+"T00:00:00Z");
+  d.setUTCDate(d.getUTCDate()+days);
+  return d.toISOString().slice(0,10);
+}
+
+function cardsSeedBox(entryId){
+  const quizStats=quizLoadStats();
+  const t=quizStats[currentDataset()];
+  const pe=t&&t.perEntry&&t.perEntry[entryId];
+  if(!pe)return 1;
+  const net=(pe.correct||0)-(pe.incorrect||0);
+  return Math.min(5,Math.max(1,1+net));
+}
+
+function cardsDeck(){
+  return DATA.filter(r=>FAVS.has(r.name));
+}
+
+// Due cards first, then cards never graded in this mode, capped at CARDS_ROUND_LEN. A card
+// scheduled for a future date and already seen is left out entirely -- it isn't due yet.
+function cardsBuildQueue(deck){
+  const topicStore=cardsTopicStore(cardsLoadStore());
+  const today=cardsTodayKey();
+  const due=[],unseen=[];
+  deck.forEach(r=>{
+    const rec=topicStore[r.id];
+    if(!rec)unseen.push(r.id);
+    else if(rec.due<=today)due.push(r.id);
+  });
+  return {due,queue:[...due,...unseen].slice(0,CARDS_ROUND_LEN)};
+}
+
+function cardsGrade(entryId,grade){
+  const store=cardsLoadStore();
+  const t=cardsTopicStore(store);
+  const rec=t[entryId]||{box:cardsSeedBox(entryId),due:cardsTodayKey()};
+  let newBox;
+  if(grade==="again")newBox=1;
+  else if(grade==="good")newBox=Math.min(5,rec.box+1);
+  else newBox=Math.min(5,rec.box+2); // easy
+  rec.box=newBox;
+  rec.due=grade==="again"?cardsTodayKey():cardsAddDays(cardsTodayKey(),CARD_INTERVALS[newBox-1]);
+  t[entryId]=rec;
+  cardsSaveStore(store);
+}
+
+function cardsCurrentEntry(){
+  if(!cardsSession||!cardsSession.queue.length)return null;
+  return DATA.find(r=>r.id===cardsSession.queue[0])||null;
+}
+
+function cardsFlip(){
+  if(!cardsSession||cardsSession.phase!=="front")return;
+  cardsSession.phase="back";
+  renderCards();
+}
+
+function cardsAnswer(grade){
+  if(!cardsSession||cardsSession.phase!=="back")return;
+  const entryId=cardsSession.queue.shift();
+  cardsGrade(entryId,grade);
+  if(grade==="again"){
+    // Reschedule within this session rather than waiting for the persisted due date.
+    const reinsertAt=Math.min(3,cardsSession.queue.length);
+    cardsSession.queue.splice(reinsertAt,0,entryId);
+  }else{
+    cardsSession.doneCount++;
+  }
+  cardsSession.phase=cardsSession.queue.length?"front":"done";
+  renderCards();
+}
+
+function cardsBackLinkHtml(){
+  return `<a href="#" class="detail-back" id="cardsBack">&larr; All ${esc(CFG.itemNoun||"")}</a>`;
+}
+function wireCardsBack(box){
+  const back=box.querySelector("#cardsBack");
+  if(back)back.addEventListener("click",e=>{e.preventDefault();navigateToList();});
+}
+
+function renderCardsEmpty(box){
+  const deck=cardsDeck();
+  const noun=(CFG.itemNoun||"entries").toLowerCase();
+  const body=deck.length
+    ?`<p>Nothing is due right now, and there are no new cards left for this session.
+        Come back later, or star more ${esc(noun)}.</p>`
+    :`<p>No favourites yet. Star a few ${esc(noun)} with the &#9733; button on any card,
+        then come back here to study them.</p>`;
+  box.innerHTML=`
+    ${cardsBackLinkHtml()}
+    <h1 class="quiz-title">Study favourites</h1>
+    <div class="quiz-empty">${body}</div>
+  `;
+  wireCardsBack(box);
+}
+
+function renderCardsPlaying(box){
+  const r=cardsCurrentEntry();
+  if(!r){cardsSession=null;renderCardsEmpty(box);return;}
+  const flipped=cardsSession.phase==="back";
+  const backHtml=flipped?`
+    ${r.desc?`<p class="cards-desc">${esc(r.desc)}</p>`:""}
+    ${r.tldr?`<p class="cards-tldr">${esc(r.tldr)}</p>`:""}
+    <a class="cards-detail-link" id="cardsDetailLink" data-id="${esc(r.id)}"
+       href="viewer.html?d=${encodeURIComponent(currentDataset())}&id=${encodeURIComponent(r.id)}">Open detail view &rarr;</a>
+    <div class="cards-grades">
+      <button type="button" class="cards-grade-btn again" data-grade="again">Again <span class="quiz-key-hint">1</span></button>
+      <button type="button" class="cards-grade-btn good" data-grade="good">Good <span class="quiz-key-hint">2</span></button>
+      <button type="button" class="cards-grade-btn easy" data-grade="easy">Easy <span class="quiz-key-hint">3</span></button>
+    </div>
+  `:`<button type="button" class="cards-flip-btn" id="cardsFlipBtn">Flip <span class="quiz-key-hint">Space</span></button>`;
+  box.innerHTML=`
+    ${cardsBackLinkHtml()}
+    <div class="quiz-progress">Card ${Math.min(cardsSession.doneCount+1,cardsSession.total)} of ${cardsSession.total}
+      &middot; ${cardsSession.dueCount} due today</div>
+    <div class="cards-card${flipped?" flipped":""}">
+      <h1 class="cards-name">${esc(r.name)}</h1>
+      <div class="cards-dates">${esc(r.dates||"")}</div>
+      ${backHtml}
+    </div>
+  `;
+  wireCardsBack(box);
+  const flipBtn=box.querySelector("#cardsFlipBtn");
+  if(flipBtn)flipBtn.addEventListener("click",cardsFlip);
+  box.querySelectorAll(".cards-grade-btn").forEach(btn=>btn.addEventListener("click",()=>cardsAnswer(btn.dataset.grade)));
+  const detailLink=box.querySelector("#cardsDetailLink");
+  if(detailLink)detailLink.addEventListener("click",e=>{
+    if(e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+    e.preventDefault();
+    navigateToEntry(detailLink.dataset.id);
+  });
+}
+
+function renderCardsDone(box){
+  box.innerHTML=`
+    ${cardsBackLinkHtml()}
+    <h1 class="quiz-title">Session complete</h1>
+    <div class="quiz-score-summary">${cardsSession.doneCount} of ${cardsSession.total} cards reviewed</div>
+    <div class="quiz-actions">
+      <button type="button" class="quiz-play-again-btn" id="cardsPlayAgain">Study more</button>
+      <button type="button" class="quiz-browsing-btn" id="cardsToBrowsing">Back to browsing</button>
+    </div>
+  `;
+  wireCardsBack(box);
+  box.querySelector("#cardsPlayAgain").addEventListener("click",()=>{cardsSession=null;renderCards();});
+  box.querySelector("#cardsToBrowsing").addEventListener("click",()=>navigateToList());
+}
+
+function renderCards(){
+  const box=$("#cards");
+  if(!box)return;
+  document.title=`Study favourites · ${CFG.title||"Index"}`;
+  if(!cardsSession){
+    const deck=cardsDeck();
+    const {due,queue}=cardsBuildQueue(deck);
+    if(queue.length)cardsSession={queue,total:queue.length,doneCount:0,dueCount:due.length,phase:"front"};
+  }
+  if(cardsSession&&cardsSession.phase==="done"){renderCardsDone(box);return;}
+  if(cardsSession&&cardsSession.queue.length){renderCardsPlaying(box);return;}
+  renderCardsEmpty(box);
+}
+
+function navigateToCards(){
+  state.mode="cards";
+  state.entryId=null;
+  state.lineageFrom=null;state.lineageTo=null;state.lineageUndirected=false;
+  quizRound=null;
+  cardsSession=null;
+  const url=new URL(location.href);
+  url.searchParams.set("mode","cards");
+  url.searchParams.delete("id");
+  url.searchParams.delete("from");
+  url.searchParams.delete("to");
+  url.searchParams.delete("undirected");
+  url.hash="";
+  history.pushState(null,"",url.pathname+url.search);
+  render();
+}
+
+const studyCardsBtn=$("#studyCardsBtn");
+if(studyCardsBtn)studyCardsBtn.addEventListener("click",navigateToCards);
+
+document.addEventListener("keydown",e=>{
+  if(state.mode!=="cards"||!cardsSession||cardsSession.phase==="done")return;
+  if(isTypingTarget(document.activeElement))return;
+  if(cardsSession.phase==="front"){
+    if(e.code==="Space"){e.preventDefault();cardsFlip();}
+  }else if(cardsSession.phase==="back"){
+    if(e.key==="1"){e.preventDefault();cardsAnswer("again");}
+    else if(e.key==="2"){e.preventDefault();cardsAnswer("good");}
+    else if(e.key==="3"){e.preventDefault();cardsAnswer("easy");}
+  }
+});
+// ---- end flashcards ----
 
 async function initApp(){
   await loadTopics();
