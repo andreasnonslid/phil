@@ -27,6 +27,12 @@ function currentDataset(){
 const filterById=id=>FILTERS.find(f=>f.id===id);
 const groupFilter=()=>FILTERS.find(f=>f.grouping);
 
+// Sentinel for statsByFilter/match: a value missing or not among a filter's known options.
+// Declared here (rather than in the stats section below, where it's consumed) so match() can
+// also recognise it -- coverage findings (E5-04) filter the list to it via the normal
+// addFilter() path, by putting this literal string into state.filters[id] like a real option.
+const STATS_UNCLASSIFIED="(unclassified)";
+
 async function loadData(){
   const topic=await fetch(`data/${currentDataset()}.json`).then(r=>r.json());
   CFG=topic.meta||{};
@@ -275,9 +281,15 @@ function match(r){
     const sel=state.filters[f.id];
     if(!sel||!sel.size)continue;
     if(f.multiValue){
-      const vals=r[f.key]||[];
-      if(![...sel].some(v=>vals.includes(v)))return false;
-    }else if(!sel.has(r[f.key]))return false;
+      const vals=(r[f.key]||[]).filter(v=>v!=null&&v!=="");
+      const known=vals.filter(v=>(f.options||[]).includes(v));
+      const matchesReal=[...sel].some(v=>v!==STATS_UNCLASSIFIED&&known.includes(v));
+      const matchesUnclassified=sel.has(STATS_UNCLASSIFIED)&&!known.length;
+      if(!matchesReal&&!matchesUnclassified)return false;
+    }else{
+      const known=(f.options||[]).includes(r[f.key]);
+      if(!sel.has(known?r[f.key]:STATS_UNCLASSIFIED))return false;
+    }
   }
   if(state.q && !searchText(r).includes(state.q))return false;
   return true;
@@ -2326,8 +2338,6 @@ function statsByCentury(entries){
   return out;
 }
 
-const STATS_UNCLASSIFIED="(unclassified)";
-
 // Counts per option value for a filter config, handling both multiValue list fields (phil's
 // "fields") and single-value fields (phil's "trad", hist-events' "region"). A value missing
 // or not present in filterConfig.options is counted under STATS_UNCLASSIFIED rather than
@@ -2473,6 +2483,13 @@ function renderStats(){
         <tbody id="compChartTableBody"></tbody>
       </table>
     </section>
+    <section class="stats-chart-section coverage-section" id="coverageSection" hidden>
+      <div class="comp-chart-header">
+        <h2 class="stats-chart-title">Coverage</h2>
+        <button type="button" class="stats-reset-btn coverage-copy-btn" id="coverageCopyBtn">Copy as markdown</button>
+      </div>
+      <div class="coverage-groups" id="coverageGroups"></div>
+    </section>
   `;
   const back=box.querySelector("#statsBack");
   if(back)back.addEventListener("click",e=>{e.preventDefault();navigateToList();});
@@ -2481,6 +2498,7 @@ function renderStats(){
   renderCenturyChart(pool);
   wireCompControls(box,pool);
   renderCompChart(pool);
+  renderCoverage(pool);
 }
 
 // Century bar chart (E5-02): renders STATS.byCentury as inline SVG below the summary
@@ -2967,6 +2985,159 @@ function renderCompChart(pool){
   observer.observe(plotEl);
   compChart.observer=observer;
 }
+
+// Coverage gaps panel (E5-04): the editorial layer on top of E5-01's aggregation. Turns
+// STATS.byCentury/byFilter into concrete, quantified sentences a maintainer can act on --
+// which centuries, filter values and categories are thin. Reports what the data shows, not
+// why; every finding is clickable, narrowing the list to exactly the slice it names, the same
+// way the century chart's bars already do (navigateToList() then either a year-range or an
+// addFilter()). Data-agnostic, like the rest of the stats route -- driven by FILTERS, not any
+// topic's own field names.
+
+function centuryBounds(key){
+  if(key>0)return [(key-1)*100+1,key*100];
+  const n=-key;
+  return [-n*100,-(n-1)*100-1];
+}
+
+function median(nums){
+  if(!nums.length)return 0;
+  const s=[...nums].sort((a,b)=>a-b);
+  const mid=Math.floor(s.length/2);
+  return s.length%2?s[mid]:(s[mid-1]+s[mid])/2;
+}
+
+function pctOf(n,total){
+  return total?Math.round(n/total*1000)/10:0;
+}
+
+// Centuries -- including empty ones, per STATS.byCentury -- holding under 25% of the median
+// century's count. Each is its own finding rather than grouped into a run, so every number in
+// a sentence is a single century's own count, directly checkable against STATS.byCentury.
+function coverageCenturyFindings(pool){
+  const byCentury=STATS.byCentury(pool);
+  if(byCentury.length<2)return [];
+  const med=median(byCentury.map(d=>d.count));
+  if(!med)return [];
+  const threshold=med*0.25;
+  const noun=(CFG.itemNoun||"entries").toLowerCase();
+  return byCentury.filter(d=>d.count<threshold).map(d=>({
+    text:`${d.label} holds only ${d.count} of ${pool.length} ${noun} — `
+      +`${pctOf(d.count,med)}% of the median century's ${med}.`,
+    century:d.century
+  }));
+}
+
+// Per-filter breakdown: values under 3% of entries, values with none at all, and how many
+// entries fall to "(unclassified)" -- plus the single most over-represented value across every
+// filter. "(unclassified)" is excluded from the under-3%/zero checks since it gets its own
+// finding, not a duplicate one.
+function coverageFilterFindings(pool){
+  const total=pool.length;
+  const noun=(CFG.itemNoun||"entries").toLowerCase();
+  const thin=[],zero=[],unclassified=[];
+  let top=null;
+  FILTERS.forEach(f=>{
+    statsByFilter(pool,f).forEach(({value,count})=>{
+      if(value===STATS_UNCLASSIFIED){
+        if(count>0)unclassified.push({
+          text:`${count} of ${total} ${noun} are unclassified for ${f.label} `
+            +`(${pctOf(count,total)}%).`,
+          filterId:f.id,value
+        });
+        return;
+      }
+      if(count===0){
+        zero.push({text:`No ${noun} are ${f.label} "${value}".`,filterId:f.id,value});
+        return;
+      }
+      const share=pctOf(count,total);
+      if(share<3){
+        thin.push({
+          text:`Only ${count} of ${total} ${noun} are ${f.label} "${value}" (${share}%).`,
+          filterId:f.id,value
+        });
+      }
+      if(!top||count>top.count)top={count,share,filterId:f.id,label:f.label,value};
+    });
+  });
+  const overrep=top?[{
+    text:`"${top.value}" is the largest single ${top.label} value: ${top.count} of ${total} `
+      +`${noun} (${top.share}%).`,
+    filterId:top.filterId,value:top.value
+  }]:[];
+  return {thin,zero,unclassified,overrep};
+}
+
+function coverageFindings(pool){
+  const century=coverageCenturyFindings(pool);
+  const {thin,zero,unclassified,overrep}=coverageFilterFindings(pool);
+  return {century,thin,zero,unclassified,overrep};
+}
+
+let coverageList=[]; // flat findings backing both the click handlers and "Copy as markdown"
+
+function coverageApplyFinding(f){
+  navigateToList();
+  if(f.century!=null){
+    const [yMin,yMax]=centuryBounds(f.century);
+    state.yMin=yMin;state.yMax=yMax;
+    render();
+  }else if(f.filterId!=null){
+    addFilter(f.filterId,f.value);
+  }
+}
+
+function coverageItemHtml(f,i){
+  return `<li class="coverage-item"><button type="button" class="coverage-link" data-idx="${i}">${esc(f.text)}</button></li>`;
+}
+
+function coverageMarkdown(pool){
+  const noun=(CFG.itemNoun||"entries").toLowerCase();
+  return [`### Coverage gaps — ${CFG.title||noun} (${pool.length} ${noun})`,""]
+    .concat(coverageList.map(f=>`- ${f.text}`)).join("\n");
+}
+
+function renderCoverage(pool){
+  const section=$("#coverageSection");
+  if(!section)return;
+  if(!pool.length){section.hidden=true;return;}
+  section.hidden=false;
+  const {century,thin,zero,unclassified,overrep}=coverageFindings(pool);
+  coverageList=[...century,...thin,...zero,...unclassified,...overrep];
+  const groupsEl=$("#coverageGroups");
+  const copyBtn=$("#coverageCopyBtn");
+  if(!coverageList.length){
+    groupsEl.innerHTML=`<p class="coverage-empty">No coverage gaps found for the current selection.</p>`;
+    if(copyBtn)copyBtn.hidden=true;
+    return;
+  }
+  if(copyBtn)copyBtn.hidden=false;
+  let idx=0;
+  const group=(title,items)=>{
+    if(!items.length)return "";
+    const itemsHtml=items.map(f=>coverageItemHtml(f,idx++)).join("");
+    return `<div class="coverage-group"><h3 class="coverage-group-title">${esc(title)}</h3>
+      <ul class="coverage-items">${itemsHtml}</ul></div>`;
+  };
+  groupsEl.innerHTML=
+    group("Thin centuries",century)
+    +group("Under-represented values",thin)
+    +group("Zero-count values",zero)
+    +group("Unclassified entries",unclassified)
+    +group("Most over-represented",overrep);
+  groupsEl.querySelectorAll(".coverage-link").forEach(btn=>{
+    btn.addEventListener("click",()=>coverageApplyFinding(coverageList[parseInt(btn.dataset.idx,10)]));
+  });
+  if(copyBtn)copyBtn.onclick=()=>{
+    navigator.clipboard.writeText(coverageMarkdown(pool)).then(()=>{
+      const orig=copyBtn.textContent;
+      copyBtn.textContent="Copied!";
+      setTimeout(()=>{copyBtn.textContent=orig;},1500);
+    });
+  };
+}
+// ---- end coverage gaps panel ----
 
 function navigateToStats(){
   state.mode="stats";
