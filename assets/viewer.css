@@ -586,5 +586,17 @@ table.sr-only{table-layout:fixed}
 @media (max-width:480px){
   .comp-chart-header{align-items:flex-start}
 }
+.coverage-groups{display:flex;flex-direction:column;gap:22px}
+.coverage-group-title{font-family:'Fraunces',serif;font-weight:600;font-size:15px;
+  color:var(--ink);margin:0 0 8px}
+.coverage-items{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+.coverage-link{display:block;width:100%;text-align:left;font-family:inherit;font-size:14.5px;
+  line-height:1.5;color:var(--ink-soft);background:var(--card);border:1px solid var(--line);
+  border-radius:8px;padding:10px 14px;cursor:pointer}
+.coverage-link:hover,.coverage-link:focus-visible{border-color:var(--accent);color:var(--ink)}
+.coverage-empty{font-size:14.5px;color:var(--ink-soft);margin:0}
+@media (max-width:480px){
+  .coverage-copy-btn{margin-top:4px}
+}
 /* ---- end stats ---- */
 
